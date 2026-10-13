@@ -1,0 +1,198 @@
+{
+  "templateId": "wizard-lantern",
+  "pass": true,
+  "regionCount": 28,
+  "expectedRegionRange": [
+    25,
+    30
+  ],
+  "errors": [],
+  "warnings": [],
+  "closedRegions": 28,
+  "backgroundLeak": false,
+  "closureMethod": "explicit SVG Z paths; background excluded by compiled visible region masks",
+  "minimumBoundsWidth": 62,
+  "minimumUsableDiameter": 36,
+  "minVisibleArea": 3816,
+  "blackRatio": 0.05932625,
+  "whiteRatio": 0.92591625,
+  "antiAliasRatio": 0.0147575,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "うしろの髪",
+      "visibleArea": 33336,
+      "usableDiameter": 103.31
+    },
+    {
+      "id": "r02",
+      "name": "左のブーツ",
+      "visibleArea": 18572,
+      "usableDiameter": 104
+    },
+    {
+      "id": "r03",
+      "name": "右のブーツ",
+      "visibleArea": 16996,
+      "usableDiameter": 96
+    },
+    {
+      "id": "r04",
+      "name": "ローブ",
+      "visibleArea": 158904,
+      "usableDiameter": 160.97
+    },
+    {
+      "id": "r05",
+      "name": "ローブの前布",
+      "visibleArea": 91052,
+      "usableDiameter": 176
+    },
+    {
+      "id": "r06",
+      "name": "左そで",
+      "visibleArea": 53644,
+      "usableDiameter": 181.02
+    },
+    {
+      "id": "r07",
+      "name": "右そで",
+      "visibleArea": 47868,
+      "usableDiameter": 173.71
+    },
+    {
+      "id": "r08",
+      "name": "左手",
+      "visibleArea": 10628,
+      "usableDiameter": 98.51
+    },
+    {
+      "id": "r09",
+      "name": "右手",
+      "visibleArea": 10952,
+      "usableDiameter": 96.17
+    },
+    {
+      "id": "r10",
+      "name": "左の耳",
+      "visibleArea": 7556,
+      "usableDiameter": 72
+    },
+    {
+      "id": "r11",
+      "name": "右の耳",
+      "visibleArea": 7132,
+      "usableDiameter": 68
+    },
+    {
+      "id": "r12",
+      "name": "顔",
+      "visibleArea": 68680,
+      "usableDiameter": 216
+    },
+    {
+      "id": "r13",
+      "name": "前がみ",
+      "visibleArea": 7932,
+      "usableDiameter": 39.31
+    },
+    {
+      "id": "r14",
+      "name": "三角ぼうし",
+      "visibleArea": 54272,
+      "usableDiameter": 125.66
+    },
+    {
+      "id": "r15",
+      "name": "ぼうしの帯",
+      "visibleArea": 19004,
+      "usableDiameter": 56
+    },
+    {
+      "id": "r16",
+      "name": "ぼうしのつば",
+      "visibleArea": 65052,
+      "usableDiameter": 132
+    },
+    {
+      "id": "r17",
+      "name": "ぼうしの星",
+      "visibleArea": 5028,
+      "usableDiameter": 56
+    },
+    {
+      "id": "r18",
+      "name": "ローブの星",
+      "visibleArea": 5140,
+      "usableDiameter": 57.25
+    },
+    {
+      "id": "r19",
+      "name": "木のつえ",
+      "visibleArea": 16676,
+      "usableDiameter": 36
+    },
+    {
+      "id": "r20",
+      "name": "つえの星",
+      "visibleArea": 23912,
+      "usableDiameter": 126.51
+    },
+    {
+      "id": "r21",
+      "name": "ランタンの持ち手",
+      "visibleArea": 14136,
+      "usableDiameter": 65.25
+    },
+    {
+      "id": "r22",
+      "name": "ランタンの枠",
+      "visibleArea": 36684,
+      "usableDiameter": 60
+    },
+    {
+      "id": "r23",
+      "name": "ランタンのガラス",
+      "visibleArea": 35704,
+      "usableDiameter": 76
+    },
+    {
+      "id": "r24",
+      "name": "ろうそく",
+      "visibleArea": 9688,
+      "usableDiameter": 72
+    },
+    {
+      "id": "r25",
+      "name": "ろうそくの火",
+      "visibleArea": 4564,
+      "usableDiameter": 64
+    },
+    {
+      "id": "r26",
+      "name": "ランタンのふた",
+      "visibleArea": 15220,
+      "usableDiameter": 68
+    },
+    {
+      "id": "r27",
+      "name": "ランタンの土台",
+      "visibleArea": 17984,
+      "usableDiameter": 60
+    },
+    {
+      "id": "r28",
+      "name": "ローブの留め具",
+      "visibleArea": 3816,
+      "usableDiameter": 69.66
+    }
+  ],
+  "contentHash": "fff90ae86179ba5661534193e54bbb9585f8938fd57304343e49f69350a9be56",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "fff90ae86179ba5661534193e54bbb9585f8938fd57304343e49f69350a9be56",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

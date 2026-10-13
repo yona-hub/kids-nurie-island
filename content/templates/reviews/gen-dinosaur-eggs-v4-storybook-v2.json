@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-dinosaur-eggs-v4-storybook-v2",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "contentHash": "ed61b7e41fba4a604220efb8e277f9ea609940e3885d253a1a8b74627783aed8",
+    "reviewer": "Codex vector artwork author",
+    "basis": "I17 implementation candidate; not a transfer of I5 adoption or prior PASS"
+  }
+}

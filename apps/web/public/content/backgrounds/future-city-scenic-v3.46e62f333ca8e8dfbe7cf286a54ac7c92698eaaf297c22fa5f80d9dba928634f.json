@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "layers": [
+    {
+      "assetUrl": "/content/decor/future-city-scenic-v3-landscape.12b93f3a5b8eacfd82c7adf8e527d877f838bfcb509e96850d6b1c8b11257e65.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 2000,
+      "opacity": 1
+    }
+  ]
+}

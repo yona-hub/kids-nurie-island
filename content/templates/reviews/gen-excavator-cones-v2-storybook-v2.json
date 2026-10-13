@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-excavator-cones-v2-storybook-v2",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "contentHash": "76ded94dac523cd6b1f68c3b6115844554ff2fe765184c0997e747ee2a0eca2f",
+    "reviewer": "Codex vector artwork author",
+    "basis": "I17 implementation candidate; not a transfer of I5 adoption or prior PASS"
+  }
+}

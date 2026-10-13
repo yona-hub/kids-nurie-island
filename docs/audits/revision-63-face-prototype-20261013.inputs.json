@@ -1,0 +1,298 @@
+{
+  "revision": 63,
+  "scope": "In-memory hybrid face prototype only, compared with preserved baseline62 prototype images. No production or actual browser verdict.",
+  "status": "FAIL_PROTOTYPE_ONLY",
+  "startedAt": "2026-10-13T14:47:08Z",
+  "beforeAt": "2026-10-13T23:47:53.9664864+09:00",
+  "inputs": [
+    {
+      "file": "test-results/smooth-home-i34/revision-63/prototype-hybrid/evidence.json",
+      "bytesBefore": 8828,
+      "sha256Before": "aaf188d913cf89393410285ca7a9c14685cf63b58b0107e9a5aff0c993f30998",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 8828,
+      "sha256After": "aaf188d913cf89393410285ca7a9c14685cf63b58b0107e9a5aff0c993f30998",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-63/prototype-hybrid/fixed-face-hybrid-light-black-face-white-hair-face-direct2.png",
+      "bytesBefore": 241352,
+      "sha256Before": "29b52ce7b4e9970f2fe1f5e12d2c448b955b65fa76ea6c62a18fb604d34735b8",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, provided direct2 face crop world [490,430,430,430]"
+      ],
+      "bytesAfter": 241352,
+      "sha256After": "29b52ce7b4e9970f2fe1f5e12d2c448b955b65fa76ea6c62a18fb604d34735b8",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-63/prototype-hybrid/fixed-face-hybrid-light-blue-face-pink-hair-face-direct2.png",
+      "bytesBefore": 323861,
+      "sha256Before": "a3bb1da6788edf9e1166ca6dbf7ba3ad1740579d997b63825667b5c2da4e24c6",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, provided direct2 face crop world [490,430,430,430]"
+      ],
+      "bytesAfter": 323861,
+      "sha256After": "a3bb1da6788edf9e1166ca6dbf7ba3ad1740579d997b63825667b5c2da4e24c6",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-63/prototype-hybrid/fixed-face-hybrid-light-dark-face-pale-hair-face-direct2.png",
+      "bytesBefore": 323636,
+      "sha256Before": "4ba8b2ee68846aecedc167808c33fdaf9b536ffdd0bda9f62494173803a12856",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, provided direct2 face crop world [490,430,430,430]"
+      ],
+      "bytesAfter": 323636,
+      "sha256After": "4ba8b2ee68846aecedc167808c33fdaf9b536ffdd0bda9f62494173803a12856",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-63/prototype-hybrid/fixed-face-hybrid-light-normal-complete-face-direct2.png",
+      "bytesBefore": 618417,
+      "sha256Before": "54037d5a87d9209b87ff2714734785bf557466117e997a8ea7990cc4bf7a35e0",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, provided direct2 face crop world [490,430,430,430]",
+        "Memory-only native crop [150,230,65,95]",
+        "Memory-only native crop [175,400,75,65]",
+        "Memory-only native crop [225,130,40,45]",
+        "Memory-only native crop [735,125,40,90]"
+      ],
+      "bytesAfter": 618417,
+      "sha256After": "54037d5a87d9209b87ff2714734785bf557466117e997a8ea7990cc4bf7a35e0",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-63/prototype-hybrid/fixed-face-hybrid-light-normal-complete.png",
+      "bytesBefore": 1066072,
+      "sha256Before": "80f1f3f06324da748166884017b6825ee25abca170e6cea6116af4878dd2d927",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, provided whole image"
+      ],
+      "bytesAfter": 1066072,
+      "sha256After": "80f1f3f06324da748166884017b6825ee25abca170e6cea6116af4878dd2d927",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-63/prototype-hybrid/fixed-face-hybrid-light-three-regions-face-direct2.png",
+      "bytesBefore": 389996,
+      "sha256Before": "3a4262ed2a482b937dd06629d14207ee29765360cc33afddd428b08a9ebac707",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, provided direct2 face crop world [490,430,430,430]"
+      ],
+      "bytesAfter": 389996,
+      "sha256After": "3a4262ed2a482b937dd06629d14207ee29765360cc33afddd428b08a9ebac707",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-63/prototype/baseline62-black-face-white-hair-face-direct2.png",
+      "bytesBefore": 296465,
+      "sha256Before": "391d88a912b9cdb11bd49636b7c626d2b051357fcff3502280dc815aeb952b13",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, provided direct2 face crop world [490,430,430,430]"
+      ],
+      "bytesAfter": 296465,
+      "sha256After": "391d88a912b9cdb11bd49636b7c626d2b051357fcff3502280dc815aeb952b13",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-63/prototype/baseline62-blue-face-pink-hair-face-direct2.png",
+      "bytesBefore": 381201,
+      "sha256Before": "ebd427c34a53f5e0f51886e36641025b5c255693f8ec8cda24f8974428e03467",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, provided direct2 face crop world [490,430,430,430]"
+      ],
+      "bytesAfter": 381201,
+      "sha256After": "ebd427c34a53f5e0f51886e36641025b5c255693f8ec8cda24f8974428e03467",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-63/prototype/baseline62-dark-face-pale-hair-face-direct2.png",
+      "bytesBefore": 414622,
+      "sha256Before": "13529b3d68a0d78f5fb95245c58420ac350f13c108e7fcda2bdfc26f6f3b1394",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, provided direct2 face crop world [490,430,430,430]"
+      ],
+      "bytesAfter": 414622,
+      "sha256After": "13529b3d68a0d78f5fb95245c58420ac350f13c108e7fcda2bdfc26f6f3b1394",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-63/prototype/baseline62-normal-complete-face-direct2.png",
+      "bytesBefore": 617045,
+      "sha256Before": "4033646c517c3cc831aafd76d3d1601a80c9f54ddd6090bbff38266f39572d63",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, provided direct2 face crop world [490,430,430,430]",
+        "Memory-only native crop [150,230,65,95]",
+        "Memory-only native crop [175,400,75,65]",
+        "Memory-only native crop [225,130,40,45]",
+        "Memory-only native crop [735,125,40,90]"
+      ],
+      "bytesAfter": 617045,
+      "sha256After": "4033646c517c3cc831aafd76d3d1601a80c9f54ddd6090bbff38266f39572d63",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-63/prototype/baseline62-normal-complete.png",
+      "bytesBefore": 1065591,
+      "sha256Before": "861fa4abbd4d421abc84b0a510f2c99c0c1d4aba60bb61bde2380cd4e91f1547",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, provided whole image"
+      ],
+      "bytesAfter": 1065591,
+      "sha256After": "861fa4abbd4d421abc84b0a510f2c99c0c1d4aba60bb61bde2380cd4e91f1547",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-63/prototype/baseline62-three-regions-face-direct2.png",
+      "bytesBefore": 388863,
+      "sha256Before": "6d6fef520d2d59abc15853a01ab87f463942200511bf9aa5d3a4c96652faae76",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, provided direct2 face crop world [490,430,430,430]"
+      ],
+      "bytesAfter": 388863,
+      "sha256After": "6d6fef520d2d59abc15853a01ab87f463942200511bf9aa5d3a4c96652faae76",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-63/prototype/evidence.json",
+      "bytesBefore": 24004,
+      "sha256Before": "cde58940261aefe6b9a799f46f6eb8932273d1df447bb76049aa8dc53c96f92f",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 24004,
+      "sha256After": "cde58940261aefe6b9a799f46f6eb8932273d1df447bb76049aa8dc53c96f92f",
+      "unchanged": true
+    },
+    {
+      "file": "docs/audits/revision-62-screen-final-visual-20261013.md",
+      "bytesBefore": 9248,
+      "sha256Before": "316466855b99d69cc398eb009a969574e99e701d3f55ef91b6d87e4bb0988df3",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 9248,
+      "sha256After": "316466855b99d69cc398eb009a969574e99e701d3f55ef91b6d87e4bb0988df3",
+      "unchanged": true
+    },
+    {
+      "file": "docs/audits/revision-62-screen-final-visual-20261013.inputs.json",
+      "bytesBefore": 78380,
+      "sha256Before": "0e03773e84ea1a2cd48f6d64cf433abc1e92cc19eb22a6904cec1b0e136a5ad0",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 78380,
+      "sha256After": "0e03773e84ea1a2cd48f6d64cf433abc1e92cc19eb22a6904cec1b0e136a5ad0",
+      "unchanged": true
+    },
+    {
+      "file": "apps/web/public/images/islands/princess-v1.webp",
+      "bytesBefore": 126774,
+      "sha256Before": "681f0748c168d4fef25c5a9911e953cc87dc3beaae9e736159f64ee2fad51990",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, provided whole image"
+      ],
+      "bytesAfter": 126774,
+      "sha256After": "681f0748c168d4fef25c5a9911e953cc87dc3beaae9e736159f64ee2fad51990",
+      "unchanged": true
+    }
+  ],
+  "afterAt": "2026-10-13T23:52:59.8929233+09:00",
+  "inputCount": 17,
+  "unchangedInputCount": 17,
+  "changedInputs": [],
+  "displayedImagePaths": [
+    "test-results/smooth-home-i34/revision-63/prototype-hybrid/fixed-face-hybrid-light-black-face-white-hair-face-direct2.png",
+    "test-results/smooth-home-i34/revision-63/prototype-hybrid/fixed-face-hybrid-light-blue-face-pink-hair-face-direct2.png",
+    "test-results/smooth-home-i34/revision-63/prototype-hybrid/fixed-face-hybrid-light-dark-face-pale-hair-face-direct2.png",
+    "test-results/smooth-home-i34/revision-63/prototype-hybrid/fixed-face-hybrid-light-normal-complete-face-direct2.png",
+    "test-results/smooth-home-i34/revision-63/prototype-hybrid/fixed-face-hybrid-light-normal-complete.png",
+    "test-results/smooth-home-i34/revision-63/prototype-hybrid/fixed-face-hybrid-light-three-regions-face-direct2.png",
+    "test-results/smooth-home-i34/revision-63/prototype/baseline62-black-face-white-hair-face-direct2.png",
+    "test-results/smooth-home-i34/revision-63/prototype/baseline62-blue-face-pink-hair-face-direct2.png",
+    "test-results/smooth-home-i34/revision-63/prototype/baseline62-dark-face-pale-hair-face-direct2.png",
+    "test-results/smooth-home-i34/revision-63/prototype/baseline62-normal-complete-face-direct2.png",
+    "test-results/smooth-home-i34/revision-63/prototype/baseline62-normal-complete.png",
+    "test-results/smooth-home-i34/revision-63/prototype/baseline62-three-regions-face-direct2.png",
+    "apps/web/public/images/islands/princess-v1.webp"
+  ],
+  "displayedImagePathCount": 13,
+  "displayedUniqueImageSha256Count": 13,
+  "originalPixelRecropOperations": 8,
+  "totalSuccessfulImageDisplayOperations": 21,
+  "unviewedSelectedImages": [],
+  "findings": [
+    {
+      "id": "R63P-1",
+      "status": "FAIL",
+      "description": "New dark contour fragments in normal-complete at temple/ear, left jaw, both forehead edges",
+      "worldCoordinates": "Direct2: x=490+pixelX/2, y=430+pixelY/2",
+      "worldApprox": [
+        [
+          569,
+          554,
+          578,
+          571
+        ],
+        [
+          583,
+          640,
+          592,
+          648
+        ],
+        [
+          606,
+          500,
+          611,
+          506
+        ],
+        [
+          866,
+          502,
+          869,
+          531
+        ]
+      ],
+      "baselineAndCandidateRecropRectangles": [
+        [
+          150,
+          230,
+          65,
+          95
+        ],
+        [
+          175,
+          400,
+          75,
+          65
+        ],
+        [
+          225,
+          130,
+          40,
+          45
+        ],
+        [
+          735,
+          125,
+          40,
+          90
+        ]
+      ]
+    }
+  ],
+  "evidenceRecordHashMismatches": []
+}

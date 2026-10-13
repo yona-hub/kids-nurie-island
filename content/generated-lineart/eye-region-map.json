@@ -1,0 +1,234 @@
+[
+  {
+    "templateId": "gen-princess-bunny-v6",
+    "originalSha256": "f0fbc3b052f29645893b44c49bbbc2e179d4b071fb4a0fca48aaaa356df321f0",
+    "eyes": [
+      {
+        "name": "おひめさま左",
+        "pupilIds": [
+          "r10"
+        ],
+        "highlightId": "r11"
+      },
+      {
+        "name": "おひめさま右",
+        "pupilIds": [
+          "r12"
+        ],
+        "highlightId": "r14"
+      },
+      {
+        "name": "うさぎ左",
+        "pupilIds": [
+          "r42"
+        ],
+        "highlightId": "r43"
+      },
+      {
+        "name": "うさぎ右",
+        "pupilIds": [
+          "r44"
+        ],
+        "highlightId": "r45"
+      }
+    ],
+    "automaticHighlights": false,
+    "humanApproved": false
+  },
+  {
+    "templateId": "gen-wizard-lantern-v6",
+    "originalSha256": "08eb9d02b3017b130bce97820a3c76ff7247487db559273fdb18dc0d4f0015b0",
+    "eyes": [
+      {
+        "name": "左",
+        "pupilIds": [
+          "r10"
+        ],
+        "highlightId": "r11"
+      },
+      {
+        "name": "右",
+        "pupilIds": [
+          "r15"
+        ],
+        "highlightId": "r12"
+      }
+    ],
+    "automaticHighlights": false,
+    "humanApproved": false
+  },
+  {
+    "templateId": "gen-tree-friends-v4",
+    "originalSha256": "37736bbc37ce78f37849322dc5325e938e5f3403beca76e74e24765617a423a0",
+    "eyes": [
+      {
+        "name": "犬右",
+        "pupilIds": [
+          "r13"
+        ],
+        "highlightId": "r14"
+      },
+      {
+        "name": "犬左",
+        "pupilIds": [
+          "r16"
+        ],
+        "highlightId": "r17"
+      },
+      {
+        "name": "猫左",
+        "pupilIds": [
+          "r22"
+        ],
+        "highlightId": "r23"
+      },
+      {
+        "name": "猫右",
+        "pupilIds": [
+          "r25"
+        ],
+        "highlightId": "r26"
+      }
+    ],
+    "automaticHighlights": false,
+    "humanApproved": false
+  },
+  {
+    "templateId": "gen-ocean-friends-v2",
+    "originalSha256": "4af719f39cbeb41e124103b8df7f8f9ab8dff6eb946bb914eabbb8bb52eecdf7",
+    "eyes": [
+      {
+        "name": "イルカ",
+        "pupilIds": [
+          "r04"
+        ],
+        "highlightId": "r05"
+      },
+      {
+        "name": "カメ左",
+        "pupilIds": [
+          "r10"
+        ],
+        "highlightId": "r11"
+      },
+      {
+        "name": "カメ右",
+        "pupilIds": [
+          "r12"
+        ],
+        "highlightId": "r13"
+      },
+      {
+        "name": "魚",
+        "pupilIds": [
+          "r28"
+        ],
+        "highlightId": "r29"
+      }
+    ],
+    "automaticHighlights": false,
+    "humanApproved": false
+  },
+  {
+    "templateId": "gen-dinosaur-eggs-v4",
+    "originalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+    "eyes": [
+      {
+        "name": "左",
+        "pupilIds": [
+          "r02"
+        ],
+        "highlightId": "r03"
+      },
+      {
+        "name": "右",
+        "pupilIds": [
+          "r04"
+        ],
+        "highlightId": "r05"
+      }
+    ],
+    "automaticHighlights": false,
+    "humanApproved": false
+  },
+  {
+    "templateId": "gen-round-sports-car-v2",
+    "originalSha256": "535c8f0d875dc757fef66f512930896adbc18342c4e33782f93e18175bd4beaf",
+    "eyes": [],
+    "automaticHighlights": false,
+    "humanApproved": false
+  },
+  {
+    "templateId": "gen-excavator-cones-v2",
+    "originalSha256": "2109d4f4aec8169302ba45bac1592ddf7b9d9240e33fdc91f5ad9b74eb7962a6",
+    "eyes": [
+      {
+        "name": "左",
+        "pupilIds": [
+          "r24"
+        ],
+        "highlightId": "r27"
+      },
+      {
+        "name": "右",
+        "pupilIds": [
+          "r25"
+        ],
+        "highlightId": "r28"
+      }
+    ],
+    "automaticHighlights": false,
+    "humanApproved": false
+  },
+  {
+    "templateId": "gen-explorer-robot-v2",
+    "originalSha256": "cfd8eb3aee0aa120fb390e17c2c78ecb01e25614e2bec805832cdb2c60148802",
+    "eyes": [
+      {
+        "name": "左",
+        "pupilIds": [
+          "r08"
+        ],
+        "highlightId": "r09"
+      },
+      {
+        "name": "右",
+        "pupilIds": [
+          "r10"
+        ],
+        "highlightId": "r13"
+      }
+    ],
+    "automaticHighlights": false,
+    "humanApproved": false
+  },
+  {
+    "templateId": "gen-rocket-astronaut-v5",
+    "originalSha256": "d559890d2600cf8d7e2eff6b06310547763dd861f2013c0feab78269c33170f9",
+    "eyes": [
+      {
+        "name": "左",
+        "pupilIds": [
+          "r17"
+        ],
+        "highlightId": "r20"
+      },
+      {
+        "name": "右",
+        "pupilIds": [
+          "r18"
+        ],
+        "highlightId": "r19"
+      }
+    ],
+    "automaticHighlights": false,
+    "humanApproved": false
+  },
+  {
+    "templateId": "gen-bouquet-butterfly-v2",
+    "originalSha256": "2df6b16c36ac2f55f8734a74afdf88e29d83f8a5382b57faa31314ca473743da",
+    "eyes": [],
+    "automaticHighlights": false,
+    "humanApproved": false
+  }
+]

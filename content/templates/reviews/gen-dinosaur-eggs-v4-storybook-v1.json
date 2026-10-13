@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-dinosaur-eggs-v4-storybook-v1",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-07T17:12:06.752Z",
+    "contentHash": "a7e3d8acaab7f073301cb8afadc3b796b3c6ac40a1ef611c5b7dce03ec75d5d4",
+    "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+  }
+}

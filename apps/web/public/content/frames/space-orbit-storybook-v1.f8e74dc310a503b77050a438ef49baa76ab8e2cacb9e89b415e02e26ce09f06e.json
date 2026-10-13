@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "borderColor": "#d5cfea",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/star.a185245c643bbacde68bb58ee79b60dff1fd6d5f574a10303d78dd82a8c31e81.png",
+      "x": 58.44371992811372,
+      "y": 15.514290479060406,
+      "width": 73.11256014377255,
+      "height": 68.97141904187919,
+      "rotation": 8,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/planet.1911f2e680085f6bc1da12d15fc243681596cc13198f95be775f3d18e9f43d83.png",
+      "x": 57.68136275088948,
+      "y": 1927.113179499569,
+      "width": 74.63727449822105,
+      "height": 45.77364100086213,
+      "rotation": -11,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/planet.1911f2e680085f6bc1da12d15fc243681596cc13198f95be775f3d18e9f43d83.png",
+      "x": 344.09337235694966,
+      "y": 24.912732265785547,
+      "width": 81.81325528610064,
+      "height": 50.17453546842891,
+      "rotation": -8,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/star.a185245c643bbacde68bb58ee79b60dff1fd6d5f574a10303d78dd82a8c31e81.png",
+      "x": 347.1221459613058,
+      "y": 1914.2675712877162,
+      "width": 75.75570807738842,
+      "height": 71.4648574245676,
+      "rotation": 11,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/star.a185245c643bbacde68bb58ee79b60dff1fd6d5f574a10303d78dd82a8c31e81.png",
+      "x": 621.1185696894712,
+      "y": 18.037635078153542,
+      "width": 67.7628606210575,
+      "height": 63.924729843692916,
+      "rotation": 8,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/planet.1911f2e680085f6bc1da12d15fc243681596cc13198f95be775f3d18e9f43d83.png",
+      "x": 620.4119947447268,
+      "y": 1928.7878249020396,
+      "width": 69.17601051054633,
+      "height": 42.424350195920994,
+      "rotation": -11,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/planet.1911f2e680085f6bc1da12d15fc243681596cc13198f95be775f3d18e9f43d83.png",
+      "x": 906.8824606053395,
+      "y": 26.62322779311835,
+      "width": 76.23507878932105,
+      "height": 46.7535444137633,
+      "rotation": -8,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/star.a185245c643bbacde68bb58ee79b60dff1fd6d5f574a10303d78dd82a8c31e81.png",
+      "x": 909.7047269184895,
+      "y": 1916.7038732453718,
+      "width": 70.59054616302103,
+      "height": 66.59225350925617,
+      "rotation": 11,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/star.a185245c643bbacde68bb58ee79b60dff1fd6d5f574a10303d78dd82a8c31e81.png",
+      "x": 1175.7688701667562,
+      "y": 12.990945879967263,
+      "width": 78.46225966648763,
+      "height": 74.01810824006547,
+      "rotation": 8,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/planet.1911f2e680085f6bc1da12d15fc243681596cc13198f95be775f3d18e9f43d83.png",
+      "x": 1174.950730757052,
+      "y": 1925.4385340970985,
+      "width": 80.09853848589576,
+      "height": 49.12293180580326,
+      "rotation": -11,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/planet.1911f2e680085f6bc1da12d15fc243681596cc13198f95be775f3d18e9f43d83.png",
+      "x": 1469.6715488537293,
+      "y": 28.333723320451153,
+      "width": 70.65690229254146,
+      "height": 43.332553359097695,
+      "rotation": -8,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/star.a185245c643bbacde68bb58ee79b60dff1fd6d5f574a10303d78dd82a8c31e81.png",
+      "x": 1472.2873078756732,
+      "y": 1919.1401752030276,
+      "width": 65.42538424865364,
+      "height": 61.719649593944744,
+      "rotation": 11,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/star.a185245c643bbacde68bb58ee79b60dff1fd6d5f574a10303d78dd82a8c31e81.png",
+      "x": 10.226953102352077,
+      "y": 367.19652021178916,
+      "width": 69.54609379529585,
+      "height": 65.60695957642167,
+      "rotation": -8,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/star.a185245c643bbacde68bb58ee79b60dff1fd6d5f574a10303d78dd82a8c31e81.png",
+      "x": 1520.6467043940058,
+      "y": 437.592496527939,
+      "width": 68.70659121198854,
+      "height": 64.815006944122,
+      "rotation": 9,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/planet.1911f2e680085f6bc1da12d15fc243681596cc13198f95be775f3d18e9f43d83.png",
+      "x": 8.741852770932674,
+      "y": 737.7635581446735,
+      "width": 72.51629445813465,
+      "height": 44.472883710652894,
+      "rotation": -8,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/planet.1911f2e680085f6bc1da12d15fc243681596cc13198f95be775f3d18e9f43d83.png",
+      "x": 1519.0097449935793,
+      "y": 807.9278514218435,
+      "width": 71.98051001284158,
+      "height": 44.144297156313,
+      "rotation": 9,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/star.a185245c643bbacde68bb58ee79b60dff1fd6d5f574a10303d78dd82a8c31e81.png",
+      "x": 10.226953102352077,
+      "y": 1087.1965202117892,
+      "width": 69.54609379529585,
+      "height": 65.60695957642167,
+      "rotation": -8,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/star.a185245c643bbacde68bb58ee79b60dff1fd6d5f574a10303d78dd82a8c31e81.png",
+      "x": 1520.6467043940058,
+      "y": 1157.592496527939,
+      "width": 68.70659121198854,
+      "height": 64.815006944122,
+      "rotation": 9,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/planet.1911f2e680085f6bc1da12d15fc243681596cc13198f95be775f3d18e9f43d83.png",
+      "x": 8.741852770932674,
+      "y": 1457.7635581446737,
+      "width": 72.51629445813465,
+      "height": 44.472883710652894,
+      "rotation": -8,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/planet.1911f2e680085f6bc1da12d15fc243681596cc13198f95be775f3d18e9f43d83.png",
+      "x": 1519.0097449935793,
+      "y": 1527.9278514218436,
+      "width": 71.98051001284158,
+      "height": 44.144297156313,
+      "rotation": 9,
+      "opacity": 0.78
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "pass": true,
+  "expectedTotal": 10,
+  "testedCount": 10,
+  "humanApproved": false,
+  "reports": [
+    {
+      "templateId": "gen-princess-bunny-v6",
+      "pass": true,
+      "regionCount": 51,
+      "expectedRange": [
+        30,
+        35
+      ],
+      "countPolicy": "advisory",
+      "tinyRegions": 0,
+      "largeGapCandidates": 2,
+      "minimumUsableDiameter": 21.181,
+      "materialReviewRequired": false,
+      "errors": [],
+      "warnings": [
+        "9px close候補 2箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）",
+        "1pxの線拡張で閉じる候補があります。解析マスクを確認してください",
+        "領域数 51 が目安 30〜35 の範囲外です",
+        "r04: 幅 22.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r05: 幅 22.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r09: 幅 24.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r11: 幅 24.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r14: 幅 21.2px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r43: 幅 24.8px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r46: 幅 23.2px。個別注釈と4×操作・塗り消去の実測証拠付き例外"
+      ],
+      "themeId": "princess",
+      "source": "content/generated-lineart/originals/princess-v6.png",
+      "evidenceDirectory": "tools/asset-pipeline/output/gen-princess-bunny-v6"
+    },
+    {
+      "templateId": "gen-wizard-lantern-v6",
+      "pass": true,
+      "regionCount": 46,
+      "expectedRange": [
+        25,
+        30
+      ],
+      "countPolicy": "advisory",
+      "tinyRegions": 0,
+      "largeGapCandidates": 0,
+      "minimumUsableDiameter": 18.788,
+      "materialReviewRequired": false,
+      "errors": [],
+      "warnings": [
+        "1pxの線拡張で閉じる候補があります。解析マスクを確認してください",
+        "領域数 46 が目安 25〜30 の範囲外です",
+        "r11: 幅 21.6px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r12: 幅 21.2px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r14: 幅 18.8px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r22: 幅 22.4px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r33: 幅 19.6px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r43: 幅 19.6px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r49: 幅 24.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r50: 幅 23.2px。個別注釈と4×操作・塗り消去の実測証拠付き例外"
+      ],
+      "themeId": "magic",
+      "source": "content/generated-lineart/originals/magic-v6.png",
+      "evidenceDirectory": "tools/asset-pipeline/output/gen-wizard-lantern-v6"
+    },
+    {
+      "templateId": "gen-tree-friends-v4",
+      "pass": true,
+      "regionCount": 29,
+      "expectedRange": [
+        20,
+        25
+      ],
+      "countPolicy": "advisory",
+      "tinyRegions": 0,
+      "largeGapCandidates": 0,
+      "minimumUsableDiameter": 18.394,
+      "materialReviewRequired": false,
+      "errors": [],
+      "warnings": [
+        "1pxの線拡張で閉じる候補があります。解析マスクを確認してください",
+        "領域数 29 が目安 20〜25 の範囲外です",
+        "r28: 幅 18.4px。個別注釈と4×操作・塗り消去の実測証拠付き例外"
+      ],
+      "themeId": "animals",
+      "source": "content/generated-lineart/originals/animals-v4.png",
+      "evidenceDirectory": "tools/asset-pipeline/output/gen-tree-friends-v4"
+    },
+    {
+      "templateId": "gen-ocean-friends-v2",
+      "pass": true,
+      "regionCount": 41,
+      "expectedRange": [
+        22,
+        28
+      ],
+      "countPolicy": "advisory",
+      "tinyRegions": 0,
+      "largeGapCandidates": 1,
+      "minimumUsableDiameter": 20.375,
+      "materialReviewRequired": false,
+      "errors": [],
+      "warnings": [
+        "9px close候補 1箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）",
+        "領域数 41 が目安 22〜28 の範囲外です",
+        "r11: 幅 22.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r31: 幅 21.2px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r33: 幅 20.4px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r36: 幅 24.8px。個別注釈と4×操作・塗り消去の実測証拠付き例外"
+      ],
+      "themeId": "ocean",
+      "source": "content/generated-lineart/originals/ocean-v2.png",
+      "evidenceDirectory": "tools/asset-pipeline/output/gen-ocean-friends-v2"
+    },
+    {
+      "templateId": "gen-dinosaur-eggs-v4",
+      "pass": true,
+      "regionCount": 23,
+      "expectedRange": [
+        20,
+        25
+      ],
+      "countPolicy": "advisory",
+      "tinyRegions": 0,
+      "largeGapCandidates": 2,
+      "minimumUsableDiameter": 26.363,
+      "materialReviewRequired": false,
+      "errors": [],
+      "warnings": [
+        "9px close候補 2箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）"
+      ],
+      "themeId": "dinosaurs",
+      "source": "content/generated-lineart/originals/dinosaurs-v4.png",
+      "evidenceDirectory": "tools/asset-pipeline/output/gen-dinosaur-eggs-v4"
+    },
+    {
+      "templateId": "gen-round-sports-car-v2",
+      "pass": true,
+      "regionCount": 28,
+      "expectedRange": [
+        25,
+        30
+      ],
+      "countPolicy": "advisory",
+      "tinyRegions": 0,
+      "largeGapCandidates": 3,
+      "minimumUsableDiameter": 24.788,
+      "materialReviewRequired": false,
+      "errors": [],
+      "warnings": [
+        "9px close候補 3箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）",
+        "1pxの線拡張で閉じる候補があります。解析マスクを確認してください"
+      ],
+      "themeId": "vehicles",
+      "source": "content/generated-lineart/originals/vehicles-v2.png",
+      "evidenceDirectory": "tools/asset-pipeline/output/gen-round-sports-car-v2"
+    },
+    {
+      "templateId": "gen-excavator-cones-v2",
+      "pass": true,
+      "regionCount": 54,
+      "expectedRange": [
+        30,
+        35
+      ],
+      "countPolicy": "advisory",
+      "tinyRegions": 0,
+      "largeGapCandidates": 2,
+      "minimumUsableDiameter": 22.788,
+      "materialReviewRequired": false,
+      "errors": [],
+      "warnings": [
+        "9px close候補 2箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）",
+        "1pxの線拡張で閉じる候補があります。解析マスクを確認してください",
+        "領域数 54 が目安 30〜35 の範囲外です",
+        "r15: 幅 24.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r30: 幅 24.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r31: 幅 22.8px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r33: 幅 22.8px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r34: 幅 22.8px。個別注釈と4×操作・塗り消去の実測証拠付き例外"
+      ],
+      "themeId": "construction",
+      "source": "content/generated-lineart/originals/construction-v2.png",
+      "evidenceDirectory": "tools/asset-pipeline/output/gen-excavator-cones-v2"
+    },
+    {
+      "templateId": "gen-explorer-robot-v2",
+      "pass": true,
+      "regionCount": 46,
+      "expectedRange": [
+        30,
+        40
+      ],
+      "countPolicy": "advisory",
+      "tinyRegions": 0,
+      "largeGapCandidates": 0,
+      "minimumUsableDiameter": 24.0,
+      "materialReviewRequired": false,
+      "errors": [],
+      "warnings": [
+        "領域数 46 が目安 30〜40 の範囲外です",
+        "r02: 幅 24.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外"
+      ],
+      "themeId": "robots",
+      "source": "content/generated-lineart/originals/robots-v2.png",
+      "evidenceDirectory": "tools/asset-pipeline/output/gen-explorer-robot-v2"
+    },
+    {
+      "templateId": "gen-rocket-astronaut-v5",
+      "pass": true,
+      "regionCount": 46,
+      "expectedRange": [
+        25,
+        30
+      ],
+      "countPolicy": "advisory",
+      "tinyRegions": 0,
+      "largeGapCandidates": 1,
+      "minimumUsableDiameter": 22.788,
+      "materialReviewRequired": false,
+      "errors": [],
+      "warnings": [
+        "9px close候補 1箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）",
+        "1pxの線拡張で閉じる候補があります。解析マスクを確認してください",
+        "領域数 46 が目安 25〜30 の範囲外です",
+        "r15: 幅 22.8px。個別注釈と4×操作・塗り消去の実測証拠付き例外"
+      ],
+      "themeId": "space",
+      "source": "content/generated-lineart/originals/space-v5.png",
+      "evidenceDirectory": "tools/asset-pipeline/output/gen-rocket-astronaut-v5"
+    },
+    {
+      "templateId": "gen-bouquet-butterfly-v2",
+      "pass": true,
+      "regionCount": 44,
+      "expectedRange": [
+        30,
+        40
+      ],
+      "countPolicy": "advisory",
+      "tinyRegions": 0,
+      "largeGapCandidates": 1,
+      "minimumUsableDiameter": 30.363,
+      "materialReviewRequired": false,
+      "errors": [],
+      "warnings": [
+        "9px close候補 1箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）",
+        "領域数 44 が目安 30〜40 の範囲外です"
+      ],
+      "themeId": "flowers",
+      "source": "content/generated-lineart/originals/flowers-v2.png",
+      "evidenceDirectory": "tools/asset-pipeline/output/gen-bouquet-butterfly-v2"
+    }
+  ]
+}

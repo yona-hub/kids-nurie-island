@@ -1,0 +1,254 @@
+[
+  {
+    "id": "princess",
+    "file": "apps\\web\\public\\images\\islands\\princess-v1.webp",
+    "width": 768,
+    "height": 512,
+    "bytes": 126774
+  },
+  {
+    "id": "princess",
+    "file": "apps\\web\\public\\images\\islands\\princess-v1-small.webp",
+    "width": 384,
+    "height": 256,
+    "bytes": 41830
+  },
+  {
+    "id": "princess",
+    "file": "apps\\web\\public\\images\\islands\\princess-v1-tiny.webp",
+    "width": 192,
+    "height": 128,
+    "bytes": 13890
+  },
+  {
+    "id": "magic",
+    "file": "apps\\web\\public\\images\\islands\\magic-v1.webp",
+    "width": 768,
+    "height": 512,
+    "bytes": 131490
+  },
+  {
+    "id": "magic",
+    "file": "apps\\web\\public\\images\\islands\\magic-v1-small.webp",
+    "width": 384,
+    "height": 256,
+    "bytes": 43898
+  },
+  {
+    "id": "magic",
+    "file": "apps\\web\\public\\images\\islands\\magic-v1-tiny.webp",
+    "width": 192,
+    "height": 128,
+    "bytes": 14990
+  },
+  {
+    "id": "animals",
+    "file": "apps\\web\\public\\images\\islands\\animals-v1.webp",
+    "width": 768,
+    "height": 512,
+    "bytes": 116844
+  },
+  {
+    "id": "animals",
+    "file": "apps\\web\\public\\images\\islands\\animals-v1-small.webp",
+    "width": 384,
+    "height": 256,
+    "bytes": 40662
+  },
+  {
+    "id": "animals",
+    "file": "apps\\web\\public\\images\\islands\\animals-v1-tiny.webp",
+    "width": 192,
+    "height": 128,
+    "bytes": 14410
+  },
+  {
+    "id": "ocean",
+    "file": "apps\\web\\public\\images\\islands\\ocean-v1.webp",
+    "width": 768,
+    "height": 512,
+    "bytes": 117204
+  },
+  {
+    "id": "ocean",
+    "file": "apps\\web\\public\\images\\islands\\ocean-v1-small.webp",
+    "width": 384,
+    "height": 256,
+    "bytes": 41980
+  },
+  {
+    "id": "ocean",
+    "file": "apps\\web\\public\\images\\islands\\ocean-v1-tiny.webp",
+    "width": 192,
+    "height": 128,
+    "bytes": 15370
+  },
+  {
+    "id": "dinosaurs",
+    "file": "apps\\web\\public\\images\\islands\\dinosaurs-v1.webp",
+    "width": 768,
+    "height": 512,
+    "bytes": 112290
+  },
+  {
+    "id": "dinosaurs",
+    "file": "apps\\web\\public\\images\\islands\\dinosaurs-v1-small.webp",
+    "width": 384,
+    "height": 256,
+    "bytes": 37994
+  },
+  {
+    "id": "dinosaurs",
+    "file": "apps\\web\\public\\images\\islands\\dinosaurs-v1-tiny.webp",
+    "width": 192,
+    "height": 128,
+    "bytes": 13986
+  },
+  {
+    "id": "vehicles",
+    "file": "apps\\web\\public\\images\\islands\\vehicles-v1.webp",
+    "width": 768,
+    "height": 512,
+    "bytes": 100210
+  },
+  {
+    "id": "vehicles",
+    "file": "apps\\web\\public\\images\\islands\\vehicles-v1-small.webp",
+    "width": 384,
+    "height": 256,
+    "bytes": 35238
+  },
+  {
+    "id": "vehicles",
+    "file": "apps\\web\\public\\images\\islands\\vehicles-v1-tiny.webp",
+    "width": 192,
+    "height": 128,
+    "bytes": 12816
+  },
+  {
+    "id": "construction",
+    "file": "apps\\web\\public\\images\\islands\\construction-v1.webp",
+    "width": 768,
+    "height": 512,
+    "bytes": 120460
+  },
+  {
+    "id": "construction",
+    "file": "apps\\web\\public\\images\\islands\\construction-v1-small.webp",
+    "width": 384,
+    "height": 256,
+    "bytes": 42682
+  },
+  {
+    "id": "construction",
+    "file": "apps\\web\\public\\images\\islands\\construction-v1-tiny.webp",
+    "width": 192,
+    "height": 128,
+    "bytes": 15778
+  },
+  {
+    "id": "robots",
+    "file": "apps\\web\\public\\images\\islands\\robots-v1.webp",
+    "width": 768,
+    "height": 512,
+    "bytes": 104158
+  },
+  {
+    "id": "robots",
+    "file": "apps\\web\\public\\images\\islands\\robots-v1-small.webp",
+    "width": 384,
+    "height": 256,
+    "bytes": 37410
+  },
+  {
+    "id": "robots",
+    "file": "apps\\web\\public\\images\\islands\\robots-v1-tiny.webp",
+    "width": 192,
+    "height": 128,
+    "bytes": 13758
+  },
+  {
+    "id": "space",
+    "file": "apps\\web\\public\\images\\islands\\space-v1.webp",
+    "width": 768,
+    "height": 512,
+    "bytes": 101528
+  },
+  {
+    "id": "space",
+    "file": "apps\\web\\public\\images\\islands\\space-v1-small.webp",
+    "width": 384,
+    "height": 256,
+    "bytes": 38088
+  },
+  {
+    "id": "space",
+    "file": "apps\\web\\public\\images\\islands\\space-v1-tiny.webp",
+    "width": 192,
+    "height": 128,
+    "bytes": 14906
+  },
+  {
+    "id": "food",
+    "file": "apps\\web\\public\\images\\islands\\food-v1.webp",
+    "width": 768,
+    "height": 512,
+    "bytes": 115124
+  },
+  {
+    "id": "food",
+    "file": "apps\\web\\public\\images\\islands\\food-v1-small.webp",
+    "width": 384,
+    "height": 256,
+    "bytes": 39396
+  },
+  {
+    "id": "food",
+    "file": "apps\\web\\public\\images\\islands\\food-v1-tiny.webp",
+    "width": 192,
+    "height": 128,
+    "bytes": 14008
+  },
+  {
+    "id": "flowers",
+    "file": "apps\\web\\public\\images\\islands\\flowers-v1.webp",
+    "width": 768,
+    "height": 512,
+    "bytes": 115326
+  },
+  {
+    "id": "flowers",
+    "file": "apps\\web\\public\\images\\islands\\flowers-v1-small.webp",
+    "width": 384,
+    "height": 256,
+    "bytes": 39474
+  },
+  {
+    "id": "flowers",
+    "file": "apps\\web\\public\\images\\islands\\flowers-v1-tiny.webp",
+    "width": 192,
+    "height": 128,
+    "bytes": 14314
+  },
+  {
+    "id": "toys",
+    "file": "apps\\web\\public\\images\\islands\\toys-v1.webp",
+    "width": 768,
+    "height": 512,
+    "bytes": 128130
+  },
+  {
+    "id": "toys",
+    "file": "apps\\web\\public\\images\\islands\\toys-v1-small.webp",
+    "width": 384,
+    "height": 256,
+    "bytes": 43222
+  },
+  {
+    "id": "toys",
+    "file": "apps\\web\\public\\images\\islands\\toys-v1-tiny.webp",
+    "width": 192,
+    "height": 128,
+    "bytes": 15174
+  }
+]

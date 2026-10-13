@@ -1,0 +1,505 @@
+{
+  "schemaVersion": 1,
+  "id": "round-sports-car",
+  "themeId": "vehicles",
+  "title": "まるい スポーツカー",
+  "width": 1600,
+  "height": 2000,
+  "defaultColorFamily": "red",
+  "approved": true,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "後ろの左タイヤ",
+      "path": "M 301 1039 C 301 950.0797 346.6654 878 403 878 C 459.3346 878 505 950.0797 505 1039 C 505 1127.9203 459.3346 1200 403 1200 C 346.6654 1200 301 1127.9203 301 1039 Z",
+      "bounds": {
+        "x": 301,
+        "y": 878,
+        "width": 204,
+        "height": 322
+      },
+      "material": "rubber",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 252905213
+    },
+    {
+      "id": "r02",
+      "name": "後ろの右タイヤ",
+      "path": "M 1073 1039 C 1073 950.0797 1118.6654 878 1175 878 C 1231.3346 878 1277 950.0797 1277 1039 C 1277 1127.9203 1231.3346 1200 1175 1200 C 1118.6654 1200 1073 1127.9203 1073 1039 Z",
+      "bounds": {
+        "x": 1073,
+        "y": 878,
+        "width": 204,
+        "height": 322
+      },
+      "material": "rubber",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 202572356
+    },
+    {
+      "id": "r03",
+      "name": "前の左タイヤ",
+      "path": "M 233 1380 C 233 1270.6446 280.45619999999997 1182 339 1182 C 397.54380000000003 1182 445 1270.6446 445 1380 C 445 1489.3554 397.54380000000003 1578 339 1578 C 280.45619999999997 1578 233 1489.3554 233 1380 Z",
+      "bounds": {
+        "x": 233,
+        "y": 1182,
+        "width": 212,
+        "height": 396
+      },
+      "material": "rubber",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 219349975
+    },
+    {
+      "id": "r04",
+      "name": "前の右タイヤ",
+      "path": "M 1137 1380 C 1137 1270.6446 1184.4562 1182 1243 1182 C 1301.5438 1182 1349 1270.6446 1349 1380 C 1349 1489.3554 1301.5438 1578 1243 1578 C 1184.4562 1578 1137 1489.3554 1137 1380 Z",
+      "bounds": {
+        "x": 1137,
+        "y": 1182,
+        "width": 212,
+        "height": 396
+      },
+      "material": "rubber",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 169017118
+    },
+    {
+      "id": "r05",
+      "name": "車のボディ",
+      "path": "M 351 1046 Q 394 941 484 860 L 1099 860 Q 1208 946 1237 1046 L 1337 1237 Q 1395 1463 1245 1521 Q 794 1631 339 1521 Q 191 1466 245 1237 Z",
+      "bounds": {
+        "x": 230,
+        "y": 860,
+        "width": 1124,
+        "height": 716
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 185794737
+    },
+    {
+      "id": "r06",
+      "name": "屋根",
+      "path": "M 452 968 Q 474 680 788 665 Q 1101 677 1130 965 Z",
+      "bounds": {
+        "x": 452,
+        "y": 665,
+        "width": 678,
+        "height": 303
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 135461880
+    },
+    {
+      "id": "r07",
+      "name": "フロントガラスの枠",
+      "path": "M 472 973 Q 491 734 789 721 Q 1083 732 1110 973 Z",
+      "bounds": {
+        "x": 472,
+        "y": 721,
+        "width": 638,
+        "height": 252
+      },
+      "material": "rubber",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 152239499
+    },
+    {
+      "id": "r08",
+      "name": "フロントガラス",
+      "path": "M 531 929 Q 562 776 790 773 Q 1018 779 1053 929 Q 790 967 531 929 Z",
+      "bounds": {
+        "x": 531,
+        "y": 773,
+        "width": 522,
+        "height": 175
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 101906642
+    },
+    {
+      "id": "r09",
+      "name": "左シート",
+      "path": "M 625 928 L 626 859 Q 660 810 704 859 L 709 938 Z",
+      "bounds": {
+        "x": 625,
+        "y": 834,
+        "width": 84,
+        "height": 104
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 118684261
+    },
+    {
+      "id": "r10",
+      "name": "右シート",
+      "path": "M 872 938 L 875 859 Q 916 810 951 859 L 956 928 Z",
+      "bounds": {
+        "x": 872,
+        "y": 834,
+        "width": 84,
+        "height": 104
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4095023891
+    },
+    {
+      "id": "r11",
+      "name": "左サイドガラス",
+      "path": "M 460 925 L 414 1026 L 483 1024 L 495 959 Z",
+      "bounds": {
+        "x": 414,
+        "y": 925,
+        "width": 81,
+        "height": 101
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4078246272
+    },
+    {
+      "id": "r12",
+      "name": "右サイドガラス",
+      "path": "M 1119 925 L 1167 1026 L 1097 1024 L 1086 959 Z",
+      "bounds": {
+        "x": 1086,
+        "y": 925,
+        "width": 81,
+        "height": 101
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4128579129
+    },
+    {
+      "id": "r13",
+      "name": "ボンネット",
+      "path": "M 478 1002 Q 790 958 1104 1002 Q 1209 1090 1213 1204 Q 790 1292 369 1204 Q 375 1091 478 1002 Z",
+      "bounds": {
+        "x": 369,
+        "y": 980,
+        "width": 844,
+        "height": 268
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4111801510
+    },
+    {
+      "id": "r14",
+      "name": "左ヘッドライト",
+      "path": "M 294 1200 Q 401 1149 492 1214 L 487 1295 Q 345 1320 274 1279 Z",
+      "bounds": {
+        "x": 274,
+        "y": 1177,
+        "width": 218,
+        "height": 128
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4162134367
+    },
+    {
+      "id": "r15",
+      "name": "右ヘッドライト",
+      "path": "M 1090 1214 Q 1185 1149 1290 1200 L 1310 1279 Q 1239 1320 1094 1295 Z",
+      "bounds": {
+        "x": 1090,
+        "y": 1177,
+        "width": 220,
+        "height": 128
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4145356748
+    },
+    {
+      "id": "r16",
+      "name": "フロントグリル",
+      "path": "M 532 1307 Q 790 1352 1051 1307 L 1028 1414 Q 790 1464 554 1414 Z",
+      "bounds": {
+        "x": 532,
+        "y": 1307,
+        "width": 519,
+        "height": 132
+      },
+      "material": "rubber",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4195689605
+    },
+    {
+      "id": "r17",
+      "name": "グリルの上ライン",
+      "path": "M 567 1340 Q 790 1375 1016 1340 L 1010 1368 Q 790 1402 573 1368 Z",
+      "bounds": {
+        "x": 567,
+        "y": 1340,
+        "width": 449,
+        "height": 45
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4178911986
+    },
+    {
+      "id": "r18",
+      "name": "グリルの下ライン",
+      "path": "M 579 1391 Q 790 1422 1004 1391 L 998 1412 Q 790 1447 585 1412 Z",
+      "bounds": {
+        "x": 579,
+        "y": 1391,
+        "width": 425,
+        "height": 39
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4229244843
+    },
+    {
+      "id": "r19",
+      "name": "バンパー",
+      "path": "M 306 1434 Q 790 1540 1273 1434 L 1245 1496 Q 789 1600 335 1497 Z",
+      "bounds": {
+        "x": 306,
+        "y": 1434,
+        "width": 967,
+        "height": 115
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4212467224
+    },
+    {
+      "id": "r20",
+      "name": "左サイドミラー",
+      "path": "M 338 1009 Q 281 936 346 919 Q 424 919 441 975 L 423 1014 Z",
+      "bounds": {
+        "x": 311,
+        "y": 919,
+        "width": 130,
+        "height": 95
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2181934040
+    },
+    {
+      "id": "r21",
+      "name": "右サイドミラー",
+      "path": "M 1155 976 Q 1171 919 1247 919 Q 1312 937 1256 1009 L 1171 1014 Z",
+      "bounds": {
+        "x": 1155,
+        "y": 919,
+        "width": 127,
+        "height": 95
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2198711659
+    },
+    {
+      "id": "r22",
+      "name": "左のホイール",
+      "path": "M 307 1299 Q 272 1388 310 1461 L 337 1469 L 337 1300 Z",
+      "bounds": {
+        "x": 290,
+        "y": 1299,
+        "width": 47,
+        "height": 170
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2215489278
+    },
+    {
+      "id": "r23",
+      "name": "右のホイール",
+      "path": "M 1274 1299 L 1245 1300 L 1245 1470 L 1273 1461 Q 1309 1388 1274 1299 Z",
+      "bounds": {
+        "x": 1245,
+        "y": 1299,
+        "width": 47,
+        "height": 171
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2232266897
+    },
+    {
+      "id": "r24",
+      "name": "ボンネットのバッジ",
+      "path": "M 755 1190 L 828 1190 L 822 1230 L 791 1249 L 761 1230 Z",
+      "bounds": {
+        "x": 755,
+        "y": 1190,
+        "width": 73,
+        "height": 59
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2249044516
+    },
+    {
+      "id": "r25",
+      "name": "左ライトの反射板",
+      "path": "M 303 1230 Q 362 1206 413 1220 L 409 1262 Q 351 1270 295 1255 Z",
+      "bounds": {
+        "x": 295,
+        "y": 1214,
+        "width": 118,
+        "height": 51
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2265822135
+    },
+    {
+      "id": "r26",
+      "name": "右ライトの反射板",
+      "path": "M 1171 1220 Q 1222 1206 1281 1230 L 1289 1255 Q 1233 1270 1175 1262 Z",
+      "bounds": {
+        "x": 1171,
+        "y": 1214,
+        "width": 118,
+        "height": 51
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2282599754
+    },
+    {
+      "id": "r27",
+      "name": "ボンネットのセンター",
+      "path": "M 726 1004 Q 790 998 856 1004 L 875 1180 L 708 1180 Z",
+      "bounds": {
+        "x": 708,
+        "y": 1001,
+        "width": 167,
+        "height": 179
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2299377373
+    }
+  ],
+  "details": [
+    {
+      "path": "M 489 1050 Q 435 1101 414 1157 M 1097 1050 Q 1150 1101 1170 1157 M 544 878 Q 560 824 619 806 M 960 805 Q 1011 832 1030 876 M 341 1350 L 314 1344 M 1242 1350 L 1271 1344",
+      "strokeWidth": 7
+    }
+  ],
+  "lineWidth": 12
+}

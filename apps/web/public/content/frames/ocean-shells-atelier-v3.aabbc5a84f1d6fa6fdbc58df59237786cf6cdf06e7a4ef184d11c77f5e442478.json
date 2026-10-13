@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/ocean-shells-atelier-v3-top.ef4e044140deec3ce65b8ae9766712943c0d0a82ecc3b6fa55e291bd48cae1cb.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/ocean-shells-atelier-v3-bottom.b3740143693f4e4a032ceae4095b6779ffa1dd7b8d2aefe894fbdf41765111f6.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/ocean-shells-atelier-v3-left.08591dc7b8ecd1493bc6016b34f6221f303153cee90c313134ad69fb2bf1e338.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/ocean-shells-atelier-v3-right.27b1ad24e78bcb51af1bb218c54db46926585520383ff92a33c87b1bd65ac8e9.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

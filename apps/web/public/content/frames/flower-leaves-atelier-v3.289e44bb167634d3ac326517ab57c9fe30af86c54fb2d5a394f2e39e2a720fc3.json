@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/flower-leaves-atelier-v3-top.e085a145330774d4656ab95bb367f43cdf8ae4fbbfa0e3914afb854d7d13a41c.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/flower-leaves-atelier-v3-bottom.17c65719dba3b9ec9328f3840fa64b4d1deff530182dcc2576ef32040b2474e7.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/flower-leaves-atelier-v3-left.d0b08d5f3cf6976882a01c3d68d7856028e688cecceeca2c7f2e07729fc46341.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/flower-leaves-atelier-v3-right.c8f750055232bd8df9829edc2d48f0ac662b54503f836788fed56540f70f0192.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

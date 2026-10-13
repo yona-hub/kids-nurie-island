@@ -1,0 +1,198 @@
+{
+  "templateId": "ocean-friends",
+  "pass": true,
+  "regionCount": 28,
+  "expectedRegionRange": [
+    22,
+    28
+  ],
+  "errors": [],
+  "warnings": [],
+  "closedRegions": 28,
+  "backgroundLeak": false,
+  "closureMethod": "explicit SVG Z paths; background excluded by compiled visible region masks",
+  "minimumBoundsWidth": 58,
+  "minimumUsableDiameter": 43.59797668457031,
+  "minVisibleArea": 2812,
+  "blackRatio": 0.05365,
+  "whiteRatio": 0.93278625,
+  "antiAliasRatio": 0.01356375,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "イルカの尾",
+      "visibleArea": 38584,
+      "usableDiameter": 113.14
+    },
+    {
+      "id": "r02",
+      "name": "イルカの背びれ",
+      "visibleArea": 18484,
+      "usableDiameter": 112
+    },
+    {
+      "id": "r03",
+      "name": "イルカのからだ",
+      "visibleArea": 182324,
+      "usableDiameter": 272
+    },
+    {
+      "id": "r04",
+      "name": "イルカのむなびれ",
+      "visibleArea": 19604,
+      "usableDiameter": 124
+    },
+    {
+      "id": "r05",
+      "name": "カメの左前足",
+      "visibleArea": 9924,
+      "usableDiameter": 90.51
+    },
+    {
+      "id": "r06",
+      "name": "カメの右前足",
+      "visibleArea": 11832,
+      "usableDiameter": 90.63
+    },
+    {
+      "id": "r07",
+      "name": "カメの左後足",
+      "visibleArea": 6568,
+      "usableDiameter": 70.23
+    },
+    {
+      "id": "r08",
+      "name": "カメの右後足",
+      "visibleArea": 6808,
+      "usableDiameter": 73.54
+    },
+    {
+      "id": "r09",
+      "name": "カメの顔",
+      "visibleArea": 31156,
+      "usableDiameter": 189.02
+    },
+    {
+      "id": "r10",
+      "name": "カメのこうら",
+      "visibleArea": 27704,
+      "usableDiameter": 43.6
+    },
+    {
+      "id": "r11",
+      "name": "こうら・まんなか",
+      "visibleArea": 25672,
+      "usableDiameter": 163.31
+    },
+    {
+      "id": "r12",
+      "name": "こうら・上",
+      "visibleArea": 12380,
+      "usableDiameter": 73.54
+    },
+    {
+      "id": "r13",
+      "name": "こうら・右",
+      "visibleArea": 6572,
+      "usableDiameter": 49.25
+    },
+    {
+      "id": "r14",
+      "name": "こうら・下",
+      "visibleArea": 8524,
+      "usableDiameter": 66.23
+    },
+    {
+      "id": "r15",
+      "name": "こうら・左",
+      "visibleArea": 14264,
+      "usableDiameter": 73.54
+    },
+    {
+      "id": "r16",
+      "name": "さかなの尾",
+      "visibleArea": 22264,
+      "usableDiameter": 121.66
+    },
+    {
+      "id": "r17",
+      "name": "さかな",
+      "visibleArea": 41044,
+      "usableDiameter": 128
+    },
+    {
+      "id": "r18",
+      "name": "さかなのひれ",
+      "visibleArea": 4060,
+      "usableDiameter": 56.57
+    },
+    {
+      "id": "r19",
+      "name": "サンゴ・左",
+      "visibleArea": 35104,
+      "usableDiameter": 95.2
+    },
+    {
+      "id": "r20",
+      "name": "サンゴ・右",
+      "visibleArea": 30156,
+      "usableDiameter": 92.28
+    },
+    {
+      "id": "r21",
+      "name": "海そう・左",
+      "visibleArea": 10780,
+      "usableDiameter": 60.57
+    },
+    {
+      "id": "r22",
+      "name": "海そう・まんなか",
+      "visibleArea": 18776,
+      "usableDiameter": 80
+    },
+    {
+      "id": "r23",
+      "name": "海そう・右",
+      "visibleArea": 12428,
+      "usableDiameter": 73.54
+    },
+    {
+      "id": "r24",
+      "name": "貝がら",
+      "visibleArea": 33584,
+      "usableDiameter": 170.79
+    },
+    {
+      "id": "r25",
+      "name": "ヒトデ",
+      "visibleArea": 17784,
+      "usableDiameter": 113.82
+    },
+    {
+      "id": "r26",
+      "name": "あわ・大",
+      "visibleArea": 9256,
+      "usableDiameter": 109.66
+    },
+    {
+      "id": "r27",
+      "name": "あわ・小",
+      "visibleArea": 2812,
+      "usableDiameter": 60
+    },
+    {
+      "id": "r28",
+      "name": "あわ・中",
+      "visibleArea": 6372,
+      "usableDiameter": 90.51
+    }
+  ],
+  "contentHash": "f6e66c34a6182a6ee03782a6ca0b383989d67322b41849920a06ecc6817ba5ff",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "f6e66c34a6182a6ee03782a6ca0b383989d67322b41849920a06ecc6817ba5ff",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

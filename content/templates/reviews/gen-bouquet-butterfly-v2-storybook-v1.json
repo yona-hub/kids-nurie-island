@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-bouquet-butterfly-v2-storybook-v1",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-07T17:12:05.169Z",
+    "contentHash": "b348495cb9800171568d4fbe0729b2531c11c94d6dc2eaaecf892edfdf946637",
+    "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "wizard-lantern",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "fff90ae86179ba5661534193e54bbb9585f8938fd57304343e49f69350a9be56",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

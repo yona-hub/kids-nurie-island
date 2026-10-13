@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-explorer-robot-v2",
+  "regions": {},
+  "approval": {
+    "kind": "human",
+    "reviewer": "ユーザー（Codex会話）",
+    "recordedAt": "2026-10-06T16:39:21.516Z",
+    "contentHash": "0ac5bcb6ed3cea465d237ee5e06479be0b166f86d77341a71ac4c301a668e2fa",
+    "basis": "新しい10枚の線画一覧を確認し「この10枚を正式採用する」と回答"
+  }
+}

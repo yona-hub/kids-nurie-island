@@ -1,0 +1,1213 @@
+{
+  "templateId": "gen-wizard-lantern-v6",
+  "pass": true,
+  "regionCount": 46,
+  "expectedRegionRange": [
+    25,
+    30
+  ],
+  "errors": [],
+  "warnings": [
+    "領域数 46 は目安 25〜30 の範囲外",
+    "r11: 塗れる幅が24px未満 (19.8px)、個別の4×操作実測証拠付き例外",
+    "r12: 塗れる幅が24px未満 (19.8px)、個別の4×操作実測証拠付き例外",
+    "r14: 塗れる幅が24px未満 (17.7px)、個別の4×操作実測証拠付き例外",
+    "r22: 塗れる幅が24px未満 (21.8px)、個別の4×操作実測証拠付き例外",
+    "r33: 塗れる幅が24px未満 (18.1px)、個別の4×操作実測証拠付き例外",
+    "r43: 塗れる幅が24px未満 (18.0px)、個別の4×操作実測証拠付き例外",
+    "r49: 塗れる幅が24px未満 (23.0px)、個別の4×操作実測証拠付き例外",
+    "r50: 塗れる幅が24px未満 (22.0px)、個別の4×操作実測証拠付き例外"
+  ],
+  "closedRegions": 46,
+  "backgroundLeak": null,
+  "closureMethod": "threshold + 3px analysis close; original ink contours preserved separately",
+  "minimumBoundsWidth": 18,
+  "minimumUsableDiameter": 17.6568546295166,
+  "minVisibleArea": 383,
+  "blackRatio": 0.0516375,
+  "whiteRatio": 0.93489375,
+  "antiAliasRatio": 0.01346875,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "帽子",
+      "visibleArea": 55017,
+      "usableDiameter": 111.94
+    },
+    {
+      "id": "r02",
+      "name": "帽子の星",
+      "visibleArea": 8713,
+      "usableDiameter": 78.28
+    },
+    {
+      "id": "r03",
+      "name": "帽子のつば左",
+      "visibleArea": 43000,
+      "usableDiameter": 91.68
+    },
+    {
+      "id": "r04",
+      "name": "杖の星",
+      "visibleArea": 19602,
+      "usableDiameter": 117.66
+    },
+    {
+      "id": "r05",
+      "name": "左の前髪",
+      "visibleArea": 16846,
+      "usableDiameter": 90.51
+    },
+    {
+      "id": "r06",
+      "name": "顔と右耳",
+      "visibleArea": 49952,
+      "usableDiameter": 94.14
+    },
+    {
+      "id": "r07",
+      "name": "右の髪",
+      "visibleArea": 17587,
+      "usableDiameter": 64.23
+    },
+    {
+      "id": "r08",
+      "name": "杖の上側",
+      "visibleArea": 7825,
+      "usableDiameter": 42.83
+    },
+    {
+      "id": "r09",
+      "name": "左耳",
+      "visibleArea": 2349,
+      "usableDiameter": 26
+    },
+    {
+      "id": "r10",
+      "name": "左の瞳",
+      "visibleArea": 1059,
+      "usableDiameter": 30
+    },
+    {
+      "id": "r11",
+      "name": "左の瞳のハイライト",
+      "visibleArea": 383,
+      "usableDiameter": 19.8
+    },
+    {
+      "id": "r12",
+      "name": "右の瞳のハイライト",
+      "visibleArea": 398,
+      "usableDiameter": 19.8
+    },
+    {
+      "id": "r13",
+      "name": "帽子のつば右",
+      "visibleArea": 15827,
+      "usableDiameter": 93.4
+    },
+    {
+      "id": "r14",
+      "name": "左耳の下の髪",
+      "visibleArea": 980,
+      "usableDiameter": 17.66
+    },
+    {
+      "id": "r15",
+      "name": "右の瞳",
+      "visibleArea": 1016,
+      "usableDiameter": 28.83
+    },
+    {
+      "id": "r16",
+      "name": "口",
+      "visibleArea": 1927,
+      "usableDiameter": 34
+    },
+    {
+      "id": "r17",
+      "name": "杖を持つ手",
+      "visibleArea": 11340,
+      "usableDiameter": 64.43
+    },
+    {
+      "id": "r18",
+      "name": "左の襟",
+      "visibleArea": 9708,
+      "usableDiameter": 75.46
+    },
+    {
+      "id": "r20",
+      "name": "首",
+      "visibleArea": 3952,
+      "usableDiameter": 52
+    },
+    {
+      "id": "r21",
+      "name": "右の襟",
+      "visibleArea": 6832,
+      "usableDiameter": 69.88
+    },
+    {
+      "id": "r22",
+      "name": "右耳の下の髪",
+      "visibleArea": 851,
+      "usableDiameter": 21.8
+    },
+    {
+      "id": "r23",
+      "name": "左の袖とマント",
+      "visibleArea": 108207,
+      "usableDiameter": 129.74
+    },
+    {
+      "id": "r24",
+      "name": "胸の留め具",
+      "visibleArea": 2593,
+      "usableDiameter": 56.57
+    },
+    {
+      "id": "r25",
+      "name": "杖の下側",
+      "visibleArea": 2180,
+      "usableDiameter": 34
+    },
+    {
+      "id": "r26",
+      "name": "服の身頃",
+      "visibleArea": 98006,
+      "usableDiameter": 296.11
+    },
+    {
+      "id": "r27",
+      "name": "右の袖",
+      "visibleArea": 72392,
+      "usableDiameter": 116.83
+    },
+    {
+      "id": "r28",
+      "name": "ランタンを持つ手",
+      "visibleArea": 8828,
+      "usableDiameter": 44
+    },
+    {
+      "id": "r29",
+      "name": "ランタン持ち手左",
+      "visibleArea": 3905,
+      "usableDiameter": 24
+    },
+    {
+      "id": "r30",
+      "name": "ランタン持ち手右",
+      "visibleArea": 3527,
+      "usableDiameter": 24
+    },
+    {
+      "id": "r31",
+      "name": "マント左内側",
+      "visibleArea": 94136,
+      "usableDiameter": 226
+    },
+    {
+      "id": "r33",
+      "name": "ランタンを持つ親指",
+      "visibleArea": 442,
+      "usableDiameter": 18.14
+    },
+    {
+      "id": "r34",
+      "name": "ランタン上部の留め具",
+      "visibleArea": 5113,
+      "usableDiameter": 67.05
+    },
+    {
+      "id": "r36",
+      "name": "ランタンの屋根",
+      "visibleArea": 25520,
+      "usableDiameter": 118
+    },
+    {
+      "id": "r37",
+      "name": "左のズボン",
+      "visibleArea": 24039,
+      "usableDiameter": 120
+    },
+    {
+      "id": "r38",
+      "name": "脚の後ろのマント",
+      "visibleArea": 25023,
+      "usableDiameter": 98.83
+    },
+    {
+      "id": "r39",
+      "name": "右のズボン",
+      "visibleArea": 22458,
+      "usableDiameter": 112
+    },
+    {
+      "id": "r40",
+      "name": "ランタンの枠",
+      "visibleArea": 40340,
+      "usableDiameter": 60.28
+    },
+    {
+      "id": "r41",
+      "name": "ランタンのガラス",
+      "visibleArea": 41424,
+      "usableDiameter": 84
+    },
+    {
+      "id": "r42",
+      "name": "炎の外側",
+      "visibleArea": 4551,
+      "usableDiameter": 44.43
+    },
+    {
+      "id": "r43",
+      "name": "炎の内側",
+      "visibleArea": 540,
+      "usableDiameter": 18
+    },
+    {
+      "id": "r44",
+      "name": "左の靴",
+      "visibleArea": 36198,
+      "usableDiameter": 143.76
+    },
+    {
+      "id": "r45",
+      "name": "右の靴",
+      "visibleArea": 37853,
+      "usableDiameter": 148.57
+    },
+    {
+      "id": "r46",
+      "name": "ろうそくの溶けたろう",
+      "visibleArea": 5071,
+      "usableDiameter": 54.14
+    },
+    {
+      "id": "r47",
+      "name": "ろうそく本体",
+      "visibleArea": 7578,
+      "usableDiameter": 76
+    },
+    {
+      "id": "r49",
+      "name": "左の靴底",
+      "visibleArea": 4307,
+      "usableDiameter": 22.97
+    },
+    {
+      "id": "r50",
+      "name": "右の靴底",
+      "visibleArea": 4851,
+      "usableDiameter": 22
+    }
+  ],
+  "rasterEvidence": {
+    "pass": true,
+    "templateId": "gen-wizard-lantern-v6",
+    "approved": false,
+    "approvalRequired": true,
+    "originalSha256": "08eb9d02b3017b130bce97820a3c76ff7247487db559273fdb18dc0d4f0015b0",
+    "compilerVersion": 2,
+    "templateSha256": "b49d37ab659924e77bc71af9a2aba96dbed2114061adf9aa2c91eedd5a2f415f",
+    "normalizedSha256": "079084f2e92f2e7fb9264fc7c5e0b98bea0f46724f3e38b03b9dfd86de581059",
+    "originalSize": [
+      1122,
+      1402
+    ],
+    "analysisSize": [
+      1600,
+      2000
+    ],
+    "normalization": {
+      "method": "contain-whole-page-on-white",
+      "scale": 1.1978609625668448,
+      "offset": [
+        128,
+        160
+      ],
+      "imageSize": [
+        1344,
+        1679
+      ],
+      "canvasSize": [
+        1600,
+        2000
+      ],
+      "safeMargin": 128,
+      "cropped": false,
+      "contoursRedrawn": false
+    },
+    "regionCount": 46,
+    "detectedRegionCount": 50,
+    "countPolicy": "advisory",
+    "countWithinExpectedRange": false,
+    "expectedRange": [
+      25,
+      30
+    ],
+    "smallRepairCandidates": 0,
+    "largeGapCandidates": 0,
+    "dilationApplied": false,
+    "unreviewedLargeGapCandidates": 0,
+    "gapCandidateDetails": [],
+    "gapReviewSchemaVersion": 2,
+    "tinyRegions": 0,
+    "blackRatio": 0.0651,
+    "grayRatio": 0.019429375,
+    "backgroundComponentsExcluded": 1,
+    "contourPoints": 4524,
+    "originalInkContourPoints": 20035,
+    "minimumUsableDiameter": 18.788,
+    "regions": [
+      {
+        "id": "r01",
+        "area": 56927,
+        "usableDiameter": 107.088,
+        "labelPoint": [
+          959,
+          252
+        ],
+        "bounds": [
+          684,
+          197,
+          504,
+          333
+        ]
+      },
+      {
+        "id": "r02",
+        "area": 9169,
+        "usableDiameter": 74.35,
+        "labelPoint": [
+          877,
+          337
+        ],
+        "bounds": [
+          809,
+          269,
+          145,
+          139
+        ]
+      },
+      {
+        "id": "r03",
+        "area": 44753,
+        "usableDiameter": 89.082,
+        "labelPoint": [
+          560,
+          429
+        ],
+        "bounds": [
+          469,
+          369,
+          642,
+          270
+        ]
+      },
+      {
+        "id": "r04",
+        "area": 20198,
+        "usableDiameter": 113.513,
+        "labelPoint": [
+          334,
+          513
+        ],
+        "bounds": [
+          223,
+          406,
+          209,
+          208
+        ]
+      },
+      {
+        "id": "r05",
+        "area": 17574,
+        "usableDiameter": 87.876,
+        "labelPoint": [
+          676,
+          460
+        ],
+        "bounds": [
+          553,
+          413,
+          207,
+          202
+        ]
+      },
+      {
+        "id": "r06",
+        "area": 52441,
+        "usableDiameter": 91.876,
+        "labelPoint": [
+          793,
+          612
+        ],
+        "bounds": [
+          643,
+          463,
+          352,
+          321
+        ]
+      },
+      {
+        "id": "r07",
+        "area": 18598,
+        "usableDiameter": 63.513,
+        "labelPoint": [
+          811,
+          513
+        ],
+        "bounds": [
+          771,
+          457,
+          282,
+          269
+        ]
+      },
+      {
+        "id": "r08",
+        "area": 8200,
+        "usableDiameter": 42.757,
+        "labelPoint": [
+          355,
+          601
+        ],
+        "bounds": [
+          332,
+          577,
+          84,
+          201
+        ]
+      },
+      {
+        "id": "r09",
+        "area": 2637,
+        "usableDiameter": 27.575,
+        "labelPoint": [
+          605,
+          633
+        ],
+        "bounds": [
+          592,
+          596,
+          54,
+          80
+        ]
+      },
+      {
+        "id": "r10",
+        "area": 1177,
+        "usableDiameter": 30.757,
+        "labelPoint": [
+          717,
+          637
+        ],
+        "bounds": [
+          699,
+          604,
+          39,
+          50
+        ]
+      },
+      {
+        "id": "r11",
+        "area": 440,
+        "usableDiameter": 21.575,
+        "labelPoint": [
+          715,
+          603
+        ],
+        "bounds": [
+          704,
+          591,
+          23,
+          24
+        ]
+      },
+      {
+        "id": "r12",
+        "area": 440,
+        "usableDiameter": 21.194,
+        "labelPoint": [
+          860,
+          639
+        ],
+        "bounds": [
+          849,
+          626,
+          23,
+          25
+        ]
+      },
+      {
+        "id": "r13",
+        "area": 16456,
+        "usableDiameter": 90.676,
+        "labelPoint": [
+          1105,
+          683
+        ],
+        "bounds": [
+          938,
+          594,
+          217,
+          180
+        ]
+      },
+      {
+        "id": "r14",
+        "area": 1124,
+        "usableDiameter": 18.788,
+        "labelPoint": [
+          631,
+          710
+        ],
+        "bounds": [
+          586,
+          675,
+          57,
+          54
+        ]
+      },
+      {
+        "id": "r15",
+        "area": 1133,
+        "usableDiameter": 30.363,
+        "labelPoint": [
+          859,
+          673
+        ],
+        "bounds": [
+          843,
+          642,
+          38,
+          48
+        ]
+      },
+      {
+        "id": "r16",
+        "area": 2099,
+        "usableDiameter": 34.757,
+        "labelPoint": [
+          767,
+          731
+        ],
+        "bounds": [
+          733,
+          706,
+          81,
+          43
+        ]
+      },
+      {
+        "id": "r17",
+        "area": 11817,
+        "usableDiameter": 63.926,
+        "labelPoint": [
+          377,
+          846
+        ],
+        "bounds": [
+          346,
+          777,
+          112,
+          138
+        ]
+      },
+      {
+        "id": "r18",
+        "area": 10161,
+        "usableDiameter": 73.188,
+        "labelPoint": [
+          661,
+          810
+        ],
+        "bounds": [
+          585,
+          763,
+          182,
+          108
+        ]
+      },
+      {
+        "id": "r20",
+        "area": 4195,
+        "usableDiameter": 51.994,
+        "labelPoint": [
+          771,
+          817
+        ],
+        "bounds": [
+          733,
+          786,
+          111,
+          61
+        ]
+      },
+      {
+        "id": "r21",
+        "area": 7179,
+        "usableDiameter": 68.75,
+        "labelPoint": [
+          875,
+          851
+        ],
+        "bounds": [
+          822,
+          786,
+          114,
+          100
+        ]
+      },
+      {
+        "id": "r22",
+        "area": 1023,
+        "usableDiameter": 22.4,
+        "labelPoint": [
+          915,
+          770
+        ],
+        "bounds": [
+          872,
+          755,
+          61,
+          33
+        ]
+      },
+      {
+        "id": "r23",
+        "area": 111022,
+        "usableDiameter": 121.876,
+        "labelPoint": [
+          623,
+          911
+        ],
+        "bounds": [
+          385,
+          844,
+          378,
+          791
+        ]
+      },
+      {
+        "id": "r24",
+        "area": 2751,
+        "usableDiameter": 57.119,
+        "labelPoint": [
+          799,
+          874
+        ],
+        "bounds": [
+          771,
+          845,
+          58,
+          60
+        ]
+      },
+      {
+        "id": "r25",
+        "area": 2360,
+        "usableDiameter": 34.757,
+        "labelPoint": [
+          440,
+          938
+        ],
+        "bounds": [
+          419,
+          909,
+          46,
+          78
+        ]
+      },
+      {
+        "id": "r26",
+        "area": 99187,
+        "usableDiameter": 284,
+        "labelPoint": [
+          790,
+          1187
+        ],
+        "bounds": [
+          597,
+          899,
+          369,
+          430
+        ]
+      },
+      {
+        "id": "r27",
+        "area": 74730,
+        "usableDiameter": 114.239,
+        "labelPoint": [
+          992,
+          1019
+        ],
+        "bounds": [
+          834,
+          885,
+          267,
+          751
+        ]
+      },
+      {
+        "id": "r28",
+        "area": 9503,
+        "usableDiameter": 44.8,
+        "labelPoint": [
+          1165,
+          925
+        ],
+        "bounds": [
+          1061,
+          903,
+          174,
+          113
+        ]
+      },
+      {
+        "id": "r29",
+        "area": 4273,
+        "usableDiameter": 24,
+        "labelPoint": [
+          1103,
+          1039
+        ],
+        "bounds": [
+          1091,
+          960,
+          59,
+          178
+        ]
+      },
+      {
+        "id": "r30",
+        "area": 3873,
+        "usableDiameter": 24,
+        "labelPoint": [
+          1271,
+          1033
+        ],
+        "bounds": [
+          1231,
+          971,
+          54,
+          162
+        ]
+      },
+      {
+        "id": "r31",
+        "area": 95684,
+        "usableDiameter": 220.509,
+        "labelPoint": [
+          338,
+          1438
+        ],
+        "bounds": [
+          224,
+          1012,
+          401,
+          669
+        ]
+      },
+      {
+        "id": "r33",
+        "area": 519,
+        "usableDiameter": 19.575,
+        "labelPoint": [
+          1149,
+          1008
+        ],
+        "bounds": [
+          1135,
+          996,
+          34,
+          22
+        ]
+      },
+      {
+        "id": "r34",
+        "area": 5359,
+        "usableDiameter": 68,
+        "labelPoint": [
+          1191,
+          1139
+        ],
+        "bounds": [
+          1139,
+          1103,
+          108,
+          70
+        ]
+      },
+      {
+        "id": "r36",
+        "area": 26091,
+        "usableDiameter": 118,
+        "labelPoint": [
+          1179,
+          1239
+        ],
+        "bounds": [
+          1037,
+          1178,
+          309,
+          121
+        ]
+      },
+      {
+        "id": "r37",
+        "area": 24658,
+        "usableDiameter": 116.664,
+        "labelPoint": [
+          643,
+          1480
+        ],
+        "bounds": [
+          579,
+          1313,
+          165,
+          226
+        ]
+      },
+      {
+        "id": "r38",
+        "area": 25702,
+        "usableDiameter": 98,
+        "labelPoint": [
+          753,
+          1608
+        ],
+        "bounds": [
+          689,
+          1336,
+          121,
+          321
+        ]
+      },
+      {
+        "id": "r39",
+        "area": 22964,
+        "usableDiameter": 110,
+        "labelPoint": [
+          862,
+          1481
+        ],
+        "bounds": [
+          803,
+          1320,
+          130,
+          218
+        ]
+      },
+      {
+        "id": "r40",
+        "area": 42120,
+        "usableDiameter": 60.738,
+        "labelPoint": [
+          1320,
+          1677
+        ],
+        "bounds": [
+          1031,
+          1305,
+          324,
+          412
+        ]
+      },
+      {
+        "id": "r41",
+        "area": 42694,
+        "usableDiameter": 85.575,
+        "labelPoint": [
+          1131,
+          1377
+        ],
+        "bounds": [
+          1078,
+          1335,
+          230,
+          319
+        ]
+      },
+      {
+        "id": "r42",
+        "area": 4883,
+        "usableDiameter": 44.757,
+        "labelPoint": [
+          1199,
+          1410
+        ],
+        "bounds": [
+          1153,
+          1371,
+          81,
+          113
+        ]
+      },
+      {
+        "id": "r43",
+        "area": 626,
+        "usableDiameter": 19.575,
+        "labelPoint": [
+          1193,
+          1468
+        ],
+        "bounds": [
+          1184,
+          1444,
+          19,
+          45
+        ]
+      },
+      {
+        "id": "r44",
+        "area": 36956,
+        "usableDiameter": 137.119,
+        "labelPoint": [
+          612,
+          1679
+        ],
+        "bounds": [
+          466,
+          1517,
+          246,
+          265
+        ]
+      },
+      {
+        "id": "r45",
+        "area": 38606,
+        "usableDiameter": 142.208,
+        "labelPoint": [
+          886,
+          1673
+        ],
+        "bounds": [
+          797,
+          1519,
+          264,
+          253
+        ]
+      },
+      {
+        "id": "r46",
+        "area": 5324,
+        "usableDiameter": 54.394,
+        "labelPoint": [
+          1217,
+          1534
+        ],
+        "bounds": [
+          1142,
+          1496,
+          103,
+          99
+        ]
+      },
+      {
+        "id": "r47",
+        "area": 7842,
+        "usableDiameter": 76.763,
+        "labelPoint": [
+          1186,
+          1618
+        ],
+        "bounds": [
+          1144,
+          1545,
+          98,
+          112
+        ]
+      },
+      {
+        "id": "r49",
+        "area": 4783,
+        "usableDiameter": 23.969,
+        "labelPoint": [
+          679,
+          1746
+        ],
+        "bounds": [
+          461,
+          1729,
+          230,
+          81
+        ]
+      },
+      {
+        "id": "r50",
+        "area": 5363,
+        "usableDiameter": 23.181,
+        "labelPoint": [
+          835,
+          1752
+        ],
+        "bounds": [
+          803,
+          1726,
+          265,
+          74
+        ]
+      }
+    ],
+    "tinyRegionBounds": [],
+    "tinyRegionDetails": [],
+    "materialReviewRequired": false,
+    "annotationSha256": "144fe8601c40d433fc99461b389b13e6ff333483446a5ae9db8e95701c15bd3e",
+    "technicalSemanticReview": {
+      "reviewer": "Codex technical source review",
+      "checks": [
+        "all-subject-parts-closed",
+        "negative-space-excluded",
+        "pupils-and-highlights-white"
+      ],
+      "unresolvedLeaks": []
+    },
+    "excludedBackgroundRegions": [
+      {
+        "name": "襟と首の間の背景",
+        "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+        "bounds": [
+          711,
+          789,
+          23,
+          19
+        ]
+      },
+      {
+        "name": "ランタン持ち手の中の背景",
+        "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+        "bounds": [
+          1124,
+          998,
+          128,
+          114
+        ]
+      },
+      {
+        "name": "袖とランタンの間の背景",
+        "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+        "bounds": [
+          972,
+          1127,
+          167,
+          253
+        ]
+      },
+      {
+        "name": "靴とランタンの間の背景",
+        "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+        "bounds": [
+          962,
+          1634,
+          66,
+          43
+        ]
+      }
+    ],
+    "widthExceptions": [
+      {
+        "id": "r11",
+        "name": "左の瞳のハイライト",
+        "usableDiameter": 21.575,
+        "reason": "左の瞳のハイライトは意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-wizard-lantern-v6.json",
+        "evidenceSha256": "6df5ba192d5cc49a1c1ff78a91b8215ade61f43f0cb48df831c4e19c7c63ecb1",
+        "evidenceSnapshot": "interaction-6df5ba192d5cc49a1c1ff78a91b8215ade61f43f0cb48df831c4e19c7c63ecb1.json"
+      },
+      {
+        "id": "r12",
+        "name": "右の瞳のハイライト",
+        "usableDiameter": 21.194,
+        "reason": "右の瞳のハイライトは意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-wizard-lantern-v6.json",
+        "evidenceSha256": "6df5ba192d5cc49a1c1ff78a91b8215ade61f43f0cb48df831c4e19c7c63ecb1",
+        "evidenceSnapshot": "interaction-6df5ba192d5cc49a1c1ff78a91b8215ade61f43f0cb48df831c4e19c7c63ecb1.json"
+      },
+      {
+        "id": "r14",
+        "name": "左耳の下の髪",
+        "usableDiameter": 18.788,
+        "reason": "左耳の下の髪は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-wizard-lantern-v6.json",
+        "evidenceSha256": "6df5ba192d5cc49a1c1ff78a91b8215ade61f43f0cb48df831c4e19c7c63ecb1",
+        "evidenceSnapshot": "interaction-6df5ba192d5cc49a1c1ff78a91b8215ade61f43f0cb48df831c4e19c7c63ecb1.json"
+      },
+      {
+        "id": "r22",
+        "name": "右耳の下の髪",
+        "usableDiameter": 22.4,
+        "reason": "右耳の下の髪は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-wizard-lantern-v6.json",
+        "evidenceSha256": "6df5ba192d5cc49a1c1ff78a91b8215ade61f43f0cb48df831c4e19c7c63ecb1",
+        "evidenceSnapshot": "interaction-6df5ba192d5cc49a1c1ff78a91b8215ade61f43f0cb48df831c4e19c7c63ecb1.json"
+      },
+      {
+        "id": "r33",
+        "name": "ランタンを持つ親指",
+        "usableDiameter": 19.575,
+        "reason": "ランタンを持つ親指は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-wizard-lantern-v6.json",
+        "evidenceSha256": "6df5ba192d5cc49a1c1ff78a91b8215ade61f43f0cb48df831c4e19c7c63ecb1",
+        "evidenceSnapshot": "interaction-6df5ba192d5cc49a1c1ff78a91b8215ade61f43f0cb48df831c4e19c7c63ecb1.json"
+      },
+      {
+        "id": "r43",
+        "name": "炎の内側",
+        "usableDiameter": 19.575,
+        "reason": "炎の内側は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-wizard-lantern-v6.json",
+        "evidenceSha256": "6df5ba192d5cc49a1c1ff78a91b8215ade61f43f0cb48df831c4e19c7c63ecb1",
+        "evidenceSnapshot": "interaction-6df5ba192d5cc49a1c1ff78a91b8215ade61f43f0cb48df831c4e19c7c63ecb1.json"
+      },
+      {
+        "id": "r49",
+        "name": "左の靴底",
+        "usableDiameter": 23.969,
+        "reason": "左の靴底は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-wizard-lantern-v6.json",
+        "evidenceSha256": "6df5ba192d5cc49a1c1ff78a91b8215ade61f43f0cb48df831c4e19c7c63ecb1",
+        "evidenceSnapshot": "interaction-6df5ba192d5cc49a1c1ff78a91b8215ade61f43f0cb48df831c4e19c7c63ecb1.json"
+      },
+      {
+        "id": "r50",
+        "name": "右の靴底",
+        "usableDiameter": 23.181,
+        "reason": "右の靴底は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-wizard-lantern-v6.json",
+        "evidenceSha256": "6df5ba192d5cc49a1c1ff78a91b8215ade61f43f0cb48df831c4e19c7c63ecb1",
+        "evidenceSnapshot": "interaction-6df5ba192d5cc49a1c1ff78a91b8215ade61f43f0cb48df831c4e19c7c63ecb1.json"
+      }
+    ],
+    "excludedLineDetails": [],
+    "visibleInkSource": "original-threshold-contours; no morphological repair or extra region stroke",
+    "errors": [],
+    "warnings": [
+      "1pxの線拡張で閉じる候補があります。解析マスクを確認してください",
+      "領域数 46 が目安 25〜30 の範囲外です",
+      "r11: 幅 21.6px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+      "r12: 幅 21.2px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+      "r14: 幅 18.8px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+      "r22: 幅 22.4px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+      "r33: 幅 19.6px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+      "r43: 幅 19.6px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+      "r49: 幅 24.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+      "r50: 幅 23.2px。個別注釈と4×操作・塗り消去の実測証拠付き例外"
+    ],
+    "publicationNote": "原画と解析maskを別保存。素材・細部・輪郭の人間確認後に公開してください。",
+    "originalFile": "content/generated-lineart/compiled/gen-wizard-lantern-v6/original.png"
+  },
+  "backgroundLeakStatus": "semantic visual review required; a large gap may remain connected to exterior even after 9px close",
+  "contentHash": "f447b9b1c38c8eb280d61efbd10ded2a165c43a17f0e93a3a1773b5fb8fa56e3",
+  "approval": {
+    "kind": "human",
+    "reviewer": "ユーザー（Codex会話）",
+    "recordedAt": "2026-10-06T16:39:21.516Z",
+    "contentHash": "f447b9b1c38c8eb280d61efbd10ded2a165c43a17f0e93a3a1773b5fb8fa56e3",
+    "basis": "新しい10枚の線画一覧を確認し「この10枚を正式採用する」と回答"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "borderColor": "#cfe4e7",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/fruit.608968428943b851e1fd0b338d997f280bfeb8f5ffef47b835a0b806bf34b0b4.png",
+      "x": 58.893192923052034,
+      "y": 12.194917743563678,
+      "width": 72.21361415389593,
+      "height": 75.61016451287263,
+      "rotation": 11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/candy.0acf39cd0d44b2520cfe61d14e9004549f6448c872ed567401cdf1c9914a0d27.png",
+      "x": 54.00499660970536,
+      "y": 1932.545096212726,
+      "width": 81.99000678058928,
+      "height": 34.909807574547784,
+      "rotation": -14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/candy.0acf39cd0d44b2520cfe61d14e9004549f6448c872ed567401cdf1c9914a0d27.png",
+      "x": 349.2477468717159,
+      "y": 34.77736097272278,
+      "width": 71.5045062565682,
+      "height": 30.445278054554432,
+      "rotation": -11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/fruit.608968428943b851e1fd0b338d997f280bfeb8f5ffef47b835a0b806bf34b0b4.png",
+      "x": 354.7898467219132,
+      "y": 1918.3689192671156,
+      "width": 60.42030655617365,
+      "height": 63.26216146576873,
+      "rotation": 14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/fruit.608968428943b851e1fd0b338d997f280bfeb8f5ffef47b835a0b806bf34b0b4.png",
+      "x": 621.3550206782985,
+      "y": 14.772536988320702,
+      "width": 67.28995864340303,
+      "height": 70.45492602335858,
+      "rotation": 11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/candy.0acf39cd0d44b2520cfe61d14e9004549f6448c872ed567401cdf1c9914a0d27.png",
+      "x": 616.8001104772254,
+      "y": 1933.735203289131,
+      "width": 76.39977904554911,
+      "height": 32.52959342173771,
+      "rotation": -14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/candy.0acf39cd0d44b2520cfe61d14e9004549f6448c872ed567401cdf1c9914a0d27.png",
+      "x": 903.6026542725132,
+      "y": 32.37378638946849,
+      "width": 82.7946914549737,
+      "height": 35.25242722106302,
+      "rotation": -11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/fruit.608968428943b851e1fd0b338d997f280bfeb8f5ffef47b835a0b806bf34b0b4.png",
+      "x": 910.01982252011,
+      "y": 1913.3745380987655,
+      "width": 69.96035495978,
+      "height": 73.25092380246905,
+      "rotation": 14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/fruit.608968428943b851e1fd0b338d997f280bfeb8f5ffef47b835a0b806bf34b0b4.png",
+      "x": 1183.816848433545,
+      "y": 17.350156233077726,
+      "width": 62.36630313291012,
+      "height": 65.29968753384455,
+      "rotation": 11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/candy.0acf39cd0d44b2520cfe61d14e9004549f6448c872ed567401cdf1c9914a0d27.png",
+      "x": 1179.5952243447455,
+      "y": 1934.9253103655362,
+      "width": 70.80955131050892,
+      "height": 30.14937926892763,
+      "rotation": -14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/candy.0acf39cd0d44b2520cfe61d14e9004549f6448c872ed567401cdf1c9914a0d27.png",
+      "x": 1466.4252005721146,
+      "y": 33.575573681095634,
+      "width": 77.14959885577096,
+      "height": 32.84885263780873,
+      "rotation": -11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/fruit.608968428943b851e1fd0b338d997f280bfeb8f5ffef47b835a0b806bf34b0b4.png",
+      "x": 1472.4048346210116,
+      "y": 1915.8717286829406,
+      "width": 65.19033075797682,
+      "height": 68.25654263411889,
+      "rotation": 14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/fruit.608968428943b851e1fd0b338d997f280bfeb8f5ffef47b835a0b806bf34b0b4.png",
+      "x": 9.4787972748857,
+      "y": 362.80806585836706,
+      "width": 71.0424054502286,
+      "height": 74.38386828326594,
+      "rotation": -3,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/fruit.608968428943b851e1fd0b338d997f280bfeb8f5ffef47b835a0b806bf34b0b4.png",
+      "x": 1520.9634619608826,
+      "y": 434.3625613987154,
+      "width": 68.073076078235,
+      "height": 71.27487720256917,
+      "rotation": 6,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/candy.0acf39cd0d44b2520cfe61d14e9004549f6448c872ed567401cdf1c9914a0d27.png",
+      "x": 6.798907231708824,
+      "y": 743.734690969751,
+      "width": 76.40218553658235,
+      "height": 32.53061806049796,
+      "rotation": -3,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/candy.0acf39cd0d44b2520cfe61d14e9004549f6448c872ed567401cdf1c9914a0d27.png",
+      "x": 1517.4649247396621,
+      "y": 814.0182687368092,
+      "width": 75.07015052067584,
+      "height": 31.96346252638151,
+      "rotation": 6,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/fruit.608968428943b851e1fd0b338d997f280bfeb8f5ffef47b835a0b806bf34b0b4.png",
+      "x": 9.4787972748857,
+      "y": 1082.808065858367,
+      "width": 71.0424054502286,
+      "height": 74.38386828326594,
+      "rotation": -3,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/fruit.608968428943b851e1fd0b338d997f280bfeb8f5ffef47b835a0b806bf34b0b4.png",
+      "x": 1520.9634619608826,
+      "y": 1154.3625613987153,
+      "width": 68.073076078235,
+      "height": 71.27487720256917,
+      "rotation": 6,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/candy.0acf39cd0d44b2520cfe61d14e9004549f6448c872ed567401cdf1c9914a0d27.png",
+      "x": 6.798907231708824,
+      "y": 1463.734690969751,
+      "width": 76.40218553658235,
+      "height": 32.53061806049796,
+      "rotation": -3,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/candy.0acf39cd0d44b2520cfe61d14e9004549f6448c872ed567401cdf1c9914a0d27.png",
+      "x": 1517.4649247396621,
+      "y": 1534.0182687368092,
+      "width": 75.07015052067584,
+      "height": 31.96346252638151,
+      "rotation": 6,
+      "opacity": 0.78
+    }
+  ]
+}

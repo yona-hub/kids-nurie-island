@@ -1,0 +1,2494 @@
+{
+  "schemaVersion": 1,
+  "measuredAt": "2026-10-06T16:20:34.658Z",
+  "templateId": "gen-tree-friends-v4",
+  "originalSha256": "37736bbc37ce78f37849322dc5325e938e5f3403beca76e74e24765617a423a0",
+  "templateSha256": "ccd9e6a6f2e101e2688173b8a685eac0496611c4869a9c602a1b9505b7457585",
+  "sourcePath": "content/generated-lineart/originals/animals-v4.png",
+  "templatePath": "tools/asset-pipeline/output/gen-tree-friends-v4/template.json",
+  "mobileScreen": {
+    "width": 390,
+    "height": 844
+  },
+  "contentSize": {
+    "width": 344,
+    "height": 430
+  },
+  "pixelRatio": 2,
+  "method": "Real ColoringEngine with @napi-rs/canvas. Test-only approved copy; original approval is unchanged. Every labelPoint is transformed through a constrained 4× viewport, rounded to integer CSS pixels, converted back with production screenToLogical, hit-tested with assist on/off, painted, erased, and sampled in the backing canvas and decoded 2048×2560 PNG. This is automated reachability evidence, not a child usability study. Jitter samples report neighboring-region conflicts; widths below 17 logical px are not exception candidates.",
+  "png": {
+    "width": 2048,
+    "height": 2560,
+    "paintedSha256": "ab75155798a705ad24782887bfc50acb74b0c41230bc4224c87023ec1c13bbe3",
+    "erasedSha256": "46fd5f2d58a31f9c9be952f4e5c88ca6f300d7ce179ea71ee682d899b9b2cdc6",
+    "erasedEqualsBlank": true
+  },
+  "pass": true,
+  "regions": [
+    {
+      "id": "r01",
+      "pathSha256": "2da2a53134af0682c9a7a0380bdfcdfb5bb6d1158a5b6b788e52677c08f2cf4d",
+      "name": "木の葉の中央",
+      "usableDiameter": 413.265,
+      "screenDiameterAtZoom4": 355.408,
+      "labelPoint": {
+        "x": 809,
+        "y": 428
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -523.74,
+        "y": -153.07999999999998
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 809,
+        "y": 428
+      },
+      "directHit": "r01",
+      "assistedHit": "r01",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        222,
+        44,
+        114,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        222,
+        44,
+        114,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r02",
+      "pathSha256": "bbe3789052d242852705a6f9de2095ce79988b584a8a62b347a2385ec6abdf1c",
+      "name": "木の葉の左",
+      "usableDiameter": 192.146,
+      "screenDiameterAtZoom4": 165.246,
+      "labelPoint": {
+        "x": 305,
+        "y": 691
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -90.30000000000001,
+        "y": -379.26
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 305,
+        "y": 691
+      },
+      "directHit": "r02",
+      "assistedHit": "r02",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        223,
+        44,
+        114,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        223,
+        44,
+        114,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r03",
+      "pathSha256": "c2b16c2a7ac04a9a4ab3e596d47ad1ea6d98377b3e5dfb752bfd2b8a74e826d0",
+      "name": "木の葉の右",
+      "usableDiameter": 175.581,
+      "screenDiameterAtZoom4": 151,
+      "labelPoint": {
+        "x": 1041,
+        "y": 657
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -723.26,
+        "y": -350.02
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 1041,
+        "y": 657
+      },
+      "directHit": "r03",
+      "assistedHit": "r03",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        223,
+        45,
+        115,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        223,
+        45,
+        115,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r04",
+      "pathSha256": "60531489ea71e09e259bb1a26aa1b97b9071d6455299e9e905e30b68b2a7bb44",
+      "name": "左の一枚の葉",
+      "usableDiameter": 59.119,
+      "screenDiameterAtZoom4": 50.842,
+      "labelPoint": {
+        "x": 431,
+        "y": 641
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -198.66000000000003,
+        "y": -336.26
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 431,
+        "y": 641
+      },
+      "directHit": "r04",
+      "assistedHit": "r04",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        224,
+        50,
+        118,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        224,
+        50,
+        118,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r06",
+      "pathSha256": "5d81beadee2cd3906db46f6fb869fcb8cecfa645f366cf11655ec9a591d97652",
+      "name": "右の一枚の葉",
+      "usableDiameter": 63.15,
+      "screenDiameterAtZoom4": 54.309,
+      "labelPoint": {
+        "x": 1227,
+        "y": 654
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -883.22,
+        "y": -347.44000000000005
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 1227,
+        "y": 654
+      },
+      "directHit": "r06",
+      "assistedHit": "r06",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        222,
+        41,
+        112,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        222,
+        41,
+        112,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r07",
+      "pathSha256": "1f691749788888498e07fcf377efa8b6d820a06ebe1fe2528ae071b98f5f36c4",
+      "name": "木の幹",
+      "usableDiameter": 131.6,
+      "screenDiameterAtZoom4": 113.176,
+      "labelPoint": {
+        "x": 792,
+        "y": 880
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -509.12,
+        "y": -541.8
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 792,
+        "y": 880
+      },
+      "directHit": "r07",
+      "assistedHit": "r07",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        223,
+        42,
+        113,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        223,
+        42,
+        113,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r10",
+      "pathSha256": "1f581f6ba945fca9a1dbfc4000e25b2c0d381f7f355bfc3713e9e8b641fbd649",
+      "name": "犬の顔と体と左耳",
+      "usableDiameter": 184.146,
+      "screenDiameterAtZoom4": 158.366,
+      "labelPoint": {
+        "x": 649,
+        "y": 1355
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -386.14,
+        "y": -950.3
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 649,
+        "y": 1355
+      },
+      "directHit": "r10",
+      "assistedHit": "r10",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        219,
+        36,
+        108,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        219,
+        36,
+        108,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r11",
+      "pathSha256": "ee321f7786316a3771dbd4607e1f82d525c07beb096fc1a54082d1c372ea4088",
+      "name": "犬の右耳",
+      "usableDiameter": 81.088,
+      "screenDiameterAtZoom4": 69.736,
+      "labelPoint": {
+        "x": 803,
+        "y": 1038
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -518.58,
+        "y": -677.68
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 803,
+        "y": 1038
+      },
+      "directHit": "r11",
+      "assistedHit": "r11",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        220,
+        36,
+        108,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        220,
+        36,
+        108,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r12",
+      "pathSha256": "966e08613a9d8ef93107d22f32331a7c66e0d55eb532b193e31f9c13e7e4e1b1",
+      "name": "猫の左耳の外側",
+      "usableDiameter": 28.363,
+      "screenDiameterAtZoom4": 24.392,
+      "labelPoint": {
+        "x": 1000,
+        "y": 1040
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -688,
+        "y": -679.4
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 1000,
+        "y": 1040
+      },
+      "directHit": "r12",
+      "assistedHit": "r12",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        217,
+        36,
+        107,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        218,
+        36,
+        107,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r13",
+      "pathSha256": "a5486ad208ef92f943a80191efd79c7e7d9336a77dc6e8432c78c63383cae005",
+      "name": "犬の右の瞳",
+      "usableDiameter": 32.757,
+      "screenDiameterAtZoom4": 28.171,
+      "labelPoint": {
+        "x": 704,
+        "y": 1055
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -433.44000000000005,
+        "y": -692.3
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 704,
+        "y": 1055
+      },
+      "directHit": "r13",
+      "assistedHit": "r13",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r14",
+      "pathSha256": "3ce67bc42c38d24557a6bcd665e41b868c39b66441373261957e46347a9db485",
+      "name": "犬の右の瞳のハイライト",
+      "usableDiameter": 25.969,
+      "screenDiameterAtZoom4": 22.333,
+      "labelPoint": {
+        "x": 690,
+        "y": 1017
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -421.4,
+        "y": -659.62
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 690,
+        "y": 1017
+      },
+      "directHit": "r14",
+      "assistedHit": "r14",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r15",
+      "pathSha256": "d8dfe14c125db709d0e81a9b1f547a7e1966f3eccc164c6a45a55004cc065a57",
+      "name": "猫の左耳の内側",
+      "usableDiameter": 37.15,
+      "screenDiameterAtZoom4": 31.949,
+      "labelPoint": {
+        "x": 958,
+        "y": 1045
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -651.88,
+        "y": -683.7
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 958,
+        "y": 1045
+      },
+      "directHit": "r15",
+      "assistedHit": "r15",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        222,
+        42,
+        113,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        222,
+        42,
+        113,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r16",
+      "pathSha256": "949aae2fbcba5b917e3ffb2a77d8de27ff62dc309b70d22dcbb1f2f2ac091df7",
+      "name": "犬の左の瞳",
+      "usableDiameter": 41.544,
+      "screenDiameterAtZoom4": 35.728,
+      "labelPoint": {
+        "x": 549,
+        "y": 1119
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -300.14,
+        "y": -747.34
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 549,
+        "y": 1119
+      },
+      "directHit": "r16",
+      "assistedHit": "r16",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r17",
+      "pathSha256": "8645768517462f0678177ef104ecf48401ea7aed12fa2e416adcb4291600afd7",
+      "name": "犬の左の瞳のハイライト",
+      "usableDiameter": 36,
+      "screenDiameterAtZoom4": 30.96,
+      "labelPoint": {
+        "x": 536,
+        "y": 1072
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -288.96,
+        "y": -706.92
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 536,
+        "y": 1072
+      },
+      "directHit": "r17",
+      "assistedHit": "r17",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r18",
+      "pathSha256": "441b8bcb140f6919ed7335f945cb2fecd5e7cad60c0e84ce52dc4018f752f06a",
+      "name": "犬の鼻",
+      "usableDiameter": 33.969,
+      "screenDiameterAtZoom4": 29.213,
+      "labelPoint": {
+        "x": 667,
+        "y": 1110
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -401.62,
+        "y": -739.6
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 667,
+        "y": 1110
+      },
+      "directHit": "r18",
+      "assistedHit": "r18",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        222,
+        41,
+        112,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        222,
+        41,
+        112,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r19",
+      "pathSha256": "21100de3b54358377cb810f2e1977f8d108ab4be3c6d550684a4a29672e81713",
+      "name": "猫の顔と胸",
+      "usableDiameter": 150.208,
+      "screenDiameterAtZoom4": 129.179,
+      "labelPoint": {
+        "x": 971,
+        "y": 1438
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -663.06,
+        "y": -1021.6800000000001
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 971,
+        "y": 1438
+      },
+      "directHit": "r19",
+      "assistedHit": "r19",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        221,
+        36,
+        109,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        221,
+        36,
+        109,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r20",
+      "pathSha256": "78808a12692ea751631a3e1b0b1b4e8a37016562ba11fd63c9713ec2cd5d658c",
+      "name": "猫の右耳の内側",
+      "usableDiameter": 49.938,
+      "screenDiameterAtZoom4": 42.947,
+      "labelPoint": {
+        "x": 1205,
+        "y": 1132
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -864.3,
+        "y": -758.52
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 1205,
+        "y": 1132
+      },
+      "directHit": "r20",
+      "assistedHit": "r20",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        222,
+        43,
+        114,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        222,
+        43,
+        114,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r21",
+      "pathSha256": "b580bdffd0fee8e9fe0ce9a487f4bfb987f20371d89a9d44aa8348c363e6ef72",
+      "name": "犬の口",
+      "usableDiameter": 47.557,
+      "screenDiameterAtZoom4": 40.899,
+      "labelPoint": {
+        "x": 674,
+        "y": 1202
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -407.64,
+        "y": -818.72
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 674,
+        "y": 1202
+      },
+      "directHit": "r21",
+      "assistedHit": "r21",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        221,
+        39,
+        110,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        221,
+        39,
+        110,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r22",
+      "pathSha256": "1fd5c37aee43ffdc2bf92a373f3ff5e9c6408fbeb0ec340b332992006d5d7452",
+      "name": "猫の左の瞳",
+      "usableDiameter": 31.963,
+      "screenDiameterAtZoom4": 27.488,
+      "labelPoint": {
+        "x": 922,
+        "y": 1207
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -620.92,
+        "y": -823.02
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 922,
+        "y": 1207
+      },
+      "directHit": "r22",
+      "assistedHit": "r22",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r23",
+      "pathSha256": "6f5e22acd30643d00ff419d915c7b8f715ddf866d2a3a253e02fe8d41cc4f3b8",
+      "name": "猫の左の瞳のハイライト",
+      "usableDiameter": 27.569,
+      "screenDiameterAtZoom4": 23.709,
+      "labelPoint": {
+        "x": 921,
+        "y": 1168
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -620.06,
+        "y": -789.48
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 921,
+        "y": 1168
+      },
+      "directHit": "r23",
+      "assistedHit": "r23",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r24",
+      "pathSha256": "7f6305505a3af579b51ca6f7dc360ce21b7964bb93e6d8a42ee734f8b98865c3",
+      "name": "犬の右前脚",
+      "usableDiameter": 115.451,
+      "screenDiameterAtZoom4": 99.288,
+      "labelPoint": {
+        "x": 737,
+        "y": 1674
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -461.82000000000005,
+        "y": -1224.64
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 737,
+        "y": 1674
+      },
+      "directHit": "r24",
+      "assistedHit": "r24",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        219,
+        36,
+        108,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        219,
+        36,
+        108,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r25",
+      "pathSha256": "3dbb3e9c4326018ebb60a2f1e9fdf3442b24adb848dc92a89a1fe2400c6a4d27",
+      "name": "猫の右の瞳",
+      "usableDiameter": 34,
+      "screenDiameterAtZoom4": 29.24,
+      "labelPoint": {
+        "x": 1062,
+        "y": 1257
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -741.32,
+        "y": -866.02
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 1062,
+        "y": 1257
+      },
+      "directHit": "r25",
+      "assistedHit": "r25",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r26",
+      "pathSha256": "10b6ea3babb36f7c1691b6c032b8e711502fa6a65b07a1ee9a119d04448ae6be",
+      "name": "猫の右の瞳のハイライト",
+      "usableDiameter": 29.594,
+      "screenDiameterAtZoom4": 25.451,
+      "labelPoint": {
+        "x": 1059,
+        "y": 1216
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -738.74,
+        "y": -830.76
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 1059,
+        "y": 1216
+      },
+      "directHit": "r26",
+      "assistedHit": "r26",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r27",
+      "pathSha256": "d1789c907febbee73f85893c54683104ff6dec66d1b37d9fb2dcba7f28831fc5",
+      "name": "犬の後脚",
+      "usableDiameter": 176.27,
+      "screenDiameterAtZoom4": 151.592,
+      "labelPoint": {
+        "x": 386,
+        "y": 1554
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -159.95999999999998,
+        "y": -1121.44
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 386,
+        "y": 1554
+      },
+      "directHit": "r27",
+      "assistedHit": "r27",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        221,
+        36,
+        109,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        221,
+        36,
+        109,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r28",
+      "pathSha256": "99cb0e6fdfe4974bf5d01f2d1af3c7b799bbfe81f73da60364bd877206f292fa",
+      "name": "猫の鼻",
+      "usableDiameter": 18.394,
+      "screenDiameterAtZoom4": 15.819,
+      "labelPoint": {
+        "x": 972,
+        "y": 1247
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -663.92,
+        "y": -857.4200000000001
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 972,
+        "y": 1247
+      },
+      "directHit": "r28",
+      "assistedHit": "r28",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        223,
+        43,
+        114,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        222,
+        43,
+        114,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 5,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": true,
+      "limitation": null
+    },
+    {
+      "id": "r29",
+      "pathSha256": "3c816cbc5e7520cba5a41292fd193c1c9241985e254251ecd6c09b0c696a93e7",
+      "name": "犬のしっぽ",
+      "usableDiameter": 97.482,
+      "screenDiameterAtZoom4": 83.835,
+      "labelPoint": {
+        "x": 253,
+        "y": 1456
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -45.58000000000001,
+        "y": -1037.16
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 253,
+        "y": 1456
+      },
+      "directHit": "r29",
+      "assistedHit": "r29",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        220,
+        36,
+        108,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        220,
+        36,
+        108,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r30",
+      "pathSha256": "5aeeb4260ace7e1e5243ab8d4750a22a8275e72681b60fa1e1ac156a740e28d1",
+      "name": "猫のしっぽ",
+      "usableDiameter": 139.008,
+      "screenDiameterAtZoom4": 119.547,
+      "labelPoint": {
+        "x": 1327,
+        "y": 1391
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -969.22,
+        "y": -981.26
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 1327,
+        "y": 1391
+      },
+      "directHit": "r30",
+      "assistedHit": "r30",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        222,
+        36,
+        109,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r31",
+      "pathSha256": "1a186a61904d9e01136742ca986e1e996440bf2a58b0348fdec3db556453d196",
+      "name": "猫の左前脚",
+      "usableDiameter": 94,
+      "screenDiameterAtZoom4": 80.84,
+      "labelPoint": {
+        "x": 928,
+        "y": 1590
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -626.08,
+        "y": -1152.4
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 928,
+        "y": 1590
+      },
+      "directHit": "r31",
+      "assistedHit": "r31",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        220,
+        36,
+        108,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        220,
+        36,
+        108,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    },
+    {
+      "id": "r32",
+      "pathSha256": "191f3e33d397379b1ea3252867012c78095263675832cf74313f518626b09517",
+      "name": "猫の体と右前脚",
+      "usableDiameter": 152.189,
+      "screenDiameterAtZoom4": 130.883,
+      "labelPoint": {
+        "x": 1191,
+        "y": 1599
+      },
+      "viewport": {
+        "scale": 4,
+        "x": -852.26,
+        "y": -1160.14
+      },
+      "screenPoint": {
+        "x": 172,
+        "y": 215
+      },
+      "roundTrip": {
+        "x": 1191,
+        "y": 1599
+      },
+      "directHit": "r32",
+      "assistedHit": "r32",
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blankDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedDisplayPixel": [
+        220,
+        36,
+        108,
+        255
+      ],
+      "erasedDisplayPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "blankPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPngPixel": [
+        220,
+        36,
+        108,
+        255
+      ],
+      "erasedPngPixel": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "jitter": [
+        {
+          "radiusCssPx": 4,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        },
+        {
+          "radiusCssPx": 8,
+          "samples": 8,
+          "directTargetHits": 8,
+          "assistedTargetHits": 8,
+          "misses": 0,
+          "conflicts": {}
+        }
+      ],
+      "widthExceptionCandidate": false,
+      "limitation": null
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-princess-bunny-v6-storybook-v2",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "contentHash": "8548ce14c2021711059c464afac611047f0dd513a96d2a0775c517b9a7e10f26",
+    "reviewer": "Codex vector artwork author",
+    "basis": "I17 implementation candidate; not a transfer of I5 adoption or prior PASS"
+  }
+}

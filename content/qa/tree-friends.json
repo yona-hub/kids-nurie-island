@@ -1,0 +1,180 @@
+{
+  "templateId": "tree-friends",
+  "pass": true,
+  "regionCount": 25,
+  "expectedRegionRange": [
+    20,
+    25
+  ],
+  "errors": [],
+  "warnings": [],
+  "closedRegions": 25,
+  "backgroundLeak": false,
+  "closureMethod": "explicit SVG Z paths; background excluded by compiled visible region masks",
+  "minimumBoundsWidth": 61,
+  "minimumUsableDiameter": 48,
+  "minVisibleArea": 2980,
+  "blackRatio": 0.0570975,
+  "whiteRatio": 0.92823,
+  "antiAliasRatio": 0.0146725,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "木のみき",
+      "visibleArea": 74864,
+      "usableDiameter": 164.45
+    },
+    {
+      "id": "r02",
+      "name": "左の枝",
+      "visibleArea": 20764,
+      "usableDiameter": 98.51
+    },
+    {
+      "id": "r03",
+      "name": "右の枝",
+      "visibleArea": 22820,
+      "usableDiameter": 108
+    },
+    {
+      "id": "r04",
+      "name": "木の葉・左",
+      "visibleArea": 160204,
+      "usableDiameter": 308
+    },
+    {
+      "id": "r05",
+      "name": "木の葉・右",
+      "visibleArea": 157324,
+      "usableDiameter": 244
+    },
+    {
+      "id": "r06",
+      "name": "木の葉・まんなか",
+      "visibleArea": 147476,
+      "usableDiameter": 365.14
+    },
+    {
+      "id": "r07",
+      "name": "葉っぱ・左",
+      "visibleArea": 8432,
+      "usableDiameter": 76
+    },
+    {
+      "id": "r08",
+      "name": "葉っぱ・右",
+      "visibleArea": 7488,
+      "usableDiameter": 73.54
+    },
+    {
+      "id": "r09",
+      "name": "いぬのしっぽ",
+      "visibleArea": 12684,
+      "usableDiameter": 81.54
+    },
+    {
+      "id": "r10",
+      "name": "いぬのからだ",
+      "visibleArea": 50188,
+      "usableDiameter": 128
+    },
+    {
+      "id": "r11",
+      "name": "いぬの左足",
+      "visibleArea": 20360,
+      "usableDiameter": 108
+    },
+    {
+      "id": "r12",
+      "name": "いぬの右足",
+      "visibleArea": 19376,
+      "usableDiameter": 108
+    },
+    {
+      "id": "r13",
+      "name": "いぬの胸",
+      "visibleArea": 20640,
+      "usableDiameter": 136
+    },
+    {
+      "id": "r14",
+      "name": "いぬの左耳",
+      "visibleArea": 24228,
+      "usableDiameter": 96
+    },
+    {
+      "id": "r15",
+      "name": "いぬの右耳",
+      "visibleArea": 19676,
+      "usableDiameter": 79.31
+    },
+    {
+      "id": "r16",
+      "name": "いぬの顔",
+      "visibleArea": 70008,
+      "usableDiameter": 192
+    },
+    {
+      "id": "r17",
+      "name": "いぬの口のまわり",
+      "visibleArea": 23160,
+      "usableDiameter": 148
+    },
+    {
+      "id": "r18",
+      "name": "いぬのくびわ",
+      "visibleArea": 11452,
+      "usableDiameter": 48
+    },
+    {
+      "id": "r19",
+      "name": "ねこのしっぽ",
+      "visibleArea": 17180,
+      "usableDiameter": 69.66
+    },
+    {
+      "id": "r20",
+      "name": "ねこのからだ",
+      "visibleArea": 72872,
+      "usableDiameter": 251.48
+    },
+    {
+      "id": "r21",
+      "name": "ねこの左足",
+      "visibleArea": 12768,
+      "usableDiameter": 96
+    },
+    {
+      "id": "r22",
+      "name": "ねこの右足",
+      "visibleArea": 12440,
+      "usableDiameter": 92
+    },
+    {
+      "id": "r23",
+      "name": "ねこの顔",
+      "visibleArea": 110624,
+      "usableDiameter": 313.47
+    },
+    {
+      "id": "r24",
+      "name": "ねこの左耳のなか",
+      "visibleArea": 4556,
+      "usableDiameter": 56.57
+    },
+    {
+      "id": "r25",
+      "name": "ねこの右耳のなか",
+      "visibleArea": 2980,
+      "usableDiameter": 48
+    }
+  ],
+  "contentHash": "f789fe1b3f652a1991bcb3b4579dae52eaffda0218f065d1d7a5cb9c4a876b55",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "f789fe1b3f652a1991bcb3b4579dae52eaffda0218f065d1d7a5cb9c4a876b55",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "baseColor": "#fff8f6",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/castle-tower.99be8eebd64398c41f798a042c97f574dc680afe6affa78d9f68c0b4110a6725.png",
+      "x": -130,
+      "y": 760,
+      "width": 430,
+      "height": 1036.0470588235294,
+      "rotation": 0,
+      "opacity": 0.34
+    },
+    {
+      "assetUrl": "/content/decor/castle-tower.99be8eebd64398c41f798a042c97f574dc680afe6affa78d9f68c0b4110a6725.png",
+      "x": 1370,
+      "y": 570,
+      "width": 390,
+      "height": 939.6705882352941,
+      "rotation": 0,
+      "opacity": 0.3
+    },
+    {
+      "assetUrl": "/content/decor/grass-cluster.3aad6528ef4a8b2104c6271ad1346a2adc4b4e4ae8a9f324a62e9e70f5f28f97.png",
+      "x": -120,
+      "y": 1650,
+      "width": 720,
+      "height": 367.734375,
+      "rotation": 0,
+      "opacity": 0.38
+    },
+    {
+      "assetUrl": "/content/decor/flower-cluster.6ef58f17ab03b0466f6d56ae03de090d2cdfae65f35162c18e713e21e547d8c1.png",
+      "x": 1220,
+      "y": 1750,
+      "width": 420,
+      "height": 222.3046875,
+      "rotation": 0,
+      "opacity": 0.63
+    },
+    {
+      "assetUrl": "/content/decor/flower-cluster.6ef58f17ab03b0466f6d56ae03de090d2cdfae65f35162c18e713e21e547d8c1.png",
+      "x": -60,
+      "y": 1770,
+      "width": 390,
+      "height": 206.42578125,
+      "rotation": 0,
+      "opacity": 0.55
+    }
+  ]
+}

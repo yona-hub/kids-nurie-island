@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/color-dots-atelier-v3-top.899bdc65d530e09f622fe88c69d609c2bc4ba79f322b84f03d4c288cf7b84fd6.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/color-dots-atelier-v3-bottom.08246658985089f697a07861b0ae0c0a8a618f2155317e05f9e37dac46b90e27.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/color-dots-atelier-v3-left.2e39c9ead61ac8f75b85c13a07c15b9e73b8c5689d76d3204bd803ae3f48dbb3.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/color-dots-atelier-v3-right.14d2f86e178fe6608c919e06e511de5b47b255bef00ebc8db14da4e75e7fb80a.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

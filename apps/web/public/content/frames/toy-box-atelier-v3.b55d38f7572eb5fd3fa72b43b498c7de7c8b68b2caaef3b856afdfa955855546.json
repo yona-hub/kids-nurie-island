@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/toy-box-atelier-v3-top.41a805e22ca2531291e0d33c904600792bd70c246bf24d2d744d587e87db6ada.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/toy-box-atelier-v3-bottom.7cc678e06fa5cecc576af9f7170bfbbefb845047ef3fadb4f6599e90206e8cd6.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/toy-box-atelier-v3-left.10dadb3ab611720eeec06f5bdc23c56e83ba83e555911460ad0d926415914dd6.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/toy-box-atelier-v3-right.ef79729bf7cbbabf9a7f426d1f48a3f0e6300b346bac4d65c83bed4baff40392.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

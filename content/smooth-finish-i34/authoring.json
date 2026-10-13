@@ -1,0 +1,279 @@
+{
+  "source": "Private generated masters; curves fitted to the retained paintable face geometry. Smooth finish only.",
+  "princess": {
+    "fieldBoundaryOverrides": [
+      {
+        "regionId": "r07",
+        "neighborRegionIds": ["r06", "r17"],
+        "complementRegionId": "r06",
+        "overlapWorld": 1,
+        "domainPath": "M774 644H840V694H774Z",
+        "regionPath": "M774 644H817.55C815.27 650 814.5 665 807.5 675C801.9 683 791.9 687.5 777.015 694H774Z"
+      }
+    ],
+    "eyeLighting": {
+      "r10": {
+        "reflection": [
+          0.18,
+          -0.25
+        ],
+        "glint": [
+          -0.24,
+          0.24
+        ]
+      },
+      "r12": {
+        "reflection": [
+          0.18,
+          -0.25
+        ],
+        "glint": [
+          -0.24,
+          0.24
+        ]
+      }
+    },
+    "noseZone": {
+      "regionId": "r07",
+      "x": 693,
+      "y": 582,
+      "width": 80,
+      "height": 52
+    },
+    "surfaceOverrides": [
+      {
+        "regionId": "r41",
+        "path": "M925 1320H980V1395H925Z"
+      },
+      {
+        "regionId": "r07",
+        "path": "M814 607H837V635H814Z"
+      }
+    ],
+    "featureErasePath": "M925 1320H980V1395H925Z",
+    "brows": [
+      "M629 508 C642 491 669 492 683 509 C663 502 646 502 629 508 Z",
+      "M811 506 C827 495 842 509 848 539 C839 521 825 511 811 506 Z"
+    ],
+    "mouth": {
+      "regionId": "r16",
+      "teethPath": "M675 638 Q700 648 727 650 Q708 659 688 650 Z"
+    },
+    "lashShapes": {
+      "r10": [
+        "M625 541 C615 539 609 534 608 529 C608 539 613 547 622 549 Z",
+        "M635 531 C627 528 624 521 625 517 C620 524 623 533 629 536 Z"
+      ],
+      "r12": [
+        "M829 593 C839 594 848 589 851 584 C846 598 838 603 828 601 Z",
+        "M829 584 C836 583 840 579 841 575 C843 584 838 589 831 590 Z"
+      ]
+    }
+  },
+  "magic": {
+    "eyeLighting": {
+      "r10": {
+        "reflection": [
+          -0.2,
+          -0.25
+        ],
+        "glint": [
+          0.22,
+          0.26
+        ]
+      },
+      "r15": {
+        "reflection": [
+          -0.2,
+          -0.25
+        ],
+        "glint": [
+          0.22,
+          0.26
+        ]
+      }
+    },
+    "noseZone": {
+      "regionId": "r06",
+      "x": 742,
+      "y": 628,
+      "width": 80,
+      "height": 72
+    },
+    "enclosedRepairs": [
+      {
+        "regionId": "r18",
+        "seed": [
+          710,
+          795
+        ],
+        "maxPixels": 1000
+      }
+    ],
+    "brows": [
+      "M679 544 C691 514 735 511 748 536 C719 530 697 533 679 544 Z",
+      "M860 562 C878 553 900 573 908 600 C893 578 876 567 860 562 Z"
+    ],
+    "mouth": {
+      "regionId": "r16",
+      "teethPath": "M734 705 Q774 715 812 705 Q801 718 752 715 Z"
+    }
+  },
+  "space": {
+    "eyeLighting": {
+      "r17": {
+        "reflection": [
+          0.18,
+          -0.25
+        ],
+        "glint": [
+          -0.22,
+          0.26
+        ]
+      },
+      "r18": {
+        "reflection": [
+          0.18,
+          -0.25
+        ],
+        "glint": [
+          -0.22,
+          0.26
+        ]
+      }
+    },
+    "noseZone": {
+      "regionId": "r14",
+      "x": 1025,
+      "y": 962,
+      "width": 82,
+      "height": 53
+    },
+    "enclosedRepairs": [
+      {
+        "regionId": "r12",
+        "seed": [
+          1200,
+          1105
+        ],
+        "maxPixels": 1000
+      }
+    ],
+    "brows": [
+      "M921 906 C932 882 959 876 975 887 C952 886 935 894 921 906 Z",
+      "M1090 863 C1113 839 1142 852 1155 872 C1134 859 1115 855 1090 863 Z"
+    ],
+    "mouth": {
+      "regionId": "r22"
+    }
+  },
+  "flowers": {
+    "insets": [
+      {
+        "regionId": "r09",
+        "tone": "dark",
+        "path": "M1159 361 C1164 357 1168 365 1165 369 C1162 373 1158 367 1159 361 Z M1186 347 C1189 342 1196 346 1195 352 C1194 358 1186 355 1186 347 Z"
+      },
+      {
+        "regionId": "r09",
+        "tone": "light",
+        "path": "M1160 361 A1.1 1.4 0 1 0 1162.2 361 A1.1 1.4 0 1 0 1160 361 M1188 347 A1.4 1.6 0 1 0 1190.8 347 A1.4 1.6 0 1 0 1188 347"
+      }
+    ]
+  },
+  "vehicles": {
+    "enclosedRepairs": [
+      {
+        "regionId": "r10",
+        "seed": [
+          440,
+          1010
+        ],
+        "maxPixels": 2000
+      }
+    ],
+    "whiteDetailOwners": {
+      "0": "r07",
+      "1": "r07",
+      "2": "r10"
+    },
+    "surfaceOverrides": [
+      {
+        "regionId": "r10",
+        "path": "M375 975H535V1060C510 1036 494 1018 472 1018C426 1014 399 1048 375 1080Z"
+      },
+      {
+        "regionId": "r07",
+        "path": "M155 845H240V894H155Z"
+      }
+    ],
+    "sourceLightingZones": [
+      {
+        "regionId": "r10",
+        "x": 330,
+        "y": 940,
+        "width": 250,
+        "height": 180,
+        "feather": 45
+      },
+      {
+        "regionId": "r07",
+        "x": 125,
+        "y": 810,
+        "width": 145,
+        "height": 115,
+        "feather": 30
+      }
+    ],
+    "regionColorFieldFitting": {
+      "r13": {
+        "error": 6
+      },
+      "r19": {
+        "error": 6
+      },
+      "r29": {
+        "error": 6
+      }
+    }
+  },
+  "robots": {
+    "enclosedRepairs": [
+      {
+        "regionId": "r25",
+        "seed": [
+          1119,
+          1120
+        ],
+        "maxPixels": 1000
+      }
+    ]
+  },
+  "ocean": {
+    "sourceMouths": [
+      {
+        "regionId": "r06",
+        "path": "M1005 580C1026 606 1062 615 1100 623C1102 645 1114 685 1096 690C1061 690 1034 649 1005 580Z"
+      },
+      {
+        "regionId": "r33",
+        "path": "M557 1250Q585 1262 621 1250Q618 1289 593 1293Q571 1289 557 1250Z"
+      }
+    ]
+  },
+  "construction": {
+    "enclosedRepairs": [
+      {
+        "regionId": "r10",
+        "seed": [
+          861,
+          510
+        ],
+        "maxPixels": 1000
+      }
+    ]
+  },
+  "dinosaurs": {
+    "featureErasePath": "M540 480H590V520H540Z"
+  }
+}

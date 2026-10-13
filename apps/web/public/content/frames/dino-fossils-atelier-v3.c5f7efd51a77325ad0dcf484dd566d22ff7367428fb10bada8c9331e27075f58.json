@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/dino-fossils-atelier-v3-top.84e4c4941759f3c8bdbd362848c8fe5d7c80ebc80a4692bb51332de33d5ee7ad.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/dino-fossils-atelier-v3-bottom.b66ac04273c2167551306786148fafd92c7049a85b99927dc9db8ba0bd3ca1e6.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/dino-fossils-atelier-v3-left.dc2ca276fa31d45592ac5c227436c87e7f033219db0841478513c593d8a48ff5.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/dino-fossils-atelier-v3-right.88932922cd3e1c586d9dbc8e37d39c7977e78c66ea024915f9ddc867e1bc4aa0.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

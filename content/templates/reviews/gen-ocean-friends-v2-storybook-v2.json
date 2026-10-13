@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-ocean-friends-v2-storybook-v2",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "contentHash": "4345b0b4639090f2693150631c9008591d428035f777652dbe44e36a9a8d1174",
+    "reviewer": "Codex vector artwork author",
+    "basis": "I17 implementation candidate; not a transfer of I5 adoption or prior PASS"
+  }
+}

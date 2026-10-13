@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-tree-friends-v4-storybook-v1",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-07T17:12:16.796Z",
+    "contentHash": "dd284c334a5b439c5450c00127a7aec839c34f905e1ca3b16b00f8a161ea1e53",
+    "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+  }
+}

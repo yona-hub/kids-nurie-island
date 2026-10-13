@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-princess-bunny-v6-master-v3",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "contentHash": "079b9cfe87ae79756821185439768bdcca8508b49d9c5f0f7cd5ae8ea666fba6",
+    "reviewer": "Codex princess master author",
+    "basis": "I19 one-princess prototype; no transferred human adoption"
+  }
+}

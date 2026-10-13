@@ -1,0 +1,235 @@
+[
+  {
+    "name": "@apideck/better-ajv-errors",
+    "version": "0.3.7",
+    "license": "MIT",
+    "url": "https://github.com/apideck-libraries/better-ajv-errors"
+  },
+  {
+    "name": "@opentelemetry/api",
+    "version": "1.9.1",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "@supabase/auth-js",
+    "version": "2.117.2",
+    "license": "MIT",
+    "url": "https://github.com/supabase/supabase-js"
+  },
+  {
+    "name": "@supabase/functions-js",
+    "version": "2.117.2",
+    "license": "MIT",
+    "url": "https://github.com/supabase/supabase-js"
+  },
+  {
+    "name": "@supabase/phoenix",
+    "version": "0.4.5",
+    "license": "MIT"
+  },
+  {
+    "name": "@supabase/postgrest-js",
+    "version": "2.117.2",
+    "license": "MIT",
+    "url": "https://github.com/supabase/supabase-js"
+  },
+  {
+    "name": "@supabase/realtime-js",
+    "version": "2.117.2",
+    "license": "MIT",
+    "url": "https://github.com/supabase/supabase-js"
+  },
+  {
+    "name": "@supabase/storage-js",
+    "version": "2.117.2",
+    "license": "MIT",
+    "url": "https://github.com/supabase/supabase-js"
+  },
+  {
+    "name": "@supabase/supabase-js",
+    "version": "2.117.2",
+    "license": "MIT",
+    "url": "https://github.com/supabase/supabase-js"
+  },
+  {
+    "name": "ajv",
+    "version": "8.20.0",
+    "license": "MIT"
+  },
+  {
+    "name": "Google Identity button styles",
+    "version": "2026-10-07 (adapted)",
+    "license": "Apache-2.0",
+    "url": "https://developers.google.com/identity/branding-guidelines"
+  },
+  {
+    "name": "Google Sans",
+    "version": "v71 (Google sign-in subset)",
+    "license": "OFL-1.1",
+    "url": "https://github.com/googlefonts/googlesans"
+  },
+  {
+    "name": "iceberg-js",
+    "version": "0.8.1",
+    "license": "MIT",
+    "url": "https://github.com/supabase/iceberg-js"
+  },
+  {
+    "name": "idb",
+    "version": "8.0.3",
+    "license": "ISC"
+  },
+  {
+    "name": "idb",
+    "version": "7.1.1",
+    "license": "ISC"
+  },
+  {
+    "name": "idb",
+    "version": "7.1.1",
+    "license": "ISC"
+  },
+  {
+    "name": "json-schema-traverse",
+    "version": "1.0.0",
+    "license": "MIT",
+    "url": "https://github.com/epoberezkin/json-schema-traverse"
+  },
+  {
+    "name": "lucide-react",
+    "version": "1.48.0",
+    "license": "ISC",
+    "url": "https://github.com/lucide-icons/lucide"
+  },
+  {
+    "name": "pretty-bytes",
+    "version": "5.6.0",
+    "license": "MIT"
+  },
+  {
+    "name": "react",
+    "version": "19.3.0",
+    "license": "MIT",
+    "url": "https://github.com/react/react"
+  },
+  {
+    "name": "react-dom",
+    "version": "19.3.0",
+    "license": "MIT",
+    "url": "https://github.com/react/react"
+  },
+  {
+    "name": "scheduler",
+    "version": "0.28.0",
+    "license": "MIT",
+    "url": "https://github.com/react/react"
+  },
+  {
+    "name": "tslib",
+    "version": "2.8.1",
+    "license": "0BSD",
+    "url": "https://github.com/Microsoft/tslib"
+  },
+  {
+    "name": "vite",
+    "version": "8.3.1",
+    "license": "MIT",
+    "url": "https://github.com/vitejs/vite"
+  },
+  {
+    "name": "workbox-background-sync",
+    "version": "7.4.1",
+    "license": "MIT",
+    "url": "https://github.com/googlechrome/workbox"
+  },
+  {
+    "name": "workbox-broadcast-update",
+    "version": "7.4.1",
+    "license": "MIT",
+    "url": "https://github.com/googlechrome/workbox"
+  },
+  {
+    "name": "workbox-build",
+    "version": "7.4.1",
+    "license": "MIT",
+    "url": "https://github.com/googlechrome/workbox"
+  },
+  {
+    "name": "workbox-cacheable-response",
+    "version": "7.4.1",
+    "license": "MIT",
+    "url": "https://github.com/googlechrome/workbox"
+  },
+  {
+    "name": "workbox-core",
+    "version": "7.4.1",
+    "license": "MIT",
+    "url": "https://github.com/googlechrome/workbox"
+  },
+  {
+    "name": "workbox-expiration",
+    "version": "7.4.1",
+    "license": "MIT",
+    "url": "https://github.com/googlechrome/workbox"
+  },
+  {
+    "name": "workbox-google-analytics",
+    "version": "7.4.1",
+    "license": "MIT",
+    "url": "https://github.com/googlechrome/workbox"
+  },
+  {
+    "name": "workbox-navigation-preload",
+    "version": "7.4.1",
+    "license": "MIT",
+    "url": "https://github.com/googlechrome/workbox"
+  },
+  {
+    "name": "workbox-precaching",
+    "version": "7.4.1",
+    "license": "MIT",
+    "url": "https://github.com/googlechrome/workbox"
+  },
+  {
+    "name": "workbox-range-requests",
+    "version": "7.4.1",
+    "license": "MIT",
+    "url": "https://github.com/googlechrome/workbox"
+  },
+  {
+    "name": "workbox-recipes",
+    "version": "7.4.1",
+    "license": "MIT",
+    "url": "https://github.com/googlechrome/workbox"
+  },
+  {
+    "name": "workbox-routing",
+    "version": "7.4.1",
+    "license": "MIT",
+    "url": "https://github.com/googlechrome/workbox"
+  },
+  {
+    "name": "workbox-strategies",
+    "version": "7.4.1",
+    "license": "MIT",
+    "url": "https://github.com/googlechrome/workbox"
+  },
+  {
+    "name": "workbox-streams",
+    "version": "7.4.1",
+    "license": "MIT",
+    "url": "https://github.com/googlechrome/workbox"
+  },
+  {
+    "name": "workbox-sw",
+    "version": "7.4.1",
+    "license": "MIT",
+    "url": "https://github.com/googlechrome/workbox"
+  },
+  {
+    "name": "workbox-window",
+    "version": "7.4.1",
+    "license": "MIT",
+    "url": "https://github.com/googlechrome/workbox"
+  }
+]

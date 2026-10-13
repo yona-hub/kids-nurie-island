@@ -1,0 +1,19 @@
+{
+  "templateId": "gen-ocean-friends-v2-storybook-v1",
+  "pass": false,
+  "contentHash": "e7e7a92f81db9a6bf1d076e2b9a90e06d9f9c039b1192cc3c842e4919495a03c",
+  "regionCount": 41,
+  "groupCount": 16,
+  "eyes": 4,
+  "sourceTemplateId": "gen-ocean-friends-v2",
+  "sourceOriginalSha256": "4af719f39cbeb41e124103b8df7f8f9ab8dff6eb946bb914eabbb8bb52eecdf7",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-07T17:12:11.060Z",
+    "contentHash": "e7e7a92f81db9a6bf1d076e2b9a90e06d9f9c039b1192cc3c842e4919495a03c",
+    "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+  },
+  "errors": [],
+  "status": "pending technical and human visual verification"
+}

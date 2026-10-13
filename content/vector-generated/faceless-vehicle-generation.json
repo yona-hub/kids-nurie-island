@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "instruction": "I15/I17: remove facial features from working vehicles, preserve actual parts",
+  "assets": [
+    {
+      "id": "excavator-faceless-v1",
+      "source": "content/generated-lineart/compiled/gen-excavator-cones-v2/original.png",
+      "transparent": false,
+      "prompt": "Edit target: the attached approved original black-and-white children's coloring-page excavator with two traffic cones. Make a tightly controlled production revision, preserving the entire excavator silhouette, raised articulated boom, bucket, hinges, tracks, side window, door, vents, both cones, their positions, scale, angle, composition, and clean bold closed black line art on pure white paper. Remove ALL anthropomorphic facial features from the excavator: both eyes including outer eye ovals and highlight rings, both eyebrows, and the smiling mouth including its inner boundary. The front cab window should be a single clean EMPTY glazing panel with its original enclosing frame; the body panel below the front window should be clean and empty. This is a real toy-like machine, not a character. Do not turn headlights, glazing, grilles, hinges, vents, or any mechanical part into eyes or a mouth. Keep the page uncolored: white interiors, black smooth continuous outlines, no gray or shading. No new objects, no people, no text, no logo. Match the exact original drawing everywhere except removal of the face. Portrait 4:5 layout, include all original objects and margins. This output is the new line-art source, not a colored preview.",
+      "originalFile": "content/vector-generated/originals/excavator-faceless-v1.png",
+      "sourceSha256": "2109d4f4aec8169302ba45bac1592ddf7b9d9240e33fdc91f5ad9b74eb7962a6",
+      "sha256": "6de9789ee4824f96952fa65b5b958c5096c102aed645786e4b257c3ff9f3330f",
+      "width": 1122,
+      "height": 1402,
+      "generator": "standard imagegen",
+      "humanApproval": "pending"
+    },
+    {
+      "id": "construction-v2",
+      "source": "content/brand-generated/originals/construction-v1.png",
+      "transparent": true,
+      "prompt": "Edit target: this approved miniature Working Vehicles Island home illustration for a children's coloring app. Preserve the exact premium dimensional picture-book style, yellow excavator pose and articulated raised arm, bucket pouring sand, black tracks, red fire engine and all its equipment, palm trees, cones, sand/grass, small stones, oval floating island and turquoise water rim, entire composition and lighting. Make ONE targeted correction: remove both large cartoon eyes, their white rings, and the smiling mouth from the excavator's yellow front body panel. Replace ONLY those facial features with continuous naturally shaded yellow painted metal matching the surrounding surface. No eyes, mouth, eyebrows or face on any vehicle. Keep the front windshield as blue glass and the fire engine's headlights, grille and all real mechanical parts intact. Do not add a face-like grille or stickers. No other design changes, no lettering, labels or watermark. Entire scene isolated on genuinely transparent background, preserving the original soft clean alpha silhouette including the water rim. Same landscape aspect ratio and full uncropped island.",
+      "originalFile": "content/vector-generated/originals/construction-v2.png",
+      "sourceSha256": "d3df316fc3ead43ac7be55285dbbcb90d27367a78dcc1438be2fa0845e695d56",
+      "sha256": "b3898eea5bd05fd8c59b01d0d665faec8541244dbc610e6ac006fa6634cfd34f",
+      "width": 1536,
+      "height": 1024,
+      "generator": "standard imagegen",
+      "humanApproval": "pending",
+      "delivery480": {
+        "url": "/images/islands/construction-v2-480.c03812ded3b68a77984f3c6f84bd54d9d9431cac083ec28ca53bb067670516d0.webp",
+        "sha256": "c03812ded3b68a77984f3c6f84bd54d9d9431cac083ec28ca53bb067670516d0"
+      },
+      "delivery960": {
+        "url": "/images/islands/construction-v2-960.1e5145fc07cfbe62fe94ed6b20e3a5db96c4e42ab7a0c410ff9bc7af0c255446.webp",
+        "sha256": "1e5145fc07cfbe62fe94ed6b20e3a5db96c4e42ab7a0c410ff9bc7af0c255446"
+      }
+    }
+  ]
+}

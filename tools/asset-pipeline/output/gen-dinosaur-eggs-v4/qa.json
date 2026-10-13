@@ -1,0 +1,502 @@
+{
+  "pass": true,
+  "templateId": "gen-dinosaur-eggs-v4",
+  "approved": false,
+  "approvalRequired": true,
+  "originalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+  "compilerVersion": 2,
+  "templateSha256": "961828cbbb2e57153ef9086162fb9e74a93e6316e55892eaf708efdecb48ded7",
+  "normalizedSha256": "a42fb49932696529199063469b26268d62b758606a83a89cc607ec195a9eb237",
+  "originalSize": [
+    1122,
+    1402
+  ],
+  "analysisSize": [
+    1600,
+    2000
+  ],
+  "normalization": {
+    "method": "contain-whole-page-on-white",
+    "scale": 1.1978609625668448,
+    "offset": [
+      128,
+      160
+    ],
+    "imageSize": [
+      1344,
+      1679
+    ],
+    "canvasSize": [
+      1600,
+      2000
+    ],
+    "safeMargin": 128,
+    "cropped": false,
+    "contoursRedrawn": false
+  },
+  "regionCount": 23,
+  "detectedRegionCount": 23,
+  "countPolicy": "advisory",
+  "countWithinExpectedRange": true,
+  "expectedRange": [
+    20,
+    25
+  ],
+  "smallRepairCandidates": 0,
+  "largeGapCandidates": 2,
+  "dilationApplied": false,
+  "unreviewedLargeGapCandidates": 0,
+  "gapCandidateDetails": [
+    {
+      "id": "g01",
+      "candidateKey": "gap-fa522bd298f554eb27a69deae74ac74bfbb99981dc4fb851ddb74d24d91d7a04",
+      "originalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+      "maskSha256": "4bd4941ee65d09a88962883fbdf6917b1bf9e49c75044b9d9284258d22900699",
+      "kind": "split-open-detail",
+      "parentRegionId": "r02",
+      "parentRegionName": "左の瞳",
+      "parentExteriorConnected": false,
+      "labelPoint": [
+        535.0,
+        366.0
+      ],
+      "bounds": [
+        515.0,
+        358.0,
+        39.0,
+        22.0
+      ],
+      "area": 573.0,
+      "usableDiameter": 16.394,
+      "review": {
+        "candidateKey": "gap-fa522bd298f554eb27a69deae74ac74bfbb99981dc4fb851ddb74d24d91d7a04",
+        "kind": "split-open-detail",
+        "parentRegionId": "r02",
+        "parentRegionName": "左の瞳",
+        "parentExteriorConnected": false,
+        "classification": "intentional-open-detail",
+        "part": "左の瞳のハイライト上側を回り込む空間",
+        "reason": "r02「左の瞳」でハイライトの上側を回り込む同じ瞳内の空間。3px closeでは瞳内へ連続し、外背景に接続しない。9px closeがハイライト上の細い接続を塞ぐ。",
+        "originalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+        "point": [
+          535,
+          366
+        ]
+      }
+    },
+    {
+      "id": "g02",
+      "candidateKey": "gap-4698fee03b05957f029d8be5270c9e22400e966ca935ecec5b21eb4b8c1f3d7c",
+      "originalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+      "maskSha256": "532039627ebd27f25f526b2f3b5767f1fce3ea3f73adbd2712d4d8f4965a913b",
+      "kind": "split-open-detail",
+      "parentRegionId": "r15",
+      "parentRegionName": "奥の脚",
+      "parentExteriorConnected": false,
+      "labelPoint": [
+        644.0,
+        1518.0
+      ],
+      "bounds": [
+        637.0,
+        1510.0,
+        29.0,
+        17.0
+      ],
+      "area": 395.0,
+      "usableDiameter": 15.981,
+      "review": {
+        "candidateKey": "gap-4698fee03b05957f029d8be5270c9e22400e966ca935ecec5b21eb4b8c1f3d7c",
+        "kind": "split-open-detail",
+        "parentRegionId": "r15",
+        "parentRegionName": "奥の脚",
+        "parentExteriorConnected": false,
+        "classification": "intentional-open-detail",
+        "part": "奥の脚の爪の上のしわ",
+        "reason": "r15「奥の脚」の爪の上にある開いたしわの内側。3px closeでは同じ脚に接続し、9px closeだけで分割される。外背景への漏れではない。",
+        "originalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+        "point": [
+          644,
+          1518
+        ]
+      }
+    }
+  ],
+  "gapReviewSchemaVersion": 2,
+  "tinyRegions": 0,
+  "blackRatio": 0.0467925,
+  "grayRatio": 0.0139475,
+  "backgroundComponentsExcluded": 1,
+  "contourPoints": 2913,
+  "originalInkContourPoints": 15723,
+  "minimumUsableDiameter": 26.363,
+  "regions": [
+    {
+      "id": "r01",
+      "area": 489912.0,
+      "usableDiameter": 252.447,
+      "labelPoint": [
+        1035.0,
+        1254.0
+      ],
+      "bounds": [
+        276.0,
+        272.0,
+        1149.0,
+        1355.0
+      ]
+    },
+    {
+      "id": "r02",
+      "area": 3824.0,
+      "usableDiameter": 37.95,
+      "labelPoint": [
+        532.0,
+        447.0
+      ],
+      "bounds": [
+        490.0,
+        357.0,
+        73.0,
+        115.0
+      ]
+    },
+    {
+      "id": "r03",
+      "area": 1316.0,
+      "usableDiameter": 39.544,
+      "labelPoint": [
+        539.0,
+        402.0
+      ],
+      "bounds": [
+        519.0,
+        382.0,
+        41.0,
+        40.0
+      ]
+    },
+    {
+      "id": "r04",
+      "area": 10454.0,
+      "usableDiameter": 71.119,
+      "labelPoint": [
+        705.0,
+        509.0
+      ],
+      "bounds": [
+        669.0,
+        397.0,
+        115.0,
+        158.0
+      ]
+    },
+    {
+      "id": "r05",
+      "area": 2103.0,
+      "usableDiameter": 50.332,
+      "labelPoint": [
+        725.0,
+        444.0
+      ],
+      "bounds": [
+        700.0,
+        419.0,
+        52.0,
+        51.0
+      ]
+    },
+    {
+      "id": "r06",
+      "area": 1061.0,
+      "usableDiameter": 26.363,
+      "labelPoint": [
+        353.0,
+        507.0
+      ],
+      "bounds": [
+        337.0,
+        486.0,
+        31.0,
+        48.0
+      ]
+    },
+    {
+      "id": "r07",
+      "area": 1308.0,
+      "usableDiameter": 30.363,
+      "labelPoint": [
+        467.0,
+        541.0
+      ],
+      "bounds": [
+        447.0,
+        517.0,
+        40.0,
+        49.0
+      ]
+    },
+    {
+      "id": "r08",
+      "area": 14151.0,
+      "usableDiameter": 72.326,
+      "labelPoint": [
+        512.0,
+        817.0
+      ],
+      "bounds": [
+        470.0,
+        650.0,
+        238.0,
+        206.0
+      ]
+    },
+    {
+      "id": "r09",
+      "area": 3267.0,
+      "usableDiameter": 54.0,
+      "labelPoint": [
+        379.0,
+        723.0
+      ],
+      "bounds": [
+        344.0,
+        697.0,
+        72.0,
+        68.0
+      ]
+    },
+    {
+      "id": "r10",
+      "area": 3798.0,
+      "usableDiameter": 56.394,
+      "labelPoint": [
+        558.0,
+        755.0
+      ],
+      "bounds": [
+        517.0,
+        718.0,
+        83.0,
+        77.0
+      ]
+    },
+    {
+      "id": "r11",
+      "area": 108017.0,
+      "usableDiameter": 235.181,
+      "labelPoint": [
+        779.0,
+        1245.0
+      ],
+      "bounds": [
+        578.0,
+        807.0,
+        348.0,
+        585.0
+      ]
+    },
+    {
+      "id": "r12",
+      "area": 10376.0,
+      "usableDiameter": 46.757,
+      "labelPoint": [
+        516.0,
+        1032.0
+      ],
+      "bounds": [
+        455.0,
+        938.0,
+        145.0,
+        182.0
+      ]
+    },
+    {
+      "id": "r13",
+      "area": 82266.0,
+      "usableDiameter": 195.74,
+      "labelPoint": [
+        305.0,
+        1273.0
+      ],
+      "bounds": [
+        154.0,
+        1148.0,
+        314.0,
+        462.0
+      ]
+    },
+    {
+      "id": "r14",
+      "area": 29786.0,
+      "usableDiameter": 152.189,
+      "labelPoint": [
+        476.0,
+        1365.0
+      ],
+      "bounds": [
+        338.0,
+        1286.0,
+        270.0,
+        191.0
+      ]
+    },
+    {
+      "id": "r15",
+      "area": 29340.0,
+      "usableDiameter": 104.375,
+      "labelPoint": [
+        788.0,
+        1485.0
+      ],
+      "bounds": [
+        614.0,
+        1268.0,
+        242.0,
+        342.0
+      ]
+    },
+    {
+      "id": "r16",
+      "area": 59933.0,
+      "usableDiameter": 198.239,
+      "labelPoint": [
+        464.0,
+        1583.0
+      ],
+      "bounds": [
+        329.0,
+        1397.0,
+        299.0,
+        286.0
+      ]
+    },
+    {
+      "id": "r17",
+      "area": 40563.0,
+      "usableDiameter": 115.057,
+      "labelPoint": [
+        1249.0,
+        1487.0
+      ],
+      "bounds": [
+        1162.0,
+        1378.0,
+        283.0,
+        249.0
+      ]
+    },
+    {
+      "id": "r18",
+      "area": 4119.0,
+      "usableDiameter": 49.538,
+      "labelPoint": [
+        658.0,
+        1558.0
+      ],
+      "bounds": [
+        614.0,
+        1531.0,
+        76.0,
+        87.0
+      ]
+    },
+    {
+      "id": "r19",
+      "area": 6709.0,
+      "usableDiameter": 80.295,
+      "labelPoint": [
+        729.0,
+        1584.0
+      ],
+      "bounds": [
+        675.0,
+        1539.0,
+        95.0,
+        95.0
+      ]
+    },
+    {
+      "id": "r20",
+      "area": 5433.0,
+      "usableDiameter": 62.719,
+      "labelPoint": [
+        904.0,
+        1621.0
+      ],
+      "bounds": [
+        866.0,
+        1560.0,
+        85.0,
+        95.0
+      ]
+    },
+    {
+      "id": "r21",
+      "area": 7092.0,
+      "usableDiameter": 78.363,
+      "labelPoint": [
+        987.0,
+        1620.0
+      ],
+      "bounds": [
+        941.0,
+        1562.0,
+        92.0,
+        103.0
+      ]
+    },
+    {
+      "id": "r22",
+      "area": 7025.0,
+      "usableDiameter": 83.088,
+      "labelPoint": [
+        1079.0,
+        1618.0
+      ],
+      "bounds": [
+        1032.0,
+        1568.0,
+        89.0,
+        104.0
+      ]
+    },
+    {
+      "id": "r23",
+      "area": 25349.0,
+      "usableDiameter": 98.664,
+      "labelPoint": [
+        1209.0,
+        1647.0
+      ],
+      "bounds": [
+        1146.0,
+        1551.0,
+        235.0,
+        155.0
+      ]
+    }
+  ],
+  "tinyRegionBounds": [],
+  "tinyRegionDetails": [],
+  "materialReviewRequired": false,
+  "annotationSha256": "fb2489f1b25eb184e8962bef283977d8ff634cf0c0cfe9a6f40075a013ed9642",
+  "technicalSemanticReview": {
+    "reviewer": "Codex technical source review",
+    "checks": [
+      "all-subject-parts-closed",
+      "negative-space-excluded",
+      "pupils-and-highlights-white"
+    ],
+    "unresolvedLeaks": []
+  },
+  "excludedBackgroundRegions": [],
+  "widthExceptions": [],
+  "excludedLineDetails": [],
+  "visibleInkSource": "original-threshold-contours; no morphological repair or extra region stroke",
+  "errors": [],
+  "warnings": [
+    "9px close候補 2箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）"
+  ],
+  "publicationNote": "原画と解析maskを別保存。素材・細部・輪郭の人間確認後に公開してください。"
+}

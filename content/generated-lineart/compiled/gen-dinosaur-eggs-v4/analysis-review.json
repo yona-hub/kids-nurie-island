@@ -1,0 +1,460 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-dinosaur-eggs-v4",
+  "originalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+  "coordinateSpace": "normalized-1600x2000",
+  "reviewer": "Codex technical source review",
+  "reviewKind": "author-technical-annotation",
+  "humanApproved": false,
+  "checks": [
+    "all-subject-parts-closed",
+    "negative-space-excluded",
+    "pupils-and-highlights-white"
+  ],
+  "unresolvedLeaks": [],
+  "regions": [
+    {
+      "sourceRegionId": "r01",
+      "point": [
+        1035,
+        1254
+      ],
+      "role": "paint",
+      "name": "恐竜の顔と体",
+      "reason": "番号付き原画で恐竜の顔と体として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 252.447
+    },
+    {
+      "sourceRegionId": "r02",
+      "point": [
+        532,
+        447
+      ],
+      "role": "paint",
+      "name": "左の瞳",
+      "reason": "番号付き原画で左の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 37.95,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r03",
+      "point": [
+        539,
+        402
+      ],
+      "role": "paint",
+      "name": "左の瞳のハイライト",
+      "reason": "番号付き原画で左の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 39.544,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r04",
+      "point": [
+        705,
+        509
+      ],
+      "role": "paint",
+      "name": "右の瞳",
+      "reason": "番号付き原画で右の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 71.119,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r05",
+      "point": [
+        725,
+        444
+      ],
+      "role": "paint",
+      "name": "右の瞳のハイライト",
+      "reason": "番号付き原画で右の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 50.332,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r06",
+      "point": [
+        353,
+        507
+      ],
+      "role": "paint",
+      "name": "左の鼻孔",
+      "reason": "番号付き原画で左の鼻孔として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 26.363
+    },
+    {
+      "sourceRegionId": "r07",
+      "point": [
+        467,
+        541
+      ],
+      "role": "paint",
+      "name": "右の鼻孔",
+      "reason": "番号付き原画で右の鼻孔として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 30.363
+    },
+    {
+      "sourceRegionId": "r08",
+      "point": [
+        512,
+        817
+      ],
+      "role": "paint",
+      "name": "口の中",
+      "reason": "番号付き原画で口の中として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 72.326
+    },
+    {
+      "sourceRegionId": "r09",
+      "point": [
+        379,
+        723
+      ],
+      "role": "paint",
+      "name": "左の歯",
+      "reason": "番号付き原画で左の歯として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 54
+    },
+    {
+      "sourceRegionId": "r10",
+      "point": [
+        558,
+        755
+      ],
+      "role": "paint",
+      "name": "右の歯",
+      "reason": "番号付き原画で右の歯として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 56.394
+    },
+    {
+      "sourceRegionId": "r11",
+      "point": [
+        779,
+        1245
+      ],
+      "role": "paint",
+      "name": "おなか",
+      "reason": "番号付き原画でおなかとして識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 235.181
+    },
+    {
+      "sourceRegionId": "r12",
+      "point": [
+        516,
+        1032
+      ],
+      "role": "paint",
+      "name": "奥の手",
+      "reason": "番号付き原画で奥の手として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 46.757
+    },
+    {
+      "sourceRegionId": "r13",
+      "point": [
+        305,
+        1273
+      ],
+      "role": "paint",
+      "name": "奥の卵",
+      "reason": "番号付き原画で奥の卵として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 195.74
+    },
+    {
+      "sourceRegionId": "r14",
+      "point": [
+        476,
+        1365
+      ],
+      "role": "paint",
+      "name": "手前の卵の上側",
+      "reason": "番号付き原画で手前の卵の上側として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 152.189
+    },
+    {
+      "sourceRegionId": "r15",
+      "point": [
+        788,
+        1485
+      ],
+      "role": "paint",
+      "name": "奥の脚",
+      "reason": "番号付き原画で奥の脚として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 104.375
+    },
+    {
+      "sourceRegionId": "r16",
+      "point": [
+        464,
+        1583
+      ],
+      "role": "paint",
+      "name": "手前の卵の下側",
+      "reason": "番号付き原画で手前の卵の下側として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 198.239
+    },
+    {
+      "sourceRegionId": "r17",
+      "point": [
+        1249,
+        1487
+      ],
+      "role": "paint",
+      "name": "大きい岩",
+      "reason": "番号付き原画で大きい岩として識別。原画の閉領域をそのまま使用。",
+      "material": "stone",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 115.057
+    },
+    {
+      "sourceRegionId": "r18",
+      "point": [
+        658,
+        1558
+      ],
+      "role": "paint",
+      "name": "奥の左の爪",
+      "reason": "番号付き原画で奥の左の爪として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 49.538
+    },
+    {
+      "sourceRegionId": "r19",
+      "point": [
+        729,
+        1584
+      ],
+      "role": "paint",
+      "name": "奥の右の爪",
+      "reason": "番号付き原画で奥の右の爪として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 80.295
+    },
+    {
+      "sourceRegionId": "r20",
+      "point": [
+        904,
+        1621
+      ],
+      "role": "paint",
+      "name": "手前の左の爪",
+      "reason": "番号付き原画で手前の左の爪として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 62.719
+    },
+    {
+      "sourceRegionId": "r21",
+      "point": [
+        987,
+        1620
+      ],
+      "role": "paint",
+      "name": "手前の中央の爪",
+      "reason": "番号付き原画で手前の中央の爪として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 78.363
+    },
+    {
+      "sourceRegionId": "r22",
+      "point": [
+        1079,
+        1618
+      ],
+      "role": "paint",
+      "name": "手前の右の爪",
+      "reason": "番号付き原画で手前の右の爪として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 83.088
+    },
+    {
+      "sourceRegionId": "r23",
+      "point": [
+        1209,
+        1647
+      ],
+      "role": "paint",
+      "name": "小さい岩",
+      "reason": "番号付き原画で小さい岩として識別。原画の閉領域をそのまま使用。",
+      "material": "stone",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 98.664
+    }
+  ],
+  "gapReviews": [
+    {
+      "candidateKey": "gap-fa522bd298f554eb27a69deae74ac74bfbb99981dc4fb851ddb74d24d91d7a04",
+      "kind": "split-open-detail",
+      "parentRegionId": "r02",
+      "parentRegionName": "左の瞳",
+      "parentExteriorConnected": false,
+      "classification": "intentional-open-detail",
+      "part": "左の瞳のハイライト上側を回り込む空間",
+      "reason": "r02「左の瞳」でハイライトの上側を回り込む同じ瞳内の空間。3px closeでは瞳内へ連続し、外背景に接続しない。9px closeがハイライト上の細い接続を塞ぐ。",
+      "originalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+      "point": [
+        535,
+        366
+      ]
+    },
+    {
+      "candidateKey": "gap-4698fee03b05957f029d8be5270c9e22400e966ca935ecec5b21eb4b8c1f3d7c",
+      "kind": "split-open-detail",
+      "parentRegionId": "r15",
+      "parentRegionName": "奥の脚",
+      "parentExteriorConnected": false,
+      "classification": "intentional-open-detail",
+      "part": "奥の脚の爪の上のしわ",
+      "reason": "r15「奥の脚」の爪の上にある開いたしわの内側。3px closeでは同じ脚に接続し、9px closeだけで分割される。外背景への漏れではない。",
+      "originalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+      "point": [
+        644,
+        1518
+      ]
+    }
+  ],
+  "eyes": [
+    {
+      "name": "左",
+      "pupilIds": [
+        "r02"
+      ],
+      "highlightId": "r03"
+    },
+    {
+      "name": "右",
+      "pupilIds": [
+        "r04"
+      ],
+      "highlightId": "r05"
+    }
+  ]
+}

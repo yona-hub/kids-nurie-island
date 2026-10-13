@@ -1,0 +1,17 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {createHash} from 'node:crypto';
+import {assetSpecs} from './storybook-asset-specs.mjs';
+const [id,source]=process.argv.slice(2),spec=assetSpecs.find(x=>x.id===id);
+if(!spec||!source)throw Error('Unknown asset/source');
+const base=path.resolve('content/storybook-generated');
+await fs.mkdir(path.join(base,'originals'),{recursive:true});
+const bytes=await fs.readFile(source),sha256=createHash('sha256').update(bytes).digest('hex');
+const originalFile=`content/storybook-generated/originals/${id}-${sha256.slice(0,12)}.png`;
+await fs.writeFile(originalFile,bytes,{flag:'wx'}).catch(e=>{if(e.code!=='EEXIST')throw e;});
+const file=path.join(base,'manifest.json');
+const old=await fs.readFile(file,'utf8').then(JSON.parse).catch(e=>{if(e.code==='ENOENT')return {schemaVersion:1,tool:'built-in image_gen',assets:[]};throw e;});
+old.assets=old.assets.filter(x=>x.id!==id);
+old.assets.push({...spec,originalFile,sha256,generatedAt:new Date().toISOString()});
+await fs.writeFile(file,JSON.stringify(old,null,2)+'\n');
+console.log(JSON.stringify({id,originalFile,sha256}));

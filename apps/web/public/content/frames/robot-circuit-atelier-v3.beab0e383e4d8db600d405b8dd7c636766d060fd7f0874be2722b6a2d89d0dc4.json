@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/robot-circuit-atelier-v3-top.bbdca565786064440211a4e134b99e82c6843893047f9af39280abe21da7a0df.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/robot-circuit-atelier-v3-bottom.0314e19cf8462b9a6b4456045378433e336685b6bce2b9ec63cf426e28feae6f.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/robot-circuit-atelier-v3-left.7919dce6680d87ab874741a160ccbfa1ad4b738192e8c3c13a3da2279fc1f436.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/robot-circuit-atelier-v3-right.d85b722d3663d834454702e6acd7d26daed89a54769223e7f299f9ef25919dbc.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

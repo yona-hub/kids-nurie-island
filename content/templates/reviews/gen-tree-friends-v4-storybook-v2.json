@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-tree-friends-v4-storybook-v2",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "contentHash": "3e7e2f8978f73bfb225c258b196f9da60fe7e69448f8751983d45b06d5778269",
+    "reviewer": "Codex vector artwork author",
+    "basis": "I17 implementation candidate; not a transfer of I5 adoption or prior PASS"
+  }
+}

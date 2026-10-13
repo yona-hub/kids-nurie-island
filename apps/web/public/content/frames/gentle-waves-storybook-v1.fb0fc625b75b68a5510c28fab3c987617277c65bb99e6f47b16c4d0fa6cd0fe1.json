@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "borderColor": "#cfe4e7",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 56.366079114607,
+      "y": 18.157198020242486,
+      "width": 77.267841770786,
+      "height": 63.68560395951503,
+      "rotation": 11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 57.38326915002028,
+      "y": 1918.9955851197433,
+      "width": 75.23346169995943,
+      "height": 62.00882976051344,
+      "rotation": -14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 351.6343410535242,
+      "y": 22.49939829020942,
+      "width": 66.73131789295155,
+      "height": 55.00120341958116,
+      "rotation": -11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 352.5128233568357,
+      "y": 1923.223459876142,
+      "width": 64.9743532863286,
+      "height": 53.553080247716146,
+      "rotation": 14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 619.0002100840657,
+      "y": 20.328298155225948,
+      "width": 71.99957983186879,
+      "height": 59.343403689548104,
+      "rotation": 11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 619.948046253428,
+      "y": 1921.1095224979426,
+      "width": 70.103907493144,
+      "height": 57.78095500411479,
+      "rotation": -14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 906.366079114607,
+      "y": 18.157198020242486,
+      "width": 77.267841770786,
+      "height": 63.68560395951503,
+      "rotation": -11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 907.3832691500203,
+      "y": 1918.9955851197433,
+      "width": 75.23346169995943,
+      "height": 62.00882976051344,
+      "rotation": 14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 1181.6343410535242,
+      "y": 22.49939829020942,
+      "width": 66.73131789295155,
+      "height": 55.00120341958116,
+      "rotation": 11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 1182.5128233568357,
+      "y": 1923.223459876142,
+      "width": 64.9743532863286,
+      "height": 53.553080247716146,
+      "rotation": -14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 1469.0002100840657,
+      "y": 20.328298155225948,
+      "width": 71.99957983186879,
+      "height": 59.343403689548104,
+      "rotation": -11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 1469.948046253428,
+      "y": 1921.1095224979426,
+      "width": 70.103907493144,
+      "height": 57.78095500411479,
+      "rotation": 14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 7.563563152949847,
+      "y": 369.14418681747037,
+      "width": 74.8728736941003,
+      "height": 61.71162636505924,
+      "rotation": -3,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 1518.9114848005158,
+      "y": 440.2551691129251,
+      "width": 72.17703039896851,
+      "height": 59.48966177414983,
+      "rotation": 6,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 7.563563152949847,
+      "y": 729.1441868174704,
+      "width": 74.8728736941003,
+      "height": 61.71162636505924,
+      "rotation": -3,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 1518.9114848005158,
+      "y": 800.255169112925,
+      "width": 72.17703039896851,
+      "height": 59.48966177414983,
+      "rotation": 6,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 7.563563152949847,
+      "y": 1089.1441868174704,
+      "width": 74.8728736941003,
+      "height": 61.71162636505924,
+      "rotation": -3,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 1518.9114848005158,
+      "y": 1160.2551691129252,
+      "width": 72.17703039896851,
+      "height": 59.48966177414983,
+      "rotation": 6,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 7.563563152949847,
+      "y": 1449.1441868174704,
+      "width": 74.8728736941003,
+      "height": 61.71162636505924,
+      "rotation": -3,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "x": 1518.9114848005158,
+      "y": 1520.2551691129252,
+      "width": 72.17703039896851,
+      "height": 59.48966177414983,
+      "rotation": 6,
+      "opacity": 0.78
+    }
+  ]
+}

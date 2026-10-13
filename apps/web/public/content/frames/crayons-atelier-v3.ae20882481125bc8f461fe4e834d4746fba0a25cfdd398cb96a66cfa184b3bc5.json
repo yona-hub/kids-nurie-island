@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/crayons-atelier-v3-top.0d0449fb62eab308567da9d961f64c1fb498e9dcaf8c989c27b81ecc142e171d.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/crayons-atelier-v3-bottom.447d051ba5e357bcc40e0fb2102f5e6ba525e2b66f5fb3181d0afdaf39e625eb.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/crayons-atelier-v3-left.f2de3c96b528ab62a4cb690fa4150f949a131a3b8006966b24972969b0e7079f.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/crayons-atelier-v3-right.293cb0548f7d8669dbd8ceb12e04a5acc98db6dbfeedd2206e954d07cf3af2ff.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

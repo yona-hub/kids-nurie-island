@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-wizard-lantern-v6",
+  "regions": {},
+  "approval": {
+    "kind": "human",
+    "reviewer": "ユーザー（Codex会話）",
+    "recordedAt": "2026-10-06T16:39:21.516Z",
+    "contentHash": "f447b9b1c38c8eb280d61efbd10ded2a165c43a17f0e93a3a1773b5fb8fa56e3",
+    "basis": "新しい10枚の線画一覧を確認し「この10枚を正式採用する」と回答"
+  }
+}

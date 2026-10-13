@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "layers": [
+    {
+      "assetUrl": "/content/decor/sky-island-scenic-v3-landscape.b4c59acf386d019944118fe0569cc677e385445e0998493904176c12e234e489.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 2000,
+      "opacity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-dinosaur-eggs-v4",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06T15:54:27.348Z",
+    "contentHash": "e6d81d2542975e2ba55b3f18735e78fb31e1ffbece336bc6ba15c3dd2feed4c8",
+    "basis": "Image-generated original, source-bound semantic annotations, original ink contours, measured QA and individual interaction evidence reviewed. Human art/content review is required before release."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "tree-friends",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "f789fe1b3f652a1991bcb3b4579dae52eaffda0218f065d1d7a5cb9c4a876b55",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-princess-bunny-v6",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06T15:56:28.016Z",
+    "contentHash": "b588b311fe0dbdb38ffba9fef8eb6029113d453d581523ecae1972c08ac2f99e",
+    "basis": "Image-generated original, source-bound semantic annotations, original ink contours, measured QA and individual interaction evidence reviewed. Human art/content review is required before release."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/gentle-waves-atelier-v3-top.e29fdff803db839ad991049b9ad78d0f3653642f440087f497bb0db57736f429.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/gentle-waves-atelier-v3-bottom.2050c0d12d6f433334142030ff1fce05abe9139df3e26340b81978318a7d0346.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/gentle-waves-atelier-v3-left.1330d1e2bf9edcfe4a6f2bc774f49c20eb117c51bc7628b186694bf74df2b324.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/gentle-waves-atelier-v3-right.7e03d41067b7cdd60dc3bdd0f520ac793d746cb372b2a646e6fc56bcc32ee5d1.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

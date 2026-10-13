@@ -1,0 +1,546 @@
+{
+  "schemaVersion": 1,
+  "id": "ocean-friends",
+  "themeId": "ocean",
+  "title": "うみの なかまたち",
+  "width": 1600,
+  "height": 2000,
+  "defaultColorFamily": "blue",
+  "approved": true,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "イルカの尾",
+      "path": "M 1056 706 Q 1216 639 1344 700 Q 1288 766 1178 778 Q 1280 845 1263 931 Q 1111 893 1050 793 Z",
+      "bounds": {
+        "x": 1050,
+        "y": 670,
+        "width": 294,
+        "height": 261
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3492258426
+    },
+    {
+      "id": "r02",
+      "name": "イルカの背びれ",
+      "path": "M 715 583 Q 762 443 901 437 Q 880 546 930 616 Z",
+      "bounds": {
+        "x": 715,
+        "y": 437,
+        "width": 215,
+        "height": 179
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3475480807
+    },
+    {
+      "id": "r03",
+      "name": "イルカのからだ",
+      "path": "M 386 691 C 427 521 664 463 848 571 Q 1007 671 1113 712 L 1080 823 Q 888 877 703 790 Q 595 774 537 813 Q 422 873 337 809 Q 271 800 267 764 Q 267 726 386 691 Z",
+      "bounds": {
+        "x": 267,
+        "y": 516,
+        "width": 846,
+        "height": 328
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3458703188
+    },
+    {
+      "id": "r04",
+      "name": "イルカのむなびれ",
+      "path": "M 702 762 Q 767 849 726 982 Q 617 933 611 824 Z",
+      "bounds": {
+        "x": 611,
+        "y": 762,
+        "width": 131,
+        "height": 220
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3441925569
+    },
+    {
+      "id": "r05",
+      "name": "カメの左前足",
+      "path": "M 1000 1088 Q 939 969 883 1006 Q 840 1061 928 1167 Z",
+      "bounds": {
+        "x": 868,
+        "y": 997,
+        "width": 132,
+        "height": 170
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3425147950
+    },
+    {
+      "id": "r06",
+      "name": "カメの右前足",
+      "path": "M 1199 1091 Q 1287 992 1344 1046 Q 1344 1119 1241 1184 Z",
+      "bounds": {
+        "x": 1199,
+        "y": 1026,
+        "width": 145,
+        "height": 158
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3408370331
+    },
+    {
+      "id": "r07",
+      "name": "カメの左後足",
+      "path": "M 946 1250 Q 839 1274 870 1335 Q 936 1373 999 1317 Z",
+      "bounds": {
+        "x": 863,
+        "y": 1250,
+        "width": 136,
+        "height": 101
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3391592712
+    },
+    {
+      "id": "r08",
+      "name": "カメの右後足",
+      "path": "M 1184 1309 Q 1265 1379 1316 1325 Q 1321 1273 1234 1246 Z",
+      "bounds": {
+        "x": 1184,
+        "y": 1246,
+        "width": 133,
+        "height": 103
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3374815093
+    },
+    {
+      "id": "r09",
+      "name": "カメの顔",
+      "path": "M 1135 1004 C 1093 928 1170 858 1245 878 C 1341 890 1358 1004 1289 1045 Q 1234 1086 1172 1044 Z",
+      "bounds": {
+        "x": 1123,
+        "y": 874,
+        "width": 208,
+        "height": 192
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3358037474
+    },
+    {
+      "id": "r10",
+      "name": "カメのこうら",
+      "path": "M 915 1120 C 966 1012 1154 1038 1232 1133 C 1328 1250 1203 1369 1090 1366 C 950 1372 859 1246 915 1120 Z",
+      "bounds": {
+        "x": 898,
+        "y": 1049,
+        "width": 369,
+        "height": 318
+      },
+      "material": "stone",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3408223236
+    },
+    {
+      "id": "r11",
+      "name": "こうら・まんなか",
+      "path": "M 1051 1120 L 1153 1136 L 1196 1210 L 1139 1291 L 1038 1286 L 989 1199 Z",
+      "bounds": {
+        "x": 989,
+        "y": 1120,
+        "width": 207,
+        "height": 171
+      },
+      "material": "stone",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3425000855
+    },
+    {
+      "id": "r12",
+      "name": "こうら・上",
+      "path": "M 970 1107 Q 1044 1067 1104 1081 L 1153 1136 L 1051 1120 L 989 1199 L 940 1160 Z",
+      "bounds": {
+        "x": 940,
+        "y": 1077,
+        "width": 213,
+        "height": 122
+      },
+      "material": "stone",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3441778474
+    },
+    {
+      "id": "r13",
+      "name": "こうら・右",
+      "path": "M 1104 1081 Q 1196 1098 1239 1192 L 1196 1210 L 1153 1136 Z",
+      "bounds": {
+        "x": 1104,
+        "y": 1081,
+        "width": 135,
+        "height": 129
+      },
+      "material": "stone",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3458556093
+    },
+    {
+      "id": "r14",
+      "name": "こうら・下",
+      "path": "M 1239 1192 Q 1259 1291 1152 1331 L 1139 1291 L 1196 1210 Z",
+      "bounds": {
+        "x": 1139,
+        "y": 1192,
+        "width": 104,
+        "height": 139
+      },
+      "material": "stone",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3341112760
+    },
+    {
+      "id": "r15",
+      "name": "こうら・左",
+      "path": "M 940 1160 Q 892 1277 1040 1327 L 1152 1331 L 1139 1291 L 1038 1286 L 989 1199 Z",
+      "bounds": {
+        "x": 928,
+        "y": 1160,
+        "width": 224,
+        "height": 171
+      },
+      "material": "stone",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3357890379
+    },
+    {
+      "id": "r16",
+      "name": "さかなの尾",
+      "path": "M 472 1109 Q 369 1012 289 1031 Q 330 1124 298 1224 Q 377 1230 473 1164 Z",
+      "bounds": {
+        "x": 289,
+        "y": 1027,
+        "width": 184,
+        "height": 198
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3374667998
+    },
+    {
+      "id": "r17",
+      "name": "さかな",
+      "path": "M 420 1137 C 529 986 687 1018 739 1137 C 674 1252 530 1285 420 1137 Z",
+      "bounds": {
+        "x": 420,
+        "y": 1035,
+        "width": 319,
+        "height": 202
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3391445617
+    },
+    {
+      "id": "r18",
+      "name": "さかなのひれ",
+      "path": "M 569 1139 Q 565 1101 608 1086 Q 638 1123 616 1173 Z",
+      "bounds": {
+        "x": 568,
+        "y": 1086,
+        "width": 58,
+        "height": 87
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3274002284
+    },
+    {
+      "id": "r19",
+      "name": "サンゴ・左",
+      "path": "M 446 1720 L 407 1590 Q 335 1615 307 1565 L 269 1485 Q 267 1434 304 1446 L 360 1529 Q 387 1544 386 1501 L 356 1400 Q 355 1356 393 1363 L 427 1487 L 454 1430 Q 483 1393 503 1421 L 465 1564 L 502 1709 Z",
+      "bounds": {
+        "x": 268,
+        "y": 1362,
+        "width": 235,
+        "height": 358
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3290779903
+    },
+    {
+      "id": "r20",
+      "name": "サンゴ・右",
+      "path": "M 549 1720 L 573 1574 L 526 1465 Q 520 1429 550 1422 L 597 1510 L 618 1369 Q 644 1334 660 1369 L 647 1528 L 702 1480 Q 737 1471 734 1505 L 640 1592 L 614 1728 Z",
+      "bounds": {
+        "x": 525,
+        "y": 1351,
+        "width": 210,
+        "height": 377
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 1026345791
+    },
+    {
+      "id": "r21",
+      "name": "海そう・左",
+      "path": "M 926 1744 Q 824 1603 836 1472 Q 935 1541 965 1744 Z",
+      "bounds": {
+        "x": 834,
+        "y": 1472,
+        "width": 131,
+        "height": 272
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 1009568172
+    },
+    {
+      "id": "r22",
+      "name": "海そう・まんなか",
+      "path": "M 965 1744 Q 908 1551 1007 1421 Q 1044 1586 1002 1744 Z",
+      "bounds": {
+        "x": 944,
+        "y": 1421,
+        "width": 81,
+        "height": 323
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 1059901029
+    },
+    {
+      "id": "r23",
+      "name": "海そう・右",
+      "path": "M 1001 1744 Q 1019 1593 1125 1533 Q 1123 1655 1042 1744 Z",
+      "bounds": {
+        "x": 1001,
+        "y": 1533,
+        "width": 124,
+        "height": 211
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 1043123410
+    },
+    {
+      "id": "r24",
+      "name": "貝がら",
+      "path": "M 722 1709 Q 631 1631 682 1590 Q 689 1532 741 1555 Q 789 1494 827 1556 Q 896 1532 897 1599 Q 937 1642 837 1709 Z",
+      "bounds": {
+        "x": 663,
+        "y": 1524,
+        "width": 246,
+        "height": 185
+      },
+      "material": "stone",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 959235315
+    },
+    {
+      "id": "r25",
+      "name": "ヒトデ",
+      "path": "M 1248 1465 L 1280.9159741283786 1531.6950483150029 L 1354.5183298250572 1542.390096630006 L 1301.2591649125286 1594.3049516849971 L 1313.831948256757 1667.609903369994 L 1248 1633 L 1182.168051743243 1667.609903369994 L 1194.7408350874714 1594.3049516849971 L 1141.4816701749428 1542.390096630006 L 1215.0840258716214 1531.6950483150029 Z",
+      "bounds": {
+        "x": 1141,
+        "y": 1465,
+        "width": 214,
+        "height": 203
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 942457696
+    },
+    {
+      "id": "r26",
+      "name": "あわ・大",
+      "path": "M 322 469 C 322 438.6235 346.6235 414 377 414 C 407.3765 414 432 438.6235 432 469 C 432 499.3765 407.3765 524 377 524 C 346.6235 524 322 499.3765 322 469 Z",
+      "bounds": {
+        "x": 322,
+        "y": 414,
+        "width": 110,
+        "height": 110
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 992790553
+    },
+    {
+      "id": "r27",
+      "name": "あわ・小",
+      "path": "M 1160 356 C 1160 338.8787 1173.8787 325 1191 325 C 1208.1213 325 1222 338.8787 1222 356 C 1222 373.1213 1208.1213 387 1191 387 C 1173.8787 387 1160 373.1213 1160 356 Z",
+      "bounds": {
+        "x": 1160,
+        "y": 325,
+        "width": 62,
+        "height": 62
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 976012934
+    },
+    {
+      "id": "r28",
+      "name": "あわ・中",
+      "path": "M 1250 445 C 1250 419.5942 1270.5942 399 1296 399 C 1321.4058 399 1342 419.5942 1342 445 C 1342 470.4058 1321.4058 491 1296 491 C 1270.5942 491 1250 470.4058 1250 445 Z",
+      "bounds": {
+        "x": 1250,
+        "y": 399,
+        "width": 92,
+        "height": 92
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 1160566743
+    }
+  ],
+  "details": [
+    {
+      "path": "M 454 698 C 454 689.7155 459.3724 683 466 683 C 472.6276 683 478 689.7155 478 698 C 478 706.2845 472.6276 713 466 713 C 459.3724 713 454 706.2845 454 698 Z",
+      "fill": "#000000",
+      "strokeWidth": 4
+    },
+    {
+      "path": "M 349 778 Q 417 802 461 765",
+      "strokeWidth": 8
+    },
+    {
+      "path": "M 1262 955 C 1262 948.9247 1266.9247 944 1273 944 C 1279.0753 944 1284 948.9247 1284 955 C 1284 961.0753 1279.0753 966 1273 966 C 1266.9247 966 1262 961.0753 1262 955 Z",
+      "fill": "#000000",
+      "strokeWidth": 3
+    },
+    {
+      "path": "M 1232 1001 Q 1262 1019 1290 998",
+      "strokeWidth": 7
+    },
+    {
+      "path": "M 667 1121 C 667 1114.9247 671.9247 1110 678 1110 C 684.0753 1110 689 1114.9247 689 1121 C 689 1127.0753 684.0753 1132 678 1132 C 671.9247 1132 667 1127.0753 667 1121 Z",
+      "fill": "#000000",
+      "strokeWidth": 4
+    },
+    {
+      "path": "M 737 1690 L 708 1600 M 780 1689 L 780 1575 M 822 1690 L 867 1608 M 1248 1549 L 1248 1605 M 1225 1577 L 1271 1577",
+      "strokeWidth": 7
+    }
+  ],
+  "lineWidth": 12
+}

@@ -1,0 +1,353 @@
+[
+  {
+    "id": "none",
+    "name": "なし",
+    "assetUrl": "/content/frames/none.d8e5b4aa50c3f605916ed92113ff4c622aa1f2597819cb3ca0db1812ae8c4a8b.svg",
+    "thumbnailUrl": "/content/frames/none.d8e5b4aa50c3f605916ed92113ff4c622aa1f2597819cb3ca0db1812ae8c4a8b.svg",
+    "catalogVisible": true
+  },
+  {
+    "id": "simple-white-storybook-v1",
+    "name": "シンプル白",
+    "assetUrl": "/content/frames/simple-white-storybook-v1.b40b890d4e98bee99f11a4e9b95b1dfa1cff874a2bb64c4c1acb71525cee73ee.png",
+    "thumbnailUrl": "/content/frames/simple-white-storybook-v1.b40b890d4e98bee99f11a4e9b95b1dfa1cff874a2bb64c4c1acb71525cee73ee.png",
+    "compositionUrl": "/content/frames/simple-white-storybook-v1.aad190cd7fe06e3aec7ef45017df5a23c992ae42f7717569c7f462c57ee8db68.json",
+    "catalogVisible": true,
+    "legacyId": "simple-white"
+  },
+  {
+    "id": "color-dots-storybook-v1",
+    "name": "カラードット",
+    "assetUrl": "/content/frames/color-dots-storybook-v1.a99feca283f75a1159b603225a6920f2bc4084d8b599d62ab64718ecccdbc51f.png",
+    "thumbnailUrl": "/content/frames/color-dots-storybook-v1.a99feca283f75a1159b603225a6920f2bc4084d8b599d62ab64718ecccdbc51f.png",
+    "compositionUrl": "/content/frames/color-dots-storybook-v1.0478df1b35d07f1bd7534312765be06569b9dd1471dd31743956cb3f0aa6ffba.json",
+    "catalogVisible": true,
+    "legacyId": "color-dots"
+  },
+  {
+    "id": "color-drops-storybook-v1",
+    "name": "色のしずく",
+    "assetUrl": "/content/frames/color-drops-storybook-v1.cb3fb6d1ca5d95452f811f7b942e047866ee82352a6c39927252ecbd0249367d.png",
+    "thumbnailUrl": "/content/frames/color-drops-storybook-v1.cb3fb6d1ca5d95452f811f7b942e047866ee82352a6c39927252ecbd0249367d.png",
+    "compositionUrl": "/content/frames/color-drops-storybook-v1.7ec440c5ebf4e7643f9f38bec6ab8c1c6e987d17814502c57cf3ced3ace39a87.json",
+    "catalogVisible": true,
+    "legacyId": "color-drops"
+  },
+  {
+    "id": "rainbow-clouds-storybook-v1",
+    "name": "虹と雲",
+    "assetUrl": "/content/frames/rainbow-clouds-storybook-v1.b36e85112c25dce8bb8f3e2550e5943c3c324d887619e8af2d0d7df965cb2677.png",
+    "thumbnailUrl": "/content/frames/rainbow-clouds-storybook-v1.b36e85112c25dce8bb8f3e2550e5943c3c324d887619e8af2d0d7df965cb2677.png",
+    "compositionUrl": "/content/frames/rainbow-clouds-storybook-v1.6f794970a7387f298daca175582ae29d802eb5ad2ab7d39e8ef050909e56643c.json",
+    "catalogVisible": true,
+    "legacyId": "rainbow-clouds"
+  },
+  {
+    "id": "little-stars-storybook-v1",
+    "name": "ちいさな星",
+    "assetUrl": "/content/frames/little-stars-storybook-v1.67162914e045cbdf998e06c82942f0ab46612555d23b802bfcc039f219ad608e.png",
+    "thumbnailUrl": "/content/frames/little-stars-storybook-v1.67162914e045cbdf998e06c82942f0ab46612555d23b802bfcc039f219ad608e.png",
+    "compositionUrl": "/content/frames/little-stars-storybook-v1.7891eb8004f581665d2f24dde27cb26dfc8ff9dd2a4ceaecb00d8c7611227104.json",
+    "catalogVisible": true,
+    "legacyId": "little-stars"
+  },
+  {
+    "id": "gentle-waves-storybook-v1",
+    "name": "なみのおと",
+    "assetUrl": "/content/frames/gentle-waves-storybook-v1.ac4458fa3a497ad40cf35087fa4b9c324fd868739e6da2c7600e530a2180351b.png",
+    "thumbnailUrl": "/content/frames/gentle-waves-storybook-v1.ac4458fa3a497ad40cf35087fa4b9c324fd868739e6da2c7600e530a2180351b.png",
+    "compositionUrl": "/content/frames/gentle-waves-storybook-v1.fb0fc625b75b68a5510c28fab3c987617277c65bb99e6f47b16c4d0fa6cd0fe1.json",
+    "catalogVisible": true,
+    "legacyId": "gentle-waves"
+  },
+  {
+    "id": "crayons-storybook-v1",
+    "name": "クレヨン",
+    "assetUrl": "/content/frames/crayons-storybook-v1.695a52e2453fd83d454e0c5aa68ff9da114bd77762afc19534537662e25b1fcb.png",
+    "thumbnailUrl": "/content/frames/crayons-storybook-v1.695a52e2453fd83d454e0c5aa68ff9da114bd77762afc19534537662e25b1fcb.png",
+    "compositionUrl": "/content/frames/crayons-storybook-v1.65079f91c1b0d85da4dd32d8aeb689466ed0be05a8bc33a7d4b3c284231928b6.json",
+    "catalogVisible": true,
+    "legacyId": "crayons"
+  },
+  {
+    "id": "pencils-storybook-v1",
+    "name": "いろえんぴつ",
+    "assetUrl": "/content/frames/pencils-storybook-v1.35bb55862ead6b60460f593c23268fe4600abbadd238cd928761022a5e9881ee.png",
+    "thumbnailUrl": "/content/frames/pencils-storybook-v1.35bb55862ead6b60460f593c23268fe4600abbadd238cd928761022a5e9881ee.png",
+    "compositionUrl": "/content/frames/pencils-storybook-v1.8ef5ce5ccaceaa3e6c65c61213dd8d80037e74d4100d6dc1c040871358b22430.json",
+    "catalogVisible": true,
+    "legacyId": "pencils"
+  },
+  {
+    "id": "royal-jewels-storybook-v1",
+    "name": "王冠と宝石",
+    "themeId": "princess",
+    "assetUrl": "/content/frames/royal-jewels-storybook-v1.e73afc991deae1d43714525384005f6897104d17ab87ecf9c89b0571f173e801.png",
+    "thumbnailUrl": "/content/frames/royal-jewels-storybook-v1.e73afc991deae1d43714525384005f6897104d17ab87ecf9c89b0571f173e801.png",
+    "compositionUrl": "/content/frames/royal-jewels-storybook-v1.44acdbf310bc12a58091bab9527e43f0f5e12c538cbbd17869fc72698c05f62d.json",
+    "catalogVisible": true,
+    "legacyId": "royal-jewels"
+  },
+  {
+    "id": "magic-night-storybook-v1",
+    "name": "星と月",
+    "themeId": "magic",
+    "assetUrl": "/content/frames/magic-night-storybook-v1.ff0dcb46723eb195a9e4847847a2ca441a35085e3abfec8933c687ae337f99a3.png",
+    "thumbnailUrl": "/content/frames/magic-night-storybook-v1.ff0dcb46723eb195a9e4847847a2ca441a35085e3abfec8933c687ae337f99a3.png",
+    "compositionUrl": "/content/frames/magic-night-storybook-v1.c567b2db167ee31a9426069b3f24a4b150c19c208889523479599a40fb5319f0.json",
+    "catalogVisible": true,
+    "legacyId": "magic-night"
+  },
+  {
+    "id": "forest-paws-storybook-v1",
+    "name": "足あとと葉っぱ",
+    "themeId": "animals",
+    "assetUrl": "/content/frames/forest-paws-storybook-v1.7f813694873a99006bde8829694ed3cb1dfbff6cada9400a3959c751bec54a14.png",
+    "thumbnailUrl": "/content/frames/forest-paws-storybook-v1.7f813694873a99006bde8829694ed3cb1dfbff6cada9400a3959c751bec54a14.png",
+    "compositionUrl": "/content/frames/forest-paws-storybook-v1.e49a8e81af5cb5353948c9ac74d30f2132b847198e474877d4224d3e26d65872.json",
+    "catalogVisible": true,
+    "legacyId": "forest-paws"
+  },
+  {
+    "id": "ocean-shells-storybook-v1",
+    "name": "貝がらとあわ",
+    "themeId": "ocean",
+    "assetUrl": "/content/frames/ocean-shells-storybook-v1.d4dcf8575060051fd4eb5f0236527dc0380c488192462728c424dffa2b0f42c6.png",
+    "thumbnailUrl": "/content/frames/ocean-shells-storybook-v1.d4dcf8575060051fd4eb5f0236527dc0380c488192462728c424dffa2b0f42c6.png",
+    "compositionUrl": "/content/frames/ocean-shells-storybook-v1.3a4c9501551f5bcc874505acd4bb46051eb4114f2510d440fbcd92725a6e0c0b.json",
+    "catalogVisible": true,
+    "legacyId": "ocean-shells"
+  },
+  {
+    "id": "dino-fossils-storybook-v1",
+    "name": "化石とシダ",
+    "themeId": "dinosaurs",
+    "assetUrl": "/content/frames/dino-fossils-storybook-v1.1cdb84487d674645f07177e9c08e509c183129a5cc3c8b442117df7938bc6046.png",
+    "thumbnailUrl": "/content/frames/dino-fossils-storybook-v1.1cdb84487d674645f07177e9c08e509c183129a5cc3c8b442117df7938bc6046.png",
+    "compositionUrl": "/content/frames/dino-fossils-storybook-v1.38a545ca2d185595e647191af1177985675e1004b1cb4415cefb184b89348c3a.json",
+    "catalogVisible": true,
+    "legacyId": "dino-fossils"
+  },
+  {
+    "id": "happy-road-storybook-v1",
+    "name": "タイヤとみち",
+    "themeId": "vehicles",
+    "assetUrl": "/content/frames/happy-road-storybook-v1.4542f10e734ab4b00b21e04c3fb781331df8a02607ce37bade8c4750a720a3db.png",
+    "thumbnailUrl": "/content/frames/happy-road-storybook-v1.4542f10e734ab4b00b21e04c3fb781331df8a02607ce37bade8c4750a720a3db.png",
+    "compositionUrl": "/content/frames/happy-road-storybook-v1.c48ae9822af9f0498e7c565354cc22720d38ffed266e2adf67fb32928a6f7613.json",
+    "catalogVisible": true,
+    "legacyId": "happy-road"
+  },
+  {
+    "id": "work-zone-storybook-v1",
+    "name": "コーンとしましま",
+    "themeId": "construction",
+    "assetUrl": "/content/frames/work-zone-storybook-v1.a4a0a209ad407606b0a39c579a0e07253358c85e2affabdc24b54f12f87c314d.png",
+    "thumbnailUrl": "/content/frames/work-zone-storybook-v1.a4a0a209ad407606b0a39c579a0e07253358c85e2affabdc24b54f12f87c314d.png",
+    "compositionUrl": "/content/frames/work-zone-storybook-v1.6fa3ed7bb6cf605420f7092323891ec8330468d161b63b2745b9529d7317820d.json",
+    "catalogVisible": true,
+    "legacyId": "work-zone"
+  },
+  {
+    "id": "robot-circuit-storybook-v1",
+    "name": "歯車と回路",
+    "themeId": "robots",
+    "assetUrl": "/content/frames/robot-circuit-storybook-v1.282b151a340168c69c72b141c92033fb588a028909d447b674227a9f182ef228.png",
+    "thumbnailUrl": "/content/frames/robot-circuit-storybook-v1.282b151a340168c69c72b141c92033fb588a028909d447b674227a9f182ef228.png",
+    "compositionUrl": "/content/frames/robot-circuit-storybook-v1.9f9c2b12305a9f6ae256fbee8e16e3835e2783fd7e34081ab0a9eaf6c11c6f95.json",
+    "catalogVisible": true,
+    "legacyId": "robot-circuit"
+  },
+  {
+    "id": "space-orbit-storybook-v1",
+    "name": "惑星と星",
+    "themeId": "space",
+    "assetUrl": "/content/frames/space-orbit-storybook-v1.8730ebdd785a44eb79e06c6977fb66bccc4a45874558c5ff33e24281320ae04f.png",
+    "thumbnailUrl": "/content/frames/space-orbit-storybook-v1.8730ebdd785a44eb79e06c6977fb66bccc4a45874558c5ff33e24281320ae04f.png",
+    "compositionUrl": "/content/frames/space-orbit-storybook-v1.f8e74dc310a503b77050a438ef49baa76ab8e2cacb9e89b415e02e26ce09f06e.json",
+    "catalogVisible": true,
+    "legacyId": "space-orbit"
+  },
+  {
+    "id": "sweet-fruit-storybook-v1",
+    "name": "おかしとくだもの",
+    "themeId": "food",
+    "assetUrl": "/content/frames/sweet-fruit-storybook-v1.74d0965278c1bfb9dca4199eb0341674c3ad1849e918cb5cbaf2e13adad212ff.png",
+    "thumbnailUrl": "/content/frames/sweet-fruit-storybook-v1.74d0965278c1bfb9dca4199eb0341674c3ad1849e918cb5cbaf2e13adad212ff.png",
+    "compositionUrl": "/content/frames/sweet-fruit-storybook-v1.ced1eab46d019d4d2fbfb4a25b4610939ae0df3b77b63856bf75d6080d64ac97.json",
+    "catalogVisible": true,
+    "legacyId": "sweet-fruit"
+  },
+  {
+    "id": "flower-leaves-storybook-v1",
+    "name": "お花と葉っぱ",
+    "themeId": "flowers",
+    "assetUrl": "/content/frames/flower-leaves-storybook-v1.6742a39f3bbbe5793a64ba14014977b3f706d7f780eae58c1061d42149d2b16e.png",
+    "thumbnailUrl": "/content/frames/flower-leaves-storybook-v1.6742a39f3bbbe5793a64ba14014977b3f706d7f780eae58c1061d42149d2b16e.png",
+    "compositionUrl": "/content/frames/flower-leaves-storybook-v1.102f8f2fa0facb225f75a8277067c72dc96389423b31998a42ca51855430908b.json",
+    "catalogVisible": true,
+    "legacyId": "flower-leaves"
+  },
+  {
+    "id": "toy-box-storybook-v1",
+    "name": "つみきとボール",
+    "themeId": "toys",
+    "assetUrl": "/content/frames/toy-box-storybook-v1.d9eddd2433e7d7c849b12d18ce15f435d19935c86401a64845cbb1cbd618e529.png",
+    "thumbnailUrl": "/content/frames/toy-box-storybook-v1.d9eddd2433e7d7c849b12d18ce15f435d19935c86401a64845cbb1cbd618e529.png",
+    "compositionUrl": "/content/frames/toy-box-storybook-v1.5db5a3c41e9058443fa9fe8567cc6393cbab5220b471fc9bf6f3f107ad4fda08.json",
+    "catalogVisible": true,
+    "legacyId": "toy-box"
+  },
+  {
+    "id": "simple-white",
+    "name": "シンプル白",
+    "assetUrl": "/content/frames/simple-white.020b640da8c14ff7d2aab7ae0207f158775402e1c8971861639e8fb1a77cbd5e.svg",
+    "thumbnailUrl": "/content/frames/simple-white.020b640da8c14ff7d2aab7ae0207f158775402e1c8971861639e8fb1a77cbd5e.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "color-dots",
+    "name": "カラードット",
+    "assetUrl": "/content/frames/color-dots.bca15ad1cf7dff3add3fd0aeec7009549a8da22801b46b6bb1f2b2186d07894a.svg",
+    "thumbnailUrl": "/content/frames/color-dots.bca15ad1cf7dff3add3fd0aeec7009549a8da22801b46b6bb1f2b2186d07894a.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "color-drops",
+    "name": "色のしずく",
+    "assetUrl": "/content/frames/color-drops.49430992ecdced3e6d500bcf33279b28f2b229af1f7b7db59b2230c1625fea05.svg",
+    "thumbnailUrl": "/content/frames/color-drops.49430992ecdced3e6d500bcf33279b28f2b229af1f7b7db59b2230c1625fea05.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "rainbow-clouds",
+    "name": "虹と雲",
+    "assetUrl": "/content/frames/rainbow-clouds.04716d178a38008c25bed13dc01eacf20d815bc40e99e7221f83dc392aa55df4.svg",
+    "thumbnailUrl": "/content/frames/rainbow-clouds.04716d178a38008c25bed13dc01eacf20d815bc40e99e7221f83dc392aa55df4.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "little-stars",
+    "name": "ちいさな星",
+    "assetUrl": "/content/frames/little-stars.0b6807b591c63d6903099147a804ab0c2f4018a7bc9ad4761bd3e02a473a4079.svg",
+    "thumbnailUrl": "/content/frames/little-stars.0b6807b591c63d6903099147a804ab0c2f4018a7bc9ad4761bd3e02a473a4079.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "gentle-waves",
+    "name": "なみのおと",
+    "assetUrl": "/content/frames/gentle-waves.8b88247dcf173d35c12c0b75e0546a1ab3a8491dddcfcb4529235295112dc49f.svg",
+    "thumbnailUrl": "/content/frames/gentle-waves.8b88247dcf173d35c12c0b75e0546a1ab3a8491dddcfcb4529235295112dc49f.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "crayons",
+    "name": "クレヨン",
+    "assetUrl": "/content/frames/crayons.485947d149a99151cdeb6d0cb3ad12ea2a34ef23d498ca0db9f4bac97ba4dfcc.svg",
+    "thumbnailUrl": "/content/frames/crayons.485947d149a99151cdeb6d0cb3ad12ea2a34ef23d498ca0db9f4bac97ba4dfcc.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "pencils",
+    "name": "いろえんぴつ",
+    "assetUrl": "/content/frames/pencils.485947d149a99151cdeb6d0cb3ad12ea2a34ef23d498ca0db9f4bac97ba4dfcc.svg",
+    "thumbnailUrl": "/content/frames/pencils.485947d149a99151cdeb6d0cb3ad12ea2a34ef23d498ca0db9f4bac97ba4dfcc.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "royal-jewels",
+    "name": "王冠と宝石",
+    "themeId": "princess",
+    "assetUrl": "/content/frames/royal-jewels.65c6240cffdaecf54178af19882ced58f44419026356c0f62dcaa07234e5e1fc.svg",
+    "thumbnailUrl": "/content/frames/royal-jewels.65c6240cffdaecf54178af19882ced58f44419026356c0f62dcaa07234e5e1fc.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "magic-night",
+    "name": "星と月",
+    "themeId": "magic",
+    "assetUrl": "/content/frames/magic-night.c22f1d2bba62e13e6ff474e627da1b127a01c9191523171d3f222601e748b572.svg",
+    "thumbnailUrl": "/content/frames/magic-night.c22f1d2bba62e13e6ff474e627da1b127a01c9191523171d3f222601e748b572.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "forest-paws",
+    "name": "足あとと葉っぱ",
+    "themeId": "animals",
+    "assetUrl": "/content/frames/forest-paws.381721e1797fefb41774c1e94ae759460ba5e8e6c72547b3bdc493879ccffe8f.svg",
+    "thumbnailUrl": "/content/frames/forest-paws.381721e1797fefb41774c1e94ae759460ba5e8e6c72547b3bdc493879ccffe8f.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "ocean-shells",
+    "name": "貝がらとあわ",
+    "themeId": "ocean",
+    "assetUrl": "/content/frames/ocean-shells.fea98d21055761a4f1b67a130460926754bfe872c26509ff58070ae22df88c6a.svg",
+    "thumbnailUrl": "/content/frames/ocean-shells.fea98d21055761a4f1b67a130460926754bfe872c26509ff58070ae22df88c6a.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "dino-fossils",
+    "name": "化石とシダ",
+    "themeId": "dinosaurs",
+    "assetUrl": "/content/frames/dino-fossils.558e866fc6e1984be372c1b627917cd82ccf8dbcc32c1e6b5cd8b9a9255564a9.svg",
+    "thumbnailUrl": "/content/frames/dino-fossils.558e866fc6e1984be372c1b627917cd82ccf8dbcc32c1e6b5cd8b9a9255564a9.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "happy-road",
+    "name": "タイヤとみち",
+    "themeId": "vehicles",
+    "assetUrl": "/content/frames/happy-road.a47de555cd0844910d66002695b4541dfc67a3d380602d24e46bbe40f165b256.svg",
+    "thumbnailUrl": "/content/frames/happy-road.a47de555cd0844910d66002695b4541dfc67a3d380602d24e46bbe40f165b256.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "work-zone",
+    "name": "コーンとしましま",
+    "themeId": "construction",
+    "assetUrl": "/content/frames/work-zone.8eb62e9a248669c9ec190c528b48f95dddece7235f5d2fd7056320fb226ece9f.svg",
+    "thumbnailUrl": "/content/frames/work-zone.8eb62e9a248669c9ec190c528b48f95dddece7235f5d2fd7056320fb226ece9f.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "robot-circuit",
+    "name": "歯車と回路",
+    "themeId": "robots",
+    "assetUrl": "/content/frames/robot-circuit.8e6616a82ca867221d017a873bd862c98e0d439f1af0011667291cee7ecdb6f1.svg",
+    "thumbnailUrl": "/content/frames/robot-circuit.8e6616a82ca867221d017a873bd862c98e0d439f1af0011667291cee7ecdb6f1.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "space-orbit",
+    "name": "惑星と星",
+    "themeId": "space",
+    "assetUrl": "/content/frames/space-orbit.a6ad0f06764758ed86b1a502c1e9adc47a9624e3ea8c0a1fdd98c5d232260f74.svg",
+    "thumbnailUrl": "/content/frames/space-orbit.a6ad0f06764758ed86b1a502c1e9adc47a9624e3ea8c0a1fdd98c5d232260f74.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "sweet-fruit",
+    "name": "おかしとくだもの",
+    "themeId": "food",
+    "assetUrl": "/content/frames/sweet-fruit.87dc54c1d982ec22dd00600d1b23f60a6ddc08717329e136201175231886ebb3.svg",
+    "thumbnailUrl": "/content/frames/sweet-fruit.87dc54c1d982ec22dd00600d1b23f60a6ddc08717329e136201175231886ebb3.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "flower-leaves",
+    "name": "お花と葉っぱ",
+    "themeId": "flowers",
+    "assetUrl": "/content/frames/flower-leaves.514fc03cdbc8c8a3a6665502fb1d36e4e3451af81b2ae704e7488afec7d79233.svg",
+    "thumbnailUrl": "/content/frames/flower-leaves.514fc03cdbc8c8a3a6665502fb1d36e4e3451af81b2ae704e7488afec7d79233.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "toy-box",
+    "name": "つみきとボール",
+    "themeId": "toys",
+    "assetUrl": "/content/frames/toy-box.0c29fe241eb44afcd00934a8053af932c2fe16e8d86d37da4002b1d00fa88a6b.svg",
+    "thumbnailUrl": "/content/frames/toy-box.0c29fe241eb44afcd00934a8053af932c2fe16e8d86d37da4002b1d00fa88a6b.svg",
+    "catalogVisible": false
+  }
+]

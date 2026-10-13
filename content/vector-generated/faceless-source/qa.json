@@ -1,0 +1,928 @@
+{
+  "pass": true,
+  "templateId": "gen-excavator-cones-faceless-v1",
+  "approved": false,
+  "approvalRequired": true,
+  "originalSha256": "6de9789ee4824f96952fa65b5b958c5096c102aed645786e4b257c3ff9f3330f",
+  "compilerVersion": 2,
+  "templateSha256": "3581f051e84b3d57c92c0c12b82820672b820f114a372909824151ab58d99b2d",
+  "normalizedSha256": "8ae16b268dd05adaf2867f5b1cd67ae2798d9fe79ee9dda0d0ebccf0995929a8",
+  "originalSize": [
+    1122,
+    1402
+  ],
+  "analysisSize": [
+    1600,
+    2000
+  ],
+  "normalization": {
+    "method": "contain-whole-page-on-white",
+    "scale": 1.1978609625668448,
+    "offset": [
+      128,
+      160
+    ],
+    "imageSize": [
+      1344,
+      1679
+    ],
+    "canvasSize": [
+      1600,
+      2000
+    ],
+    "safeMargin": 128,
+    "cropped": false,
+    "contoursRedrawn": false
+  },
+  "regionCount": 49,
+  "detectedRegionCount": 50,
+  "countPolicy": "advisory",
+  "countWithinExpectedRange": true,
+  "expectedRange": [
+    40,
+    60
+  ],
+  "smallRepairCandidates": 0,
+  "largeGapCandidates": 1,
+  "dilationApplied": false,
+  "unreviewedLargeGapCandidates": 0,
+  "gapCandidateDetails": [
+    {
+      "id": "g01",
+      "candidateKey": "gap-a5f84ba51434d9562ebcb888ac0ecdce527fcafd0d529390407eaa5ca23230c3",
+      "originalSha256": "6de9789ee4824f96952fa65b5b958c5096c102aed645786e4b257c3ff9f3330f",
+      "maskSha256": "cbedf871cd46f33bf0584bc97dfec3b1e9888a3227f1e110aee62d17f4f48f3c",
+      "kind": "split-open-detail",
+      "parentRegionId": "r32",
+      "parentRegionName": "手前のキャタピラ",
+      "parentExteriorConnected": false,
+      "labelPoint": [
+        1437.0,
+        1312.0
+      ],
+      "bounds": [
+        1432.0,
+        1304.0,
+        14.0,
+        71.0
+      ],
+      "area": 693.0,
+      "usableDiameter": 10.394,
+      "review": {
+        "candidateKey": "gap-a5f84ba51434d9562ebcb888ac0ecdce527fcafd0d529390407eaa5ca23230c3",
+        "originalSha256": "6de9789ee4824f96952fa65b5b958c5096c102aed645786e4b257c3ff9f3330f",
+        "kind": "split-open-detail",
+        "parentRegionId": "r32",
+        "parentRegionName": "手前のキャタピラ",
+        "parentExteriorConnected": false,
+        "point": [
+          1437,
+          1312
+        ],
+        "classification": "intentional-open-detail",
+        "part": "右クローラーの外周折り返し",
+        "reason": "生成原画の右端で履帯の内部線が外周手前で止まる意図した開線。外背景に接続せず、9px closeだけで別領域へ分割される。原画・黒線・解析maskを自動修復しない。"
+      }
+    }
+  ],
+  "gapReviewSchemaVersion": 2,
+  "tinyRegions": 0,
+  "blackRatio": 0.058750625,
+  "grayRatio": 0.020593125,
+  "backgroundComponentsExcluded": 1,
+  "contourPoints": 5419,
+  "originalInkContourPoints": 20511,
+  "minimumUsableDiameter": 22.788,
+  "regions": [
+    {
+      "id": "r01",
+      "area": 41614.0,
+      "usableDiameter": 101.057,
+      "labelPoint": [
+        547.0,
+        328.0
+      ],
+      "bounds": [
+        385.0,
+        193.0,
+        238.0,
+        543.0
+      ]
+    },
+    {
+      "id": "r02",
+      "area": 10529.0,
+      "usableDiameter": 61.126,
+      "labelPoint": [
+        447.0,
+        339.0
+      ],
+      "bounds": [
+        397.0,
+        184.0,
+        161.0,
+        224.0
+      ]
+    },
+    {
+      "id": "r03",
+      "area": 1877.0,
+      "usableDiameter": 46.0,
+      "labelPoint": [
+        577.0,
+        248.0
+      ],
+      "bounds": [
+        555.0,
+        223.0,
+        46.0,
+        52.0
+      ]
+    },
+    {
+      "id": "r04",
+      "area": 6697.0,
+      "usableDiameter": 55.569,
+      "labelPoint": [
+        665.0,
+        315.0
+      ],
+      "bounds": [
+        619.0,
+        256.0,
+        114.0,
+        118.0
+      ]
+    },
+    {
+      "id": "r05",
+      "area": 36936.0,
+      "usableDiameter": 111.569,
+      "labelPoint": [
+        778.0,
+        540.0
+      ],
+      "bounds": [
+        578.0,
+        324.0,
+        295.0,
+        378.0
+      ]
+    },
+    {
+      "id": "r06",
+      "area": 15660.0,
+      "usableDiameter": 85.594,
+      "labelPoint": [
+        765.0,
+        390.0
+      ],
+      "bounds": [
+        687.0,
+        313.0,
+        193.0,
+        190.0
+      ]
+    },
+    {
+      "id": "r07",
+      "area": 12340.0,
+      "usableDiameter": 61.119,
+      "labelPoint": [
+        353.0,
+        522.0
+      ],
+      "bounds": [
+        303.0,
+        371.0,
+        142.0,
+        214.0
+      ]
+    },
+    {
+      "id": "r09",
+      "area": 15825.0,
+      "usableDiameter": 59.119,
+      "labelPoint": [
+        743.0,
+        675.0
+      ],
+      "bounds": [
+        566.0,
+        412.0,
+        215.0,
+        369.0
+      ]
+    },
+    {
+      "id": "r10",
+      "area": 2148.0,
+      "usableDiameter": 37.181,
+      "labelPoint": [
+        892.0,
+        515.0
+      ],
+      "bounds": [
+        868.0,
+        469.0,
+        44.0,
+        79.0
+      ]
+    },
+    {
+      "id": "r11",
+      "area": 6417.0,
+      "usableDiameter": 48.332,
+      "labelPoint": [
+        316.0,
+        604.0
+      ],
+      "bounds": [
+        248.0,
+        569.0,
+        99.0,
+        149.0
+      ]
+    },
+    {
+      "id": "r12",
+      "area": 6767.0,
+      "usableDiameter": 47.6,
+      "labelPoint": [
+        911.0,
+        623.0
+      ],
+      "bounds": [
+        832.0,
+        543.0,
+        110.0,
+        117.0
+      ]
+    },
+    {
+      "id": "r13",
+      "area": 1327.0,
+      "usableDiameter": 39.15,
+      "labelPoint": [
+        873.0,
+        588.0
+      ],
+      "bounds": [
+        854.0,
+        568.0,
+        40.0,
+        42.0
+      ]
+    },
+    {
+      "id": "r14",
+      "area": 45287.0,
+      "usableDiameter": 125.826,
+      "labelPoint": [
+        214.0,
+        820.0
+      ],
+      "bounds": [
+        151.0,
+        641.0,
+        255.0,
+        428.0
+      ]
+    },
+    {
+      "id": "r15",
+      "area": 1649.0,
+      "usableDiameter": 23.994,
+      "labelPoint": [
+        235.0,
+        719.0
+      ],
+      "bounds": [
+        224.0,
+        641.0,
+        39.0,
+        98.0
+      ]
+    },
+    {
+      "id": "r16",
+      "area": 1223.0,
+      "usableDiameter": 37.95,
+      "labelPoint": [
+        348.0,
+        687.0
+      ],
+      "bounds": [
+        330.0,
+        667.0,
+        38.0,
+        41.0
+      ]
+    },
+    {
+      "id": "r17",
+      "area": 131892.0,
+      "usableDiameter": 160.0,
+      "labelPoint": [
+        966.0,
+        1131.0
+      ],
+      "bounds": [
+        686.0,
+        647.0,
+        741.0,
+        565.0
+      ]
+    },
+    {
+      "id": "r18",
+      "area": 43177.0,
+      "usableDiameter": 149.002,
+      "labelPoint": [
+        407.0,
+        973.0
+      ],
+      "bounds": [
+        281.0,
+        741.0,
+        268.0,
+        315.0
+      ]
+    },
+    {
+      "id": "r19",
+      "area": 4734.0,
+      "usableDiameter": 31.963,
+      "labelPoint": [
+        387.0,
+        757.0
+      ],
+      "bounds": [
+        361.0,
+        740.0,
+        98.0,
+        155.0
+      ]
+    },
+    {
+      "id": "r20",
+      "area": 90220.0,
+      "usableDiameter": 272.788,
+      "labelPoint": [
+        873.0,
+        909.0
+      ],
+      "bounds": [
+        717.0,
+        699.0,
+        320.0,
+        350.0
+      ]
+    },
+    {
+      "id": "r21",
+      "area": 37170.0,
+      "usableDiameter": 106.301,
+      "labelPoint": [
+        1105.0,
+        1106.0
+      ],
+      "bounds": [
+        1050.0,
+        698.0,
+        234.0,
+        465.0
+      ]
+    },
+    {
+      "id": "r22",
+      "area": 28331.0,
+      "usableDiameter": 118.0,
+      "labelPoint": [
+        1127.0,
+        916.0
+      ],
+      "bounds": [
+        1067.0,
+        726.0,
+        119.0,
+        303.0
+      ]
+    },
+    {
+      "id": "r23",
+      "area": 8667.0,
+      "usableDiameter": 49.969,
+      "labelPoint": [
+        1239.0,
+        892.0
+      ],
+      "bounds": [
+        1208.0,
+        739.0,
+        56.0,
+        205.0
+      ]
+    },
+    {
+      "id": "r24",
+      "area": 6796.0,
+      "usableDiameter": 26.363,
+      "labelPoint": [
+        501.0,
+        1025.0
+      ],
+      "bounds": [
+        416.0,
+        887.0,
+        165.0,
+        184.0
+      ]
+    },
+    {
+      "id": "r25",
+      "area": 4874.0,
+      "usableDiameter": 33.969,
+      "labelPoint": [
+        662.0,
+        1123.0
+      ],
+      "bounds": [
+        646.0,
+        1001.0,
+        53.0,
+        176.0
+      ]
+    },
+    {
+      "id": "r26",
+      "area": 940.0,
+      "usableDiameter": 23.575,
+      "labelPoint": [
+        1150.0,
+        1033.0
+      ],
+      "bounds": [
+        1119.0,
+        1021.0,
+        44.0,
+        29.0
+      ]
+    },
+    {
+      "id": "r27",
+      "area": 1927.0,
+      "usableDiameter": 22.788,
+      "labelPoint": [
+        1370.0,
+        1011.0
+      ],
+      "bounds": [
+        1307.0,
+        998.0,
+        89.0,
+        33.0
+      ]
+    },
+    {
+      "id": "r28",
+      "area": 1941.0,
+      "usableDiameter": 23.181,
+      "labelPoint": [
+        1343.0,
+        1069.0
+      ],
+      "bounds": [
+        1307.0,
+        1052.0,
+        89.0,
+        33.0
+      ]
+    },
+    {
+      "id": "r29",
+      "area": 1976.0,
+      "usableDiameter": 23.575,
+      "labelPoint": [
+        1380.0,
+        1117.0
+      ],
+      "bounds": [
+        1307.0,
+        1105.0,
+        89.0,
+        34.0
+      ]
+    },
+    {
+      "id": "r30",
+      "area": 30707.0,
+      "usableDiameter": 107.15,
+      "labelPoint": [
+        441.0,
+        1330.0
+      ],
+      "bounds": [
+        387.0,
+        1184.0,
+        363.0,
+        276.0
+      ]
+    },
+    {
+      "id": "r31",
+      "area": 21233.0,
+      "usableDiameter": 70.394,
+      "labelPoint": [
+        720.0,
+        1253.0
+      ],
+      "bounds": [
+        498.0,
+        1214.0,
+        395.0,
+        251.0
+      ]
+    },
+    {
+      "id": "r32",
+      "area": 52777.0,
+      "usableDiameter": 121.969,
+      "labelPoint": [
+        798.0,
+        1412.0
+      ],
+      "bounds": [
+        737.0,
+        1226.0,
+        709.0,
+        323.0
+      ]
+    },
+    {
+      "id": "r33",
+      "area": 12176.0,
+      "usableDiameter": 37.969,
+      "labelPoint": [
+        787.0,
+        1221.0
+      ],
+      "bounds": [
+        758.0,
+        1200.0,
+        445.0,
+        51.0
+      ]
+    },
+    {
+      "id": "r34",
+      "area": 24572.0,
+      "usableDiameter": 133.575,
+      "labelPoint": [
+        673.0,
+        1356.0
+      ],
+      "bounds": [
+        525.0,
+        1282.0,
+        255.0,
+        152.0
+      ]
+    },
+    {
+      "id": "r35",
+      "area": 31012.0,
+      "usableDiameter": 30.0,
+      "labelPoint": [
+        1144.0,
+        1301.0
+      ],
+      "bounds": [
+        863.0,
+        1260.0,
+        566.0,
+        293.0
+      ]
+    },
+    {
+      "id": "r36",
+      "area": 9646.0,
+      "usableDiameter": 88.0,
+      "labelPoint": [
+        329.0,
+        1405.0
+      ],
+      "bounds": [
+        275.0,
+        1321.0,
+        109.0,
+        128.0
+      ]
+    },
+    {
+      "id": "r37",
+      "area": 3282.0,
+      "usableDiameter": 52.0,
+      "labelPoint": [
+        573.0,
+        1351.0
+      ],
+      "bounds": [
+        547.0,
+        1318.0,
+        52.0,
+        79.0
+      ]
+    },
+    {
+      "id": "r38",
+      "area": 37388.0,
+      "usableDiameter": 52.332,
+      "labelPoint": [
+        1006.0,
+        1477.0
+      ],
+      "bounds": [
+        888.0,
+        1292.0,
+        514.0,
+        227.0
+      ]
+    },
+    {
+      "id": "r39",
+      "area": 5324.0,
+      "usableDiameter": 70.394,
+      "labelPoint": [
+        1158.0,
+        1396.0
+      ],
+      "bounds": [
+        1123.0,
+        1347.0,
+        71.0,
+        97.0
+      ]
+    },
+    {
+      "id": "r40",
+      "area": 5022.0,
+      "usableDiameter": 69.907,
+      "labelPoint": [
+        1262.0,
+        1377.0
+      ],
+      "bounds": [
+        1228.0,
+        1330.0,
+        69.0,
+        93.0
+      ]
+    },
+    {
+      "id": "r41",
+      "area": 3442.0,
+      "usableDiameter": 54.0,
+      "labelPoint": [
+        1357.0,
+        1353.0
+      ],
+      "bounds": [
+        1330.0,
+        1317.0,
+        54.0,
+        81.0
+      ]
+    },
+    {
+      "id": "r42",
+      "area": 6045.0,
+      "usableDiameter": 74.0,
+      "labelPoint": [
+        946.0,
+        1430.0
+      ],
+      "bounds": [
+        909.0,
+        1382.0,
+        74.0,
+        104.0
+      ]
+    },
+    {
+      "id": "r43",
+      "area": 5593.0,
+      "usableDiameter": 73.513,
+      "labelPoint": [
+        1053.0,
+        1416.0
+      ],
+      "bounds": [
+        1017.0,
+        1365.0,
+        73.0,
+        99.0
+      ]
+    },
+    {
+      "id": "r44",
+      "area": 12897.0,
+      "usableDiameter": 92.0,
+      "labelPoint": [
+        310.0,
+        1501.0
+      ],
+      "bounds": [
+        248.0,
+        1445.0,
+        163.0,
+        102.0
+      ]
+    },
+    {
+      "id": "r45",
+      "area": 8886.0,
+      "usableDiameter": 86.282,
+      "labelPoint": [
+        1310.0,
+        1519.0
+      ],
+      "bounds": [
+        1254.0,
+        1445.0,
+        108.0,
+        118.0
+      ]
+    },
+    {
+      "id": "r46",
+      "area": 19319.0,
+      "usableDiameter": 98.0,
+      "labelPoint": [
+        324.0,
+        1603.0
+      ],
+      "bounds": [
+        221.0,
+        1536.0,
+        218.0,
+        116.0
+      ]
+    },
+    {
+      "id": "r47",
+      "area": 12042.0,
+      "usableDiameter": 86.0,
+      "labelPoint": [
+        1281.0,
+        1611.0
+      ],
+      "bounds": [
+        1224.0,
+        1559.0,
+        161.0,
+        96.0
+      ]
+    },
+    {
+      "id": "r48",
+      "area": 19311.0,
+      "usableDiameter": 63.575,
+      "labelPoint": [
+        363.0,
+        1688.0
+      ],
+      "bounds": [
+        163.0,
+        1614.0,
+        337.0,
+        106.0
+      ]
+    },
+    {
+      "id": "r49",
+      "area": 14805.0,
+      "usableDiameter": 78.363,
+      "labelPoint": [
+        1260.0,
+        1697.0
+      ],
+      "bounds": [
+        1200.0,
+        1644.0,
+        205.0,
+        96.0
+      ]
+    },
+    {
+      "id": "r50",
+      "area": 17043.0,
+      "usableDiameter": 65.575,
+      "labelPoint": [
+        1237.0,
+        1773.0
+      ],
+      "bounds": [
+        1149.0,
+        1688.0,
+        302.0,
+        118.0
+      ]
+    }
+  ],
+  "tinyRegionBounds": [],
+  "tinyRegionDetails": [],
+  "materialReviewRequired": false,
+  "annotationSha256": "e416d8b4f86b9b3075c5a959be81c3cfe9ec68f751fbe44cfe8760c36f01778f",
+  "technicalSemanticReview": {
+    "reviewer": "Codex technical source review",
+    "checks": [
+      "faceless-vehicle",
+      "physical-parts-preserved",
+      "negative-spaces-excluded"
+    ],
+    "unresolvedLeaks": []
+  },
+  "excludedBackgroundRegions": [
+    {
+      "name": "アームとピストンの間の背景",
+      "reason": "生成原画でアームとピストンに挟まれた負の空間。車の部品ではないため塗り領域から除く。",
+      "bounds": [
+        340.0,
+        417.0,
+        111.0,
+        227.0
+      ]
+    },
+    {
+      "name": "奥アームとピストン接合の負の空間",
+      "reason": "原画を拡大して確認した二本の部品の交点にある小さな白い隙間。独立した車の部品ではなく、線やmaskの修復はしない。",
+      "bounds": [
+        857.0,
+        503.0,
+        10.0,
+        12.0
+      ]
+    }
+  ],
+  "widthExceptions": [
+    {
+      "id": "r15",
+      "name": "バケットの小さい関節",
+      "usableDiameter": 23.994,
+      "reason": "細い軸・クローラー部品。新原画に対する4倍の直接タップ・描画・消去を測定する。",
+      "evidenceFile": "content/generated-lineart/interaction/gen-excavator-cones-faceless-v1.json",
+      "evidenceSha256": "57fdc2b5826ed3d284beff99083022a96ea9917617f6cb75f0acb02c6a8061f2",
+      "evidenceSnapshot": "interaction-57fdc2b5826ed3d284beff99083022a96ea9917617f6cb75f0acb02c6a8061f2.json"
+    },
+    {
+      "id": "r26",
+      "name": "ドアの取っ手",
+      "usableDiameter": 23.575,
+      "reason": "細い軸・クローラー部品。新原画に対する4倍の直接タップ・描画・消去を測定する。",
+      "evidenceFile": "content/generated-lineart/interaction/gen-excavator-cones-faceless-v1.json",
+      "evidenceSha256": "57fdc2b5826ed3d284beff99083022a96ea9917617f6cb75f0acb02c6a8061f2",
+      "evidenceSnapshot": "interaction-57fdc2b5826ed3d284beff99083022a96ea9917617f6cb75f0acb02c6a8061f2.json"
+    },
+    {
+      "id": "r27",
+      "name": "上の通風口",
+      "usableDiameter": 22.788,
+      "reason": "細い軸・クローラー部品。新原画に対する4倍の直接タップ・描画・消去を測定する。",
+      "evidenceFile": "content/generated-lineart/interaction/gen-excavator-cones-faceless-v1.json",
+      "evidenceSha256": "57fdc2b5826ed3d284beff99083022a96ea9917617f6cb75f0acb02c6a8061f2",
+      "evidenceSnapshot": "interaction-57fdc2b5826ed3d284beff99083022a96ea9917617f6cb75f0acb02c6a8061f2.json"
+    },
+    {
+      "id": "r28",
+      "name": "中央の通風口",
+      "usableDiameter": 23.181,
+      "reason": "細い軸・クローラー部品。新原画に対する4倍の直接タップ・描画・消去を測定する。",
+      "evidenceFile": "content/generated-lineart/interaction/gen-excavator-cones-faceless-v1.json",
+      "evidenceSha256": "57fdc2b5826ed3d284beff99083022a96ea9917617f6cb75f0acb02c6a8061f2",
+      "evidenceSnapshot": "interaction-57fdc2b5826ed3d284beff99083022a96ea9917617f6cb75f0acb02c6a8061f2.json"
+    },
+    {
+      "id": "r29",
+      "name": "下の通風口",
+      "usableDiameter": 23.575,
+      "reason": "細い軸・クローラー部品。新原画に対する4倍の直接タップ・描画・消去を測定する。",
+      "evidenceFile": "content/generated-lineart/interaction/gen-excavator-cones-faceless-v1.json",
+      "evidenceSha256": "57fdc2b5826ed3d284beff99083022a96ea9917617f6cb75f0acb02c6a8061f2",
+      "evidenceSnapshot": "interaction-57fdc2b5826ed3d284beff99083022a96ea9917617f6cb75f0acb02c6a8061f2.json"
+    }
+  ],
+  "excludedLineDetails": [],
+  "visibleInkSource": "original-threshold-contours; no morphological repair or extra region stroke",
+  "errors": [],
+  "warnings": [
+    "9px close候補 1箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）",
+    "1pxの線拡張で閉じる候補があります。解析マスクを確認してください",
+    "r15: 幅 24.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+    "r26: 幅 23.6px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+    "r27: 幅 22.8px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+    "r28: 幅 23.2px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+    "r29: 幅 23.6px。個別注釈と4×操作・塗り消去の実測証拠付き例外"
+  ],
+  "publicationNote": "原画と解析maskを別保存。素材・細部・輪郭の人間確認後に公開してください。"
+}

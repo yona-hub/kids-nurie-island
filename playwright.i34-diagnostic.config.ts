@@ -1,0 +1,3 @@
+import {defineConfig}from '@playwright/test';import base from './playwright.config';
+const out=process.env.SMOOTH_DIAGNOSTIC_OUTPUT??'test-results/smooth-home-i34/revision-56/reload';
+export default defineConfig({...base,testDir:"./test-results/smooth-home-i34/revision-56/diagnostic-source",workers:1,fullyParallel:false,testMatch:/smooth-reload-diagnostic\.spec\.ts/,projects:[{name:'diagnostic',use:{channel:'chrome',viewport:{width:1200,height:1000},deviceScaleFactor:1,launchOptions:{args:process.env.SMOOTH_CPU_DIAGNOSTIC==='1'?['--disable-accelerated-2d-canvas']:[]}}}],outputDir:out+'/artifacts',reporter:[['list'],['json',{outputFile:out+'/results.json'}]]});

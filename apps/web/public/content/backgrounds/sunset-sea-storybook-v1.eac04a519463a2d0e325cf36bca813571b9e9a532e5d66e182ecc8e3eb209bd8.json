@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "baseColor": "#fff5ef",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/sea-surface.c007d492b9b4fc883f422bca5f53318c3411228fddc566e19b753f5b9d7869ee.png",
+      "x": -150,
+      "y": 1590,
+      "width": 1900,
+      "height": 667.96875,
+      "rotation": 0,
+      "opacity": 0.48
+    },
+    {
+      "assetUrl": "/content/decor/cloud.00a3bb8dff232f94a89098a1af507bcda6e9296e4b6f0d28ce6f3f77cc49d668.png",
+      "x": 30,
+      "y": 280,
+      "width": 460,
+      "height": 264.140625,
+      "rotation": 0,
+      "opacity": 0.35
+    },
+    {
+      "assetUrl": "/content/decor/shell.cf2617d73faff688b6020bca8b7e5a62945512aa8d4126dfd7d3209bf9d712b2.png",
+      "x": 1410,
+      "y": 1800,
+      "width": 150,
+      "height": 124.8046875,
+      "rotation": 0,
+      "opacity": 0.48
+    }
+  ]
+}

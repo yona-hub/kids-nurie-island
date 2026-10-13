@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "baseColor": "#f5f2fc",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/moon.0f3da33022bfcd61fc1e5e357e1e6f1149e215c9cba0c99be88922cd6f5d4804.png",
+      "x": 1300,
+      "y": 150,
+      "width": 210,
+      "height": 218.53658536585365,
+      "rotation": 0,
+      "opacity": 0.43
+    },
+    {
+      "assetUrl": "/content/decor/star.a185245c643bbacde68bb58ee79b60dff1fd6d5f574a10303d78dd82a8c31e81.png",
+      "x": 80,
+      "y": 150,
+      "width": 120,
+      "height": 113.203125,
+      "rotation": 0,
+      "opacity": 0.43
+    },
+    {
+      "assetUrl": "/content/decor/star.a185245c643bbacde68bb58ee79b60dff1fd6d5f574a10303d78dd82a8c31e81.png",
+      "x": 1450,
+      "y": 1030,
+      "width": 90,
+      "height": 84.90234375,
+      "rotation": 0,
+      "opacity": 0.35
+    },
+    {
+      "assetUrl": "/content/decor/cloud.00a3bb8dff232f94a89098a1af507bcda6e9296e4b6f0d28ce6f3f77cc49d668.png",
+      "x": -50,
+      "y": 1720,
+      "width": 620,
+      "height": 356.015625,
+      "rotation": 0,
+      "opacity": 0.28
+    }
+  ]
+}

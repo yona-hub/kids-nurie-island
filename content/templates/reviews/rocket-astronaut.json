@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "rocket-astronaut",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "4388e9805dfe41eb417fe20b648749bfb2e235435b996719ae423f0ed4de22c2",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

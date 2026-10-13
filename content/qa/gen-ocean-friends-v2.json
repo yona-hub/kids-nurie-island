@@ -1,0 +1,1062 @@
+{
+  "templateId": "gen-ocean-friends-v2",
+  "pass": true,
+  "regionCount": 41,
+  "expectedRegionRange": [
+    22,
+    28
+  ],
+  "errors": [],
+  "warnings": [
+    "領域数 41 は目安 22〜28 の範囲外",
+    "r11: 塗れる幅が24px未満 (21.3px)、個別の4×操作実測証拠付き例外",
+    "r31: 塗れる幅が24px未満 (19.8px)、個別の4×操作実測証拠付き例外",
+    "r33: 塗れる幅が24px未満 (20.1px)、個別の4×操作実測証拠付き例外",
+    "r36: 塗れる幅が24px未満 (23.8px)、個別の4×操作実測証拠付き例外"
+  ],
+  "closedRegions": 41,
+  "backgroundLeak": null,
+  "closureMethod": "threshold + 3px analysis close; original ink contours preserved separately",
+  "minimumBoundsWidth": 21,
+  "minimumUsableDiameter": 19.798988342285156,
+  "minVisibleArea": 473,
+  "blackRatio": 0.04666125,
+  "whiteRatio": 0.94057625,
+  "antiAliasRatio": 0.0127625,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "イルカの背びれ",
+      "visibleArea": 18504,
+      "usableDiameter": 123.2
+    },
+    {
+      "id": "r02",
+      "name": "イルカの体",
+      "visibleArea": 258795,
+      "usableDiameter": 266
+    },
+    {
+      "id": "r03",
+      "name": "左の泡",
+      "visibleArea": 16363,
+      "usableDiameter": 143.42
+    },
+    {
+      "id": "r04",
+      "name": "イルカの瞳",
+      "visibleArea": 6162,
+      "usableDiameter": 52.91
+    },
+    {
+      "id": "r05",
+      "name": "イルカの瞳のハイライト",
+      "visibleArea": 1625,
+      "usableDiameter": 44
+    },
+    {
+      "id": "r06",
+      "name": "イルカの口",
+      "visibleArea": 2473,
+      "usableDiameter": 37.94
+    },
+    {
+      "id": "r07",
+      "name": "右の泡",
+      "visibleArea": 15512,
+      "usableDiameter": 138.59
+    },
+    {
+      "id": "r08",
+      "name": "イルカの奥のひれ",
+      "visibleArea": 8411,
+      "usableDiameter": 80.37
+    },
+    {
+      "id": "r09",
+      "name": "カメの顔と前脚",
+      "visibleArea": 82584,
+      "usableDiameter": 119.2
+    },
+    {
+      "id": "r10",
+      "name": "カメの左の瞳",
+      "visibleArea": 1234,
+      "usableDiameter": 26.63
+    },
+    {
+      "id": "r11",
+      "name": "カメの左の瞳のハイライト",
+      "visibleArea": 476,
+      "usableDiameter": 21.31
+    },
+    {
+      "id": "r12",
+      "name": "カメの右の瞳",
+      "visibleArea": 3079,
+      "usableDiameter": 35.46
+    },
+    {
+      "id": "r13",
+      "name": "カメの右の瞳のハイライト",
+      "visibleArea": 832,
+      "usableDiameter": 30.28
+    },
+    {
+      "id": "r14",
+      "name": "甲羅の左上",
+      "visibleArea": 15661,
+      "usableDiameter": 128.45
+    },
+    {
+      "id": "r15",
+      "name": "甲羅の上",
+      "visibleArea": 5575,
+      "usableDiameter": 46
+    },
+    {
+      "id": "r16",
+      "name": "甲羅の中央",
+      "visibleArea": 15536,
+      "usableDiameter": 126.45
+    },
+    {
+      "id": "r17",
+      "name": "甲羅の右上",
+      "visibleArea": 8764,
+      "usableDiameter": 72.71
+    },
+    {
+      "id": "r18",
+      "name": "魚の背びれ上",
+      "visibleArea": 4141,
+      "usableDiameter": 52.08
+    },
+    {
+      "id": "r19",
+      "name": "カメの口",
+      "visibleArea": 847,
+      "usableDiameter": 24
+    },
+    {
+      "id": "r20",
+      "name": "魚の背びれ下",
+      "visibleArea": 2961,
+      "usableDiameter": 52.91
+    },
+    {
+      "id": "r21",
+      "name": "魚の中央の模様",
+      "visibleArea": 12732,
+      "usableDiameter": 58
+    },
+    {
+      "id": "r22",
+      "name": "魚の右の模様",
+      "visibleArea": 15042,
+      "usableDiameter": 72
+    },
+    {
+      "id": "r23",
+      "name": "魚の顔と胸びれ",
+      "visibleArea": 28539,
+      "usableDiameter": 86.02
+    },
+    {
+      "id": "r24",
+      "name": "甲羅の左下",
+      "visibleArea": 19064,
+      "usableDiameter": 120.79
+    },
+    {
+      "id": "r25",
+      "name": "甲羅の右下",
+      "visibleArea": 20825,
+      "usableDiameter": 149.66
+    },
+    {
+      "id": "r26",
+      "name": "魚の尾びれ",
+      "visibleArea": 11247,
+      "usableDiameter": 76
+    },
+    {
+      "id": "r27",
+      "name": "魚の左の模様",
+      "visibleArea": 5091,
+      "usableDiameter": 41.66
+    },
+    {
+      "id": "r28",
+      "name": "魚の瞳",
+      "visibleArea": 2104,
+      "usableDiameter": 31.11
+    },
+    {
+      "id": "r29",
+      "name": "魚の瞳のハイライト",
+      "visibleArea": 640,
+      "usableDiameter": 28
+    },
+    {
+      "id": "r30",
+      "name": "カメの左の脚",
+      "visibleArea": 17754,
+      "usableDiameter": 95.34
+    },
+    {
+      "id": "r31",
+      "name": "甲羅の右端",
+      "visibleArea": 1061,
+      "usableDiameter": 19.8
+    },
+    {
+      "id": "r32",
+      "name": "カメのしっぽ",
+      "visibleArea": 2018,
+      "usableDiameter": 36.77
+    },
+    {
+      "id": "r33",
+      "name": "魚の口",
+      "visibleArea": 473,
+      "usableDiameter": 20.14
+    },
+    {
+      "id": "r34",
+      "name": "甲羅の下側",
+      "visibleArea": 4786,
+      "usableDiameter": 43.6
+    },
+    {
+      "id": "r35",
+      "name": "カメの右の脚",
+      "visibleArea": 14426,
+      "usableDiameter": 98.17
+    },
+    {
+      "id": "r36",
+      "name": "魚の左の腹びれ",
+      "visibleArea": 1293,
+      "usableDiameter": 23.8
+    },
+    {
+      "id": "r37",
+      "name": "魚の右の腹びれ",
+      "visibleArea": 1743,
+      "usableDiameter": 38
+    },
+    {
+      "id": "r38",
+      "name": "左のサンゴ",
+      "visibleArea": 52503,
+      "usableDiameter": 94.83
+    },
+    {
+      "id": "r39",
+      "name": "右のサンゴ",
+      "visibleArea": 28225,
+      "usableDiameter": 58.83
+    },
+    {
+      "id": "r40",
+      "name": "ヒトデ",
+      "visibleArea": 49041,
+      "usableDiameter": 177.36
+    },
+    {
+      "id": "r41",
+      "name": "貝がら",
+      "visibleArea": 41687,
+      "usableDiameter": 60
+    }
+  ],
+  "rasterEvidence": {
+    "pass": true,
+    "templateId": "gen-ocean-friends-v2",
+    "approved": false,
+    "approvalRequired": true,
+    "originalSha256": "4af719f39cbeb41e124103b8df7f8f9ab8dff6eb946bb914eabbb8bb52eecdf7",
+    "compilerVersion": 2,
+    "templateSha256": "34932bf51309096ec105ce560c50097fa8133ddeebeae851fd4e27b6980b4173",
+    "normalizedSha256": "d8ec6339905ec615501593f1bec7adfc039d4f61f84d91f57115e21a92baa261",
+    "originalSize": [
+      1122,
+      1402
+    ],
+    "analysisSize": [
+      1600,
+      2000
+    ],
+    "normalization": {
+      "method": "contain-whole-page-on-white",
+      "scale": 1.1978609625668448,
+      "offset": [
+        128,
+        160
+      ],
+      "imageSize": [
+        1344,
+        1679
+      ],
+      "canvasSize": [
+        1600,
+        2000
+      ],
+      "safeMargin": 128,
+      "cropped": false,
+      "contoursRedrawn": false
+    },
+    "regionCount": 41,
+    "detectedRegionCount": 41,
+    "countPolicy": "advisory",
+    "countWithinExpectedRange": false,
+    "expectedRange": [
+      22,
+      28
+    ],
+    "smallRepairCandidates": 0,
+    "largeGapCandidates": 1,
+    "dilationApplied": false,
+    "unreviewedLargeGapCandidates": 0,
+    "gapCandidateDetails": [
+      {
+        "id": "g01",
+        "candidateKey": "gap-8ef0e7e64f83d0c952bf30e13d5925a2beea6db39c1bb98a8ce066c5254f45ca",
+        "originalSha256": "4af719f39cbeb41e124103b8df7f8f9ab8dff6eb946bb914eabbb8bb52eecdf7",
+        "maskSha256": "04eecbb79059e94d29c04d04a9391346a4b1594aa8df4729f19aef89b422f641",
+        "kind": "split-open-detail",
+        "parentRegionId": "r41",
+        "parentRegionName": "貝がら",
+        "parentExteriorConnected": false,
+        "labelPoint": [
+          823,
+          1646
+        ],
+        "bounds": [
+          761,
+          1599,
+          86,
+          124
+        ],
+        "area": 3961,
+        "usableDiameter": 37.563,
+        "review": {
+          "candidateKey": "gap-8ef0e7e64f83d0c952bf30e13d5925a2beea6db39c1bb98a8ce066c5254f45ca",
+          "kind": "split-open-detail",
+          "parentRegionId": "r41",
+          "parentRegionName": "貝がら",
+          "parentExteriorConnected": false,
+          "classification": "intentional-open-detail",
+          "part": "貝がら右側の放射状の筋の内側",
+          "reason": "r41「貝がら」の右側にある放射状の開いた筋の内側。3px closeでは貝がら内をつなぐ空間が残り、9px closeだけが分割する。貝がら全体の外周は閉じている。",
+          "originalSha256": "4af719f39cbeb41e124103b8df7f8f9ab8dff6eb946bb914eabbb8bb52eecdf7",
+          "point": [
+            823,
+            1646
+          ]
+        }
+      }
+    ],
+    "gapReviewSchemaVersion": 2,
+    "tinyRegions": 0,
+    "blackRatio": 0.0594478125,
+    "grayRatio": 0.0193903125,
+    "backgroundComponentsExcluded": 1,
+    "contourPoints": 3366,
+    "originalInkContourPoints": 21087,
+    "minimumUsableDiameter": 20.375,
+    "regions": [
+      {
+        "id": "r01",
+        "area": 19027,
+        "usableDiameter": 118.239,
+        "labelPoint": [
+          672,
+          277
+        ],
+        "bounds": [
+          571,
+          214,
+          226,
+          166
+        ]
+      },
+      {
+        "id": "r02",
+        "area": 264154,
+        "usableDiameter": 251.653,
+        "labelPoint": [
+          819,
+          426
+        ],
+        "bounds": [
+          185,
+          286,
+          1018,
+          743
+        ]
+      },
+      {
+        "id": "r03",
+        "area": 16709,
+        "usableDiameter": 142.602,
+        "labelPoint": [
+          355,
+          426
+        ],
+        "bounds": [
+          283,
+          354,
+          146,
+          145
+        ]
+      },
+      {
+        "id": "r04",
+        "area": 6512,
+        "usableDiameter": 52.332,
+        "labelPoint": [
+          995,
+          515
+        ],
+        "bounds": [
+          942,
+          415,
+          97,
+          128
+        ]
+      },
+      {
+        "id": "r05",
+        "area": 1758,
+        "usableDiameter": 45.144,
+        "labelPoint": [
+          981,
+          458
+        ],
+        "bounds": [
+          958,
+          435,
+          46,
+          49
+        ]
+      },
+      {
+        "id": "r06",
+        "area": 2699,
+        "usableDiameter": 37.994,
+        "labelPoint": [
+          1074,
+          649
+        ],
+        "bounds": [
+          1026,
+          605,
+          82,
+          82
+        ]
+      },
+      {
+        "id": "r07",
+        "area": 15872,
+        "usableDiameter": 138.208,
+        "labelPoint": [
+          1322,
+          689
+        ],
+        "bounds": [
+          1252,
+          619,
+          141,
+          143
+        ]
+      },
+      {
+        "id": "r08",
+        "area": 8766,
+        "usableDiameter": 81.588,
+        "labelPoint": [
+          880,
+          733
+        ],
+        "bounds": [
+          819,
+          689,
+          125,
+          115
+        ]
+      },
+      {
+        "id": "r09",
+        "area": 85073,
+        "usableDiameter": 117.039,
+        "labelPoint": [
+          1033,
+          1308
+        ],
+        "bounds": [
+          678,
+          838,
+          467,
+          596
+        ]
+      },
+      {
+        "id": "r10",
+        "area": 1460,
+        "usableDiameter": 27.181,
+        "labelPoint": [
+          714,
+          952
+        ],
+        "bounds": [
+          698,
+          891,
+          51,
+          77
+        ]
+      },
+      {
+        "id": "r11",
+        "area": 545,
+        "usableDiameter": 21.969,
+        "labelPoint": [
+          725,
+          919
+        ],
+        "bounds": [
+          714,
+          904,
+          25,
+          29
+        ]
+      },
+      {
+        "id": "r12",
+        "area": 3312,
+        "usableDiameter": 36.357,
+        "labelPoint": [
+          860,
+          985
+        ],
+        "bounds": [
+          819,
+          913,
+          71,
+          91
+        ]
+      },
+      {
+        "id": "r13",
+        "area": 930,
+        "usableDiameter": 32.363,
+        "labelPoint": [
+          845,
+          946
+        ],
+        "bounds": [
+          829,
+          928,
+          33,
+          36
+        ]
+      },
+      {
+        "id": "r14",
+        "area": 16126,
+        "usableDiameter": 122.633,
+        "labelPoint": [
+          1034,
+          1009
+        ],
+        "bounds": [
+          950,
+          936,
+          168,
+          151
+        ]
+      },
+      {
+        "id": "r15",
+        "area": 5872,
+        "usableDiameter": 48,
+        "labelPoint": [
+          1138,
+          956
+        ],
+        "bounds": [
+          1081,
+          931,
+          167,
+          63
+        ]
+      },
+      {
+        "id": "r16",
+        "area": 15964,
+        "usableDiameter": 125.569,
+        "labelPoint": [
+          1176,
+          1054
+        ],
+        "bounds": [
+          1088,
+          987,
+          164,
+          145
+        ]
+      },
+      {
+        "id": "r17",
+        "area": 9170,
+        "usableDiameter": 71.507,
+        "labelPoint": [
+          1291,
+          1067
+        ],
+        "bounds": [
+          1232,
+          979,
+          117,
+          158
+        ]
+      },
+      {
+        "id": "r18",
+        "area": 4430,
+        "usableDiameter": 52.338,
+        "labelPoint": [
+          371,
+          1061
+        ],
+        "bounds": [
+          298,
+          1034,
+          137,
+          58
+        ]
+      },
+      {
+        "id": "r19",
+        "area": 969,
+        "usableDiameter": 25.969,
+        "labelPoint": [
+          761,
+          1047
+        ],
+        "bounds": [
+          744,
+          1034,
+          55,
+          27
+        ]
+      },
+      {
+        "id": "r20",
+        "area": 3156,
+        "usableDiameter": 52.726,
+        "labelPoint": [
+          316,
+          1095
+        ],
+        "bounds": [
+          284,
+          1062,
+          78,
+          67
+        ]
+      },
+      {
+        "id": "r21",
+        "area": 13251,
+        "usableDiameter": 59.181,
+        "labelPoint": [
+          351,
+          1250
+        ],
+        "bounds": [
+          319,
+          1088,
+          85,
+          257
+        ]
+      },
+      {
+        "id": "r22",
+        "area": 15551,
+        "usableDiameter": 73.181,
+        "labelPoint": [
+          423,
+          1236
+        ],
+        "bounds": [
+          385,
+          1079,
+          103,
+          234
+        ]
+      },
+      {
+        "id": "r23",
+        "area": 29827,
+        "usableDiameter": 83.482,
+        "labelPoint": [
+          531,
+          1295
+        ],
+        "bounds": [
+          385,
+          1084,
+          250,
+          319
+        ]
+      },
+      {
+        "id": "r24",
+        "area": 19542,
+        "usableDiameter": 121.563,
+        "labelPoint": [
+          1106,
+          1166
+        ],
+        "bounds": [
+          1002,
+          1068,
+          167,
+          186
+        ]
+      },
+      {
+        "id": "r25",
+        "area": 21303,
+        "usableDiameter": 144.608,
+        "labelPoint": [
+          1254,
+          1182
+        ],
+        "bounds": [
+          1163,
+          1099,
+          174,
+          161
+        ]
+      },
+      {
+        "id": "r26",
+        "area": 11634,
+        "usableDiameter": 74.394,
+        "labelPoint": [
+          227,
+          1209
+        ],
+        "bounds": [
+          175,
+          1151,
+          98,
+          175
+        ]
+      },
+      {
+        "id": "r27",
+        "area": 5432,
+        "usableDiameter": 42,
+        "labelPoint": [
+          291,
+          1233
+        ],
+        "bounds": [
+          271,
+          1135,
+          64,
+          188
+        ]
+      },
+      {
+        "id": "r28",
+        "area": 2329,
+        "usableDiameter": 32,
+        "labelPoint": [
+          538,
+          1218
+        ],
+        "bounds": [
+          509,
+          1154,
+          59,
+          80
+        ]
+      },
+      {
+        "id": "r29",
+        "area": 702,
+        "usableDiameter": 28,
+        "labelPoint": [
+          544,
+          1181
+        ],
+        "bounds": [
+          530,
+          1165,
+          28,
+          31
+        ]
+      },
+      {
+        "id": "r30",
+        "area": 18238,
+        "usableDiameter": 95.2,
+        "labelPoint": [
+          786,
+          1187
+        ],
+        "bounds": [
+          706,
+          1112,
+          170,
+          204
+        ]
+      },
+      {
+        "id": "r31",
+        "area": 1220,
+        "usableDiameter": 21.181,
+        "labelPoint": [
+          1346,
+          1146
+        ],
+        "bounds": [
+          1336,
+          1124,
+          22,
+          87
+        ]
+      },
+      {
+        "id": "r32",
+        "area": 2183,
+        "usableDiameter": 37.95,
+        "labelPoint": [
+          1385,
+          1171
+        ],
+        "bounds": [
+          1361,
+          1140,
+          64,
+          61
+        ]
+      },
+      {
+        "id": "r33",
+        "area": 543,
+        "usableDiameter": 20.375,
+        "labelPoint": [
+          593,
+          1274
+        ],
+        "bounds": [
+          574,
+          1263,
+          35,
+          23
+        ]
+      },
+      {
+        "id": "r34",
+        "area": 5135,
+        "usableDiameter": 43.544,
+        "labelPoint": [
+          1118,
+          1275
+        ],
+        "bounds": [
+          1074,
+          1233,
+          184,
+          65
+        ]
+      },
+      {
+        "id": "r35",
+        "area": 14847,
+        "usableDiameter": 98,
+        "labelPoint": [
+          1341,
+          1310
+        ],
+        "bounds": [
+          1263,
+          1241,
+          169,
+          146
+        ]
+      },
+      {
+        "id": "r36",
+        "area": 1451,
+        "usableDiameter": 24.769,
+        "labelPoint": [
+          334,
+          1347
+        ],
+        "bounds": [
+          310,
+          1319,
+          68,
+          46
+        ]
+      },
+      {
+        "id": "r37",
+        "area": 1916,
+        "usableDiameter": 38.769,
+        "labelPoint": [
+          514,
+          1376
+        ],
+        "bounds": [
+          494,
+          1342,
+          61,
+          56
+        ]
+      },
+      {
+        "id": "r38",
+        "area": 54637,
+        "usableDiameter": 95.482,
+        "labelPoint": [
+          348,
+          1722
+        ],
+        "bounds": [
+          175,
+          1395,
+          386,
+          376
+        ]
+      },
+      {
+        "id": "r39",
+        "area": 29636,
+        "usableDiameter": 57.969,
+        "labelPoint": [
+          1000,
+          1707
+        ],
+        "bounds": [
+          862,
+          1417,
+          240,
+          353
+        ]
+      },
+      {
+        "id": "r40",
+        "area": 50092,
+        "usableDiameter": 170.964,
+        "labelPoint": [
+          1263,
+          1605
+        ],
+        "bounds": [
+          1114,
+          1424,
+          315,
+          340
+        ]
+      },
+      {
+        "id": "r41",
+        "area": 44050,
+        "usableDiameter": 60.726,
+        "labelPoint": [
+          675,
+          1554
+        ],
+        "bounds": [
+          566,
+          1519,
+          281,
+          247
+        ]
+      }
+    ],
+    "tinyRegionBounds": [],
+    "tinyRegionDetails": [],
+    "materialReviewRequired": false,
+    "annotationSha256": "4563b837341e99f8992793cbf774b2369d1177c29543b7c0e410753afddcccfd",
+    "technicalSemanticReview": {
+      "reviewer": "Codex technical source review",
+      "checks": [
+        "all-subject-parts-closed",
+        "negative-space-excluded",
+        "pupils-and-highlights-white"
+      ],
+      "unresolvedLeaks": []
+    },
+    "excludedBackgroundRegions": [],
+    "widthExceptions": [
+      {
+        "id": "r11",
+        "name": "カメの左の瞳のハイライト",
+        "usableDiameter": 21.969,
+        "reason": "カメの左の瞳のハイライトは意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-ocean-friends-v2.json",
+        "evidenceSha256": "a4185d58c0464ea1608b3ff91f507130a9f05b9ab3f17786983a8d0f4499f41c",
+        "evidenceSnapshot": "interaction-a4185d58c0464ea1608b3ff91f507130a9f05b9ab3f17786983a8d0f4499f41c.json"
+      },
+      {
+        "id": "r31",
+        "name": "甲羅の右端",
+        "usableDiameter": 21.181,
+        "reason": "甲羅の右端は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-ocean-friends-v2.json",
+        "evidenceSha256": "a4185d58c0464ea1608b3ff91f507130a9f05b9ab3f17786983a8d0f4499f41c",
+        "evidenceSnapshot": "interaction-a4185d58c0464ea1608b3ff91f507130a9f05b9ab3f17786983a8d0f4499f41c.json"
+      },
+      {
+        "id": "r33",
+        "name": "魚の口",
+        "usableDiameter": 20.375,
+        "reason": "魚の口は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-ocean-friends-v2.json",
+        "evidenceSha256": "a4185d58c0464ea1608b3ff91f507130a9f05b9ab3f17786983a8d0f4499f41c",
+        "evidenceSnapshot": "interaction-a4185d58c0464ea1608b3ff91f507130a9f05b9ab3f17786983a8d0f4499f41c.json"
+      },
+      {
+        "id": "r36",
+        "name": "魚の左の腹びれ",
+        "usableDiameter": 24.769,
+        "reason": "魚の左の腹びれは原画maskの幅24.769pxに対し、実寸の公開path再描画で23.8px。17〜24pxの個別操作例外として、4×での選択・着色・消去の実測に結び付ける。",
+        "secondaryUsableDiameter": 23.8,
+        "evidenceFile": "content/generated-lineart/interaction/gen-ocean-friends-v2.json",
+        "evidenceSha256": "a4185d58c0464ea1608b3ff91f507130a9f05b9ab3f17786983a8d0f4499f41c",
+        "evidenceSnapshot": "interaction-a4185d58c0464ea1608b3ff91f507130a9f05b9ab3f17786983a8d0f4499f41c.json"
+      }
+    ],
+    "excludedLineDetails": [],
+    "visibleInkSource": "original-threshold-contours; no morphological repair or extra region stroke",
+    "errors": [],
+    "warnings": [
+      "9px close候補 1箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）",
+      "領域数 41 が目安 22〜28 の範囲外です",
+      "r11: 幅 22.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+      "r31: 幅 21.2px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+      "r33: 幅 20.4px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+      "r36: 幅 24.8px。個別注釈と4×操作・塗り消去の実測証拠付き例外"
+    ],
+    "publicationNote": "原画と解析maskを別保存。素材・細部・輪郭の人間確認後に公開してください。",
+    "originalFile": "content/generated-lineart/compiled/gen-ocean-friends-v2/original.png"
+  },
+  "backgroundLeakStatus": "semantic visual review required; a large gap may remain connected to exterior even after 9px close",
+  "contentHash": "76db9d806f2cdb42684951cd4780b132dabba9ec4ab6b131506fb2faaaaebc37",
+  "approval": {
+    "kind": "human",
+    "reviewer": "ユーザー（Codex会話）",
+    "recordedAt": "2026-10-06T16:39:21.516Z",
+    "contentHash": "76db9d806f2cdb42684951cd4780b132dabba9ec4ab6b131506fb2faaaaebc37",
+    "basis": "新しい10枚の線画一覧を確認し「この10枚を正式採用する」と回答"
+  }
+}

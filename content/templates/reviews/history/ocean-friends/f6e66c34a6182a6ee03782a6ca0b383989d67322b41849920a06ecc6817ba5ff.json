@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "ocean-friends",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "f6e66c34a6182a6ee03782a6ca0b383989d67322b41849920a06ecc6817ba5ff",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

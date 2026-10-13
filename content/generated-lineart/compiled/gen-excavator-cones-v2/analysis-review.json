@@ -1,0 +1,1027 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-excavator-cones-v2",
+  "originalSha256": "2109d4f4aec8169302ba45bac1592ddf7b9d9240e33fdc91f5ad9b74eb7962a6",
+  "coordinateSpace": "normalized-1600x2000",
+  "reviewer": "Codex technical source review",
+  "reviewKind": "author-technical-annotation",
+  "humanApproved": false,
+  "checks": [
+    "all-subject-parts-closed",
+    "negative-space-excluded",
+    "pupils-and-highlights-white"
+  ],
+  "unresolvedLeaks": [],
+  "regions": [
+    {
+      "sourceRegionId": "r01",
+      "point": [
+        548,
+        327
+      ],
+      "role": "paint",
+      "name": "手前のアーム",
+      "reason": "番号付き原画で手前のアームとして識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 101.057
+    },
+    {
+      "sourceRegionId": "r02",
+      "point": [
+        447,
+        341
+      ],
+      "role": "paint",
+      "name": "手前アームの側面",
+      "reason": "番号付き原画で手前アームの側面として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 61.119
+    },
+    {
+      "sourceRegionId": "r03",
+      "point": [
+        578,
+        248
+      ],
+      "role": "paint",
+      "name": "上の軸",
+      "reason": "番号付き原画で上の軸として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 45.544
+    },
+    {
+      "sourceRegionId": "r04",
+      "point": [
+        680,
+        326
+      ],
+      "role": "paint",
+      "name": "上のピストン棒",
+      "reason": "番号付き原画で上のピストン棒として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 55.957
+    },
+    {
+      "sourceRegionId": "r05",
+      "point": [
+        779,
+        540
+      ],
+      "role": "paint",
+      "name": "奥のアーム",
+      "reason": "番号付き原画で奥のアームとして識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 111.451
+    },
+    {
+      "sourceRegionId": "r06",
+      "point": [
+        766,
+        391
+      ],
+      "role": "paint",
+      "name": "上の油圧シリンダー",
+      "reason": "番号付き原画で上の油圧シリンダーとして識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 85.981
+    },
+    {
+      "sourceRegionId": "r07",
+      "point": [
+        351,
+        527
+      ],
+      "role": "paint",
+      "name": "左の油圧シリンダー",
+      "reason": "番号付き原画で左の油圧シリンダーとして識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 61.119
+    },
+    {
+      "sourceRegionId": "r08",
+      "point": [
+        369,
+        613
+      ],
+      "role": "background",
+      "name": "ピストンとアームの間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 39.544
+    },
+    {
+      "sourceRegionId": "r09",
+      "point": [
+        743,
+        670
+      ],
+      "role": "paint",
+      "name": "奥のアームの側面",
+      "reason": "番号付き原画で奥のアームの側面として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 59.119
+    },
+    {
+      "sourceRegionId": "r10",
+      "point": [
+        893,
+        514
+      ],
+      "role": "paint",
+      "name": "奥のピストン棒",
+      "reason": "番号付き原画で奥のピストン棒として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 36.757
+    },
+    {
+      "sourceRegionId": "r11",
+      "point": [
+        317,
+        603
+      ],
+      "role": "paint",
+      "name": "左のピストン棒",
+      "reason": "番号付き原画で左のピストン棒として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 48.332
+    },
+    {
+      "sourceRegionId": "r12",
+      "point": [
+        912,
+        623
+      ],
+      "role": "paint",
+      "name": "奥の関節",
+      "reason": "番号付き原画で奥の関節として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 47.988
+    },
+    {
+      "sourceRegionId": "r13",
+      "point": [
+        874,
+        588
+      ],
+      "role": "paint",
+      "name": "奥の軸",
+      "reason": "番号付き原画で奥の軸として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 39.15
+    },
+    {
+      "sourceRegionId": "r14",
+      "point": [
+        215,
+        820
+      ],
+      "role": "paint",
+      "name": "バケット外側",
+      "reason": "番号付き原画でバケット外側として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 124.394
+    },
+    {
+      "sourceRegionId": "r15",
+      "point": [
+        236,
+        719
+      ],
+      "role": "paint",
+      "name": "バケットの小さい関節",
+      "reason": "番号付き原画でバケットの小さい関節として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "バケットの小さい関節は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-excavator-cones-v2.json"
+      },
+      "measuredDiameter": 23.969
+    },
+    {
+      "sourceRegionId": "r16",
+      "point": [
+        349,
+        687
+      ],
+      "role": "paint",
+      "name": "手前の軸",
+      "reason": "番号付き原画で手前の軸として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 38.757
+    },
+    {
+      "sourceRegionId": "r17",
+      "point": [
+        976,
+        1139
+      ],
+      "role": "paint",
+      "name": "本体",
+      "reason": "番号付き原画で本体として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 143.181
+    },
+    {
+      "sourceRegionId": "r18",
+      "point": [
+        410,
+        974
+      ],
+      "role": "paint",
+      "name": "バケット内側",
+      "reason": "番号付き原画でバケット内側として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 149.002
+    },
+    {
+      "sourceRegionId": "r19",
+      "point": [
+        387,
+        756
+      ],
+      "role": "paint",
+      "name": "バケット左の縁",
+      "reason": "番号付き原画でバケット左の縁として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 30.757
+    },
+    {
+      "sourceRegionId": "r20",
+      "point": [
+        882,
+        766
+      ],
+      "role": "paint",
+      "name": "フロントガラス",
+      "reason": "番号付き原画でフロントガラスとして識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 128
+    },
+    {
+      "sourceRegionId": "r21",
+      "point": [
+        1105,
+        1107
+      ],
+      "role": "paint",
+      "name": "ドアの枠",
+      "reason": "番号付き原画でドアの枠として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 105.575
+    },
+    {
+      "sourceRegionId": "r22",
+      "point": [
+        1127,
+        922
+      ],
+      "role": "paint",
+      "name": "ドアの窓",
+      "reason": "番号付き原画でドアの窓として識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 117.181
+    },
+    {
+      "sourceRegionId": "r23",
+      "point": [
+        1238,
+        865
+      ],
+      "role": "paint",
+      "name": "右後ろの窓",
+      "reason": "番号付き原画で右後ろの窓として識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 48
+    },
+    {
+      "sourceRegionId": "r24",
+      "point": [
+        781,
+        981
+      ],
+      "role": "paint",
+      "name": "左の瞳",
+      "reason": "番号付き原画で左の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 58.326,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r25",
+      "point": [
+        938,
+        987
+      ],
+      "role": "paint",
+      "name": "右の瞳",
+      "reason": "番号付き原画で右の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 64.313,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r26",
+      "point": [
+        504,
+        1023
+      ],
+      "role": "paint",
+      "name": "バケット先端の縁",
+      "reason": "番号付き原画でバケット先端の縁として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 25.975
+    },
+    {
+      "sourceRegionId": "r27",
+      "point": [
+        790,
+        916
+      ],
+      "role": "paint",
+      "name": "左の瞳のハイライト",
+      "reason": "番号付き原画で左の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 44.788,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r28",
+      "point": [
+        937,
+        917
+      ],
+      "role": "paint",
+      "name": "右の瞳のハイライト",
+      "reason": "番号付き原画で右の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 46,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r29",
+      "point": [
+        663,
+        1122
+      ],
+      "role": "paint",
+      "name": "本体左のライト",
+      "reason": "番号付き原画で本体左のライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 34
+    },
+    {
+      "sourceRegionId": "r30",
+      "point": [
+        1150,
+        1033
+      ],
+      "role": "paint",
+      "name": "ドアの取っ手",
+      "reason": "番号付き原画でドアの取っ手として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "ドアの取っ手は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-excavator-cones-v2.json"
+      },
+      "measuredDiameter": 23.969
+    },
+    {
+      "sourceRegionId": "r31",
+      "point": [
+        1352,
+        1014
+      ],
+      "role": "paint",
+      "name": "上の通風口",
+      "reason": "番号付き原画で上の通風口として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "上の通風口は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-excavator-cones-v2.json"
+      },
+      "measuredDiameter": 22.788
+    },
+    {
+      "sourceRegionId": "r32",
+      "point": [
+        852,
+        1120
+      ],
+      "role": "paint",
+      "name": "口のパネル",
+      "reason": "番号付き原画で口のパネルとして識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 39.15
+    },
+    {
+      "sourceRegionId": "r33",
+      "point": [
+        1332,
+        1071
+      ],
+      "role": "paint",
+      "name": "中央の通風口",
+      "reason": "番号付き原画で中央の通風口として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "中央の通風口は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-excavator-cones-v2.json"
+      },
+      "measuredDiameter": 22.788
+    },
+    {
+      "sourceRegionId": "r34",
+      "point": [
+        1381,
+        1117
+      ],
+      "role": "paint",
+      "name": "下の通風口",
+      "reason": "番号付き原画で下の通風口として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "下の通風口は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-excavator-cones-v2.json"
+      },
+      "measuredDiameter": 22.788
+    },
+    {
+      "sourceRegionId": "r35",
+      "point": [
+        442,
+        1329
+      ],
+      "role": "paint",
+      "name": "奥のキャタピラ",
+      "reason": "番号付き原画で奥のキャタピラとして識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 106.757
+    },
+    {
+      "sourceRegionId": "r36",
+      "point": [
+        720,
+        1253
+      ],
+      "role": "paint",
+      "name": "奥のキャタピラ内側",
+      "reason": "番号付き原画で奥のキャタピラ内側として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 70
+    },
+    {
+      "sourceRegionId": "r37",
+      "point": [
+        800,
+        1408
+      ],
+      "role": "paint",
+      "name": "手前のキャタピラ",
+      "reason": "番号付き原画で手前のキャタピラとして識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 122.726
+    },
+    {
+      "sourceRegionId": "r38",
+      "point": [
+        785,
+        1221
+      ],
+      "role": "paint",
+      "name": "本体の旋回台",
+      "reason": "番号付き原画で本体の旋回台として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 36.788
+    },
+    {
+      "sourceRegionId": "r39",
+      "point": [
+        673,
+        1356
+      ],
+      "role": "paint",
+      "name": "奥の走行部",
+      "reason": "番号付き原画で奥の走行部として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 134
+    },
+    {
+      "sourceRegionId": "r40",
+      "point": [
+        1131,
+        1303
+      ],
+      "role": "paint",
+      "name": "手前のキャタピラ内側",
+      "reason": "番号付き原画で手前のキャタピラ内側として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 30
+    },
+    {
+      "sourceRegionId": "r41",
+      "point": [
+        330,
+        1405
+      ],
+      "role": "paint",
+      "name": "左コーンの上段",
+      "reason": "番号付き原画で左コーンの上段として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 87.876
+    },
+    {
+      "sourceRegionId": "r42",
+      "point": [
+        573,
+        1354
+      ],
+      "role": "paint",
+      "name": "奥の車輪",
+      "reason": "番号付き原画で奥の車輪として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 52
+    },
+    {
+      "sourceRegionId": "r43",
+      "point": [
+        1006,
+        1477
+      ],
+      "role": "paint",
+      "name": "手前の走行部",
+      "reason": "番号付き原画で手前の走行部として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 52.332
+    },
+    {
+      "sourceRegionId": "r44",
+      "point": [
+        1159,
+        1393
+      ],
+      "role": "paint",
+      "name": "手前中央の車輪",
+      "reason": "番号付き原画で手前中央の車輪として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 70
+    },
+    {
+      "sourceRegionId": "r45",
+      "point": [
+        1263,
+        1375
+      ],
+      "role": "paint",
+      "name": "手前右から二番目の車輪",
+      "reason": "番号付き原画で手前右から二番目の車輪として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 67.575
+    },
+    {
+      "sourceRegionId": "r46",
+      "point": [
+        1357,
+        1356
+      ],
+      "role": "paint",
+      "name": "手前右端の車輪",
+      "reason": "番号付き原画で手前右端の車輪として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 53.181
+    },
+    {
+      "sourceRegionId": "r47",
+      "point": [
+        946,
+        1435
+      ],
+      "role": "paint",
+      "name": "手前左端の車輪",
+      "reason": "番号付き原画で手前左端の車輪として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 73.575
+    },
+    {
+      "sourceRegionId": "r48",
+      "point": [
+        1054,
+        1412
+      ],
+      "role": "paint",
+      "name": "手前左から二番目の車輪",
+      "reason": "番号付き原画で手前左から二番目の車輪として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 70
+    },
+    {
+      "sourceRegionId": "r49",
+      "point": [
+        356,
+        1499
+      ],
+      "role": "paint",
+      "name": "左コーンの中央",
+      "reason": "番号付き原画で左コーンの中央として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 90.788
+    },
+    {
+      "sourceRegionId": "r50",
+      "point": [
+        1310,
+        1519
+      ],
+      "role": "paint",
+      "name": "右コーンの上段",
+      "reason": "番号付き原画で右コーンの上段として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 86
+    },
+    {
+      "sourceRegionId": "r51",
+      "point": [
+        370,
+        1599
+      ],
+      "role": "paint",
+      "name": "左コーンの下段",
+      "reason": "番号付き原画で左コーンの下段として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 98.757
+    },
+    {
+      "sourceRegionId": "r52",
+      "point": [
+        1278,
+        1610
+      ],
+      "role": "paint",
+      "name": "右コーンの中央",
+      "reason": "番号付き原画で右コーンの中央として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 86
+    },
+    {
+      "sourceRegionId": "r53",
+      "point": [
+        365,
+        1688
+      ],
+      "role": "paint",
+      "name": "左コーンの台座",
+      "reason": "番号付き原画で左コーンの台座として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 62.788
+    },
+    {
+      "sourceRegionId": "r54",
+      "point": [
+        1258,
+        1697
+      ],
+      "role": "paint",
+      "name": "右コーンの下段",
+      "reason": "番号付き原画で右コーンの下段として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 79.575
+    },
+    {
+      "sourceRegionId": "r55",
+      "point": [
+        1236,
+        1773
+      ],
+      "role": "paint",
+      "name": "右コーンの台座",
+      "reason": "番号付き原画で右コーンの台座として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 64
+    },
+    {
+      "point": [
+        862,
+        507
+      ],
+      "role": "background",
+      "name": "奥アームと関節の間の背景",
+      "reason": "原画拡大でアームの後ろに見える外背景の小さな空きと確認。部品の塗り面ではない"
+    }
+  ],
+  "gapReviews": [
+    {
+      "candidateKey": "gap-85688fdaf5f64c11704d7206a0825d96903209f820c5e69583151ddfcc094f80",
+      "kind": "split-open-detail",
+      "parentRegionId": "r21",
+      "parentRegionName": "ドアの枠",
+      "parentExteriorConnected": false,
+      "classification": "intentional-open-detail",
+      "part": "ドア枠の右側の細い接続部",
+      "reason": "r21「ドアの枠」の右側の細い接続部。3px closeでは同じ枠の内側へつながり、9px closeだけが分割する。外背景へは接続しない。",
+      "originalSha256": "2109d4f4aec8169302ba45bac1592ddf7b9d9240e33fdc91f5ad9b74eb7962a6",
+      "point": [
+        1063,
+        859
+      ]
+    },
+    {
+      "candidateKey": "gap-29fe4eab5ccf92ce0d3a92663ae847427d5d34ca3df2cb0810975bda96693cff",
+      "kind": "split-open-detail",
+      "parentRegionId": "r37",
+      "parentRegionName": "手前のキャタピラ",
+      "parentExteriorConnected": false,
+      "classification": "intentional-open-detail",
+      "part": "手前キャタピラの右端の内周",
+      "reason": "r37「手前のキャタピラ」の右端にある内周沿いの細い接続部。3px closeではキャタピラの同じ領域につながり、9px closeだけが分割する。走行部の外背景へは接続しない。",
+      "originalSha256": "2109d4f4aec8169302ba45bac1592ddf7b9d9240e33fdc91f5ad9b74eb7962a6",
+      "point": [
+        1437,
+        1314
+      ]
+    }
+  ],
+  "eyes": [
+    {
+      "name": "左",
+      "pupilIds": [
+        "r24"
+      ],
+      "highlightId": "r27"
+    },
+    {
+      "name": "右",
+      "pupilIds": [
+        "r25"
+      ],
+      "highlightId": "r28"
+    }
+  ]
+}

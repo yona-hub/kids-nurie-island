@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-explorer-robot-v2-storybook-v1",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-07T17:12:09.654Z",
+    "contentHash": "a5aec5eaf1c3df10da072582fe193cdf8b2873ca9306a34acfa2c323c973e216",
+    "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+  }
+}

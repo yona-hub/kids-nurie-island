@@ -1,0 +1,681 @@
+{
+  "schemaVersion": 1,
+  "id": "princess-bunny",
+  "themeId": "princess",
+  "title": "うさぎと おひめさま",
+  "width": 1600,
+  "height": 2000,
+  "defaultColorFamily": "pink",
+  "approved": true,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "うしろの髪",
+      "path": "M 413 748 C 356 544 459 369 632 384 C 838 359 941 536 879 759 L 944 1120 Q 812 1206 698 1119 Q 532 1190 367 1086 Z",
+      "bounds": {
+        "x": 367,
+        "y": 381,
+        "width": 577,
+        "height": 782
+      },
+      "material": "hair",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 85,
+      "seed": 1930063720
+    },
+    {
+      "id": "r02",
+      "name": "左のくつ",
+      "path": "M 427 1738 C 427 1712.0419 467.7407 1691 518 1691 C 568.2593 1691 609 1712.0419 609 1738 C 609 1763.9581 568.2593 1785 518 1785 C 467.7407 1785 427 1763.9581 427 1738 Z",
+      "bounds": {
+        "x": 427,
+        "y": 1691,
+        "width": 182,
+        "height": 94
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 1980396577
+    },
+    {
+      "id": "r03",
+      "name": "右のくつ",
+      "path": "M 704 1738 C 704 1712.0419 744.7407 1691 795 1691 C 845.2593 1691 886 1712.0419 886 1738 C 886 1763.9581 845.2593 1785 795 1785 C 744.7407 1785 704 1763.9581 704 1738 Z",
+      "bounds": {
+        "x": 704,
+        "y": 1691,
+        "width": 182,
+        "height": 94
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 1963618958
+    },
+    {
+      "id": "r04",
+      "name": "くび",
+      "path": "M 578 793 L 724 793 L 714 920 Q 650 968 590 920 Z",
+      "bounds": {
+        "x": 578,
+        "y": 793,
+        "width": 146,
+        "height": 151
+      },
+      "material": "skin",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "seed": 2013951815
+    },
+    {
+      "id": "r05",
+      "name": "左の耳",
+      "path": "M 386 683 C 386 648.7574 407.9373 621 435 621 C 462.0627 621 484 648.7574 484 683 C 484 717.2426 462.0627 745 435 745 C 407.9373 745 386 717.2426 386 683 Z",
+      "bounds": {
+        "x": 386,
+        "y": 621,
+        "width": 98,
+        "height": 124
+      },
+      "material": "skin",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "seed": 1997174196
+    },
+    {
+      "id": "r06",
+      "name": "右の耳",
+      "path": "M 810 683 C 810 648.7574 831.9373 621 859 621 C 886.0627 621 908 648.7574 908 683 C 908 717.2426 886.0627 745 859 745 C 831.9373 745 810 717.2426 810 683 Z",
+      "bounds": {
+        "x": 810,
+        "y": 621,
+        "width": 98,
+        "height": 124
+      },
+      "material": "skin",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "seed": 2047507053
+    },
+    {
+      "id": "r07",
+      "name": "左うで",
+      "path": "M 491 932 Q 472 909 442 942 L 358 1090 Q 333 1130 362 1162 Q 393 1174 420 1138 L 534 991 Z",
+      "bounds": {
+        "x": 346,
+        "y": 922,
+        "width": 188,
+        "height": 243
+      },
+      "material": "skin",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "seed": 2030729434
+    },
+    {
+      "id": "r08",
+      "name": "右うで",
+      "path": "M 780 922 Q 819 916 836 953 L 924 1067 L 1013 1089 Q 1042 1098 1031 1122 Q 1020 1147 990 1138 L 906 1117 Q 883 1111 866 1094 L 757 991 Z",
+      "bounds": {
+        "x": 757,
+        "y": 921,
+        "width": 278,
+        "height": 220
+      },
+      "material": "skin",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "seed": 1812620387
+    },
+    {
+      "id": "r09",
+      "name": "ドレス",
+      "path": "M 516 1116 Q 422 1266 286 1638 Q 624 1816 999 1641 Q 887 1322 772 1116 Z",
+      "bounds": {
+        "x": 286,
+        "y": 1116,
+        "width": 713,
+        "height": 612
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 1795842768
+    },
+    {
+      "id": "r10",
+      "name": "左のドレープ",
+      "path": "M 516 1116 Q 502 1370 318 1580 Q 382 1606 449 1587 Q 590 1404 602 1140 Z",
+      "bounds": {
+        "x": 318,
+        "y": 1116,
+        "width": 284,
+        "height": 480
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 110,
+      "seed": 3993460594
+    },
+    {
+      "id": "r11",
+      "name": "右のドレープ",
+      "path": "M 697 1140 Q 731 1416 852 1590 Q 916 1609 970 1580 Q 804 1366 772 1116 Z",
+      "bounds": {
+        "x": 697,
+        "y": 1116,
+        "width": 273,
+        "height": 482
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 70,
+      "seed": 4010238213
+    },
+    {
+      "id": "r12",
+      "name": "すそのレース",
+      "path": "M 286 1638 Q 333 1663 363 1672 Q 396 1731 447 1695 Q 493 1750 545 1715 Q 595 1777 649 1725 Q 701 1777 753 1717 Q 807 1753 854 1696 Q 909 1725 935 1670 L 999 1641 Q 661 1756 286 1638 Z",
+      "bounds": {
+        "x": 286,
+        "y": 1638,
+        "width": 713,
+        "height": 112
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3959905356
+    },
+    {
+      "id": "r13",
+      "name": "ドレスの上",
+      "path": "M 514 872 Q 650 925 780 872 L 827 938 L 772 1116 Q 650 1158 516 1116 L 467 938 Z",
+      "bounds": {
+        "x": 467,
+        "y": 872,
+        "width": 360,
+        "height": 265
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3976682975
+    },
+    {
+      "id": "r14",
+      "name": "えり",
+      "path": "M 514 872 Q 577 919 647 922 Q 718 917 780 872 L 784 929 Q 711 999 647 946 Q 573 1000 507 929 Z",
+      "bounds": {
+        "x": 507,
+        "y": 872,
+        "width": 277,
+        "height": 98
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3926350118
+    },
+    {
+      "id": "r15",
+      "name": "ウエストのリボン",
+      "path": "M 516 1079 Q 649 1111 785 1077 L 772 1140 Q 650 1166 515 1140 Z",
+      "bounds": {
+        "x": 515,
+        "y": 1077,
+        "width": 270,
+        "height": 76
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3943127737
+    },
+    {
+      "id": "r16",
+      "name": "胸のブローチ",
+      "path": "M 609 989 C 609 962.4896 626.4603 941 648 941 C 669.5397 941 687 962.4896 687 989 C 687 1015.5104 669.5397 1037 648 1037 C 626.4603 1037 609 1015.5104 609 989 Z",
+      "bounds": {
+        "x": 609,
+        "y": 941,
+        "width": 78,
+        "height": 96
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3892794880
+    },
+    {
+      "id": "r17",
+      "name": "顔",
+      "path": "M 451 603 C 451 481 829 469 843 603 L 834 731 C 822 846 490 847 464 731 Z",
+      "bounds": {
+        "x": 451,
+        "y": 506,
+        "width": 392,
+        "height": 312
+      },
+      "material": "skin",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "seed": 3909572499
+    },
+    {
+      "id": "r18",
+      "name": "前がみ",
+      "path": "M 441 596 C 444 445 568 414 653 431 C 756 401 861 489 861 606 Q 757 616 693 520 Q 627 626 546 588 Q 512 633 441 640 Z",
+      "bounds": {
+        "x": 441,
+        "y": 425,
+        "width": 420,
+        "height": 215
+      },
+      "material": "hair",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 15,
+      "seed": 4127681546
+    },
+    {
+      "id": "r19",
+      "name": "左の巻きがみ",
+      "path": "M 460 598 Q 400 621 414 739 Q 395 808 454 851 Q 496 835 489 799 Q 446 807 467 757 Q 490 685 460 598 Z",
+      "bounds": {
+        "x": 409,
+        "y": 598,
+        "width": 81,
+        "height": 253
+      },
+      "material": "hair",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4144459165
+    },
+    {
+      "id": "r20",
+      "name": "右の巻きがみ",
+      "path": "M 835 591 Q 891 634 874 735 Q 902 809 846 857 Q 803 846 809 808 Q 847 811 830 764 Q 808 677 835 591 Z",
+      "bounds": {
+        "x": 808,
+        "y": 591,
+        "width": 76,
+        "height": 266
+      },
+      "material": "hair",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3892647785
+    },
+    {
+      "id": "r21",
+      "name": "王冠",
+      "path": "M 510 426 L 478 296 L 570 347 L 645 250 L 724 347 L 817 298 L 786 426 Q 651 456 510 426 Z",
+      "bounds": {
+        "x": 478,
+        "y": 250,
+        "width": 339,
+        "height": 191
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3875870166
+    },
+    {
+      "id": "r22",
+      "name": "王冠の宝石・左",
+      "path": "M 534 398 C 534 383.0879 544.7448 371 558 371 C 571.2552 371 582 383.0879 582 398 C 582 412.9121 571.2552 425 558 425 C 544.7448 425 534 412.9121 534 398 Z",
+      "bounds": {
+        "x": 534,
+        "y": 371,
+        "width": 48,
+        "height": 54
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3859092547
+    },
+    {
+      "id": "r23",
+      "name": "王冠の宝石・まんなか",
+      "path": "M 648 350 L 681 390 L 648 426 L 615 390 Z",
+      "bounds": {
+        "x": 615,
+        "y": 350,
+        "width": 66,
+        "height": 76
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3842314928
+    },
+    {
+      "id": "r24",
+      "name": "王冠の宝石・右",
+      "path": "M 720 398 C 720 383.0879 730.7448 371 744 371 C 757.2552 371 768 383.0879 768 398 C 768 412.9121 757.2552 425 744 425 C 730.7448 425 720 412.9121 720 398 Z",
+      "bounds": {
+        "x": 720,
+        "y": 371,
+        "width": 48,
+        "height": 54
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3959758261
+    },
+    {
+      "id": "r25",
+      "name": "うさぎのしっぽ",
+      "path": "M 1236 1585 C 1236 1549.6528 1264.6528 1521 1300 1521 C 1335.3472 1521 1364 1549.6528 1364 1585 C 1364 1620.3472 1335.3472 1649 1300 1649 C 1264.6528 1649 1236 1620.3472 1236 1585 Z",
+      "bounds": {
+        "x": 1236,
+        "y": 1521,
+        "width": 128,
+        "height": 128
+      },
+      "material": "fur",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3942980642
+    },
+    {
+      "id": "r26",
+      "name": "うさぎのからだ",
+      "path": "M 1059 1385 C 964 1478 1003 1665 1139 1691 C 1275 1709 1323 1512 1246 1391 Z",
+      "bounds": {
+        "x": 1006,
+        "y": 1385,
+        "width": 277,
+        "height": 308
+      },
+      "material": "fur",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3926203023
+    },
+    {
+      "id": "r27",
+      "name": "うさぎの左足",
+      "path": "M 990 1671 C 990 1643.9373 1024.9206 1622 1068 1622 C 1111.0794 1622 1146 1643.9373 1146 1671 C 1146 1698.0627 1111.0794 1720 1068 1720 C 1024.9206 1720 990 1698.0627 990 1671 Z",
+      "bounds": {
+        "x": 990,
+        "y": 1622,
+        "width": 156,
+        "height": 98
+      },
+      "material": "fur",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3909425404
+    },
+    {
+      "id": "r28",
+      "name": "うさぎの右足",
+      "path": "M 1148 1671 C 1148 1643.9373 1182.9206 1622 1226 1622 C 1269.0794 1622 1304 1643.9373 1304 1671 C 1304 1698.0627 1269.0794 1720 1226 1720 C 1182.9206 1720 1148 1698.0627 1148 1671 Z",
+      "bounds": {
+        "x": 1148,
+        "y": 1622,
+        "width": 156,
+        "height": 98
+      },
+      "material": "fur",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4026868737
+    },
+    {
+      "id": "r29",
+      "name": "うさぎの左耳",
+      "path": "M 1073 1275 C 1002 1198 985 986 1040 1004 C 1106 1023 1140 1195 1121 1273 Z",
+      "bounds": {
+        "x": 1007,
+        "y": 1002,
+        "width": 120,
+        "height": 273
+      },
+      "material": "fur",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4010091118
+    },
+    {
+      "id": "r30",
+      "name": "うさぎの右耳",
+      "path": "M 1195 1272 C 1172 1170 1230 967 1284 1009 C 1318 1064 1271 1233 1237 1287 Z",
+      "bounds": {
+        "x": 1189,
+        "y": 1003,
+        "width": 107,
+        "height": 284
+      },
+      "material": "fur",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3791834976
+    },
+    {
+      "id": "r31",
+      "name": "うさぎの左耳のなか",
+      "path": "M 1080 1203 Q 1032 1103 1048 1071 Q 1092 1100 1094 1204 Z",
+      "bounds": {
+        "x": 1044,
+        "y": 1071,
+        "width": 50,
+        "height": 133
+      },
+      "material": "skin",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "seed": 3808612595
+    },
+    {
+      "id": "r32",
+      "name": "うさぎの右耳のなか",
+      "path": "M 1216 1210 Q 1219 1101 1263 1070 Q 1270 1124 1235 1214 Z",
+      "bounds": {
+        "x": 1216,
+        "y": 1070,
+        "width": 49,
+        "height": 144
+      },
+      "material": "skin",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "seed": 3825390214
+    },
+    {
+      "id": "r33",
+      "name": "うさぎの顔",
+      "path": "M 1041 1305 C 1067 1215 1237 1212 1280 1303 C 1330 1400 1238 1479 1146 1468 C 1037 1471 994 1388 1041 1305 Z",
+      "bounds": {
+        "x": 1022,
+        "y": 1236,
+        "width": 273,
+        "height": 234
+      },
+      "material": "fur",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3842167833
+    },
+    {
+      "id": "r34",
+      "name": "うさぎのおなか",
+      "path": "M 1086 1570 C 1086 1530.2344 1115.1005 1498 1151 1498 C 1186.8995 1498 1216 1530.2344 1216 1570 C 1216 1609.7656 1186.8995 1642 1151 1642 C 1115.1005 1642 1086 1609.7656 1086 1570 Z",
+      "bounds": {
+        "x": 1086,
+        "y": 1498,
+        "width": 130,
+        "height": 144
+      },
+      "material": "fur",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3858945452
+    },
+    {
+      "id": "r35",
+      "name": "うさぎのリボン",
+      "path": "M 1146 1467 Q 1079 1427 1068 1465 Q 1059 1515 1146 1491 Q 1224 1532 1238 1484 Q 1240 1445 1172 1464 Z",
+      "bounds": {
+        "x": 1067,
+        "y": 1446,
+        "width": 172,
+        "height": 64
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3875723071
+    }
+  ],
+  "details": [
+    {
+      "path": "M 574 697 C 574 688.025125 579.8201 680.75 587 680.75 C 594.1799 680.75 600 688.025125 600 697 C 600 705.974875 594.1799 713.25 587 713.25 C 579.8201 713.25 574 705.974875 574 697 Z",
+      "fill": "#000000"
+    },
+    {
+      "path": "M 698 697 C 698 688.025125 703.8201 680.75 711 680.75 C 718.1799 680.75 724 688.025125 724 697 C 724 705.974875 718.1799 713.25 711 713.25 C 703.8201 713.25 698 705.974875 698 697 Z",
+      "fill": "#000000"
+    },
+    {
+      "path": "M 622 754 Q 647 779 675 752"
+    },
+    {
+      "path": "M 548 688 Q 563 670 581 684 M 718 683 Q 738 669 753 688",
+      "strokeWidth": 7
+    },
+    {
+      "path": "M 1102 1341 C 1102 1334.09625 1106.477 1328.5 1112 1328.5 C 1117.523 1328.5 1122 1334.09625 1122 1341 C 1122 1347.90375 1117.523 1353.5 1112 1353.5 C 1106.477 1353.5 1102 1347.90375 1102 1341 Z",
+      "fill": "#000000"
+    },
+    {
+      "path": "M 1184 1341 C 1184 1334.09625 1188.477 1328.5 1194 1328.5 C 1199.523 1328.5 1204 1334.09625 1204 1341 C 1204 1347.90375 1199.523 1353.5 1194 1353.5 C 1188.477 1353.5 1184 1347.90375 1184 1341 Z",
+      "fill": "#000000"
+    },
+    {
+      "path": "M 1134 1374 Q 1152 1362 1170 1374 L 1153 1390 Z",
+      "fill": "#000000",
+      "strokeWidth": 4
+    },
+    {
+      "path": "M 1153 1390 Q 1138 1411 1121 1400 M 1153 1390 Q 1166 1411 1185 1400",
+      "strokeWidth": 6
+    },
+    {
+      "path": "M 489 1418 Q 454 1528 423 1561 M 808 1430 Q 839 1524 876 1564 M 614 1257 Q 597 1434 569 1566 M 686 1257 Q 711 1450 737 1584",
+      "strokeWidth": 7
+    }
+  ],
+  "lineWidth": 12
+}

@@ -1,0 +1,19 @@
+{
+  "templateId": "gen-rocket-astronaut-v5-storybook-v1",
+  "pass": false,
+  "contentHash": "8f9d98302d2d9afaa0a436df633542b0c9bfc7d45f45c0e4fc0fcd6c8b73331c",
+  "regionCount": 46,
+  "groupCount": 23,
+  "eyes": 2,
+  "sourceTemplateId": "gen-rocket-astronaut-v5",
+  "sourceOriginalSha256": "d559890d2600cf8d7e2eff6b06310547763dd861f2013c0feab78269c33170f9",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-07T17:12:13.930Z",
+    "contentHash": "8f9d98302d2d9afaa0a436df633542b0c9bfc7d45f45c0e4fc0fcd6c8b73331c",
+    "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+  },
+  "errors": [],
+  "status": "pending technical and human visual verification"
+}

@@ -1,0 +1,829 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-explorer-robot-v2",
+  "originalSha256": "cfd8eb3aee0aa120fb390e17c2c78ecb01e25614e2bec805832cdb2c60148802",
+  "coordinateSpace": "normalized-1600x2000",
+  "reviewer": "Codex technical source review",
+  "reviewKind": "author-technical-annotation",
+  "humanApproved": false,
+  "checks": [
+    "all-subject-parts-closed",
+    "negative-space-excluded",
+    "pupils-and-highlights-white"
+  ],
+  "unresolvedLeaks": [],
+  "regions": [
+    {
+      "sourceRegionId": "r01",
+      "point": [
+        853,
+        237
+      ],
+      "role": "paint",
+      "name": "アンテナの球",
+      "reason": "番号付き原画でアンテナの球として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 109.451
+    },
+    {
+      "sourceRegionId": "r02",
+      "point": [
+        847,
+        317
+      ],
+      "role": "paint",
+      "name": "アンテナの軸",
+      "reason": "番号付き原画でアンテナの軸として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 24
+    },
+    {
+      "sourceRegionId": "r03",
+      "point": [
+        839,
+        369
+      ],
+      "role": "paint",
+      "name": "アンテナの土台",
+      "reason": "番号付き原画でアンテナの土台として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 30
+    },
+    {
+      "sourceRegionId": "r04",
+      "point": [
+        750,
+        417
+      ],
+      "role": "paint",
+      "name": "顔の外枠",
+      "reason": "番号付き原画で顔の外枠として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 48
+    },
+    {
+      "sourceRegionId": "r05",
+      "point": [
+        505,
+        599
+      ],
+      "role": "paint",
+      "name": "左耳の内側",
+      "reason": "番号付き原画で左耳の内側として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 32.788
+    },
+    {
+      "sourceRegionId": "r06",
+      "point": [
+        831,
+        536
+      ],
+      "role": "paint",
+      "name": "顔のパネル",
+      "reason": "番号付き原画で顔のパネルとして識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 170
+    },
+    {
+      "sourceRegionId": "r07",
+      "point": [
+        466,
+        605
+      ],
+      "role": "paint",
+      "name": "左耳の外側",
+      "reason": "番号付き原画で左耳の外側として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 27.181
+    },
+    {
+      "sourceRegionId": "r08",
+      "point": [
+        689,
+        663
+      ],
+      "role": "paint",
+      "name": "左の瞳",
+      "reason": "番号付き原画で左の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 71.181,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r09",
+      "point": [
+        681,
+        593
+      ],
+      "role": "paint",
+      "name": "左の瞳のハイライト",
+      "reason": "番号付き原画で左の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 52.332,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r10",
+      "point": [
+        962,
+        675
+      ],
+      "role": "paint",
+      "name": "右の瞳",
+      "reason": "番号付き原画で右の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 73.101,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r11",
+      "point": [
+        1156,
+        644
+      ],
+      "role": "paint",
+      "name": "右耳の内側",
+      "reason": "番号付き原画で右耳の内側として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 32.394
+    },
+    {
+      "sourceRegionId": "r12",
+      "point": [
+        1194,
+        640
+      ],
+      "role": "paint",
+      "name": "右耳の外側",
+      "reason": "番号付き原画で右耳の外側として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 26
+    },
+    {
+      "sourceRegionId": "r13",
+      "point": [
+        947,
+        605
+      ],
+      "role": "paint",
+      "name": "右の瞳のハイライト",
+      "reason": "番号付き原画で右の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 52.332,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r14",
+      "point": [
+        301,
+        732
+      ],
+      "role": "paint",
+      "name": "左手",
+      "reason": "番号付き原画で左手として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 150.602
+    },
+    {
+      "sourceRegionId": "r15",
+      "point": [
+        325,
+        866
+      ],
+      "role": "paint",
+      "name": "左の手首",
+      "reason": "番号付き原画で左の手首として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 48
+    },
+    {
+      "sourceRegionId": "r16",
+      "point": [
+        400,
+        947
+      ],
+      "role": "paint",
+      "name": "左前腕",
+      "reason": "番号付き原画で左前腕として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 131.426
+    },
+    {
+      "sourceRegionId": "r17",
+      "point": [
+        597,
+        877
+      ],
+      "role": "paint",
+      "name": "左肩",
+      "reason": "番号付き原画で左肩として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 75.988
+    },
+    {
+      "sourceRegionId": "r18",
+      "point": [
+        663,
+        1057
+      ],
+      "role": "paint",
+      "name": "胴体",
+      "reason": "番号付き原画で胴体として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 120.239
+    },
+    {
+      "sourceRegionId": "r19",
+      "point": [
+        781,
+        844
+      ],
+      "role": "paint",
+      "name": "首",
+      "reason": "番号付き原画で首として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 26
+    },
+    {
+      "sourceRegionId": "r20",
+      "point": [
+        1078,
+        918
+      ],
+      "role": "paint",
+      "name": "右肩",
+      "reason": "番号付き原画で右肩として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 101.876
+    },
+    {
+      "sourceRegionId": "r21",
+      "point": [
+        548,
+        958
+      ],
+      "role": "paint",
+      "name": "左上腕",
+      "reason": "番号付き原画で左上腕として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 77.907
+    },
+    {
+      "sourceRegionId": "r22",
+      "point": [
+        784,
+        957
+      ],
+      "role": "paint",
+      "name": "胸のメーター",
+      "reason": "番号付き原画で胸のメーターとして識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 95.157
+    },
+    {
+      "sourceRegionId": "r23",
+      "point": [
+        473,
+        1012
+      ],
+      "role": "paint",
+      "name": "左肘の関節",
+      "reason": "番号付き原画で左肘の関節として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 44.8
+    },
+    {
+      "sourceRegionId": "r24",
+      "point": [
+        1108,
+        1023
+      ],
+      "role": "paint",
+      "name": "右上腕",
+      "reason": "番号付き原画で右上腕として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 91.876
+    },
+    {
+      "sourceRegionId": "r25",
+      "point": [
+        1170,
+        1098
+      ],
+      "role": "paint",
+      "name": "右肘の関節",
+      "reason": "番号付き原画で右肘の関節として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 83.482
+    },
+    {
+      "sourceRegionId": "r26",
+      "point": [
+        700,
+        1156
+      ],
+      "role": "paint",
+      "name": "胸の左ボタン",
+      "reason": "番号付き原画で胸の左ボタンとして識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 69.913
+    },
+    {
+      "sourceRegionId": "r27",
+      "point": [
+        819,
+        1173
+      ],
+      "role": "paint",
+      "name": "胸の中央ボタン",
+      "reason": "番号付き原画で胸の中央ボタンとして識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 73.101
+    },
+    {
+      "sourceRegionId": "r28",
+      "point": [
+        941,
+        1158
+      ],
+      "role": "paint",
+      "name": "胸の右ボタン",
+      "reason": "番号付き原画で胸の右ボタンとして識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 70.301
+    },
+    {
+      "sourceRegionId": "r29",
+      "point": [
+        1165,
+        1196
+      ],
+      "role": "paint",
+      "name": "右前腕",
+      "reason": "番号付き原画で右前腕として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 92
+    },
+    {
+      "sourceRegionId": "r30",
+      "point": [
+        776,
+        1281
+      ],
+      "role": "paint",
+      "name": "腰のベルト",
+      "reason": "番号付き原画で腰のベルトとして識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 64
+    },
+    {
+      "sourceRegionId": "r31",
+      "point": [
+        699,
+        1344
+      ],
+      "role": "paint",
+      "name": "左もも",
+      "reason": "番号付き原画で左ももとして識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 70.344
+    },
+    {
+      "sourceRegionId": "r32",
+      "point": [
+        940,
+        1344
+      ],
+      "role": "paint",
+      "name": "右もも",
+      "reason": "番号付き原画で右ももとして識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 70.732
+    },
+    {
+      "sourceRegionId": "r33",
+      "point": [
+        1248,
+        1359
+      ],
+      "role": "paint",
+      "name": "右手",
+      "reason": "番号付き原画で右手として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 131.42
+    },
+    {
+      "sourceRegionId": "r34",
+      "point": [
+        1235,
+        1258
+      ],
+      "role": "paint",
+      "name": "右の手首",
+      "reason": "番号付き原画で右の手首として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 40.394
+    },
+    {
+      "sourceRegionId": "r35",
+      "point": [
+        635,
+        1428
+      ],
+      "role": "paint",
+      "name": "左の膝",
+      "reason": "番号付き原画で左の膝として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 118.633
+    },
+    {
+      "sourceRegionId": "r36",
+      "point": [
+        1004,
+        1428
+      ],
+      "role": "paint",
+      "name": "右の膝",
+      "reason": "番号付き原画で右の膝として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 118.239
+    },
+    {
+      "sourceRegionId": "r37",
+      "point": [
+        686,
+        1529
+      ],
+      "role": "paint",
+      "name": "左すね",
+      "reason": "番号付き原画で左すねとして識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 86.282
+    },
+    {
+      "sourceRegionId": "r38",
+      "point": [
+        958,
+        1531
+      ],
+      "role": "paint",
+      "name": "右すね",
+      "reason": "番号付き原画で右すねとして識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 87.088
+    },
+    {
+      "sourceRegionId": "r39",
+      "point": [
+        690,
+        1604
+      ],
+      "role": "paint",
+      "name": "左足首",
+      "reason": "番号付き原画で左足首として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 45.969
+    },
+    {
+      "sourceRegionId": "r40",
+      "point": [
+        959,
+        1607
+      ],
+      "role": "paint",
+      "name": "右足首",
+      "reason": "番号付き原画で右足首として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 46.394
+    },
+    {
+      "sourceRegionId": "r41",
+      "point": [
+        510,
+        1671
+      ],
+      "role": "paint",
+      "name": "左靴のつま先",
+      "reason": "番号付き原画で左靴のつま先として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 119.575
+    },
+    {
+      "sourceRegionId": "r42",
+      "point": [
+        668,
+        1680
+      ],
+      "role": "paint",
+      "name": "左靴の甲",
+      "reason": "番号付き原画で左靴の甲として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 85.907
+    },
+    {
+      "sourceRegionId": "r43",
+      "point": [
+        971,
+        1685
+      ],
+      "role": "paint",
+      "name": "右靴の甲",
+      "reason": "番号付き原画で右靴の甲として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 89.482
+    },
+    {
+      "sourceRegionId": "r44",
+      "point": [
+        1126,
+        1679
+      ],
+      "role": "paint",
+      "name": "右靴のつま先",
+      "reason": "番号付き原画で右靴のつま先として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 122
+    },
+    {
+      "sourceRegionId": "r45",
+      "point": [
+        481,
+        1761
+      ],
+      "role": "paint",
+      "name": "左靴底",
+      "reason": "番号付き原画で左靴底として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 50.394
+    },
+    {
+      "sourceRegionId": "r46",
+      "point": [
+        1145,
+        1771
+      ],
+      "role": "paint",
+      "name": "右靴底",
+      "reason": "番号付き原画で右靴底として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 49.181
+    },
+    {
+      "point": [
+        1117,
+        1114
+      ],
+      "role": "background",
+      "name": "右肘の関節の後ろの背景",
+      "reason": "上下の腕と肘の円形部品の間に見える外背景。通常の塗り面ではない"
+    }
+  ],
+  "gapReviews": [],
+  "eyes": [
+    {
+      "name": "左",
+      "pupilIds": [
+        "r08"
+      ],
+      "highlightId": "r09"
+    },
+    {
+      "name": "右",
+      "pupilIds": [
+        "r10"
+      ],
+      "highlightId": "r13"
+    }
+  ]
+}

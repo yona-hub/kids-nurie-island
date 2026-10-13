@@ -1,0 +1,576 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-round-sports-car-v2",
+  "originalSha256": "535c8f0d875dc757fef66f512930896adbc18342c4e33782f93e18175bd4beaf",
+  "coordinateSpace": "normalized-1600x2000",
+  "reviewer": "Codex technical source review",
+  "reviewKind": "author-technical-annotation",
+  "humanApproved": false,
+  "checks": [
+    "all-subject-parts-closed",
+    "negative-space-excluded",
+    "pupils-and-highlights-white"
+  ],
+  "unresolvedLeaks": [],
+  "regions": [
+    {
+      "sourceRegionId": "r01",
+      "point": [
+        804,
+        951
+      ],
+      "role": "paint",
+      "name": "車体左のストライプと左屋根",
+      "reason": "番号付き原画で車体左のストライプと左屋根として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 99.55
+    },
+    {
+      "sourceRegionId": "r02",
+      "point": [
+        1225,
+        896
+      ],
+      "role": "paint",
+      "name": "車体右のストライプと屋根",
+      "reason": "番号付き原画で車体右のストライプと屋根として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 130.22
+    },
+    {
+      "sourceRegionId": "r03",
+      "point": [
+        321,
+        714
+      ],
+      "role": "paint",
+      "name": "左窓の三角の部分",
+      "reason": "番号付き原画で左窓の三角の部分として識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 38.757
+    },
+    {
+      "sourceRegionId": "r04",
+      "point": [
+        424,
+        688
+      ],
+      "role": "paint",
+      "name": "左の窓",
+      "reason": "番号付き原画で左の窓として識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 117.039
+    },
+    {
+      "sourceRegionId": "r05",
+      "point": [
+        692,
+        700
+      ],
+      "role": "paint",
+      "name": "中央のフロントガラス",
+      "reason": "番号付き原画で中央のフロントガラスとして識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 225.181
+    },
+    {
+      "sourceRegionId": "r06",
+      "point": [
+        951,
+        696
+      ],
+      "role": "paint",
+      "name": "右のフロントガラス",
+      "reason": "番号付き原画で右のフロントガラスとして識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 200.933
+    },
+    {
+      "sourceRegionId": "r07",
+      "point": [
+        225,
+        810
+      ],
+      "role": "paint",
+      "name": "左後ろの車体",
+      "reason": "番号付き原画で左後ろの車体として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 106.27
+    },
+    {
+      "sourceRegionId": "r08",
+      "point": [
+        377,
+        790
+      ],
+      "role": "paint",
+      "name": "左のサイドミラー",
+      "reason": "番号付き原画で左のサイドミラーとして識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 82
+    },
+    {
+      "sourceRegionId": "r09",
+      "point": [
+        1199,
+        758
+      ],
+      "role": "paint",
+      "name": "右のサイドミラー",
+      "reason": "番号付き原画で右のサイドミラーとして識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 73.544
+    },
+    {
+      "sourceRegionId": "r10",
+      "point": [
+        534,
+        942
+      ],
+      "role": "paint",
+      "name": "車体と前のフェンダー",
+      "reason": "番号付き原画で車体と前のフェンダーとして識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 149.175
+    },
+    {
+      "sourceRegionId": "r11",
+      "point": [
+        1040,
+        977
+      ],
+      "role": "paint",
+      "name": "ボンネット中央",
+      "reason": "番号付き原画でボンネット中央として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 243.659
+    },
+    {
+      "sourceRegionId": "r12",
+      "point": [
+        328,
+        887
+      ],
+      "role": "paint",
+      "name": "ドアの取っ手",
+      "reason": "番号付き原画でドアの取っ手として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 25.575
+    },
+    {
+      "sourceRegionId": "r13",
+      "point": [
+        207,
+        1186
+      ],
+      "role": "paint",
+      "name": "左奥のタイヤ",
+      "reason": "番号付き原画で左奥のタイヤとして識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 81.15
+    },
+    {
+      "sourceRegionId": "r14",
+      "point": [
+        197,
+        1047
+      ],
+      "role": "paint",
+      "name": "左奥のホイール",
+      "reason": "番号付き原画で左奥のホイールとして識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 44
+    },
+    {
+      "sourceRegionId": "r15",
+      "point": [
+        762,
+        1113
+      ],
+      "role": "paint",
+      "name": "左のヘッドライト枠",
+      "reason": "番号付き原画で左のヘッドライト枠として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 43.163
+    },
+    {
+      "sourceRegionId": "r16",
+      "point": [
+        688,
+        1047
+      ],
+      "role": "paint",
+      "name": "左のヘッドライト",
+      "reason": "番号付き原画で左のヘッドライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 93.95
+    },
+    {
+      "sourceRegionId": "r17",
+      "point": [
+        1351,
+        949
+      ],
+      "role": "paint",
+      "name": "右のヘッドライト枠",
+      "reason": "番号付き原画で右のヘッドライト枠として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 27.569
+    },
+    {
+      "sourceRegionId": "r18",
+      "point": [
+        1369,
+        1025
+      ],
+      "role": "paint",
+      "name": "右のヘッドライト",
+      "reason": "番号付き原画で右のヘッドライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 72.788
+    },
+    {
+      "sourceRegionId": "r19",
+      "point": [
+        467,
+        1065
+      ],
+      "role": "paint",
+      "name": "手前のタイヤ",
+      "reason": "番号付き原画で手前のタイヤとして識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 84.363
+    },
+    {
+      "sourceRegionId": "r20",
+      "point": [
+        450,
+        1008
+      ],
+      "role": "background",
+      "name": "タイヤの上の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 12.788
+    },
+    {
+      "sourceRegionId": "r21",
+      "point": [
+        692,
+        1297
+      ],
+      "role": "paint",
+      "name": "フロントバンパー",
+      "reason": "番号付き原画でフロントバンパーとして識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 231.278
+    },
+    {
+      "sourceRegionId": "r22",
+      "point": [
+        464,
+        1349
+      ],
+      "role": "paint",
+      "name": "手前のホイール",
+      "reason": "番号付き原画で手前のホイールとして識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 70.301
+    },
+    {
+      "sourceRegionId": "r23",
+      "point": [
+        275,
+        1230
+      ],
+      "role": "paint",
+      "name": "左奥タイヤの側面",
+      "reason": "番号付き原画で左奥タイヤの側面として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 56.344
+    },
+    {
+      "sourceRegionId": "r24",
+      "point": [
+        462,
+        1242
+      ],
+      "role": "paint",
+      "name": "手前のホイール中央",
+      "reason": "番号付き原画で手前のホイール中央として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 50
+    },
+    {
+      "sourceRegionId": "r25",
+      "point": [
+        1258,
+        1273
+      ],
+      "role": "paint",
+      "name": "右のグリル",
+      "reason": "番号付き原画で右のグリルとして識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 101.907
+    },
+    {
+      "sourceRegionId": "r26",
+      "point": [
+        883,
+        1290
+      ],
+      "role": "paint",
+      "name": "左のグリル",
+      "reason": "番号付き原画で左のグリルとして識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 106
+    },
+    {
+      "sourceRegionId": "r27",
+      "point": [
+        1114,
+        1286
+      ],
+      "role": "paint",
+      "name": "ナンバープレート",
+      "reason": "番号付き原画でナンバープレートとして識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 106
+    },
+    {
+      "sourceRegionId": "r28",
+      "point": [
+        586,
+        1430
+      ],
+      "role": "paint",
+      "name": "手前タイヤの側面",
+      "reason": "番号付き原画で手前タイヤの側面として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 75.6
+    },
+    {
+      "sourceRegionId": "r29",
+      "point": [
+        1351,
+        1405
+      ],
+      "role": "paint",
+      "name": "右奥のタイヤ",
+      "reason": "番号付き原画で右奥のタイヤとして識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 24.788
+    },
+    {
+      "point": [
+        190,
+        871
+      ],
+      "role": "line-detail",
+      "name": "奥タイヤの線の交差の白い点",
+      "reason": "原画拡大でタイヤ上端の重なった黒線に残る6px幅の白点と確認。独立した部品ではなく、白の原画detailとして保存する"
+    },
+    {
+      "point": [
+        214,
+        879
+      ],
+      "role": "line-detail",
+      "name": "奥タイヤ右上の線の交差の白い点",
+      "reason": "重なった輪郭の中の4px幅の白点。塗り面ではなく元の白い線画detailを保つ"
+    },
+    {
+      "point": [
+        1306,
+        984
+      ],
+      "role": "line-detail",
+      "name": "右輪郭内の上の白い画素",
+      "reason": "車体外周の黒線に囲まれた3×5pxの白い画素。物体の面ではなく原画の白いdetailとして保つ"
+    },
+    {
+      "point": [
+        1305,
+        991
+      ],
+      "role": "line-detail",
+      "name": "右輪郭内の下の白い画素",
+      "reason": "車体外周の黒線に囲まれた3×5pxの白い画素。物体の面ではなく原画の白いdetailとして保つ"
+    },
+    {
+      "point": [
+        489,
+        1017
+      ],
+      "role": "line-detail",
+      "name": "手前タイヤ上端の線の交差の白い点",
+      "reason": "二本の輪郭が接する箇所の10×6pxの白点。主役の部品ではなく原画の白いdetailとして保つ"
+    }
+  ],
+  "gapReviews": [
+    {
+      "point": [
+        494,
+        585
+      ],
+      "classification": "intentional-open-detail",
+      "reason": "左の屋根とストライプは細い接続部でつながる同じ車体パネル。9px closeのみが分割する"
+    },
+    {
+      "point": [
+        271,
+        735
+      ],
+      "classification": "intentional-open-detail",
+      "reason": "左後部の車体パネルの細い接続。外背景にはつながっていない"
+    },
+    {
+      "point": [
+        1330,
+        907
+      ],
+      "classification": "intentional-open-detail",
+      "reason": "右フェンダーの細い接続部。ボディ内部の分割であり外背景への漏れではない"
+    }
+  ],
+  "eyes": []
+}

@@ -1,0 +1,94 @@
+{
+  "pass": false,
+  "expectedTotal": 10,
+  "testedCount": 3,
+  "humanApproved": false,
+  "reports": [
+    {
+      "templateId": "gen-princess-bunny-v6",
+      "pass": true,
+      "regionCount": 51,
+      "expectedRange": [
+        30,
+        35
+      ],
+      "countPolicy": "advisory",
+      "tinyRegions": 0,
+      "largeGapCandidates": 2,
+      "minimumUsableDiameter": 21.181,
+      "materialReviewRequired": false,
+      "errors": [],
+      "warnings": [
+        "9px close候補 2箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）",
+        "1pxの線拡張で閉じる候補があります。解析マスクを確認してください",
+        "領域数 51 が目安 30〜35 の範囲外です",
+        "r04: 幅 22.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r05: 幅 22.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r09: 幅 24.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r11: 幅 24.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r14: 幅 21.2px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r43: 幅 24.8px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+        "r46: 幅 23.2px。個別注釈と4×操作・塗り消去の実測証拠付き例外"
+      ],
+      "themeId": "princess",
+      "source": "content/generated-lineart/originals/princess-v6.png",
+      "evidenceDirectory": "tools/asset-pipeline/output/gen-princess-bunny-v6"
+    },
+    {
+      "templateId": "gen-wizard-lantern-v6",
+      "pass": false,
+      "regionCount": 46,
+      "expectedRange": [
+        25,
+        30
+      ],
+      "countPolicy": "advisory",
+      "tinyRegions": 0,
+      "largeGapCandidates": 0,
+      "minimumUsableDiameter": 18.788,
+      "materialReviewRequired": false,
+      "errors": [
+        "r11: 幅24pxの塗れる場所がありません（実測 21.6px）",
+        "r12: 幅24pxの塗れる場所がありません（実測 21.2px）",
+        "r14: 幅24pxの塗れる場所がありません（実測 18.8px）",
+        "r22: 幅24pxの塗れる場所がありません（実測 22.4px）",
+        "r33: 幅24pxの塗れる場所がありません（実測 19.6px）",
+        "r43: 幅24pxの塗れる場所がありません（実測 19.6px）",
+        "r49: 幅24pxの塗れる場所がありません（実測 24.0px）",
+        "r50: 幅24pxの塗れる場所がありません（実測 23.2px）"
+      ],
+      "warnings": [
+        "1pxの線拡張で閉じる候補があります。解析マスクを確認してください",
+        "領域数 46 が目安 25〜30 の範囲外です"
+      ],
+      "themeId": "magic",
+      "source": "content/generated-lineart/originals/magic-v6.png",
+      "evidenceDirectory": "tools/asset-pipeline/output/gen-wizard-lantern-v6"
+    },
+    {
+      "templateId": "gen-rocket-astronaut-v5",
+      "pass": false,
+      "regionCount": 46,
+      "expectedRange": [
+        25,
+        30
+      ],
+      "countPolicy": "advisory",
+      "tinyRegions": 0,
+      "largeGapCandidates": 1,
+      "minimumUsableDiameter": 22.788,
+      "materialReviewRequired": false,
+      "errors": [
+        "r15: 幅24pxの塗れる場所がありません（実測 22.8px）"
+      ],
+      "warnings": [
+        "9px close候補 1箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）",
+        "1pxの線拡張で閉じる候補があります。解析マスクを確認してください",
+        "領域数 46 が目安 25〜30 の範囲外です"
+      ],
+      "themeId": "space",
+      "source": "content/generated-lineart/originals/space-v5.png",
+      "evidenceDirectory": "tools/asset-pipeline/output/gen-rocket-astronaut-v5"
+    }
+  ]
+}

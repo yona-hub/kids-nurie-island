@@ -1,0 +1,9 @@
+[
+  {"id":"spec:product", "path_or_uri":"docs/product-spec.md", "kind":"spec", "scope":"project-docs", "status":"proposed"},
+  {"id":"decision:user-art", "path_or_uri":"docs/user-art-decisions.md", "kind":"spec", "scope":"project-docs", "status":"proposed"},
+  {"id":"verification:policy", "path_or_uri":"docs/testing.md", "kind":"document", "scope":"project-docs", "status":"proposed"},
+  {"id":"verification:tracker", "path_or_uri":"docs/audit-tracker.md", "kind":"document", "scope":"project-docs", "status":"proposed"},
+  {"id":"verification:handoff", "path_or_uri":"docs/paused-handoff.md", "kind":"document", "scope":"project-docs", "status":"proposed"},
+  {"id":"verification:release", "path_or_uri":"docs/release-checklist.md", "kind":"document", "scope":"project-docs", "status":"proposed"},
+  {"id":"artifact:user-adoption", "path_or_uri":"content/generated-lineart/user-adoption.json", "kind":"artifact", "scope":"project-docs", "status":"proposed"}
+]

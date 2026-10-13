@@ -1,0 +1,448 @@
+[
+  {
+    "id": "gen-bouquet-butterfly-v2-storybook-v2",
+    "theme": "flowers",
+    "templateSha256": "196c3cf5aa462b2d69c058c907f27396632ca8aadc2323b48fd9e456db22c140",
+    "geometrySha256": "8b708c2287760a687acfe2aa8e8c9444908d24f39a5216803ae4d4ebfd5a2b88",
+    "palette": {
+      "g1": "#F393AF",
+      "g2": "#F2D177",
+      "g3": "#EFA2BE",
+      "g4": "#7EB75E",
+      "g5": "#AC9DDB",
+      "g6": "#EBD482",
+      "g7": "#D9E7EC",
+      "g8": "#ED9EAF",
+      "g9": "#817494",
+      "g10": "#C59F45",
+      "g11": "#F6D379"
+    },
+    "states": [
+      {
+        "type": "blank",
+        "rgbaSha256": "e7d57af8dfe6a4d00bc2423ccb8d4a036f9a29ee6e8f3eb2c07571ce84e0d7a9",
+        "pngSha256": "a18837d8811471268c30827a34703f52907216983331978778dec22bb0341182"
+      },
+      {
+        "type": "smooth",
+        "rgbaSha256": "0181f88804c71e2fe91007c3059881ed7282aa6fd3530ad6601ea530910cd29f",
+        "pngSha256": "d9b265794ed378224abc00127b1615ad846b4bcf297c5142da0c08651bef9cc0"
+      },
+      {
+        "type": "crayon",
+        "rgbaSha256": "f9d08ea425aa81082141adea531483330a201ece41688c287931ce7df110fe68",
+        "pngSha256": "0f31c57feee2230a7865b4b09762dbee0f0e47d5e9444b5d08d998ddca84451b"
+      },
+      {
+        "type": "pencil",
+        "rgbaSha256": "60ab305ea6ef3d5a588fb69830c6c6e1a0ca47a3270f385188918bd11c05d0d0",
+        "pngSha256": "8743484df3abd8bcd7ed69aabefb0869e805870a1c3372c01a2c836b8ccaf245"
+      }
+    ]
+  },
+  {
+    "id": "gen-dinosaur-eggs-v4-storybook-v2",
+    "theme": "dinosaurs",
+    "templateSha256": "e79313463ec60c8719cdf820b47d6b2ca0a0f248a7077aa66551b470340f28a6",
+    "geometrySha256": "6067ac77d4d48b36d598a4a4411f7668a4ac5d2849822abbc967f0a78ea3fc65",
+    "palette": {
+      "g1": "#8EC986",
+      "g2": "#52785D",
+      "g3": "#FFF9EE",
+      "g4": "#F1E4C9",
+      "g5": "#F6E0AD",
+      "g6": "#8F542E",
+      "g7": "#DB8A8D",
+      "g8": "#F1DEB1",
+      "g9": "#E8D5AC",
+      "g10": "#A6A69C",
+      "g11": "#C1B9A7"
+    },
+    "states": [
+      {
+        "type": "blank",
+        "rgbaSha256": "889dc5f8b4d77d3a01651aa7b8f299cee219862b6fed8196ecb39f71fe105a9e",
+        "pngSha256": "a64f539e4f49848e3fa4f51a4e9876e83265de0fb0b6f15087b9894303625c44"
+      },
+      {
+        "type": "smooth",
+        "rgbaSha256": "bed7ebb000ea106bd01e1ea0ab79729b6c6e668af631164f3e8708e722f53567",
+        "pngSha256": "7347c1bc92fe7d410dd938daa36769a9f107c7cca42dac3d813c84c3b76a732b"
+      },
+      {
+        "type": "crayon",
+        "rgbaSha256": "d6f12b6f42f1d136b4bb29569cd5b493d7890e447d75c50d3222335b906ce2d1",
+        "pngSha256": "3e02dccc0e4b28822a292edf4126d0db20ccc9a3e71e79f53932d6ff83883a5f"
+      },
+      {
+        "type": "pencil",
+        "rgbaSha256": "4a2c44fcb4fbbd44a3166559435da2e73d90748c7791fb4a04f3e0e3f2f9e08c",
+        "pngSha256": "4f5864f78f8fcbe2471057d568d6c3d43fc4b79b02377ca7a306d45914d1bfee"
+      }
+    ]
+  },
+  {
+    "id": "gen-excavator-cones-v2-storybook-v2",
+    "theme": "construction",
+    "templateSha256": "8ffa6ebe6578655a76a128d00a4535149222efcb40d746f9f7fa4e596b61d0da",
+    "geometrySha256": "e41525e6039f8c1ba9410517e6dc0ff6f157a037de5857178af81e3821c4ad94",
+    "palette": {
+      "g1": "#F2BC4C",
+      "g2": "#E7AC3E",
+      "g3": "#A9D5E8",
+      "g4": "#A4B0BA",
+      "g5": "#D2DADE",
+      "g6": "#6A7885",
+      "g7": "#445364",
+      "g8": "#9CAEBB",
+      "g9": "#6D7D89",
+      "g10": "#F49B51",
+      "g11": "#F49B51",
+      "g12": "#FFF9EE",
+      "g13": "#626A73",
+      "g14": "#FFE4A2",
+      "g15": "#808D99"
+    },
+    "states": [
+      {
+        "type": "blank",
+        "rgbaSha256": "ca0492553a5e86ada0f40c2a12aa8e367ffb9530b74cafd7bc4cce534ce0d242",
+        "pngSha256": "d0466aa396c8f8bf6f82c02be40d1ff55072d64c92a71d9f4b753d4f7f92bc28"
+      },
+      {
+        "type": "smooth",
+        "rgbaSha256": "2e5be6c9ec07e372c5140081c377bb4d84c0ae56668a7be3736fea6554992fe4",
+        "pngSha256": "6f9f44ce5b032db84a7b7d0f3fc92b90fe2237c083737b76d623255e7fb15813"
+      },
+      {
+        "type": "crayon",
+        "rgbaSha256": "1eb6680fba13c4884b2cf7aa3ecf6da5f3c9f3bd4823cb160526d19016ef32b2",
+        "pngSha256": "3358f9ae5b11fcc510f8a1fadc4eb6d416fc3ccf5b4cf53835312927ae526c0c"
+      },
+      {
+        "type": "pencil",
+        "rgbaSha256": "31d84bffbbe53b1aae560116ca4e31bf27652db466836448a4245a60b6059618",
+        "pngSha256": "b0f455ee9d13d857da2a71d27041d05dfd83b24948ac9f6c0a8b4360a3b33c43"
+      }
+    ]
+  },
+  {
+    "id": "gen-explorer-robot-v2-storybook-v2",
+    "theme": "robots",
+    "templateSha256": "ca4fd90de132bd54280efffcd4ee89016b0dfa19b5d2508f581a47128585c601",
+    "geometrySha256": "f5a9bbc82b2f28fde5aa80ad5d85a76f4907b9e7320778c7d33679a91dd62eee",
+    "palette": {
+      "g1": "#A2D4EC",
+      "g2": "#6E9DCC",
+      "g3": "#C4E7F2",
+      "g4": "#7AADD7",
+      "g5": "#526D91",
+      "g6": "#91BEDE",
+      "g7": "#3B526F",
+      "g8": "#61C0F5",
+      "g9": "#F1C55D",
+      "g10": "#7996B9",
+      "g11": "#466B94",
+      "g12": "#99D9E7",
+      "g13": "#E78487",
+      "g14": "#EFCF75",
+      "g15": "#91CD9F",
+      "g16": "#6D91B5"
+    },
+    "states": [
+      {
+        "type": "blank",
+        "rgbaSha256": "b928864b028ac82e25e78c641f87ca5b94820e104faefc0596d1662cf13c076b",
+        "pngSha256": "d32a1d48c03a7e07bb4ee564f179a9a61ede1255055da4ca400b73e4b40435e3"
+      },
+      {
+        "type": "smooth",
+        "rgbaSha256": "7b3e3b32cc53f884d4546b2d6492e0bf089a48dae06a31c829e45a77c3db2563",
+        "pngSha256": "8074f8900a8f1e423f98aad08eb84ee69d650857e6a27a7657a53c503c2ffc40"
+      },
+      {
+        "type": "crayon",
+        "rgbaSha256": "629a8652b67922583c9642ccf7ecab6cfbe279c938b2b7ce2dad37310ded326b",
+        "pngSha256": "8ff3b8da497809bd866d8ee427bb5bbc8922a05c7e804978c5bbfa4a153b3beb"
+      },
+      {
+        "type": "pencil",
+        "rgbaSha256": "d7e8604a6162a46fe65676b58f2bb566028d82e61587abf7949a2fb549d763cd",
+        "pngSha256": "527875f06bfa0998a0874bbf4879485e657ba3f1c175997d41e4ccd44ae4b431"
+      }
+    ]
+  },
+  {
+    "id": "gen-ocean-friends-v2-storybook-v2",
+    "theme": "ocean",
+    "templateSha256": "4df7a91ba869a8a8ee800e304557ed5b91c5e95d19b5d6a5b2d99437683b5cda",
+    "geometrySha256": "0c9fe4438eeb6ffc71039f146a0b6f497a94edb93dfb99ec3a2fd0659b5c113c",
+    "palette": {
+      "g1": "#73BDE9",
+      "g2": "#A7D27C",
+      "g3": "#71AA62",
+      "g4": "#F2A146",
+      "g5": "#FFF0BA",
+      "g6": "#CDF3F8",
+      "g7": "#36619A",
+      "g8": "#8F542E",
+      "g9": "#8F542E",
+      "g10": "#D8878C",
+      "g11": "#E88788",
+      "g12": "#E88788",
+      "g13": "#EC9CA3",
+      "g14": "#A986C7",
+      "g15": "#F9D67A",
+      "g16": "#F1CFB2"
+    },
+    "states": [
+      {
+        "type": "blank",
+        "rgbaSha256": "ef1d549039f99fe00871acf7dfc586d92ab1d4f97b3ee1fb5a3d865627899623",
+        "pngSha256": "c234ffca595ea4247c3557f7b9fbf4069c00e126bd69a163e4453807e6d06f69"
+      },
+      {
+        "type": "smooth",
+        "rgbaSha256": "45823ddbe0728b10cef78d898baa2398c9f6323b8c8a102dbe1378bc8e796a4b",
+        "pngSha256": "027cc8223790e6772e728b7d0479a9e81073ed2546a79071464e697559562c65"
+      },
+      {
+        "type": "crayon",
+        "rgbaSha256": "00412875c23810aae6280b34fdfef7fad0c0f371e77daf8a57ca266961e1cc7a",
+        "pngSha256": "8fd2d799280d3e2d3b0c063e4d292575be25cf630f0c7e7bed3950b1ba7a5b85"
+      },
+      {
+        "type": "pencil",
+        "rgbaSha256": "06164b798d43ad8d68228ab4ec87acfa6f63da31c63d6a11a877327a74e6e9da",
+        "pngSha256": "ab74fcd208dd224261cd0a2dffe946635c66a31a0d0c7e266210735694ba4716"
+      }
+    ]
+  },
+  {
+    "id": "gen-princess-bunny-v6-master-v3",
+    "theme": "princess",
+    "templateSha256": "a1a88829b5247fc784354c885f32694d3d31a68ad56f7e80525c124b8d16d982",
+    "geometrySha256": "6376effbaf37e562e7047d40f04aa685e6971f195dbfe9041f12db8218495a57",
+    "palette": {
+      "g1": "#94522E",
+      "g2": "#F8D8C6",
+      "g3": "#F47DAF",
+      "g4": "#F47DAF",
+      "g5": "#F6D16B",
+      "g6": "#E75B9B",
+      "g7": "#FFF9EE",
+      "g8": "#F8B7CA",
+      "g9": "#85C89A",
+      "g10": "#8F542E",
+      "g11": "#8F542E",
+      "g12": "#F6D16B",
+      "g13": "#ED8278",
+      "g14": "#E99EB6",
+      "g15": "#ED8278"
+    },
+    "states": [
+      {
+        "type": "blank",
+        "rgbaSha256": "6005fd46126766f77523f52a1f79b09dba080ce872e9047595b2ab653fa6748d",
+        "pngSha256": "485818d3f1045a65b3ea2d0c531345471a4e6e4e4a354f781b0b5110f2b23750"
+      },
+      {
+        "type": "smooth",
+        "rgbaSha256": "bbcad4393770ab4949a0bc2fa558cb31530ee132d2038a9aa1fe7c56c2300525",
+        "pngSha256": "a0246d739116b4bc120ce0f552f75576b15cedbda651f0ed69847b77a8f25746"
+      },
+      {
+        "type": "crayon",
+        "rgbaSha256": "49cd4da43364152950782671a588adfc4c8c19a18b2bfaf8e223801db8671b84",
+        "pngSha256": "ae77d6ecbf4633e83eeff2a4eafa60fce7bf4d101db4da1afb1a0b94a986d983"
+      },
+      {
+        "type": "pencil",
+        "rgbaSha256": "d6ba763badb242906b3e3d2591f753f35d67a7851ba9598d4898d9bb1f17d1be",
+        "pngSha256": "ae0feb9dca32c31f0e5d476c15d0e2c8879a2f7a30be9ed74d453d1f7ea9b36e"
+      }
+    ]
+  },
+  {
+    "id": "gen-rocket-astronaut-v5-storybook-v2",
+    "theme": "space",
+    "templateSha256": "3386320c64e3f215e50b8f71acf0cf3a1c2cdd604541cc571f8d29d05b6bc7ec",
+    "geometrySha256": "f0895cf415fe4bbd7cabbd45889fcc69ae6bb573fa4ad262a0aed252ade31014",
+    "palette": {
+      "g1": "#F2D37C",
+      "g2": "#F6E9D4",
+      "g3": "#ED7C67",
+      "g4": "#F7F0E4",
+      "g5": "#C49B78",
+      "g6": "#B4C4D4",
+      "g7": "#98AFC7",
+      "g8": "#53687F",
+      "g9": "#8F542E",
+      "g10": "#E67A61",
+      "g11": "#CDB38A",
+      "g12": "#F5DA7E",
+      "g13": "#AEC3D0",
+      "g14": "#A3D8EE",
+      "g15": "#94522E",
+      "g16": "#F8D8C6",
+      "g17": "#E18A85",
+      "g18": "#92BCC9",
+      "g19": "#E6BD58",
+      "g20": "#687A8B",
+      "g21": "#97ADC2",
+      "g22": "#F9A24C",
+      "g23": "#FFE69A"
+    },
+    "states": [
+      {
+        "type": "blank",
+        "rgbaSha256": "919206b47ba62cc3aa3c9aab43d0e4c200571ea640e56558e0b1bc30dc4f5ad5",
+        "pngSha256": "f494cab39077d794a7aa8cf25632c53123d824f530d42d22290e989db6fa8288"
+      },
+      {
+        "type": "smooth",
+        "rgbaSha256": "c5277cf8daa5e60b1e6fdb9103ebbeca58c2b0eb50d9d8c0b8204c8562f3e427",
+        "pngSha256": "8b5e407e83245263ec98475cbb31c51166154d57d18e2b241fc19e30884a733c"
+      },
+      {
+        "type": "crayon",
+        "rgbaSha256": "08cfa5ca3da9844781284a7e2dfa851eae27e9d666b77dce95ce346668767c08",
+        "pngSha256": "ea7354bbef2e7ee4400a0780d1fc4d4b5d3a0c000e47df960bd5e6baf21f7815"
+      },
+      {
+        "type": "pencil",
+        "rgbaSha256": "6d21907386d976516a3419885ead5b13c63db45fd743b54388e724c9874fa8dc",
+        "pngSha256": "1e6fb3420a90a84b16363b96a78c2af3646309329ef2c21de1542919fa1cfaae"
+      }
+    ]
+  },
+  {
+    "id": "gen-round-sports-car-v2-storybook-v2",
+    "theme": "vehicles",
+    "templateSha256": "42c8381e9e693a0d0a45f41e1d9e2f10c08fb3c81463fd5d24a590778e57325a",
+    "geometrySha256": "97e6b02d59bccc531202f68156710c1c7c629beae58b37c7e9bc4bd1be5dd232",
+    "palette": {
+      "g1": "#E96759",
+      "g2": "#AFD8EC",
+      "g3": "#4B5361",
+      "g4": "#B2C2CC",
+      "g5": "#AFBBC7",
+      "g6": "#FFF3BE",
+      "g7": "#667381",
+      "g8": "#C1CBD1",
+      "g9": "#F5E9D8"
+    },
+    "states": [
+      {
+        "type": "blank",
+        "rgbaSha256": "17158b00988fef1619442c9b9c16f21e355365ddb43f3d6e381c53780a84e538",
+        "pngSha256": "fba76cf2e9444cdeaa69f3f1dfe58fbf4c8f42d101abd4b8cc3cf9285dfae965"
+      },
+      {
+        "type": "smooth",
+        "rgbaSha256": "9c8f01bd1b3997cc26ecbf3060b2f3c3afe2f207f03b72d5dd2882d545261228",
+        "pngSha256": "0cbffdaa4b49276fbd68ee66ebe3710a1d7d166d9c32c2c201c5976de4edfd09"
+      },
+      {
+        "type": "crayon",
+        "rgbaSha256": "3c1077eb8733ad40eb1e57758b9fe4476f71a29145bd9d59f2e60f0aec731de2",
+        "pngSha256": "ace45f37e9a628f75168f7449d793d6fb814ced26c271eca895e5277dcef8467"
+      },
+      {
+        "type": "pencil",
+        "rgbaSha256": "74c049d8e61d776e46c5888c1333d42af432393b02699a322261e4ff967015ef",
+        "pngSha256": "e5cdbb5396324f871f628e593e5d3893167ff65e9729f99468187a93f57f60c5"
+      }
+    ]
+  },
+  {
+    "id": "gen-tree-friends-v4-storybook-v2",
+    "theme": "animals",
+    "templateSha256": "5de37c760ea72762a99bb3783c95c68af334edc1643e8397850925eae64746c0",
+    "geometrySha256": "887d6b254a05505798fc2aede3b600b4d749eb0c576b2972bc8cd6d0775745ca",
+    "palette": {
+      "g1": "#80B45C",
+      "g2": "#E8BE8F",
+      "g3": "#EDCAA3",
+      "g4": "#F7B7BD",
+      "g5": "#8F542E",
+      "g6": "#68A894",
+      "g7": "#A77945",
+      "g8": "#58463C",
+      "g9": "#EB8F8E",
+      "g10": "#E695A0"
+    },
+    "states": [
+      {
+        "type": "blank",
+        "rgbaSha256": "8769a4894bfb61c9fe4bd6e568fdf8992645498824ee8aaaad070481de65cdec",
+        "pngSha256": "791977209b198d80fc407af8c3f21c3fdf3974e8022a82ac7593f41422302fdc"
+      },
+      {
+        "type": "smooth",
+        "rgbaSha256": "83afa4269920208d63b2a51f4113c43a6c2db66829e64af85c84540b868dc3a1",
+        "pngSha256": "44a58957c0da1ea148392c1787d8f3c5282db397034815d9bfc40a8d27d1e576"
+      },
+      {
+        "type": "crayon",
+        "rgbaSha256": "cb6f7523c05cdfac4b23754d97e3c028e27b38f5857499edb47e3bbc27f206c4",
+        "pngSha256": "cf6ca450701509a7514337c3d979aacb081e1621d74d8f806f0042b2165e1212"
+      },
+      {
+        "type": "pencil",
+        "rgbaSha256": "2d23687adeb874207a30b50d27b5e24007bd733bd764a5c8acba51f53d0c3ea9",
+        "pngSha256": "1d1e01825149905cac764e907ebd9259beb49a37dc6a114cef50f18473e48913"
+      }
+    ]
+  },
+  {
+    "id": "gen-wizard-lantern-v6-storybook-v2",
+    "theme": "magic",
+    "templateSha256": "1b6826f1d83d161f87b9a204301c148ef74219f66cb377ed4c11f941e689e9b7",
+    "geometrySha256": "57ce037b8aacbc43a996e68228b5f2c17648cb233c97c11e9ef0dafe9d462d8d",
+    "palette": {
+      "g1": "#8764C9",
+      "g2": "#94522E",
+      "g3": "#F8D8C6",
+      "g4": "#8764C9",
+      "g5": "#C1AFE7",
+      "g6": "#4D638D",
+      "g7": "#73503C",
+      "g8": "#3F3D4B",
+      "g9": "#A77945",
+      "g10": "#EDBD5C",
+      "g11": "#FFF3D2",
+      "g12": "#8F542E",
+      "g13": "#F6D16B",
+      "g14": "#F6D16B",
+      "g15": "#E8847F",
+      "g16": "#F6D16B",
+      "g17": "#B799DB",
+      "g18": "#BDE8F2",
+      "g19": "#FF9B49",
+      "g20": "#FFEBA1"
+    },
+    "states": [
+      {
+        "type": "blank",
+        "rgbaSha256": "5e70b9254e71248d2ad5c4c175925fafdff44a3a0cda4feb500624f49be2b58a",
+        "pngSha256": "5f9e19dd5c5a21e0631eb5b95483881b6e417bb7d79a14fae2eae40891958e01"
+      },
+      {
+        "type": "smooth",
+        "rgbaSha256": "345f9b31559bfc831d9dded64f049cbf2b620dc3b4d4e8c89254e01e0b267deb",
+        "pngSha256": "fa129c375529851a7f37bf4f9a510cbedabcd18f80f75db3b0726c5745f0f0dc"
+      },
+      {
+        "type": "crayon",
+        "rgbaSha256": "7ab843bfc60110649740a6879caddb18acc02f7c77a94d768c2d6e3ac6af954b",
+        "pngSha256": "080f32565534f7974a860491fd5cbb5c95561492e3779361d5381d3764e43705"
+      },
+      {
+        "type": "pencil",
+        "rgbaSha256": "a489b894414869d25d618efd6cac0b05cd4fde29e9b19a2ef204b20547f80365",
+        "pngSha256": "3a1d73b597f2372dca3458e6e090cc5b3477d37e675369ef097e0dd31da6f4a9"
+      }
+    ]
+  }
+]

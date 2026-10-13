@@ -1,0 +1,1020 @@
+{
+  "pass": true,
+  "templateId": "gen-princess-bunny-v6",
+  "approved": false,
+  "approvalRequired": true,
+  "originalSha256": "f0fbc3b052f29645893b44c49bbbc2e179d4b071fb4a0fca48aaaa356df321f0",
+  "compilerVersion": 2,
+  "templateSha256": "dc01ca3be24a4b3c73269d1881108b5e59badb5051227394dd2efda8410c3f0d",
+  "normalizedSha256": "2e84076409201bf17b0cb30673ca7e33dbcd6e460cd3f635b4773ba1dfa765e2",
+  "originalSize": [
+    1122,
+    1402
+  ],
+  "analysisSize": [
+    1600,
+    2000
+  ],
+  "normalization": {
+    "method": "contain-whole-page-on-white",
+    "scale": 1.1978609625668448,
+    "offset": [
+      128,
+      160
+    ],
+    "imageSize": [
+      1344,
+      1679
+    ],
+    "canvasSize": [
+      1600,
+      2000
+    ],
+    "safeMargin": 128,
+    "cropped": false,
+    "contoursRedrawn": false
+  },
+  "regionCount": 51,
+  "detectedRegionCount": 56,
+  "countPolicy": "advisory",
+  "countWithinExpectedRange": false,
+  "expectedRange": [
+    30,
+    35
+  ],
+  "smallRepairCandidates": 1,
+  "largeGapCandidates": 2,
+  "dilationApplied": false,
+  "unreviewedLargeGapCandidates": 0,
+  "gapCandidateDetails": [
+    {
+      "id": "g01",
+      "kind": "split-open-detail",
+      "area": 524.0,
+      "usableDiameter": 16.394,
+      "labelPoint": [
+        732.0,
+        721.0
+      ],
+      "review": {
+        "point": [
+          732,
+          721
+        ],
+        "classification": "intentional-open-detail",
+        "reason": "右の瞳の上のまぶたの開いた装飾線。瞳とハイライトは別の閉領域"
+      },
+      "bounds": [
+        713.0,
+        711.0,
+        40.0,
+        19.0
+      ]
+    },
+    {
+      "id": "g02",
+      "kind": "new-from-background",
+      "area": 347.0,
+      "usableDiameter": 15.981,
+      "labelPoint": [
+        1216.0,
+        1254.0
+      ],
+      "review": {
+        "point": [
+          1216,
+          1254
+        ],
+        "classification": "background",
+        "reason": "うさぎのまぶたの開いた装飾線。瞳とハイライトは別の閉領域"
+      },
+      "bounds": [
+        1209.0,
+        1237.0,
+        18.0,
+        26.0
+      ]
+    }
+  ],
+  "tinyRegions": 0,
+  "blackRatio": 0.0532084375,
+  "grayRatio": 0.0177334375,
+  "backgroundComponentsExcluded": 1,
+  "contourPoints": 4460,
+  "originalInkContourPoints": 20510,
+  "minimumUsableDiameter": 21.181,
+  "regions": [
+    {
+      "id": "r01",
+      "area": 15327.0,
+      "usableDiameter": 41.544,
+      "labelPoint": [
+        710.0,
+        303.0
+      ],
+      "bounds": [
+        634.0,
+        193.0,
+        242.0,
+        167.0
+      ]
+    },
+    {
+      "id": "r02",
+      "area": 2038.0,
+      "usableDiameter": 41.15,
+      "labelPoint": [
+        754.0,
+        279.0
+      ],
+      "bounds": [
+        734.0,
+        245.0,
+        41.0,
+        64.0
+      ]
+    },
+    {
+      "id": "r03",
+      "area": 4123.0,
+      "usableDiameter": 39.15,
+      "labelPoint": [
+        606.0,
+        327.0
+      ],
+      "bounds": [
+        513.0,
+        298.0,
+        115.0,
+        113.0
+      ]
+    },
+    {
+      "id": "r04",
+      "area": 644.0,
+      "usableDiameter": 22.0,
+      "labelPoint": [
+        673.0,
+        292.0
+      ],
+      "bounds": [
+        662.0,
+        276.0,
+        22.0,
+        36.0
+      ]
+    },
+    {
+      "id": "r05",
+      "area": 614.0,
+      "usableDiameter": 21.969,
+      "labelPoint": [
+        830.0,
+        311.0
+      ],
+      "bounds": [
+        819.0,
+        296.0,
+        22.0,
+        35.0
+      ]
+    },
+    {
+      "id": "r06",
+      "area": 64885.0,
+      "usableDiameter": 88.394,
+      "labelPoint": [
+        885.0,
+        702.0
+      ],
+      "bounds": [
+        472.0,
+        332.0,
+        486.0,
+        460.0
+      ]
+    },
+    {
+      "id": "r07",
+      "area": 50042.0,
+      "usableDiameter": 102.695,
+      "labelPoint": [
+        758.0,
+        515.0
+      ],
+      "bounds": [
+        508.0,
+        412.0,
+        358.0,
+        296.0
+      ]
+    },
+    {
+      "id": "r08",
+      "area": 42543.0,
+      "usableDiameter": 95.888,
+      "labelPoint": [
+        330.0,
+        820.0
+      ],
+      "bounds": [
+        268.0,
+        509.0,
+        256.0,
+        506.0
+      ]
+    },
+    {
+      "id": "r09",
+      "area": 872.0,
+      "usableDiameter": 23.969,
+      "labelPoint": [
+        573.0,
+        526.0
+      ],
+      "bounds": [
+        545.0,
+        507.0,
+        53.0,
+        42.0
+      ]
+    },
+    {
+      "id": "r10",
+      "area": 2198.0,
+      "usableDiameter": 31.963,
+      "labelPoint": [
+        655.0,
+        582.0
+      ],
+      "bounds": [
+        629.0,
+        526.0,
+        57.0,
+        72.0
+      ]
+    },
+    {
+      "id": "r11",
+      "area": 483.0,
+      "usableDiameter": 23.969,
+      "labelPoint": [
+        658.0,
+        548.0
+      ],
+      "bounds": [
+        647.0,
+        535.0,
+        23.0,
+        26.0
+      ]
+    },
+    {
+      "id": "r12",
+      "area": 1751.0,
+      "usableDiameter": 28.0,
+      "labelPoint": [
+        785.0,
+        614.0
+      ],
+      "bounds": [
+        767.0,
+        561.0,
+        52.0,
+        67.0
+      ]
+    },
+    {
+      "id": "r13",
+      "area": 30230.0,
+      "usableDiameter": 116.651,
+      "labelPoint": [
+        426.0,
+        880.0
+      ],
+      "bounds": [
+        357.0,
+        581.0,
+        222.0,
+        420.0
+      ]
+    },
+    {
+      "id": "r14",
+      "area": 416.0,
+      "usableDiameter": 21.181,
+      "labelPoint": [
+        787.0,
+        582.0
+      ],
+      "bounds": [
+        777.0,
+        570.0,
+        21.0,
+        25.0
+      ]
+    },
+    {
+      "id": "r15",
+      "area": 2599.0,
+      "usableDiameter": 45.969,
+      "labelPoint": [
+        605.0,
+        709.0
+      ],
+      "bounds": [
+        574.0,
+        656.0,
+        55.0,
+        82.0
+      ]
+    },
+    {
+      "id": "r16",
+      "area": 1163.0,
+      "usableDiameter": 30.363,
+      "labelPoint": [
+        698.0,
+        664.0
+      ],
+      "bounds": [
+        677.0,
+        639.0,
+        50.0,
+        41.0
+      ]
+    },
+    {
+      "id": "r17",
+      "area": 38331.0,
+      "usableDiameter": 169.594,
+      "labelPoint": [
+        947.0,
+        896.0
+      ],
+      "bounds": [
+        710.0,
+        677.0,
+        327.0,
+        373.0
+      ]
+    },
+    {
+      "id": "r18",
+      "area": 9754.0,
+      "usableDiameter": 74.301,
+      "labelPoint": [
+        523.0,
+        799.0
+      ],
+      "bounds": [
+        479.0,
+        730.0,
+        119.0,
+        145.0
+      ]
+    },
+    {
+      "id": "r19",
+      "area": 8175.0,
+      "usableDiameter": 74.0,
+      "labelPoint": [
+        669.0,
+        749.0
+      ],
+      "bounds": [
+        580.0,
+        696.0,
+        146.0,
+        109.0
+      ]
+    },
+    {
+      "id": "r20",
+      "area": 17067.0,
+      "usableDiameter": 116.394,
+      "labelPoint": [
+        775.0,
+        785.0
+      ],
+      "bounds": [
+        708.0,
+        724.0,
+        148.0,
+        155.0
+      ]
+    },
+    {
+      "id": "r21",
+      "area": 19059.0,
+      "usableDiameter": 110.664,
+      "labelPoint": [
+        653.0,
+        864.0
+      ],
+      "bounds": [
+        560.0,
+        793.0,
+        172.0,
+        157.0
+      ]
+    },
+    {
+      "id": "r22",
+      "area": 16200.0,
+      "usableDiameter": 59.532,
+      "labelPoint": [
+        478.0,
+        961.0
+      ],
+      "bounds": [
+        284.0,
+        868.0,
+        278.0,
+        236.0
+      ]
+    },
+    {
+      "id": "r23",
+      "area": 18411.0,
+      "usableDiameter": 63.194,
+      "labelPoint": [
+        851.0,
+        975.0
+      ],
+      "bounds": [
+        769.0,
+        865.0,
+        289.0,
+        282.0
+      ]
+    },
+    {
+      "id": "r25",
+      "area": 5400.0,
+      "usableDiameter": 65.575,
+      "labelPoint": [
+        631.0,
+        958.0
+      ],
+      "bounds": [
+        599.0,
+        923.0,
+        75.0,
+        97.0
+      ]
+    },
+    {
+      "id": "r26",
+      "area": 4832.0,
+      "usableDiameter": 62.363,
+      "labelPoint": [
+        750.0,
+        964.0
+      ],
+      "bounds": [
+        710.0,
+        913.0,
+        72.0,
+        89.0
+      ]
+    },
+    {
+      "id": "r28",
+      "area": 54001.0,
+      "usableDiameter": 179.07,
+      "labelPoint": [
+        467.0,
+        1132.0
+      ],
+      "bounds": [
+        311.0,
+        954.0,
+        323.0,
+        288.0
+      ]
+    },
+    {
+      "id": "r29",
+      "area": 55362.0,
+      "usableDiameter": 199.746,
+      "labelPoint": [
+        826.0,
+        1164.0
+      ],
+      "bounds": [
+        621.0,
+        982.0,
+        327.0,
+        282.0
+      ]
+    },
+    {
+      "id": "r30",
+      "area": 6138.0,
+      "usableDiameter": 66.332,
+      "labelPoint": [
+        691.0,
+        1066.0
+      ],
+      "bounds": [
+        658.0,
+        989.0,
+        73.0,
+        121.0
+      ]
+    },
+    {
+      "id": "r31",
+      "area": 1016.0,
+      "usableDiameter": 33.557,
+      "labelPoint": [
+        692.0,
+        963.0
+      ],
+      "bounds": [
+        676.0,
+        944.0,
+        33.0,
+        39.0
+      ]
+    },
+    {
+      "id": "r34",
+      "area": 11193.0,
+      "usableDiameter": 40.794,
+      "labelPoint": [
+        1220.0,
+        1050.0
+      ],
+      "bounds": [
+        1109.0,
+        1026.0,
+        138.0,
+        226.0
+      ]
+    },
+    {
+      "id": "r35",
+      "area": 53428.0,
+      "usableDiameter": 118.239,
+      "labelPoint": [
+        298.0,
+        1258.0
+      ],
+      "bounds": [
+        139.0,
+        1110.0,
+        238.0,
+        574.0
+      ]
+    },
+    {
+      "id": "r36",
+      "area": 178726.0,
+      "usableDiameter": 341.575,
+      "labelPoint": [
+        620.0,
+        1633.0
+      ],
+      "bounds": [
+        442.0,
+        1107.0,
+        367.0,
+        697.0
+      ]
+    },
+    {
+      "id": "r37",
+      "area": 7671.0,
+      "usableDiameter": 58.726,
+      "labelPoint": [
+        1172.0,
+        1159.0
+      ],
+      "bounds": [
+        1133.0,
+        1072.0,
+        74.0,
+        167.0
+      ]
+    },
+    {
+      "id": "r38",
+      "area": 59556.0,
+      "usableDiameter": 87.144,
+      "labelPoint": [
+        1138.0,
+        1301.0
+      ],
+      "bounds": [
+        970.0,
+        1113.0,
+        433.0,
+        404.0
+      ]
+    },
+    {
+      "id": "r39",
+      "area": 8984.0,
+      "usableDiameter": 63.926,
+      "labelPoint": [
+        1318.0,
+        1225.0
+      ],
+      "bounds": [
+        1257.0,
+        1151.0,
+        116.0,
+        166.0
+      ]
+    },
+    {
+      "id": "r40",
+      "area": 90788.0,
+      "usableDiameter": 206.509,
+      "labelPoint": [
+        336.0,
+        1655.0
+      ],
+      "bounds": [
+        223.0,
+        1221.0,
+        291.0,
+        546.0
+      ]
+    },
+    {
+      "id": "r41",
+      "area": 99226.0,
+      "usableDiameter": 214.509,
+      "labelPoint": [
+        886.0,
+        1509.0
+      ],
+      "bounds": [
+        709.0,
+        1231.0,
+        304.0,
+        534.0
+      ]
+    },
+    {
+      "id": "r42",
+      "area": 1815.0,
+      "usableDiameter": 34.788,
+      "labelPoint": [
+        1045.0,
+        1357.0
+      ],
+      "bounds": [
+        1027.0,
+        1299.0,
+        52.0,
+        77.0
+      ]
+    },
+    {
+      "id": "r43",
+      "area": 571.0,
+      "usableDiameter": 24.769,
+      "labelPoint": [
+        1052.0,
+        1320.0
+      ],
+      "bounds": [
+        1040.0,
+        1306.0,
+        25.0,
+        29.0
+      ]
+    },
+    {
+      "id": "r44",
+      "area": 2883.0,
+      "usableDiameter": 38.394,
+      "labelPoint": [
+        1171.0,
+        1404.0
+      ],
+      "bounds": [
+        1141.0,
+        1339.0,
+        66.0,
+        85.0
+      ]
+    },
+    {
+      "id": "r45",
+      "area": 871.0,
+      "usableDiameter": 30.757,
+      "labelPoint": [
+        1169.0,
+        1361.0
+      ],
+      "bounds": [
+        1153.0,
+        1345.0,
+        32.0,
+        35.0
+      ]
+    },
+    {
+      "id": "r46",
+      "area": 608.0,
+      "usableDiameter": 23.181,
+      "labelPoint": [
+        1080.0,
+        1401.0
+      ],
+      "bounds": [
+        1066.0,
+        1389.0,
+        34.0,
+        24.0
+      ]
+    },
+    {
+      "id": "r47",
+      "area": 1347.0,
+      "usableDiameter": 33.169,
+      "labelPoint": [
+        1072.0,
+        1454.0
+      ],
+      "bounds": [
+        1051.0,
+        1431.0,
+        52.0,
+        41.0
+      ]
+    },
+    {
+      "id": "r48",
+      "area": 21804.0,
+      "usableDiameter": 80.295,
+      "labelPoint": [
+        1082.0,
+        1617.0
+      ],
+      "bounds": [
+        990.0,
+        1521.0,
+        162.0,
+        280.0
+      ]
+    },
+    {
+      "id": "r49",
+      "area": 1808.0,
+      "usableDiameter": 25.969,
+      "labelPoint": [
+        1047.0,
+        1518.0
+      ],
+      "bounds": [
+        1017.0,
+        1492.0,
+        70.0,
+        50.0
+      ]
+    },
+    {
+      "id": "r50",
+      "area": 2561.0,
+      "usableDiameter": 44.757,
+      "labelPoint": [
+        1115.0,
+        1532.0
+      ],
+      "bounds": [
+        1093.0,
+        1509.0,
+        48.0,
+        67.0
+      ]
+    },
+    {
+      "id": "r51",
+      "area": 730.0,
+      "usableDiameter": 27.569,
+      "labelPoint": [
+        1158.0,
+        1539.0
+      ],
+      "bounds": [
+        1145.0,
+        1523.0,
+        28.0,
+        34.0
+      ]
+    },
+    {
+      "id": "r52",
+      "area": 2812.0,
+      "usableDiameter": 44.788,
+      "labelPoint": [
+        1202.0,
+        1546.0
+      ],
+      "bounds": [
+        1175.0,
+        1503.0,
+        51.0,
+        70.0
+      ]
+    },
+    {
+      "id": "r53",
+      "area": 45213.0,
+      "usableDiameter": 136.0,
+      "labelPoint": [
+        1270.0,
+        1684.0
+      ],
+      "bounds": [
+        1066.0,
+        1534.0,
+        272.0,
+        271.0
+      ]
+    },
+    {
+      "id": "r54",
+      "area": 6141.0,
+      "usableDiameter": 41.544,
+      "labelPoint": [
+        990.0,
+        1697.0
+      ],
+      "bounds": [
+        944.0,
+        1625.0,
+        81.0,
+        160.0
+      ]
+    },
+    {
+      "id": "r55",
+      "area": 9546.0,
+      "usableDiameter": 62.719,
+      "labelPoint": [
+        1376.0,
+        1705.0
+      ],
+      "bounds": [
+        1326.0,
+        1598.0,
+        87.0,
+        170.0
+      ]
+    }
+  ],
+  "tinyRegionBounds": [],
+  "tinyRegionDetails": [],
+  "materialReviewRequired": false,
+  "annotationSha256": "4dede4827264a7bc22977b3013de6a60105f7fb6224f466d622d4e35405bd767",
+  "technicalSemanticReview": {
+    "reviewer": "Codex technical source review",
+    "checks": [
+      "all-subject-parts-closed",
+      "negative-space-excluded",
+      "pupils-and-highlights-white"
+    ],
+    "unresolvedLeaks": []
+  },
+  "excludedBackgroundRegions": [
+    {
+      "name": "左腕と身頃の間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "bounds": [
+        538.0,
+        915.0,
+        34.0,
+        45.0
+      ]
+    },
+    {
+      "name": "右袖と身頃の間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "bounds": [
+        731.0,
+        886.0,
+        37.0,
+        26.0
+      ]
+    },
+    {
+      "name": "右腕とリボンの間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "bounds": [
+        789.0,
+        952.0,
+        20.0,
+        32.0
+      ]
+    },
+    {
+      "name": "左手とスカートの間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "bounds": [
+        377.0,
+        1036.0,
+        52.0,
+        35.0
+      ]
+    },
+    {
+      "name": "うさぎの脚の間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "bounds": [
+        1154.0,
+        1714.0,
+        39.0,
+        62.0
+      ]
+    }
+  ],
+  "widthExceptions": [
+    {
+      "id": "r04",
+      "name": "王冠左の宝石",
+      "usableDiameter": 22.0,
+      "reason": "王冠左の宝石は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+      "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v6.json",
+      "evidenceSha256": "e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0",
+      "evidenceSnapshot": "interaction-e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0.json"
+    },
+    {
+      "id": "r05",
+      "name": "王冠右の宝石",
+      "usableDiameter": 21.969,
+      "reason": "王冠右の宝石は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+      "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v6.json",
+      "evidenceSha256": "e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0",
+      "evidenceSnapshot": "interaction-e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0.json"
+    },
+    {
+      "id": "r09",
+      "name": "左こめかみの髪",
+      "usableDiameter": 23.969,
+      "reason": "左こめかみの髪は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+      "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v6.json",
+      "evidenceSha256": "e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0",
+      "evidenceSnapshot": "interaction-e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0.json"
+    },
+    {
+      "id": "r11",
+      "name": "左の瞳のハイライト",
+      "usableDiameter": 23.969,
+      "reason": "左の瞳のハイライトは意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+      "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v6.json",
+      "evidenceSha256": "e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0",
+      "evidenceSnapshot": "interaction-e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0.json"
+    },
+    {
+      "id": "r14",
+      "name": "右の瞳のハイライト",
+      "usableDiameter": 21.181,
+      "reason": "右の瞳のハイライトは意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+      "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v6.json",
+      "evidenceSha256": "e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0",
+      "evidenceSnapshot": "interaction-e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0.json"
+    },
+    {
+      "id": "r43",
+      "name": "うさぎ左の瞳のハイライト",
+      "usableDiameter": 24.769,
+      "reason": "うさぎ左の瞳のハイライトは原画maskの幅24.769pxに対し、実寸の公開path再描画で23.8px。17〜24pxの個別操作例外として、4×での選択・着色・消去の実測に結び付ける。",
+      "secondaryUsableDiameter": 23.8,
+      "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v6.json",
+      "evidenceSha256": "e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0",
+      "evidenceSnapshot": "interaction-e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0.json"
+    },
+    {
+      "id": "r46",
+      "name": "うさぎの鼻",
+      "usableDiameter": 23.181,
+      "reason": "うさぎの鼻は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+      "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v6.json",
+      "evidenceSha256": "e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0",
+      "evidenceSnapshot": "interaction-e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0.json"
+    }
+  ],
+  "excludedLineDetails": [],
+  "visibleInkSource": "original-threshold-contours; no morphological repair or extra region stroke",
+  "errors": [],
+  "warnings": [
+    "9px close候補 2箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）",
+    "1pxの線拡張で閉じる候補があります。解析マスクを確認してください",
+    "領域数 51 が目安 30〜35 の範囲外です",
+    "r04: 幅 22.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+    "r05: 幅 22.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+    "r09: 幅 24.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+    "r11: 幅 24.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+    "r14: 幅 21.2px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+    "r43: 幅 24.8px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+    "r46: 幅 23.2px。個別注釈と4×操作・塗り消去の実測証拠付き例外"
+  ],
+  "publicationNote": "原画と解析maskを別保存。素材・細部・輪郭の人間確認後に公開してください。"
+}

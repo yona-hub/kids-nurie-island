@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "explorer-robot",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "c3d458750080b2796aa132df953462f6b25a2f0add8451ba5836258dbfbfb177",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

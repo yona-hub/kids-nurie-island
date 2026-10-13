@@ -1,0 +1,1079 @@
+{
+  "templateId": "gen-bouquet-butterfly-v2",
+  "pass": true,
+  "regionCount": 44,
+  "expectedRegionRange": [
+    30,
+    40
+  ],
+  "errors": [],
+  "warnings": [
+    "領域数 44 は目安 30〜40 の範囲外"
+  ],
+  "closedRegions": 44,
+  "backgroundLeak": null,
+  "closureMethod": "threshold + 3px analysis close; original ink contours preserved separately",
+  "minimumBoundsWidth": 44,
+  "minimumUsableDiameter": 28.828426361083984,
+  "minVisibleArea": 2634,
+  "blackRatio": 0.04474375,
+  "whiteRatio": 0.9437025,
+  "antiAliasRatio": 0.01155375,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "蝶の右上の羽",
+      "visibleArea": 13341,
+      "usableDiameter": 58.57
+    },
+    {
+      "id": "r02",
+      "name": "蝶の右上の羽の模様",
+      "visibleArea": 7330,
+      "usableDiameter": 74
+    },
+    {
+      "id": "r03",
+      "name": "チューリップ左の花びら",
+      "visibleArea": 15963,
+      "usableDiameter": 79.4
+    },
+    {
+      "id": "r04",
+      "name": "チューリップ中央の花びら",
+      "visibleArea": 46607,
+      "usableDiameter": 194
+    },
+    {
+      "id": "r05",
+      "name": "チューリップ右の花びら",
+      "visibleArea": 15691,
+      "usableDiameter": 76
+    },
+    {
+      "id": "r06",
+      "name": "左上の葉",
+      "visibleArea": 20758,
+      "usableDiameter": 117.66
+    },
+    {
+      "id": "r07",
+      "name": "蝶の左上の羽",
+      "visibleArea": 9872,
+      "usableDiameter": 41.6
+    },
+    {
+      "id": "r08",
+      "name": "蝶の左上の羽の模様",
+      "visibleArea": 6237,
+      "usableDiameter": 69.05
+    },
+    {
+      "id": "r09",
+      "name": "蝶の体",
+      "visibleArea": 4379,
+      "usableDiameter": 38
+    },
+    {
+      "id": "r10",
+      "name": "蝶の右下の羽",
+      "visibleArea": 7708,
+      "usableDiameter": 42
+    },
+    {
+      "id": "r11",
+      "name": "蝶の右下の羽の模様",
+      "visibleArea": 3405,
+      "usableDiameter": 50.08
+    },
+    {
+      "id": "r12",
+      "name": "中央右の葉",
+      "visibleArea": 37753,
+      "usableDiameter": 96
+    },
+    {
+      "id": "r13",
+      "name": "蝶の左下の羽",
+      "visibleArea": 6940,
+      "usableDiameter": 28.83
+    },
+    {
+      "id": "r14",
+      "name": "蝶の左下の羽の模様",
+      "visibleArea": 2634,
+      "usableDiameter": 42.49
+    },
+    {
+      "id": "r15",
+      "name": "左の花の上の花びら",
+      "visibleArea": 16174,
+      "usableDiameter": 122
+    },
+    {
+      "id": "r16",
+      "name": "左の花の左上の花びら",
+      "visibleArea": 17024,
+      "usableDiameter": 125.62
+    },
+    {
+      "id": "r17",
+      "name": "中央の太い茎",
+      "visibleArea": 37705,
+      "usableDiameter": 93.66
+    },
+    {
+      "id": "r18",
+      "name": "右の花の上の花びら",
+      "visibleArea": 19445,
+      "usableDiameter": 149.91
+    },
+    {
+      "id": "r19",
+      "name": "左の花の右上の花びら",
+      "visibleArea": 16847,
+      "usableDiameter": 123.66
+    },
+    {
+      "id": "r20",
+      "name": "右の花の右上の花びら",
+      "visibleArea": 19555,
+      "usableDiameter": 152.74
+    },
+    {
+      "id": "r21",
+      "name": "左の花の左の花びら",
+      "visibleArea": 17029,
+      "usableDiameter": 124
+    },
+    {
+      "id": "r22",
+      "name": "左の花の中心",
+      "visibleArea": 11120,
+      "usableDiameter": 118.79
+    },
+    {
+      "id": "r23",
+      "name": "右の花の左の花びら",
+      "visibleArea": 20694,
+      "usableDiameter": 155.56
+    },
+    {
+      "id": "r24",
+      "name": "左の花の右下の花びら",
+      "visibleArea": 17341,
+      "usableDiameter": 124.45
+    },
+    {
+      "id": "r25",
+      "name": "右の花の中心",
+      "visibleArea": 8085,
+      "usableDiameter": 100.99
+    },
+    {
+      "id": "r26",
+      "name": "左の花の下の花びら",
+      "visibleArea": 17737,
+      "usableDiameter": 138
+    },
+    {
+      "id": "r27",
+      "name": "右の花の左下の花びら",
+      "visibleArea": 19095,
+      "usableDiameter": 154
+    },
+    {
+      "id": "r28",
+      "name": "右下の葉",
+      "visibleArea": 20592,
+      "usableDiameter": 93.34
+    },
+    {
+      "id": "r29",
+      "name": "右の花の右下の花びら",
+      "visibleArea": 20232,
+      "usableDiameter": 152
+    },
+    {
+      "id": "r30",
+      "name": "左下の葉",
+      "visibleArea": 17161,
+      "usableDiameter": 89.94
+    },
+    {
+      "id": "r31",
+      "name": "左の花の茎",
+      "visibleArea": 10032,
+      "usableDiameter": 79.2
+    },
+    {
+      "id": "r32",
+      "name": "右の花の茎",
+      "visibleArea": 6585,
+      "usableDiameter": 70.71
+    },
+    {
+      "id": "r33",
+      "name": "花束の包み左",
+      "visibleArea": 62039,
+      "usableDiameter": 192.33
+    },
+    {
+      "id": "r34",
+      "name": "花束の包み右",
+      "visibleArea": 75261,
+      "usableDiameter": 189.5
+    },
+    {
+      "id": "r35",
+      "name": "リボン左",
+      "visibleArea": 34223,
+      "usableDiameter": 142
+    },
+    {
+      "id": "r36",
+      "name": "リボン右",
+      "visibleArea": 31622,
+      "usableDiameter": 138
+    },
+    {
+      "id": "r37",
+      "name": "リボンの結び目",
+      "visibleArea": 7331,
+      "usableDiameter": 90
+    },
+    {
+      "id": "r38",
+      "name": "リボンの左の垂れ",
+      "visibleArea": 36128,
+      "usableDiameter": 138.59
+    },
+    {
+      "id": "r39",
+      "name": "リボン左の折り返し",
+      "visibleArea": 4405,
+      "usableDiameter": 40.63
+    },
+    {
+      "id": "r40",
+      "name": "リボンの右の垂れ",
+      "visibleArea": 37051,
+      "usableDiameter": 137.76
+    },
+    {
+      "id": "r41",
+      "name": "リボン右の折り返し",
+      "visibleArea": 4618,
+      "usableDiameter": 43.8
+    },
+    {
+      "id": "r42",
+      "name": "花束の包み中央",
+      "visibleArea": 39313,
+      "usableDiameter": 144
+    },
+    {
+      "id": "r43",
+      "name": "花束の包み右下",
+      "visibleArea": 15539,
+      "usableDiameter": 81.66
+    },
+    {
+      "id": "r44",
+      "name": "花束の包み左下",
+      "visibleArea": 8566,
+      "usableDiameter": 64.83
+    }
+  ],
+  "rasterEvidence": {
+    "pass": true,
+    "templateId": "gen-bouquet-butterfly-v2",
+    "approved": false,
+    "approvalRequired": true,
+    "originalSha256": "2df6b16c36ac2f55f8734a74afdf88e29d83f8a5382b57faa31314ca473743da",
+    "compilerVersion": 2,
+    "templateSha256": "9c6b8bedbe223401b05d8aeb47b8e84acf914f481a4099a767ab097358751923",
+    "normalizedSha256": "f6554c083cd5df00102c3996d9b46f61d69f4183b856ce414ef7832eee789f02",
+    "originalSize": [
+      1122,
+      1402
+    ],
+    "analysisSize": [
+      1600,
+      2000
+    ],
+    "normalization": {
+      "method": "contain-whole-page-on-white",
+      "scale": 1.1978609625668448,
+      "offset": [
+        128,
+        160
+      ],
+      "imageSize": [
+        1344,
+        1679
+      ],
+      "canvasSize": [
+        1600,
+        2000
+      ],
+      "safeMargin": 128,
+      "cropped": false,
+      "contoursRedrawn": false
+    },
+    "regionCount": 44,
+    "detectedRegionCount": 44,
+    "countPolicy": "advisory",
+    "countWithinExpectedRange": false,
+    "expectedRange": [
+      30,
+      40
+    ],
+    "smallRepairCandidates": 0,
+    "largeGapCandidates": 1,
+    "dilationApplied": false,
+    "unreviewedLargeGapCandidates": 0,
+    "gapCandidateDetails": [
+      {
+        "id": "g01",
+        "candidateKey": "gap-2a7e4b4e17ade31e2b886735373c12f2a25815ffe04c256be4683bedd095fa53",
+        "originalSha256": "2df6b16c36ac2f55f8734a74afdf88e29d83f8a5382b57faa31314ca473743da",
+        "maskSha256": "f7fc2a0cb5fb8c553efc3b1d5b893e6580f88e9b973ff4d42a16c9ae79439cfd",
+        "kind": "new-from-background",
+        "parentRegionId": null,
+        "parentRegionName": "外背景",
+        "parentExteriorConnected": true,
+        "labelPoint": [
+          824,
+          639
+        ],
+        "bounds": [
+          800,
+          583,
+          83,
+          145
+        ],
+        "area": 4592,
+        "usableDiameter": 47.938,
+        "review": {
+          "candidateKey": "gap-2a7e4b4e17ade31e2b886735373c12f2a25815ffe04c256be4683bedd095fa53",
+          "kind": "new-from-background",
+          "parentRegionId": null,
+          "parentRegionName": "外背景",
+          "parentExteriorConnected": true,
+          "classification": "background",
+          "part": "チューリップ右側の花びら・茎・葉の間の外背景",
+          "reason": "チューリップの右の花びらと茎と葉の間の外背景。3px closeでは外周に接続し、9px closeでこの空間の出口だけが塞がる。花びらそのものは閉じている。",
+          "originalSha256": "2df6b16c36ac2f55f8734a74afdf88e29d83f8a5382b57faa31314ca473743da",
+          "point": [
+            824,
+            639
+          ]
+        }
+      }
+    ],
+    "gapReviewSchemaVersion": 2,
+    "tinyRegions": 0,
+    "blackRatio": 0.05624,
+    "grayRatio": 0.016333125,
+    "backgroundComponentsExcluded": 1,
+    "contourPoints": 3313,
+    "originalInkContourPoints": 18404,
+    "minimumUsableDiameter": 30.363,
+    "regions": [
+      {
+        "id": "r01",
+        "area": 14259,
+        "usableDiameter": 56.344,
+        "labelPoint": [
+          1317,
+          235
+        ],
+        "bounds": [
+          1206,
+          205,
+          154,
+          231
+        ]
+      },
+      {
+        "id": "r02",
+        "area": 7619,
+        "usableDiameter": 71.507,
+        "labelPoint": [
+          1283,
+          325
+        ],
+        "bounds": [
+          1237,
+          266,
+          84,
+          129
+        ]
+      },
+      {
+        "id": "r03",
+        "area": 16603,
+        "usableDiameter": 78,
+        "labelPoint": [
+          629,
+          369
+        ],
+        "bounds": [
+          584,
+          310,
+          119,
+          300
+        ]
+      },
+      {
+        "id": "r04",
+        "area": 47271,
+        "usableDiameter": 194,
+        "labelPoint": [
+          753,
+          460
+        ],
+        "bounds": [
+          656,
+          285,
+          194,
+          327
+        ]
+      },
+      {
+        "id": "r05",
+        "area": 16344,
+        "usableDiameter": 76,
+        "labelPoint": [
+          880,
+          368
+        ],
+        "bounds": [
+          804,
+          308,
+          124,
+          301
+        ]
+      },
+      {
+        "id": "r06",
+        "area": 21556,
+        "usableDiameter": 115.969,
+        "labelPoint": [
+          468,
+          485
+        ],
+        "bounds": [
+          394,
+          377,
+          213,
+          295
+        ]
+      },
+      {
+        "id": "r07",
+        "area": 10688,
+        "usableDiameter": 41.544,
+        "labelPoint": [
+          1017,
+          374
+        ],
+        "bounds": [
+          996,
+          344,
+          202,
+          141
+        ]
+      },
+      {
+        "id": "r08",
+        "area": 6492,
+        "usableDiameter": 65.907,
+        "labelPoint": [
+          1092,
+          413
+        ],
+        "bounds": [
+          1040,
+          376,
+          118,
+          79
+        ]
+      },
+      {
+        "id": "r09",
+        "area": 4747,
+        "usableDiameter": 38.769,
+        "labelPoint": [
+          1179,
+          365
+        ],
+        "bounds": [
+          1160,
+          345,
+          96,
+          177
+        ]
+      },
+      {
+        "id": "r10",
+        "area": 8351,
+        "usableDiameter": 42.344,
+        "labelPoint": [
+          1383,
+          515
+        ],
+        "bounds": [
+          1244,
+          420,
+          162,
+          122
+        ]
+      },
+      {
+        "id": "r11",
+        "area": 3594,
+        "usableDiameter": 48.332,
+        "labelPoint": [
+          1317,
+          475
+        ],
+        "bounds": [
+          1276,
+          446,
+          86,
+          61
+        ]
+      },
+      {
+        "id": "r12",
+        "area": 39013,
+        "usableDiameter": 95.07,
+        "labelPoint": [
+          909,
+          652
+        ],
+        "bounds": [
+          811,
+          510,
+          186,
+          620
+        ]
+      },
+      {
+        "id": "r13",
+        "area": 7496,
+        "usableDiameter": 30.363,
+        "labelPoint": [
+          1173,
+          600
+        ],
+        "bounds": [
+          1122,
+          468,
+          109,
+          148
+        ]
+      },
+      {
+        "id": "r14",
+        "area": 2815,
+        "usableDiameter": 43.544,
+        "labelPoint": [
+          1175,
+          536
+        ],
+        "bounds": [
+          1153,
+          495,
+          45,
+          84
+        ]
+      },
+      {
+        "id": "r15",
+        "area": 16572,
+        "usableDiameter": 119.839,
+        "labelPoint": [
+          505,
+          622
+        ],
+        "bounds": [
+          443,
+          543,
+          125,
+          175
+        ]
+      },
+      {
+        "id": "r16",
+        "area": 17463,
+        "usableDiameter": 126,
+        "labelPoint": [
+          356,
+          653
+        ],
+        "bounds": [
+          284,
+          584,
+          160,
+          160
+        ]
+      },
+      {
+        "id": "r17",
+        "area": 38561,
+        "usableDiameter": 94,
+        "labelPoint": [
+          773,
+          1045
+        ],
+        "bounds": [
+          726,
+          619,
+          100,
+          521
+        ]
+      },
+      {
+        "id": "r18",
+        "area": 19906,
+        "usableDiameter": 147.795,
+        "labelPoint": [
+          1045,
+          682
+        ],
+        "bounds": [
+          961,
+          604,
+          164,
+          167
+        ]
+      },
+      {
+        "id": "r19",
+        "area": 17262,
+        "usableDiameter": 119.839,
+        "labelPoint": [
+          627,
+          717
+        ],
+        "bounds": [
+          519,
+          657,
+          182,
+          127
+        ]
+      },
+      {
+        "id": "r20",
+        "area": 19980,
+        "usableDiameter": 148.995,
+        "labelPoint": [
+          1188,
+          752
+        ],
+        "bounds": [
+          1098,
+          674,
+          171,
+          155
+        ]
+      },
+      {
+        "id": "r21",
+        "area": 17437,
+        "usableDiameter": 124.233,
+        "labelPoint": [
+          305,
+          796
+        ],
+        "bounds": [
+          228,
+          733,
+          179,
+          127
+        ]
+      },
+      {
+        "id": "r22",
+        "area": 11428,
+        "usableDiameter": 118.239,
+        "labelPoint": [
+          466,
+          770
+        ],
+        "bounds": [
+          406,
+          710,
+          122,
+          120
+        ]
+      },
+      {
+        "id": "r23",
+        "area": 21155,
+        "usableDiameter": 155.783,
+        "labelPoint": [
+          923,
+          788
+        ],
+        "bounds": [
+          841,
+          709,
+          175,
+          161
+        ]
+      },
+      {
+        "id": "r24",
+        "area": 17761,
+        "usableDiameter": 122.639,
+        "labelPoint": [
+          588,
+          861
+        ],
+        "bounds": [
+          493,
+          784,
+          176,
+          149
+        ]
+      },
+      {
+        "id": "r25",
+        "area": 8347,
+        "usableDiameter": 101.057,
+        "labelPoint": [
+          1063,
+          815
+        ],
+        "bounds": [
+          1012,
+          764,
+          103,
+          103
+        ]
+      },
+      {
+        "id": "r26",
+        "area": 18140,
+        "usableDiameter": 133.02,
+        "labelPoint": [
+          423,
+          898
+        ],
+        "bounds": [
+          350,
+          815,
+          141,
+          172
+        ]
+      },
+      {
+        "id": "r27",
+        "area": 19526,
+        "usableDiameter": 146.995,
+        "labelPoint": [
+          998,
+          933
+        ],
+        "bounds": [
+          919,
+          847,
+          164,
+          162
+        ]
+      },
+      {
+        "id": "r28",
+        "area": 21636,
+        "usableDiameter": 89.876,
+        "labelPoint": [
+          1298,
+          890
+        ],
+        "bounds": [
+          985,
+          823,
+          397,
+          235
+        ]
+      },
+      {
+        "id": "r29",
+        "area": 20656,
+        "usableDiameter": 152,
+        "labelPoint": [
+          1168,
+          910
+        ],
+        "bounds": [
+          1079,
+          830,
+          169,
+          158
+        ]
+      },
+      {
+        "id": "r30",
+        "area": 17995,
+        "usableDiameter": 87.876,
+        "labelPoint": [
+          304,
+          963
+        ],
+        "bounds": [
+          219,
+          913,
+          315,
+          170
+        ]
+      },
+      {
+        "id": "r31",
+        "area": 10513,
+        "usableDiameter": 76.695,
+        "labelPoint": [
+          572,
+          981
+        ],
+        "bounds": [
+          498,
+          872,
+          153,
+          177
+        ]
+      },
+      {
+        "id": "r32",
+        "area": 6964,
+        "usableDiameter": 68.707,
+        "labelPoint": [
+          933,
+          1034
+        ],
+        "bounds": [
+          859,
+          981,
+          128,
+          133
+        ]
+      },
+      {
+        "id": "r33",
+        "area": 63080,
+        "usableDiameter": 186.54,
+        "labelPoint": [
+          517,
+          1116
+        ],
+        "bounds": [
+          368,
+          1015,
+          444,
+          245
+        ]
+      },
+      {
+        "id": "r34",
+        "area": 76480,
+        "usableDiameter": 183.752,
+        "labelPoint": [
+          1071,
+          1126
+        ],
+        "bounds": [
+          712,
+          1014,
+          510,
+          304
+        ]
+      },
+      {
+        "id": "r35",
+        "area": 35067,
+        "usableDiameter": 138.208,
+        "labelPoint": [
+          592,
+          1283
+        ],
+        "bounds": [
+          521,
+          1208,
+          240,
+          232
+        ]
+      },
+      {
+        "id": "r36",
+        "area": 32442,
+        "usableDiameter": 132,
+        "labelPoint": [
+          1022,
+          1297
+        ],
+        "bounds": [
+          857,
+          1223,
+          231,
+          224
+        ]
+      },
+      {
+        "id": "r37",
+        "area": 7568,
+        "usableDiameter": 90,
+        "labelPoint": [
+          805,
+          1360
+        ],
+        "bounds": [
+          760,
+          1316,
+          91,
+          93
+        ]
+      },
+      {
+        "id": "r38",
+        "area": 37008,
+        "usableDiameter": 135.994,
+        "labelPoint": [
+          586,
+          1599
+        ],
+        "bounds": [
+          459,
+          1395,
+          308,
+          320
+        ]
+      },
+      {
+        "id": "r39",
+        "area": 4710,
+        "usableDiameter": 40.75,
+        "labelPoint": [
+          635,
+          1422
+        ],
+        "bounds": [
+          574,
+          1389,
+          161,
+          63
+        ]
+      },
+      {
+        "id": "r40",
+        "area": 37936,
+        "usableDiameter": 133.194,
+        "labelPoint": [
+          1011,
+          1607
+        ],
+        "bounds": [
+          829,
+          1398,
+          311,
+          322
+        ]
+      },
+      {
+        "id": "r41",
+        "area": 4908,
+        "usableDiameter": 43.544,
+        "labelPoint": [
+          967,
+          1430
+        ],
+        "bounds": [
+          874,
+          1396,
+          152,
+          63
+        ]
+      },
+      {
+        "id": "r42",
+        "area": 40013,
+        "usableDiameter": 146.394,
+        "labelPoint": [
+          775,
+          1720
+        ],
+        "bounds": [
+          695,
+          1416,
+          162,
+          378
+        ]
+      },
+      {
+        "id": "r43",
+        "area": 16174,
+        "usableDiameter": 80.695,
+        "labelPoint": [
+          896,
+          1708
+        ],
+        "bounds": [
+          823,
+          1436,
+          121,
+          320
+        ]
+      },
+      {
+        "id": "r44",
+        "area": 9025,
+        "usableDiameter": 63.969,
+        "labelPoint": [
+          663,
+          1708
+        ],
+        "bounds": [
+          625,
+          1526,
+          104,
+          223
+        ]
+      }
+    ],
+    "tinyRegionBounds": [],
+    "tinyRegionDetails": [],
+    "materialReviewRequired": false,
+    "annotationSha256": "97044fa3fb1942df085ee3f1173e237813a1c7c5c25d8852d9029ffc7e5f04f8",
+    "technicalSemanticReview": {
+      "reviewer": "Codex technical source review",
+      "checks": [
+        "all-subject-parts-closed",
+        "negative-space-excluded",
+        "pupils-and-highlights-white"
+      ],
+      "unresolvedLeaks": []
+    },
+    "excludedBackgroundRegions": [],
+    "widthExceptions": [],
+    "excludedLineDetails": [],
+    "visibleInkSource": "original-threshold-contours; no morphological repair or extra region stroke",
+    "errors": [],
+    "warnings": [
+      "9px close候補 1箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）",
+      "領域数 44 が目安 30〜40 の範囲外です"
+    ],
+    "publicationNote": "原画と解析maskを別保存。素材・細部・輪郭の人間確認後に公開してください。",
+    "originalFile": "content/generated-lineart/compiled/gen-bouquet-butterfly-v2/original.png"
+  },
+  "backgroundLeakStatus": "semantic visual review required; a large gap may remain connected to exterior even after 9px close",
+  "contentHash": "b8335ced1393e4313d2d19d6de27a468cfe20ecf3db2d803dc7a0cdbe4ffdb5b",
+  "approval": {
+    "kind": "human",
+    "reviewer": "ユーザー（Codex会話）",
+    "recordedAt": "2026-10-06T16:39:21.516Z",
+    "contentHash": "b8335ced1393e4313d2d19d6de27a468cfe20ecf3db2d803dc7a0cdbe4ffdb5b",
+    "basis": "新しい10枚の線画一覧を確認し「この10枚を正式採用する」と回答"
+  }
+}

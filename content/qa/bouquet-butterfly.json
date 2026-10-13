@@ -1,0 +1,264 @@
+{
+  "templateId": "bouquet-butterfly",
+  "pass": true,
+  "regionCount": 39,
+  "expectedRegionRange": [
+    30,
+    40
+  ],
+  "errors": [],
+  "warnings": [],
+  "closedRegions": 39,
+  "backgroundLeak": false,
+  "closureMethod": "explicit SVG Z paths; background excluded by compiled visible region masks",
+  "minimumBoundsWidth": 49,
+  "minimumUsableDiameter": 44,
+  "minVisibleArea": 7260,
+  "blackRatio": 0.0639975,
+  "whiteRatio": 0.9198825,
+  "antiAliasRatio": 0.01612,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "左のくき",
+      "visibleArea": 20232,
+      "usableDiameter": 45.66
+    },
+    {
+      "id": "r02",
+      "name": "まんなかのくき",
+      "visibleArea": 20544,
+      "usableDiameter": 44
+    },
+    {
+      "id": "r03",
+      "name": "右のくき",
+      "visibleArea": 14248,
+      "usableDiameter": 45.66
+    },
+    {
+      "id": "r04",
+      "name": "左の葉・上",
+      "visibleArea": 28908,
+      "usableDiameter": 122.79
+    },
+    {
+      "id": "r05",
+      "name": "左の葉・下",
+      "visibleArea": 18840,
+      "usableDiameter": 81.66
+    },
+    {
+      "id": "r06",
+      "name": "まんなかの葉・左",
+      "visibleArea": 22732,
+      "usableDiameter": 128.45
+    },
+    {
+      "id": "r07",
+      "name": "まんなかの葉・右",
+      "visibleArea": 18092,
+      "usableDiameter": 100.17
+    },
+    {
+      "id": "r08",
+      "name": "右の葉・上",
+      "visibleArea": 23364,
+      "usableDiameter": 105.82
+    },
+    {
+      "id": "r09",
+      "name": "右の葉・下",
+      "visibleArea": 16564,
+      "usableDiameter": 72
+    },
+    {
+      "id": "r10",
+      "name": "左の花の花びら 1",
+      "visibleArea": 12092,
+      "usableDiameter": 99.31
+    },
+    {
+      "id": "r11",
+      "name": "左の花の花びら 2",
+      "visibleArea": 14868,
+      "usableDiameter": 112
+    },
+    {
+      "id": "r12",
+      "name": "左の花の花びら 3",
+      "visibleArea": 16832,
+      "usableDiameter": 120
+    },
+    {
+      "id": "r13",
+      "name": "左の花の花びら 4",
+      "visibleArea": 16908,
+      "usableDiameter": 121.14
+    },
+    {
+      "id": "r14",
+      "name": "左の花の花びら 5",
+      "visibleArea": 17028,
+      "usableDiameter": 120
+    },
+    {
+      "id": "r15",
+      "name": "左の花の花びら 6",
+      "visibleArea": 21452,
+      "usableDiameter": 132
+    },
+    {
+      "id": "r16",
+      "name": "左の花のまんなか",
+      "visibleArea": 19064,
+      "usableDiameter": 152.74
+    },
+    {
+      "id": "r17",
+      "name": "上の花の花びら 1",
+      "visibleArea": 11368,
+      "usableDiameter": 95.31
+    },
+    {
+      "id": "r18",
+      "name": "上の花の花びら 2",
+      "visibleArea": 15904,
+      "usableDiameter": 116
+    },
+    {
+      "id": "r19",
+      "name": "上の花の花びら 3",
+      "visibleArea": 16164,
+      "usableDiameter": 117.14
+    },
+    {
+      "id": "r20",
+      "name": "上の花の花びら 4",
+      "visibleArea": 16100,
+      "usableDiameter": 117.82
+    },
+    {
+      "id": "r21",
+      "name": "上の花の花びら 5",
+      "visibleArea": 16280,
+      "usableDiameter": 116
+    },
+    {
+      "id": "r22",
+      "name": "上の花の花びら 6",
+      "visibleArea": 20772,
+      "usableDiameter": 128
+    },
+    {
+      "id": "r23",
+      "name": "上の花のまんなか",
+      "visibleArea": 18880,
+      "usableDiameter": 155.08
+    },
+    {
+      "id": "r24",
+      "name": "右の花の花びら 1",
+      "visibleArea": 9636,
+      "usableDiameter": 84.85
+    },
+    {
+      "id": "r25",
+      "name": "右の花の花びら 2",
+      "visibleArea": 14408,
+      "usableDiameter": 107.48
+    },
+    {
+      "id": "r26",
+      "name": "右の花の花びら 3",
+      "visibleArea": 14480,
+      "usableDiameter": 108.97
+    },
+    {
+      "id": "r27",
+      "name": "右の花の花びら 4",
+      "visibleArea": 14420,
+      "usableDiameter": 111.31
+    },
+    {
+      "id": "r28",
+      "name": "右の花の花びら 5",
+      "visibleArea": 14640,
+      "usableDiameter": 107.48
+    },
+    {
+      "id": "r29",
+      "name": "右の花の花びら 6",
+      "visibleArea": 19124,
+      "usableDiameter": 117.14
+    },
+    {
+      "id": "r30",
+      "name": "右の花のまんなか",
+      "visibleArea": 18884,
+      "usableDiameter": 155.08
+    },
+    {
+      "id": "r31",
+      "name": "花束の包み紙",
+      "visibleArea": 153920,
+      "usableDiameter": 222.63
+    },
+    {
+      "id": "r32",
+      "name": "包み紙の折り返し",
+      "visibleArea": 77564,
+      "usableDiameter": 191.31
+    },
+    {
+      "id": "r33",
+      "name": "リボン・左",
+      "visibleArea": 24772,
+      "usableDiameter": 108
+    },
+    {
+      "id": "r34",
+      "name": "リボン・右",
+      "visibleArea": 23780,
+      "usableDiameter": 108
+    },
+    {
+      "id": "r35",
+      "name": "ちょうの左上の羽",
+      "visibleArea": 17396,
+      "usableDiameter": 134.11
+    },
+    {
+      "id": "r36",
+      "name": "ちょうの右上の羽",
+      "visibleArea": 16356,
+      "usableDiameter": 132
+    },
+    {
+      "id": "r37",
+      "name": "ちょうの左下の羽",
+      "visibleArea": 9704,
+      "usableDiameter": 100
+    },
+    {
+      "id": "r38",
+      "name": "ちょうの右下の羽",
+      "visibleArea": 8796,
+      "usableDiameter": 96
+    },
+    {
+      "id": "r39",
+      "name": "ちょうのからだ",
+      "visibleArea": 7260,
+      "usableDiameter": 48
+    }
+  ],
+  "contentHash": "3837bcb498da233dba65ca3ab045132b1bc889f1dea07d7f2957f0d98735778c",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "3837bcb498da233dba65ca3ab045132b1bc889f1dea07d7f2957f0d98735778c",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

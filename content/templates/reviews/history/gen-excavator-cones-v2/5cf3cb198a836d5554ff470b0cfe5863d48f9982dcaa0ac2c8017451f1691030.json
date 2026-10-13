@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-excavator-cones-v2",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06T15:47:54.998Z",
+    "contentHash": "5cf3cb198a836d5554ff470b0cfe5863d48f9982dcaa0ac2c8017451f1691030",
+    "basis": "Image-generated original, source-bound semantic annotations, original ink contours, measured QA and individual interaction evidence reviewed. Human art/content review is required before release."
+  }
+}

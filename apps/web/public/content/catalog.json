@@ -1,0 +1,102 @@
+[
+  {
+    "id": "gen-bouquet-butterfly-v2-smooth-v3",
+    "themeId": "flowers",
+    "title": "はなたばと ちょうちょ",
+    "defaultColorFamily": "pink",
+    "regionCount": 44,
+    "assetUrl": "/content/templates/gen-bouquet-butterfly-v2-smooth-v3.95029059b4b0353ad4dcb5030956fb9b8e521306546793ef426f56fa64945f42.json",
+    "thumbnailUrl": "/content/templates/gen-bouquet-butterfly-v2-storybook-v2.af43fb7180060b8f8c7eb3cd142575d412a12951c9e6de014837f38a71ba3866.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-bouquet-butterfly-v2-storybook-v2.af43fb7180060b8f8c7eb3cd142575d412a12951c9e6de014837f38a71ba3866.svg"
+  },
+  {
+    "id": "gen-dinosaur-eggs-v4-smooth-v3",
+    "themeId": "dinosaurs",
+    "title": "きょうりゅうと たまご",
+    "defaultColorFamily": "green",
+    "regionCount": 23,
+    "assetUrl": "/content/templates/gen-dinosaur-eggs-v4-smooth-v3.3c26f4487134ce56aae88b483fe196cf0f1520e041bc4e38a750c163459aeeed.json",
+    "thumbnailUrl": "/content/templates/gen-dinosaur-eggs-v4-storybook-v2.ddfbe85a16e3aae38ac4f7fd0247a8c2edf2bb4767096136ec15da48ddc257b2.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-dinosaur-eggs-v4-storybook-v2.ddfbe85a16e3aae38ac4f7fd0247a8c2edf2bb4767096136ec15da48ddc257b2.svg"
+  },
+  {
+    "id": "gen-excavator-cones-v2-smooth-v3",
+    "themeId": "construction",
+    "title": "ショベルカーと コーン",
+    "defaultColorFamily": "yellow",
+    "regionCount": 49,
+    "assetUrl": "/content/templates/gen-excavator-cones-v2-smooth-v3.bde236c4201ee0776ad25de59aba15b175086626e6960a541b21488a43b5cd14.json",
+    "thumbnailUrl": "/content/templates/gen-excavator-cones-v2-storybook-v2.d390b774e50651218a5231f3fd0eb1e3bc57fe5e7fee0d796d74e6115f066fe4.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-excavator-cones-v2-storybook-v2.d390b774e50651218a5231f3fd0eb1e3bc57fe5e7fee0d796d74e6115f066fe4.svg"
+  },
+  {
+    "id": "gen-explorer-robot-v2-smooth-v3",
+    "themeId": "robots",
+    "title": "たんけん ロボット",
+    "defaultColorFamily": "gray",
+    "regionCount": 46,
+    "assetUrl": "/content/templates/gen-explorer-robot-v2-smooth-v3.efb4f39b6d549d552e51b3ac6d8c48c41a5f0fe146313d979146843a5a0160bb.json",
+    "thumbnailUrl": "/content/templates/gen-explorer-robot-v2-storybook-v2.a3d3a0dfeca193f9915996f3ecb0d106c13042e28b2326568faad45b1cfe1140.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-explorer-robot-v2-storybook-v2.a3d3a0dfeca193f9915996f3ecb0d106c13042e28b2326568faad45b1cfe1140.svg"
+  },
+  {
+    "id": "gen-ocean-friends-v2-smooth-v3",
+    "themeId": "ocean",
+    "title": "うみの なかまたち",
+    "defaultColorFamily": "blue",
+    "regionCount": 41,
+    "assetUrl": "/content/templates/gen-ocean-friends-v2-smooth-v3.88ee14fa1dcb0a3ffb2092cede48a11ec8987e4e7fb0839354aaff31094ae856.json",
+    "thumbnailUrl": "/content/templates/gen-ocean-friends-v2-storybook-v2.b2b5cc9fb5f2885855247586a64f24e0c7168e712c3d2a9feed341dbff0cd9df.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-ocean-friends-v2-storybook-v2.b2b5cc9fb5f2885855247586a64f24e0c7168e712c3d2a9feed341dbff0cd9df.svg"
+  },
+  {
+    "id": "gen-princess-bunny-v6-master-v4",
+    "themeId": "princess",
+    "title": "おひめさまと うさぎ",
+    "defaultColorFamily": "pink",
+    "regionCount": 51,
+    "assetUrl": "/content/templates/gen-princess-bunny-v6-master-v4.8a047ddd7ca0729e4e2a0a841d1490f9b1c3a8c93464e294ade81d96ae0db9fc.json",
+    "thumbnailUrl": "/content/templates/gen-princess-bunny-v6-master-v3.84db7794b73dff5b6448b7340ae8e729f28e6c9769f1d2824259e35f8f378c0b.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-princess-bunny-v6-master-v3.84db7794b73dff5b6448b7340ae8e729f28e6c9769f1d2824259e35f8f378c0b.svg"
+  },
+  {
+    "id": "gen-rocket-astronaut-v5-smooth-v3",
+    "themeId": "space",
+    "title": "ロケットと うちゅうひこうし",
+    "defaultColorFamily": "blue",
+    "regionCount": 46,
+    "assetUrl": "/content/templates/gen-rocket-astronaut-v5-smooth-v3.b9872788f26c45de72b4f951e6ed979416b32e315c6e79924585323cc2d50acb.json",
+    "thumbnailUrl": "/content/templates/gen-rocket-astronaut-v5-storybook-v2.5ff23793766b2077efefdccd382873da6e33bd41759b3ee4267b2ecc74b98035.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-rocket-astronaut-v5-storybook-v2.5ff23793766b2077efefdccd382873da6e33bd41759b3ee4267b2ecc74b98035.svg"
+  },
+  {
+    "id": "gen-round-sports-car-v2-smooth-v3",
+    "themeId": "vehicles",
+    "title": "まるい スポーツカー",
+    "defaultColorFamily": "red",
+    "regionCount": 28,
+    "assetUrl": "/content/templates/gen-round-sports-car-v2-smooth-v3.b0ec01a1ab0f3a0893ac659a862b44ca45545fc7db5b48c6471e384dd2b947d7.json",
+    "thumbnailUrl": "/content/templates/gen-round-sports-car-v2-storybook-v2.1d8b354d4d38b8d84be29b738b4c4a4ecd989681c35f7dbf92124eaf491aad10.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-round-sports-car-v2-storybook-v2.1d8b354d4d38b8d84be29b738b4c4a4ecd989681c35f7dbf92124eaf491aad10.svg"
+  },
+  {
+    "id": "gen-tree-friends-v4-smooth-v3",
+    "themeId": "animals",
+    "title": "きのしたの なかまたち",
+    "defaultColorFamily": "brown",
+    "regionCount": 29,
+    "assetUrl": "/content/templates/gen-tree-friends-v4-smooth-v3.5f107be8551e7715608c09d09fde9eb10e83003abbd834474781ed374b8a2d9c.json",
+    "thumbnailUrl": "/content/templates/gen-tree-friends-v4-storybook-v2.0993b0b879d56e22c4ee65c185e1fd1fb0eef83a70c0d6ac510936e551ad6ad8.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-tree-friends-v4-storybook-v2.0993b0b879d56e22c4ee65c185e1fd1fb0eef83a70c0d6ac510936e551ad6ad8.svg"
+  },
+  {
+    "id": "gen-wizard-lantern-v6-smooth-v3",
+    "themeId": "magic",
+    "title": "まほうつかいと ランタン",
+    "defaultColorFamily": "purple",
+    "regionCount": 46,
+    "assetUrl": "/content/templates/gen-wizard-lantern-v6-smooth-v3.5bf21f64f978366d2fc2c3ff258162d22d55fef194a857f25274936b465311a7.json",
+    "thumbnailUrl": "/content/templates/gen-wizard-lantern-v6-storybook-v2.5d3f3d767005058b69bb5fa495b3e3096e23842d2b3dd3ebd5ab819c75bb05d1.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-wizard-lantern-v6-storybook-v2.5d3f3d767005058b69bb5fa495b3e3096e23842d2b3dd3ebd5ab819c75bb05d1.svg"
+  }
+]

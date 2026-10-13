@@ -1,0 +1,282 @@
+{
+  "tool": "built-in image_gen",
+  "instruction": "I25",
+  "humanAdoption": "not-received",
+  "assets": [
+    {
+      "id": "palette",
+      "kind": "icon",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: A small beautiful honey-colored wooden artist palette, seen in gentle three-quarter top view, thumb hole and just five rich paint dabs red, blue, green, ochre and pink. One compact joined silhouette, no brush. Square composition.",
+      "originalFile": "content/ui-art-v1/originals/palette.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-04d8be14-693c-47d9-b369-c75a41673768.png",
+      "sha256": "2b34fd5bfbf38d59fc0866774d5d8132b2447049cad84e6d7a6494c0b6c5edaf",
+      "width": 1254,
+      "height": 1254,
+      "recordedAt": "2026-10-10T08:31:30.402Z"
+    },
+    {
+      "id": "background",
+      "kind": "icon",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: A little immersive landscape vignette: clear blue sky, rounded tree, green foreground meadow, a small cream cottage with coral roof, a path leading into the distance. Contained in one softly irregular cutout silhouette, not a picture frame. Strong readable large shapes. Square composition.",
+      "originalFile": "content/ui-art-v1/originals/background.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-0d38ac9b-11b2-4d54-b2d7-f5ed35c3353a.png",
+      "sha256": "86829fc313231e6180f30f55044707fd5414b89622725fe52f23da825241f779",
+      "width": 1254,
+      "height": 1254,
+      "recordedAt": "2026-10-10T08:31:32.308Z"
+    },
+    {
+      "id": "frame",
+      "kind": "icon",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: One exquisite tiny open portrait frame, warm gold carved curling corners and two small teal gems, clean simple central opening truly transparent, recognizable ornate frame silhouette. No picture or backing inside, no cast shadow. Square composition.",
+      "originalFile": "content/ui-art-v1/originals/frame.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-8b2ab079-7c15-4fa0-afe2-74e15339e11f.png",
+      "sha256": "67ff9cad81e09be378712c5894eb88ac66eb7a4bf310c386b81e3850e2aec0ad",
+      "width": 1254,
+      "height": 1254,
+      "recordedAt": "2026-10-10T08:31:34.330Z"
+    },
+    {
+      "id": "smooth",
+      "kind": "icon",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: One short round-tipped painter brush with soft blue handle and golden ferrule, creamy blue paint on the bristles. Diagonal lower left to upper right, thick readable silhouette. Square composition.",
+      "originalFile": "content/ui-art-v1/originals/smooth.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-8e073bfa-07f5-457b-bc1a-f6cae65fbe21.png",
+      "sha256": "3115eac2fb8180fe106d8e9f6229f9c3a826a3369145ef993982740d30b965ff",
+      "width": 1254,
+      "height": 1254,
+      "recordedAt": "2026-10-10T08:38:37.922Z"
+    },
+    {
+      "id": "crayon",
+      "kind": "icon",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: Two short chunky wax crayons, one rose-pink and one sunny yellow, paper wrappers with simple color bands and no writing, wax tips clearly visible. Slightly crossed, tactile wax. Square composition.",
+      "originalFile": "content/ui-art-v1/originals/crayon.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-30bcb086-7012-4747-be05-2c183960acce.png",
+      "sha256": "df7618cc5e40b15b06b68c39b6ea2023493d55d543e054c318e3486a0bdb482f",
+      "width": 1254,
+      "height": 1254,
+      "recordedAt": "2026-10-10T08:38:39.769Z"
+    },
+    {
+      "id": "pencil",
+      "kind": "icon",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: Two real sharpened colored pencils, one terracotta and one leaf-green, visible pale wooden cones, thin colored cores, elegant diagonal pair. Clearly different from blunt wax crayons. Square composition.",
+      "originalFile": "content/ui-art-v1/originals/pencil.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-1a8502f3-32ed-4512-9d97-cd087d849fbf.png",
+      "sha256": "445208865f94673b1c3dcaaba0ec9f2f58dc262100fa0b41251cbacfcb255fef",
+      "width": 1254,
+      "height": 1254,
+      "recordedAt": "2026-10-10T08:38:41.573Z"
+    },
+    {
+      "id": "eraser",
+      "kind": "icon",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: One friendly peach-pink and cream rubber eraser, beveled corners and a small plain turquoise paper sleeve, recognizable block eraser. No face or writing. Square composition.",
+      "originalFile": "content/ui-art-v1/originals/eraser.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-5e4dddf8-2af1-4342-96b0-3d37b3a8bf43.png",
+      "sha256": "69a564c7e37cbbcf4fb56f84675ca169a82db552557569c623523a1b2663ee0a",
+      "width": 1254,
+      "height": 1254,
+      "recordedAt": "2026-10-10T08:38:43.427Z"
+    },
+    {
+      "id": "settings",
+      "kind": "icon",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: One softly sculpted turquoise ceramic cog with an open center and six rounded teeth, a small warm brass accent on the rim. Clear recognizable settings gear, no face. Square composition.",
+      "originalFile": "content/ui-art-v1/originals/settings.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-5b6cc888-bc72-43f6-b300-ea8986f6312c.png",
+      "sha256": "84bc5852450b1e20185fdb4475efc82b75c880575db33c5d00339edc7a5a2f77",
+      "width": 1254,
+      "height": 1254,
+      "recordedAt": "2026-10-10T08:38:45.289Z"
+    },
+    {
+      "id": "brand-island",
+      "kind": "icon",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: A tiny sandy island with one graceful palm tree and a narrow turquoise water ring, three small paint droplets floating nearby in pink yellow and blue. Lush readable palm leaves, warm sand, compact gently oval silhouette. No face, lettering or logo. Square composition.",
+      "originalFile": "content/ui-art-v1/originals/brand-island.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-df1e3765-09ce-4bd7-98f6-8af99cd267b2.png",
+      "sha256": "0f8759975f7cf31be0119922e90bd3bd99230df02382627b0a1c750840d6554b",
+      "width": 1254,
+      "height": 1254,
+      "recordedAt": "2026-10-10T08:38:47.114Z"
+    },
+    {
+      "id": "island-red",
+      "kind": "island",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: a tiny gently elevated oval painter's island, low sandy shore and a very narrow turquoise water rim, two simple small leaves toward the back, a ruby red paint pebble and three red poppies on the ground. The island's dominant painted land color is red vermilion; the color must be unmistakable. Broad simple shapes, low three-quarter view, landscape ratio about 5:4. No face, no character, no castle, no frame. Keep all parts joined to one compact silhouette. This is a color-family selector icon; prioritize the large dominant pigment color.",
+      "originalFile": "content/ui-art-v1/originals/island-red.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-add4c278-83bb-43f1-b439-940cf03c6c7d.png",
+      "sha256": "304fd2d4a2ef3b0e564593bd32875f81f77dca1cd9481bd4b169d23ae178d0af",
+      "width": 1402,
+      "height": 1122,
+      "recordedAt": "2026-10-10T08:43:36.245Z"
+    },
+    {
+      "id": "island-pink",
+      "kind": "island",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: a tiny gently elevated oval painter's island, low sandy shore and a very narrow turquoise water rim, two simple small leaves toward the back, a rose-pink paint pebble and one little pink rose on the ground. The island's dominant painted land color is rose pink; the color must be unmistakable. Broad simple shapes, low three-quarter view, landscape ratio about 5:4. No face, no character, no castle, no frame. Keep all parts joined to one compact silhouette. This is a color-family selector icon; prioritize the large dominant pigment color.",
+      "originalFile": "content/ui-art-v1/originals/island-pink.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-e50e2e1b-00e1-457e-9b70-72e04fc1852a.png",
+      "sha256": "ddf1e310745d7a1c72271479a50c892db173423b90b605743fdaad140a165978",
+      "width": 1402,
+      "height": 1122,
+      "recordedAt": "2026-10-10T08:43:38.138Z"
+    },
+    {
+      "id": "island-orange",
+      "kind": "island",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: a tiny gently elevated oval painter's island, low sandy shore and a very narrow turquoise water rim, two simple small leaves toward the back, an orange paint pebble and a small tangerine on the ground. The island's dominant painted land color is tangerine orange; the color must be unmistakable. Broad simple shapes, low three-quarter view, landscape ratio about 5:4. No face, no character, no castle, no frame. Keep all parts joined to one compact silhouette. This is a color-family selector icon; prioritize the large dominant pigment color.",
+      "originalFile": "content/ui-art-v1/originals/island-orange.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-034b8efb-89e9-404e-96ba-82d62d1f7d3a.png",
+      "sha256": "d173f8af86b018575bb2f590c531bcd187a2c15276ff1aea698bafc3ea2cdf3b",
+      "width": 1402,
+      "height": 1122,
+      "recordedAt": "2026-10-10T08:43:40.010Z"
+    },
+    {
+      "id": "island-yellow",
+      "kind": "island",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: a tiny gently elevated oval painter's island, low sandy shore and a very narrow turquoise water rim, two simple small leaves toward the back, a golden yellow paint pebble and a sunflower on the ground. The island's dominant painted land color is sunflower yellow; the color must be unmistakable. Broad simple shapes, low three-quarter view, landscape ratio about 5:4. No face, no character, no castle, no frame. Keep all parts joined to one compact silhouette. This is a color-family selector icon; prioritize the large dominant pigment color.",
+      "originalFile": "content/ui-art-v1/originals/island-yellow.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-3dacfa7d-63f9-452a-bfe6-aa28b8452534.png",
+      "sha256": "b94da1f4e6fc3433eac5c3fd44dd34a8eb38fdc419863a4086651da93e0869dc",
+      "width": 1402,
+      "height": 1122,
+      "recordedAt": "2026-10-10T08:43:41.952Z"
+    },
+    {
+      "id": "island-green",
+      "kind": "island",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: a tiny gently elevated oval painter's island, low sandy shore and a very narrow turquoise water rim, two simple small leaves toward the back, a green paint pebble and two fern fronds on the ground. The island's dominant painted land color is fresh leaf green; the color must be unmistakable. Broad simple shapes, low three-quarter view, landscape ratio about 5:4. No face, no character, no castle, no frame. Keep all parts joined to one compact silhouette. This is a color-family selector icon; prioritize the large dominant pigment color.",
+      "originalFile": "content/ui-art-v1/originals/island-green.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-9d574114-aef7-4108-8a3e-493545c7fd23.png",
+      "sha256": "baff0cc8b2f47cf0cd99a8d0807c039c6445d6fd0b35fc69e90463abf0fc9bb9",
+      "width": 1402,
+      "height": 1122,
+      "recordedAt": "2026-10-10T08:43:43.970Z"
+    },
+    {
+      "id": "island-blue",
+      "kind": "island",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: a tiny gently elevated oval painter's island, low sandy shore and a very narrow turquoise water rim, two simple small leaves toward the back, a blue paint pebble and a tiny blue sail on the ground. The island's dominant painted land color is clear sky blue; the color must be unmistakable. Broad simple shapes, low three-quarter view, landscape ratio about 5:4. No face, no character, no castle, no frame. Keep all parts joined to one compact silhouette. This is a color-family selector icon; prioritize the large dominant pigment color.",
+      "originalFile": "content/ui-art-v1/originals/island-blue.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-c22a5216-b83c-4979-afa7-a2af67a0204c.png",
+      "sha256": "df885d9f22a9a7b44ca3c343ed21c65676e37587bd178c1d36d2d97544654e90",
+      "width": 1402,
+      "height": 1122,
+      "recordedAt": "2026-10-10T08:43:45.999Z"
+    },
+    {
+      "id": "island-brown",
+      "kind": "island",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: a tiny gently elevated oval painter's island, low sandy shore and a very narrow turquoise water rim, two simple small leaves toward the back, a brown paint pebble and a tiny acorn on the ground. The island's dominant painted land color is warm cocoa brown; the color must be unmistakable. Broad simple shapes, low three-quarter view, landscape ratio about 5:4. No face, no character, no castle, no frame. Keep all parts joined to one compact silhouette. This is a color-family selector icon; prioritize the large dominant pigment color.",
+      "originalFile": "content/ui-art-v1/originals/island-brown.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-53a96093-654a-4149-b2ea-f6f993664695.png",
+      "sha256": "ac38109519b5af5e9a50b36278d940c7c65335cd2f9b51a25ff95808b823f6fb",
+      "width": 1402,
+      "height": 1122,
+      "recordedAt": "2026-10-10T08:47:24.418Z"
+    },
+    {
+      "id": "island-skin",
+      "kind": "island",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: a tiny gently elevated oval painter's island, low sandy shore and a very narrow turquoise water rim, two simple small leaves toward the back, three broad rounded paint pebbles in ivory, warm peach and deep umber, equally prominent on the ground. The island's dominant painted land color is warm peach and terracotta; the color must be unmistakable. Broad simple shapes, low three-quarter view, landscape ratio about 5:4. No face, no character, no castle, no frame. Keep all parts joined to one compact silhouette. This is a color-family selector icon; prioritize the large dominant pigment color.",
+      "originalFile": "content/ui-art-v1/originals/island-skin.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-467b79a4-425d-40c5-9b5f-665ef87239ab.png",
+      "sha256": "ca0398e8e63661a9a6b7016ae3e314e250f7dc7f57c6cac2115c21bdf6921fa2",
+      "width": 1402,
+      "height": 1122,
+      "recordedAt": "2026-10-10T08:47:26.311Z"
+    },
+    {
+      "id": "island-purple",
+      "kind": "island",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: a tiny gently elevated oval painter's island, low sandy shore and a very narrow turquoise water rim, two simple small leaves toward the back, a violet paint pebble and lavender sprigs on the ground. The island's dominant painted land color is lilac violet; the color must be unmistakable. Broad simple shapes, low three-quarter view, landscape ratio about 5:4. No face, no character, no castle, no frame. Keep all parts joined to one compact silhouette. This is a color-family selector icon; prioritize the large dominant pigment color.",
+      "originalFile": "content/ui-art-v1/originals/island-purple.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-b763cf3c-1f45-4155-97c2-3a963517afbd.png",
+      "sha256": "8a091beb6af5844965a4deb81d5239da005ddba161cdadbbb7abb3f521370adf",
+      "width": 1402,
+      "height": 1122,
+      "recordedAt": "2026-10-10T08:47:28.214Z"
+    },
+    {
+      "id": "island-white",
+      "kind": "island",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: a tiny gently elevated oval painter's island, low sandy shore and a very narrow turquoise water rim, two simple small leaves toward the back, a luminous ivory paint pebble and a white daisy with a tiny gold center on the ground. The island's dominant painted land color is warm ivory white; the color must be unmistakable. Broad simple shapes, low three-quarter view, landscape ratio about 5:4. No face, no character, no castle, no frame. Keep all parts joined to one compact silhouette. This is a color-family selector icon; prioritize the large dominant pigment color.",
+      "originalFile": "content/ui-art-v1/originals/island-white.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-b61763b1-c42c-44ce-89ca-4610cd2de5cd.png",
+      "sha256": "d7947037ef1dd1b4dc515f3b7b35cb754cac7c5584ede79088a9616ffcf3cd8d",
+      "width": 1402,
+      "height": 1122,
+      "recordedAt": "2026-10-10T08:47:30.109Z"
+    },
+    {
+      "id": "island-gray",
+      "kind": "island",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: a tiny gently elevated oval painter's island, low sandy shore and a very narrow turquoise water rim, two simple small leaves toward the back, a gray paint pebble and a smooth gray stone on the ground. The island's dominant painted land color is slate gray; the color must be unmistakable. Broad simple shapes, low three-quarter view, landscape ratio about 5:4. No face, no character, no castle, no frame. Keep all parts joined to one compact silhouette. This is a color-family selector icon; prioritize the large dominant pigment color.",
+      "originalFile": "content/ui-art-v1/originals/island-gray.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-9ba902e4-ff2a-448d-9b17-7411d792ce1f.png",
+      "sha256": "47934897e3782eb98c2e538cddbffc99e9f76878f52ff6a1430ae6e628cf49ea",
+      "width": 1402,
+      "height": 1122,
+      "recordedAt": "2026-10-10T08:47:32.026Z"
+    },
+    {
+      "id": "island-black",
+      "kind": "island",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: a tiny gently elevated oval painter's island, low sandy shore and a very narrow turquoise water rim, two simple small leaves toward the back, a dark charcoal paint pebble and a glossy black smooth stone on the ground. The island's dominant painted land color is charcoal black; the color must be unmistakable. Broad simple shapes, low three-quarter view, landscape ratio about 5:4. No face, no character, no castle, no frame. Keep all parts joined to one compact silhouette. This is a color-family selector icon; prioritize the large dominant pigment color.",
+      "originalFile": "content/ui-art-v1/originals/island-black.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-2a130fe0-5886-4524-b77e-2fd9faef3cb5.png",
+      "sha256": "65a6384844852785662ec9dda7c823ccd7dd75c3e580bdc27d5fccdcbcb3819d",
+      "width": 1402,
+      "height": 1122,
+      "recordedAt": "2026-10-10T08:47:33.942Z"
+    },
+    {
+      "id": "continue",
+      "kind": "icon",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: One honey-colored artist brush resting diagonally across a small open cream sketchbook with a partly filled rose paint shape. Compact readable object grouping. No writing. Square composition.",
+      "originalFile": "content/ui-art-v1/originals/continue.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-a15c24fc-977a-4c23-a726-afd58ecbb8b3.png",
+      "sha256": "397256f94c6c6a060c66f9a5f57e7f0413cce898f99ba5170292532364da50b2",
+      "width": 1254,
+      "height": 1254,
+      "recordedAt": "2026-10-10T08:50:20.461Z"
+    },
+    {
+      "id": "gallery",
+      "kind": "icon",
+      "prompt": "Use case: illustration-story. Asset type: individual transparent UI illustration for a polished Japanese children's coloring game. Style: exquisite hand-painted storybook gouache with subtle tactile brushwork, gently rounded forms, clear elegant silhouette, restrained highlights, matching the existing princess island illustrations. Soft light from upper left. Center a single object, filling about 84% of the image, with clean true alpha around it. No text, letters, numbers, logo, rectangular backing, enclosing UI card, cast drop shadow, glitter cloud, or unrelated tiny clutter. Must read instantly at 32–48 CSS pixels. Transparent background. Subject: Two slightly offset portrait sheets of thick ivory art paper, the front sheet has a simple hand-painted little green hill, blue sky and yellow sun. Clear compact joined silhouette, no ornamental border. Square composition.",
+      "originalFile": "content/ui-art-v1/originals/gallery.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-fe1a8675-9def-4c7d-96ff-03cb45fdbd69.png",
+      "sha256": "b136174a60f222e07dfc8be77599f25831e4899653ff4bee096cded42f0fb6c3",
+      "width": 1254,
+      "height": 1254,
+      "recordedAt": "2026-10-10T08:50:22.428Z"
+    },
+    {
+      "id": "paint-dab",
+      "kind": "mask",
+      "prompt": "Use case: illustration-story. Asset type: alpha silhouette for exact-color palette swatches in a children's coloring app. A single near-round dab of thick opaque WHITE gouache, top-down, smooth solid fully opaque center with subtly irregular painterly lobed perimeter and a few broad tactile brush marks. Simple compact almost circular silhouette, no drips, no separated splatters. Fill 85% of the square. WHITE paint only; no colored backing, no gray shadow, no paper or background, no text. Genuine transparent alpha outside the white pigment. The alpha will be used as a mask so its center must be completely solid; no holes or transparent speckles in the central 80%.",
+      "originalFile": "content/ui-art-v1/originals/paint-dab.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-fba6b3b3-7916-4991-872d-fb337be6156e.png",
+      "sha256": "5410d090818c49cc76f7ea432cca8f9f73aec846bde00dc8bbf8dc83edc29869",
+      "width": 1254,
+      "height": 1254,
+      "recordedAt": "2026-10-10T08:50:24.441Z"
+    },
+    {
+      "id": "palette-board",
+      "kind": "surface",
+      "prompt": "Use case: illustration-story. Asset type: transparent illustrated responsive palette surface for a children's coloring app. Wide landscape ratio 3:1. One shallow top-down artist's palette tray made from warm pale ash wood with a gently irregular organic outer edge, lined with luminous ivory handmade paper. Subtle paper grain, delicate honey wood edge, faint traces of rose and turquoise pigment only at far corners. Hand-painted refined storybook gouache. Center 90% is clear empty ivory paper for live buttons to be overlaid by code. No holes, tools, paint wells, dots, labels, writing, frames, rectangular cast shadows or objects in the central area. Not a UI screenshot. True transparent background outside the tray, full object visible.",
+      "originalFile": "content/ui-art-v1/originals/palette-board.png",
+      "sourceFile": "C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-33fea104-da35-432d-97da-6a3383b86b3f.png",
+      "sha256": "094f5627b13688805a77ee6272af45f5cff00f70e8f38b66441e9aebff54e641",
+      "width": 2172,
+      "height": 724,
+      "recordedAt": "2026-10-10T08:50:26.396Z"
+    }
+  ]
+}

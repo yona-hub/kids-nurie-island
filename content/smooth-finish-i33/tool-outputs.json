@@ -1,0 +1,38 @@
+[
+  {
+    "theme": "flowers",
+    "output_hint": "Generated images are saved to C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b as C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-4d28f222-410c-405e-92dd-4a50add30349.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "theme": "dinosaurs",
+    "output_hint": "Generated images are saved to C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b as C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-d7f0e7d9-de35-40d1-8ec8-a18ccceb4247.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "theme": "construction",
+    "output_hint": "Generated images are saved to C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b as C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-e716eaba-808c-4d05-b83d-bbeb5327b044.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "theme": "magic",
+    "output_hint": "Generated images are saved to C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b as C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-11299064-3572-47e6-9ca6-25518916b3d5.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "theme": "animals",
+    "output_hint": "Generated images are saved to C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b as C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-d126d871-054f-494c-a26a-14ce23156df3.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "theme": "ocean",
+    "output_hint": "Generated images are saved to C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b as C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-d93cb8a1-a1b7-4309-9b86-588fbc3ad9fd.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "theme": "robots",
+    "output_hint": "Generated images are saved to C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b as C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-6b286b7a-d28b-4f57-8b34-9ad78c26a7da.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "theme": "vehicles",
+    "output_hint": "Generated images are saved to C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b as C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-b7590d9c-b253-4e02-ab78-2e683758dccb.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "theme": "space",
+    "output_hint": "Generated images are saved to C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b as C:\\Users\\yonaf\\.codex\\generated_images\\01a11153-749f-7af1-9d87-047b622f384b\\exec-f5f998b6-cdbb-46d9-8192-cf3f80c8713d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  }
+]

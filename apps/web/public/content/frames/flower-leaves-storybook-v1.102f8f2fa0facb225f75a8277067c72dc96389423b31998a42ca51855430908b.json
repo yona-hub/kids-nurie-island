@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "borderColor": "#edcbd6",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/leaf.7fa4e9175c8499d19099f7a0d5b5e7f537924ab9b890de5b7174736df59fc486.png",
+      "x": 67.75146101339936,
+      "y": 17.630505890627553,
+      "width": 54.497077973201264,
+      "height": 64.7389882187449,
+      "rotation": 14,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/flower.6e4766d3d20d0d53a4064ad82b6dab08dce897832e41a73065680eaf18e28732.png",
+      "x": 64.35757881920428,
+      "y": 1920.2553060022353,
+      "width": 61.28484236159145,
+      "height": 59.4893879955292,
+      "rotation": -17,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/flower.6e4766d3d20d0d53a4064ad82b6dab08dce897832e41a73065680eaf18e28732.png",
+      "x": 350.97877594698133,
+      "y": 16.97549149540962,
+      "width": 68.04244810603733,
+      "height": 66.04901700918076,
+      "rotation": -14,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/leaf.7fa4e9175c8499d19099f7a0d5b5e7f537924ab9b890de5b7174736df59fc486.png",
+      "x": 356.2965481170161,
+      "y": 1915.9021638884274,
+      "width": 57.40690376596782,
+      "height": 68.19567222314507,
+      "rotation": 17,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/leaf.7fa4e9175c8499d19099f7a0d5b5e7f537924ab9b890de5b7174736df59fc486.png",
+      "x": 623.4490601207782,
+      "y": 12.519533136516117,
+      "width": 63.101879758443566,
+      "height": 74.96093372696777,
+      "rotation": 14,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/flower.6e4766d3d20d0d53a4064ad82b6dab08dce897832e41a73065680eaf18e28732.png",
+      "x": 619.5193017906576,
+      "y": 1915.5587753710095,
+      "width": 70.96139641868484,
+      "height": 68.88244925798118,
+      "rotation": -17,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/flower.6e4766d3d20d0d53a4064ad82b6dab08dce897832e41a73065680eaf18e28732.png",
+      "x": 913.4681338045193,
+      "y": 19.39191894696501,
+      "width": 63.06373239096143,
+      "height": 61.21616210606998,
+      "rotation": -14,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/leaf.7fa4e9175c8499d19099f7a0d5b5e7f537924ab9b890de5b7174736df59fc486.png",
+      "x": 918.3968006938198,
+      "y": 1918.3971275063475,
+      "width": 53.20639861236042,
+      "height": 63.20574498730518,
+      "rotation": 17,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/leaf.7fa4e9175c8499d19099f7a0d5b5e7f537924ab9b890de5b7174736df59fc486.png",
+      "x": 1185.6002605670888,
+      "y": 15.075019513571839,
+      "width": 58.799478865822415,
+      "height": 69.84996097285632,
+      "rotation": 14,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/flower.6e4766d3d20d0d53a4064ad82b6dab08dce897832e41a73065680eaf18e28732.png",
+      "x": 1181.938440304931,
+      "y": 1917.9070406866224,
+      "width": 66.12311939013814,
+      "height": 64.1859186267552,
+      "rotation": -17,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/flower.6e4766d3d20d0d53a4064ad82b6dab08dce897832e41a73065680eaf18e28732.png",
+      "x": 1468.4894180894435,
+      "y": 14.559064043854221,
+      "width": 73.02116382111323,
+      "height": 70.88187191229156,
+      "rotation": -14,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/leaf.7fa4e9175c8499d19099f7a0d5b5e7f537924ab9b890de5b7174736df59fc486.png",
+      "x": 1474.1962955402123,
+      "y": 1913.4072002705075,
+      "width": 61.60740891957522,
+      "height": 73.18559945898495,
+      "rotation": 17,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/leaf.7fa4e9175c8499d19099f7a0d5b5e7f537924ab9b890de5b7174736df59fc486.png",
+      "x": 13.088001798243948,
+      "y": 362.09061930557056,
+      "width": 63.823996403512105,
+      "height": 75.81876138885893,
+      "rotation": 2,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/leaf.7fa4e9175c8499d19099f7a0d5b5e7f537924ab9b890de5b7174736df59fc486.png",
+      "x": 1523.513929334365,
+      "y": 432.5965935480159,
+      "width": 62.97214133127008,
+      "height": 74.80681290396817,
+      "rotation": 3,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/flower.6e4766d3d20d0d53a4064ad82b6dab08dce897832e41a73065680eaf18e28732.png",
+      "x": 7.255673627190539,
+      "y": 723.3614644388939,
+      "width": 75.48865274561892,
+      "height": 73.27707112221212,
+      "rotation": 2,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/flower.6e4766d3d20d0d53a4064ad82b6dab08dce897832e41a73065680eaf18e28732.png",
+      "x": 1517.8370469382276,
+      "y": 793.9258053287092,
+      "width": 74.3259061235449,
+      "height": 72.14838934258167,
+      "rotation": 3,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/leaf.7fa4e9175c8499d19099f7a0d5b5e7f537924ab9b890de5b7174736df59fc486.png",
+      "x": 13.088001798243948,
+      "y": 1082.0906193055705,
+      "width": 63.823996403512105,
+      "height": 75.81876138885893,
+      "rotation": 2,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/leaf.7fa4e9175c8499d19099f7a0d5b5e7f537924ab9b890de5b7174736df59fc486.png",
+      "x": 1523.513929334365,
+      "y": 1152.596593548016,
+      "width": 62.97214133127008,
+      "height": 74.80681290396817,
+      "rotation": 3,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/flower.6e4766d3d20d0d53a4064ad82b6dab08dce897832e41a73065680eaf18e28732.png",
+      "x": 7.255673627190539,
+      "y": 1443.361464438894,
+      "width": 75.48865274561892,
+      "height": 73.27707112221212,
+      "rotation": 2,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/flower.6e4766d3d20d0d53a4064ad82b6dab08dce897832e41a73065680eaf18e28732.png",
+      "x": 1517.8370469382276,
+      "y": 1513.9258053287092,
+      "width": 74.3259061235449,
+      "height": 72.14838934258167,
+      "rotation": 3,
+      "opacity": 0.78
+    }
+  ]
+}

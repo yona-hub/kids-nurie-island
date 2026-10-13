@@ -1,0 +1,192 @@
+{
+  "templateId": "round-sports-car",
+  "pass": true,
+  "regionCount": 27,
+  "expectedRegionRange": [
+    25,
+    30
+  ],
+  "errors": [],
+  "warnings": [],
+  "closedRegions": 27,
+  "backgroundLeak": false,
+  "closureMethod": "explicit SVG Z paths; background excluded by compiled visible region masks",
+  "minimumBoundsWidth": 39,
+  "minimumUsableDiameter": 24,
+  "minVisibleArea": 3288,
+  "blackRatio": 0.06189,
+  "whiteRatio": 0.92285,
+  "antiAliasRatio": 0.01526,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "後ろの左タイヤ",
+      "visibleArea": 10336,
+      "usableDiameter": 54.91
+    },
+    {
+      "id": "r02",
+      "name": "後ろの右タイヤ",
+      "visibleArea": 7520,
+      "usableDiameter": 50.91
+    },
+    {
+      "id": "r03",
+      "name": "前の左タイヤ",
+      "visibleArea": 9120,
+      "usableDiameter": 60
+    },
+    {
+      "id": "r04",
+      "name": "前の右タイヤ",
+      "visibleArea": 8876,
+      "usableDiameter": 58.63
+    },
+    {
+      "id": "r05",
+      "name": "車のボディ",
+      "visibleArea": 229384,
+      "usableDiameter": 164
+    },
+    {
+      "id": "r06",
+      "name": "屋根",
+      "visibleArea": 38820,
+      "usableDiameter": 56
+    },
+    {
+      "id": "r07",
+      "name": "フロントガラスの枠",
+      "visibleArea": 56608,
+      "usableDiameter": 53.66
+    },
+    {
+      "id": "r08",
+      "name": "フロントガラス",
+      "visibleArea": 57512,
+      "usableDiameter": 169.66
+    },
+    {
+      "id": "r09",
+      "name": "左シート",
+      "visibleArea": 9184,
+      "usableDiameter": 84
+    },
+    {
+      "id": "r10",
+      "name": "右シート",
+      "visibleArea": 8384,
+      "usableDiameter": 80
+    },
+    {
+      "id": "r11",
+      "name": "左サイドガラス",
+      "visibleArea": 5212,
+      "usableDiameter": 52
+    },
+    {
+      "id": "r12",
+      "name": "右サイドガラス",
+      "visibleArea": 5384,
+      "usableDiameter": 53.25
+    },
+    {
+      "id": "r13",
+      "name": "ボンネット",
+      "visibleArea": 152044,
+      "usableDiameter": 248
+    },
+    {
+      "id": "r14",
+      "name": "左ヘッドライト",
+      "visibleArea": 19184,
+      "usableDiameter": 80
+    },
+    {
+      "id": "r15",
+      "name": "右ヘッドライト",
+      "visibleArea": 18600,
+      "usableDiameter": 83.31
+    },
+    {
+      "id": "r16",
+      "name": "フロントグリル",
+      "visibleArea": 29860,
+      "usableDiameter": 35.31
+    },
+    {
+      "id": "r17",
+      "name": "グリルの上ライン",
+      "visibleArea": 14500,
+      "usableDiameter": 32
+    },
+    {
+      "id": "r18",
+      "name": "グリルの下ライン",
+      "visibleArea": 9852,
+      "usableDiameter": 24
+    },
+    {
+      "id": "r19",
+      "name": "バンパー",
+      "visibleArea": 53264,
+      "usableDiameter": 60
+    },
+    {
+      "id": "r20",
+      "name": "左サイドミラー",
+      "visibleArea": 9632,
+      "usableDiameter": 91.31
+    },
+    {
+      "id": "r21",
+      "name": "右サイドミラー",
+      "visibleArea": 9352,
+      "usableDiameter": 91.31
+    },
+    {
+      "id": "r22",
+      "name": "左のホイール",
+      "visibleArea": 6488,
+      "usableDiameter": 44
+    },
+    {
+      "id": "r23",
+      "name": "右のホイール",
+      "visibleArea": 6436,
+      "usableDiameter": 44
+    },
+    {
+      "id": "r24",
+      "name": "ボンネットのバッジ",
+      "visibleArea": 3288,
+      "usableDiameter": 54.91
+    },
+    {
+      "id": "r25",
+      "name": "左ライトの反射板",
+      "visibleArea": 4684,
+      "usableDiameter": 48
+    },
+    {
+      "id": "r26",
+      "name": "右ライトの反射板",
+      "visibleArea": 4648,
+      "usableDiameter": 48
+    },
+    {
+      "id": "r27",
+      "name": "ボンネットのセンター",
+      "visibleArea": 25984,
+      "usableDiameter": 152
+    }
+  ],
+  "contentHash": "f7b35ac34f72da24632a4f663930dee9dc81e76a508f1d4a6138124dd3467885",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "f7b35ac34f72da24632a4f663930dee9dc81e76a508f1d4a6138124dd3467885",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

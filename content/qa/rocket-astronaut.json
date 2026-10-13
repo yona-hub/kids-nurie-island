@@ -1,0 +1,198 @@
+{
+  "templateId": "rocket-astronaut",
+  "pass": true,
+  "regionCount": 28,
+  "expectedRegionRange": [
+    25,
+    30
+  ],
+  "errors": [],
+  "warnings": [],
+  "closedRegions": 28,
+  "backgroundLeak": false,
+  "closureMethod": "explicit SVG Z paths; background excluded by compiled visible region masks",
+  "minimumBoundsWidth": 56,
+  "minimumUsableDiameter": 37.65685272216797,
+  "minVisibleArea": 3516,
+  "blackRatio": 0.061385,
+  "whiteRatio": 0.92435375,
+  "antiAliasRatio": 0.01426125,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "ロケットの左つばさ",
+      "visibleArea": 34724,
+      "usableDiameter": 147.31
+    },
+    {
+      "id": "r02",
+      "name": "ロケットの右つばさ",
+      "visibleArea": 32548,
+      "usableDiameter": 145.42
+    },
+    {
+      "id": "r03",
+      "name": "炎・外",
+      "visibleArea": 54864,
+      "usableDiameter": 107.48
+    },
+    {
+      "id": "r04",
+      "name": "炎・中",
+      "visibleArea": 31600,
+      "usableDiameter": 83.31
+    },
+    {
+      "id": "r05",
+      "name": "炎・芯",
+      "visibleArea": 10196,
+      "usableDiameter": 84
+    },
+    {
+      "id": "r06",
+      "name": "ロケットの胴体",
+      "visibleArea": 139212,
+      "usableDiameter": 228.28
+    },
+    {
+      "id": "r07",
+      "name": "ロケットの先端",
+      "visibleArea": 93528,
+      "usableDiameter": 296
+    },
+    {
+      "id": "r08",
+      "name": "ロケットの帯",
+      "visibleArea": 37320,
+      "usableDiameter": 104
+    },
+    {
+      "id": "r09",
+      "name": "ロケットの下部",
+      "visibleArea": 17028,
+      "usableDiameter": 63.31
+    },
+    {
+      "id": "r10",
+      "name": "丸窓のわく",
+      "visibleArea": 32956,
+      "usableDiameter": 47.6
+    },
+    {
+      "id": "r11",
+      "name": "丸窓のガラス",
+      "visibleArea": 30048,
+      "usableDiameter": 192
+    },
+    {
+      "id": "r12",
+      "name": "宇宙服のバックパック",
+      "visibleArea": 5392,
+      "usableDiameter": 37.66
+    },
+    {
+      "id": "r13",
+      "name": "左の足",
+      "visibleArea": 19860,
+      "usableDiameter": 112
+    },
+    {
+      "id": "r14",
+      "name": "右の足",
+      "visibleArea": 20496,
+      "usableDiameter": 115.31
+    },
+    {
+      "id": "r15",
+      "name": "左ブーツ",
+      "visibleArea": 19568,
+      "usableDiameter": 128
+    },
+    {
+      "id": "r16",
+      "name": "右ブーツ",
+      "visibleArea": 19020,
+      "usableDiameter": 124
+    },
+    {
+      "id": "r17",
+      "name": "左うで",
+      "visibleArea": 23536,
+      "usableDiameter": 108.28
+    },
+    {
+      "id": "r18",
+      "name": "右うで",
+      "visibleArea": 14140,
+      "usableDiameter": 84.85
+    },
+    {
+      "id": "r19",
+      "name": "左グローブ",
+      "visibleArea": 9364,
+      "usableDiameter": 77.54
+    },
+    {
+      "id": "r20",
+      "name": "右グローブ",
+      "visibleArea": 9296,
+      "usableDiameter": 96
+    },
+    {
+      "id": "r21",
+      "name": "宇宙服",
+      "visibleArea": 56104,
+      "usableDiameter": 124
+    },
+    {
+      "id": "r22",
+      "name": "ヘルメット",
+      "visibleArea": 54236,
+      "usableDiameter": 69.66
+    },
+    {
+      "id": "r23",
+      "name": "ヘルメットのガラス",
+      "visibleArea": 55884,
+      "usableDiameter": 256
+    },
+    {
+      "id": "r24",
+      "name": "胸のパネル",
+      "visibleArea": 14568,
+      "usableDiameter": 116
+    },
+    {
+      "id": "r25",
+      "name": "腕のワッペン",
+      "visibleArea": 3516,
+      "usableDiameter": 56
+    },
+    {
+      "id": "r26",
+      "name": "惑星",
+      "visibleArea": 35752,
+      "usableDiameter": 168.05
+    },
+    {
+      "id": "r27",
+      "name": "惑星のわ",
+      "visibleArea": 22312,
+      "usableDiameter": 66.23
+    },
+    {
+      "id": "r28",
+      "name": "遠くの星",
+      "visibleArea": 4184,
+      "usableDiameter": 53.66
+    }
+  ],
+  "contentHash": "4388e9805dfe41eb417fe20b648749bfb2e235435b996719ae423f0ed4de22c2",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "4388e9805dfe41eb417fe20b648749bfb2e235435b996719ae423f0ed4de22c2",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

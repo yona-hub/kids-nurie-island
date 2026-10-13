@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "borderColor": "#cfe4e7",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 59.26757128771621,
+      "y": 12.12214596130579,
+      "width": 71.46485742456758,
+      "height": 75.7557080773884,
+      "rotation": 11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 55.71707059053906,
+      "y": 1925.6783425335955,
+      "width": 78.56585881892188,
+      "height": 48.643314932809055,
+      "rotation": -14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 350.4471569290404,
+      "y": 28.606931145519127,
+      "width": 69.10568614191929,
+      "height": 42.786137708961746,
+      "rotation": -11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 355.089939787092,
+      "y": 1918.2940976625075,
+      "width": 59.82012042581592,
+      "height": 63.41180467498499,
+      "rotation": 14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 621.7038732453719,
+      "y": 14.704726918489484,
+      "width": 66.59225350925617,
+      "height": 70.59054616302103,
+      "rotation": 11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 618.3954521411841,
+      "y": 1927.3366373608503,
+      "width": 73.20909571763175,
+      "height": 45.32672527829935,
+      "rotation": -14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 904.9914448652046,
+      "y": 25.22907816849583,
+      "width": 80.01711026959076,
+      "height": 49.54184366300834,
+      "rotation": -11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 910.3672987008434,
+      "y": 1913.2879025565876,
+      "width": 69.26540259831317,
+      "height": 73.42419488682474,
+      "rotation": 14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 1184.1401752030276,
+      "y": 17.28730787567318,
+      "width": 61.71964959394474,
+      "height": 65.42538424865363,
+      "rotation": 11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 1181.0738336918291,
+      "y": 1928.9949321881052,
+      "width": 67.85233261634163,
+      "height": 42.01013562378964,
+      "rotation": -14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 1467.7193008971226,
+      "y": 26.918004657007476,
+      "width": 74.56139820575503,
+      "height": 46.16399068598505,
+      "rotation": -11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 1472.7286192439678,
+      "y": 1915.7910001095477,
+      "width": 64.54276151206454,
+      "height": 68.41799978090486,
+      "rotation": 14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 9.894107573621497,
+      "y": 362.7863003678969,
+      "width": 70.211784852757,
+      "height": 74.42739926420619,
+      "rotation": -3,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 1521.3434154055408,
+      "y": 434.322626682478,
+      "width": 67.31316918891838,
+      "height": 71.35474663504391,
+      "rotation": 6,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 7.173853193369041,
+      "y": 736.5802958248007,
+      "width": 75.65229361326192,
+      "height": 46.83940835039849,
+      "rotation": -3,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 1518.1811387876323,
+      "y": 807.2039472571864,
+      "width": 73.63772242473539,
+      "height": 45.59210548562718,
+      "rotation": 6,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 9.894107573621497,
+      "y": 1082.786300367897,
+      "width": 70.211784852757,
+      "height": 74.42739926420619,
+      "rotation": -3,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 1521.3434154055408,
+      "y": 1154.3226266824781,
+      "width": 67.31316918891838,
+      "height": 71.35474663504391,
+      "rotation": 6,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 7.173853193369041,
+      "y": 1456.5802958248007,
+      "width": 75.65229361326192,
+      "height": 46.83940835039849,
+      "rotation": -3,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 1518.1811387876323,
+      "y": 1527.2039472571864,
+      "width": 73.63772242473539,
+      "height": 45.59210548562718,
+      "rotation": 6,
+      "opacity": 0.78
+    }
+  ]
+}

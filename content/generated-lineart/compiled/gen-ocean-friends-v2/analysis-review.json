@@ -1,0 +1,786 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-ocean-friends-v2",
+  "originalSha256": "4af719f39cbeb41e124103b8df7f8f9ab8dff6eb946bb914eabbb8bb52eecdf7",
+  "coordinateSpace": "normalized-1600x2000",
+  "reviewer": "Codex technical source review",
+  "reviewKind": "author-technical-annotation",
+  "humanApproved": false,
+  "checks": [
+    "all-subject-parts-closed",
+    "negative-space-excluded",
+    "pupils-and-highlights-white"
+  ],
+  "unresolvedLeaks": [],
+  "regions": [
+    {
+      "sourceRegionId": "r01",
+      "point": [
+        672,
+        277
+      ],
+      "role": "paint",
+      "name": "イルカの背びれ",
+      "reason": "番号付き原画でイルカの背びれとして識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 118.239
+    },
+    {
+      "sourceRegionId": "r02",
+      "point": [
+        819,
+        426
+      ],
+      "role": "paint",
+      "name": "イルカの体",
+      "reason": "番号付き原画でイルカの体として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 251.653
+    },
+    {
+      "sourceRegionId": "r03",
+      "point": [
+        355,
+        426
+      ],
+      "role": "paint",
+      "name": "左の泡",
+      "reason": "番号付き原画で左の泡として識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 142.602
+    },
+    {
+      "sourceRegionId": "r04",
+      "point": [
+        995,
+        515
+      ],
+      "role": "paint",
+      "name": "イルカの瞳",
+      "reason": "番号付き原画でイルカの瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 52.332,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r05",
+      "point": [
+        981,
+        458
+      ],
+      "role": "paint",
+      "name": "イルカの瞳のハイライト",
+      "reason": "番号付き原画でイルカの瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 45.144,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r06",
+      "point": [
+        1074,
+        649
+      ],
+      "role": "paint",
+      "name": "イルカの口",
+      "reason": "番号付き原画でイルカの口として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 37.994
+    },
+    {
+      "sourceRegionId": "r07",
+      "point": [
+        1322,
+        689
+      ],
+      "role": "paint",
+      "name": "右の泡",
+      "reason": "番号付き原画で右の泡として識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 138.208
+    },
+    {
+      "sourceRegionId": "r08",
+      "point": [
+        880,
+        733
+      ],
+      "role": "paint",
+      "name": "イルカの奥のひれ",
+      "reason": "番号付き原画でイルカの奥のひれとして識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 81.588
+    },
+    {
+      "sourceRegionId": "r09",
+      "point": [
+        1033,
+        1308
+      ],
+      "role": "paint",
+      "name": "カメの顔と前脚",
+      "reason": "番号付き原画でカメの顔と前脚として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 117.039
+    },
+    {
+      "sourceRegionId": "r10",
+      "point": [
+        714,
+        952
+      ],
+      "role": "paint",
+      "name": "カメの左の瞳",
+      "reason": "番号付き原画でカメの左の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 27.181,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r11",
+      "point": [
+        725,
+        919
+      ],
+      "role": "paint",
+      "name": "カメの左の瞳のハイライト",
+      "reason": "番号付き原画でカメの左の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "widthException": {
+        "reason": "カメの左の瞳のハイライトは意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-ocean-friends-v2.json"
+      },
+      "measuredDiameter": 21.969,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r12",
+      "point": [
+        860,
+        985
+      ],
+      "role": "paint",
+      "name": "カメの右の瞳",
+      "reason": "番号付き原画でカメの右の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 36.357,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r13",
+      "point": [
+        845,
+        946
+      ],
+      "role": "paint",
+      "name": "カメの右の瞳のハイライト",
+      "reason": "番号付き原画でカメの右の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 32.363,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r14",
+      "point": [
+        1034,
+        1009
+      ],
+      "role": "paint",
+      "name": "甲羅の左上",
+      "reason": "番号付き原画で甲羅の左上として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 122.633
+    },
+    {
+      "sourceRegionId": "r15",
+      "point": [
+        1138,
+        956
+      ],
+      "role": "paint",
+      "name": "甲羅の上",
+      "reason": "番号付き原画で甲羅の上として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 48
+    },
+    {
+      "sourceRegionId": "r16",
+      "point": [
+        1176,
+        1054
+      ],
+      "role": "paint",
+      "name": "甲羅の中央",
+      "reason": "番号付き原画で甲羅の中央として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 125.569
+    },
+    {
+      "sourceRegionId": "r17",
+      "point": [
+        1291,
+        1067
+      ],
+      "role": "paint",
+      "name": "甲羅の右上",
+      "reason": "番号付き原画で甲羅の右上として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 71.507
+    },
+    {
+      "sourceRegionId": "r18",
+      "point": [
+        371,
+        1061
+      ],
+      "role": "paint",
+      "name": "魚の背びれ上",
+      "reason": "番号付き原画で魚の背びれ上として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 52.338
+    },
+    {
+      "sourceRegionId": "r19",
+      "point": [
+        761,
+        1047
+      ],
+      "role": "paint",
+      "name": "カメの口",
+      "reason": "番号付き原画でカメの口として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 25.969
+    },
+    {
+      "sourceRegionId": "r20",
+      "point": [
+        316,
+        1095
+      ],
+      "role": "paint",
+      "name": "魚の背びれ下",
+      "reason": "番号付き原画で魚の背びれ下として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 52.726
+    },
+    {
+      "sourceRegionId": "r21",
+      "point": [
+        351,
+        1250
+      ],
+      "role": "paint",
+      "name": "魚の中央の模様",
+      "reason": "番号付き原画で魚の中央の模様として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 59.181
+    },
+    {
+      "sourceRegionId": "r22",
+      "point": [
+        423,
+        1236
+      ],
+      "role": "paint",
+      "name": "魚の右の模様",
+      "reason": "番号付き原画で魚の右の模様として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 73.181
+    },
+    {
+      "sourceRegionId": "r23",
+      "point": [
+        531,
+        1295
+      ],
+      "role": "paint",
+      "name": "魚の顔と胸びれ",
+      "reason": "番号付き原画で魚の顔と胸びれとして識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 83.482
+    },
+    {
+      "sourceRegionId": "r24",
+      "point": [
+        1106,
+        1166
+      ],
+      "role": "paint",
+      "name": "甲羅の左下",
+      "reason": "番号付き原画で甲羅の左下として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 121.563
+    },
+    {
+      "sourceRegionId": "r25",
+      "point": [
+        1254,
+        1182
+      ],
+      "role": "paint",
+      "name": "甲羅の右下",
+      "reason": "番号付き原画で甲羅の右下として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 144.608
+    },
+    {
+      "sourceRegionId": "r26",
+      "point": [
+        227,
+        1209
+      ],
+      "role": "paint",
+      "name": "魚の尾びれ",
+      "reason": "番号付き原画で魚の尾びれとして識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 74.394
+    },
+    {
+      "sourceRegionId": "r27",
+      "point": [
+        291,
+        1233
+      ],
+      "role": "paint",
+      "name": "魚の左の模様",
+      "reason": "番号付き原画で魚の左の模様として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 42
+    },
+    {
+      "sourceRegionId": "r28",
+      "point": [
+        538,
+        1218
+      ],
+      "role": "paint",
+      "name": "魚の瞳",
+      "reason": "番号付き原画で魚の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 32,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r29",
+      "point": [
+        544,
+        1181
+      ],
+      "role": "paint",
+      "name": "魚の瞳のハイライト",
+      "reason": "番号付き原画で魚の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 28,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r30",
+      "point": [
+        786,
+        1187
+      ],
+      "role": "paint",
+      "name": "カメの左の脚",
+      "reason": "番号付き原画でカメの左の脚として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 95.2
+    },
+    {
+      "sourceRegionId": "r31",
+      "point": [
+        1346,
+        1146
+      ],
+      "role": "paint",
+      "name": "甲羅の右端",
+      "reason": "番号付き原画で甲羅の右端として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "甲羅の右端は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-ocean-friends-v2.json"
+      },
+      "measuredDiameter": 21.181
+    },
+    {
+      "sourceRegionId": "r32",
+      "point": [
+        1385,
+        1171
+      ],
+      "role": "paint",
+      "name": "カメのしっぽ",
+      "reason": "番号付き原画でカメのしっぽとして識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 37.95
+    },
+    {
+      "sourceRegionId": "r33",
+      "point": [
+        593,
+        1274
+      ],
+      "role": "paint",
+      "name": "魚の口",
+      "reason": "番号付き原画で魚の口として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "widthException": {
+        "reason": "魚の口は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-ocean-friends-v2.json"
+      },
+      "measuredDiameter": 20.375
+    },
+    {
+      "sourceRegionId": "r34",
+      "point": [
+        1118,
+        1275
+      ],
+      "role": "paint",
+      "name": "甲羅の下側",
+      "reason": "番号付き原画で甲羅の下側として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 43.544
+    },
+    {
+      "sourceRegionId": "r35",
+      "point": [
+        1341,
+        1310
+      ],
+      "role": "paint",
+      "name": "カメの右の脚",
+      "reason": "番号付き原画でカメの右の脚として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 98
+    },
+    {
+      "sourceRegionId": "r36",
+      "point": [
+        334,
+        1347
+      ],
+      "role": "paint",
+      "name": "魚の左の腹びれ",
+      "reason": "番号付き原画で魚の左の腹びれとして識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 24.769,
+      "widthException": {
+        "reason": "魚の左の腹びれは原画maskの幅24.769pxに対し、実寸の公開path再描画で23.8px。17〜24pxの個別操作例外として、4×での選択・着色・消去の実測に結び付ける。",
+        "secondaryUsableDiameter": 23.8,
+        "evidenceFile": "content/generated-lineart/interaction/gen-ocean-friends-v2.json"
+      }
+    },
+    {
+      "sourceRegionId": "r37",
+      "point": [
+        514,
+        1376
+      ],
+      "role": "paint",
+      "name": "魚の右の腹びれ",
+      "reason": "番号付き原画で魚の右の腹びれとして識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 38.769
+    },
+    {
+      "sourceRegionId": "r38",
+      "point": [
+        348,
+        1722
+      ],
+      "role": "paint",
+      "name": "左のサンゴ",
+      "reason": "番号付き原画で左のサンゴとして識別。原画の閉領域をそのまま使用。",
+      "material": "stone",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 95.482
+    },
+    {
+      "sourceRegionId": "r39",
+      "point": [
+        1000,
+        1707
+      ],
+      "role": "paint",
+      "name": "右のサンゴ",
+      "reason": "番号付き原画で右のサンゴとして識別。原画の閉領域をそのまま使用。",
+      "material": "stone",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 57.969
+    },
+    {
+      "sourceRegionId": "r40",
+      "point": [
+        1263,
+        1605
+      ],
+      "role": "paint",
+      "name": "ヒトデ",
+      "reason": "番号付き原画でヒトデとして識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 170.964
+    },
+    {
+      "sourceRegionId": "r41",
+      "point": [
+        675,
+        1554
+      ],
+      "role": "paint",
+      "name": "貝がら",
+      "reason": "番号付き原画で貝がらとして識別。原画の閉領域をそのまま使用。",
+      "material": "stone",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 60.726
+    }
+  ],
+  "gapReviews": [
+    {
+      "candidateKey": "gap-8ef0e7e64f83d0c952bf30e13d5925a2beea6db39c1bb98a8ce066c5254f45ca",
+      "kind": "split-open-detail",
+      "parentRegionId": "r41",
+      "parentRegionName": "貝がら",
+      "parentExteriorConnected": false,
+      "classification": "intentional-open-detail",
+      "part": "貝がら右側の放射状の筋の内側",
+      "reason": "r41「貝がら」の右側にある放射状の開いた筋の内側。3px closeでは貝がら内をつなぐ空間が残り、9px closeだけが分割する。貝がら全体の外周は閉じている。",
+      "originalSha256": "4af719f39cbeb41e124103b8df7f8f9ab8dff6eb946bb914eabbb8bb52eecdf7",
+      "point": [
+        823,
+        1646
+      ]
+    }
+  ],
+  "eyes": [
+    {
+      "name": "イルカ",
+      "pupilIds": [
+        "r04"
+      ],
+      "highlightId": "r05"
+    },
+    {
+      "name": "カメ左",
+      "pupilIds": [
+        "r10"
+      ],
+      "highlightId": "r11"
+    },
+    {
+      "name": "カメ右",
+      "pupilIds": [
+        "r12"
+      ],
+      "highlightId": "r13"
+    },
+    {
+      "name": "魚",
+      "pupilIds": [
+        "r28"
+      ],
+      "highlightId": "r29"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "kind": "human",
+  "reviewer": "ユーザー（Codex会話）",
+  "recordedAt": "2026-10-06T16:39:21.516Z",
+  "basis": "新しい10枚の線画一覧を確認し「この10枚を正式採用する」と回答",
+  "source": "ユーザーのCodex会話での明示回答。制作UIのcheckbox操作を代行した記録ではない。",
+  "templates": [
+    {
+      "id": "gen-bouquet-butterfly-v2",
+      "contentHash": "b8335ced1393e4313d2d19d6de27a468cfe20ecf3db2d803dc7a0cdbe4ffdb5b",
+      "originalFile": "content/generated-lineart/compiled/gen-bouquet-butterfly-v2/original.png",
+      "originalSha256": "2df6b16c36ac2f55f8734a74afdf88e29d83f8a5382b57faa31314ca473743da",
+      "geometrySha256": "7d7eb7235bff123f31d9400f6e296c88516773e196eedd79537d2e3bc3d2f4ef"
+    },
+    {
+      "id": "gen-dinosaur-eggs-v4",
+      "contentHash": "e6d81d2542975e2ba55b3f18735e78fb31e1ffbece336bc6ba15c3dd2feed4c8",
+      "originalFile": "content/generated-lineart/compiled/gen-dinosaur-eggs-v4/original.png",
+      "originalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+      "geometrySha256": "345138f5954d798f22fab450e60451397fb008ad649dc720e6a46d2708dda8dd"
+    },
+    {
+      "id": "gen-excavator-cones-v2",
+      "contentHash": "c391aa99f89552671ce9d06736ee64543d40a140e3ca72ada5810e7c5bf40de6",
+      "originalFile": "content/generated-lineart/compiled/gen-excavator-cones-v2/original.png",
+      "originalSha256": "2109d4f4aec8169302ba45bac1592ddf7b9d9240e33fdc91f5ad9b74eb7962a6",
+      "geometrySha256": "264188b01280731b8ede637156ef431638e523269584ee7bc618d257e4be6057"
+    },
+    {
+      "id": "gen-explorer-robot-v2",
+      "contentHash": "0ac5bcb6ed3cea465d237ee5e06479be0b166f86d77341a71ac4c301a668e2fa",
+      "originalFile": "content/generated-lineart/compiled/gen-explorer-robot-v2/original.png",
+      "originalSha256": "cfd8eb3aee0aa120fb390e17c2c78ecb01e25614e2bec805832cdb2c60148802",
+      "geometrySha256": "bef027829cfa3b6ac000ca313a73232085bfd74e3f926bb5f6644917ccc1df7e"
+    },
+    {
+      "id": "gen-ocean-friends-v2",
+      "contentHash": "76db9d806f2cdb42684951cd4780b132dabba9ec4ab6b131506fb2faaaaebc37",
+      "originalFile": "content/generated-lineart/compiled/gen-ocean-friends-v2/original.png",
+      "originalSha256": "4af719f39cbeb41e124103b8df7f8f9ab8dff6eb946bb914eabbb8bb52eecdf7",
+      "geometrySha256": "efa959569d12d90849dc8fc97afa876620465308979756a250e534dda39dbca4"
+    },
+    {
+      "id": "gen-princess-bunny-v6",
+      "contentHash": "b588b311fe0dbdb38ffba9fef8eb6029113d453d581523ecae1972c08ac2f99e",
+      "originalFile": "content/generated-lineart/compiled/gen-princess-bunny-v6/original.png",
+      "originalSha256": "f0fbc3b052f29645893b44c49bbbc2e179d4b071fb4a0fca48aaaa356df321f0",
+      "geometrySha256": "696ab1e15bad65e9492022f6e4d0a715c85a7ff9c34b1e495b3e1069c7883368"
+    },
+    {
+      "id": "gen-rocket-astronaut-v5",
+      "contentHash": "628b3c77375d0960e992f7d8b450e70a6903b6152fab5413ff51151ed7abfedb",
+      "originalFile": "content/generated-lineart/compiled/gen-rocket-astronaut-v5/original.png",
+      "originalSha256": "d559890d2600cf8d7e2eff6b06310547763dd861f2013c0feab78269c33170f9",
+      "geometrySha256": "399a82f8151bf699ef8b3ac667dd8c62c7da62f4bc4e6c40ba191e8fb6142dcb"
+    },
+    {
+      "id": "gen-round-sports-car-v2",
+      "contentHash": "793cc07ec89468055d51720b778a53994e48a3bb0fdf76338abb0b9c1efc3b32",
+      "originalFile": "content/generated-lineart/compiled/gen-round-sports-car-v2/original.png",
+      "originalSha256": "535c8f0d875dc757fef66f512930896adbc18342c4e33782f93e18175bd4beaf",
+      "geometrySha256": "1a35e774edcf47aa4b45e8abdac991b05deb5b3d204801e51052959c6fb46f60"
+    },
+    {
+      "id": "gen-tree-friends-v4",
+      "contentHash": "f28bb45e4e58d03e7f1ac465bab6b584c2017993677a9d0aa95396cf91247749",
+      "originalFile": "content/generated-lineart/compiled/gen-tree-friends-v4/original.png",
+      "originalSha256": "37736bbc37ce78f37849322dc5325e938e5f3403beca76e74e24765617a423a0",
+      "geometrySha256": "83d1c21442133778e7222cd2eacecb510a9c4b24f35ce9558063cfb5c6cbbd22"
+    },
+    {
+      "id": "gen-wizard-lantern-v6",
+      "contentHash": "f447b9b1c38c8eb280d61efbd10ded2a165c43a17f0e93a3a1773b5fb8fa56e3",
+      "originalFile": "content/generated-lineart/compiled/gen-wizard-lantern-v6/original.png",
+      "originalSha256": "08eb9d02b3017b130bce97820a3c76ff7247487db559273fdb18dc0d4f0015b0",
+      "geometrySha256": "f5f04721dcabde285efc422586c7cf95a469277876870efdf7c21a85921060c7"
+    }
+  ],
+  "independentQaSha256": "ed9e14ab3dca3b15062b65bacd02e1f89c4624abf077cfafc694f69e5f59297f"
+}

@@ -1,0 +1,42 @@
+{
+  "templateId": "gen-tree-friends-v4-storybook-v2",
+  "contentHash": "3e7e2f8978f73bfb225c258b196f9da60fe7e69448f8751983d45b06d5778269",
+  "sourceTemplateId": "gen-tree-friends-v4",
+  "sourceSha256": "37736bbc37ce78f37849322dc5325e938e5f3403beca76e74e24765617a423a0",
+  "sourcePoints": 22978,
+  "cubicSegments": 2419,
+  "curveError": 0.65,
+  "sharedBoundaries": {
+    "inkBoundaries": 43,
+    "matchedRegions": 21,
+    "matches": {
+      "r01": 42,
+      "r02": 36,
+      "r03": 39,
+      "r04": 38,
+      "r06": 41,
+      "r07": 34,
+      "r10": 26,
+      "r11": 25,
+      "r12": 24,
+      "r15": 23,
+      "r18": 29,
+      "r19": 12,
+      "r20": 22,
+      "r21": 28,
+      "r24": 11,
+      "r27": 10,
+      "r28": 17,
+      "r29": 9,
+      "r30": 8,
+      "r31": 7,
+      "r32": 6
+    }
+  },
+  "regionCount": 29,
+  "groupCount": 10,
+  "eyeCount": 4,
+  "retiredRegionIds": [],
+  "status": "candidate: native, browser, independent visual and performance verification pending",
+  "pass": false
+}

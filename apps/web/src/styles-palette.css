@@ -1,0 +1,57 @@
+/* I30: wood sits only beneath the color samples, separate from the islands. */
+.color-families { grid-template-columns: repeat(11, minmax(0, 1fr)); }
+.palette-lane { min-width: 0; }
+.palette-arrow { display: none; }
+.palette-lane-shades {
+  margin-top: 5px;
+  padding: 4px 5px;
+  border-radius: 16px;
+  background: #b58b60 var(--palette-wood) center / cover no-repeat;
+}
+.palette-lane .shades {
+  margin: 0;
+  padding: 5px 2px;
+  background: transparent;
+}
+@media (max-width: 767px) {
+  .palette-lane {
+    position: relative;
+  }
+  .palette-arrow {
+    position: absolute;
+    inset-block: 0;
+    z-index: 1;
+    display: grid;
+    place-items: center;
+    width: 44px;
+    min-height: 44px;
+    padding: 0;
+    border: 0;
+    border-radius: 10px;
+    background: transparent;
+    color: #102d37;
+    touch-action: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+  }
+  .palette-arrow[data-direction="left"] { left: 0; }
+  .palette-arrow[data-direction="right"] { right: 0; }
+  .palette-arrow:disabled { opacity: 0.25; }
+  .palette-arrow:active:not(:disabled) { background: #fff9e83d; }
+  .palette-lane .color-families,
+  .palette-lane .shades {
+    min-width: 0;
+    /* Scroll through the overlays; end padding keeps end choices reachable. */
+    padding-inline: 52px;
+    scroll-padding-inline: 52px;
+    overflow: hidden;
+    scrollbar-width: none;
+    touch-action: pan-y;
+    overscroll-behavior-inline: contain;
+    mask-image: linear-gradient(to right,
+      rgb(0 0 0 / 35%) 44px, #000 52px,
+      #000 calc(100% - 52px), rgb(0 0 0 / 35%) calc(100% - 44px));
+  }
+  .palette-lane .color-families::-webkit-scrollbar,
+  .palette-lane .shades::-webkit-scrollbar { display: none; }
+}

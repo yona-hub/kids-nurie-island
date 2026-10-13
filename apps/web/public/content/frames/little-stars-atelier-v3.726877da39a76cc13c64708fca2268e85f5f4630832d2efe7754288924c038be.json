@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/little-stars-atelier-v3-top.7b10d1c9860f784b816fb022d84619f198bb2652d56a49b485ed5d05a6b990e3.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/little-stars-atelier-v3-bottom.91c5c2afe2e6d4e142e30f0bb9a95e2f15ed82b98c83e35283588f69ce40585f.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/little-stars-atelier-v3-left.4acaaa59b20eb5909514fbea1237def7c507cae648080991c7257b095db179b5.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/little-stars-atelier-v3-right.120b2c41e03b2c1a7aed6f085d10abcab5ec62c7c0c5b542db466dd2cf8939ba.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

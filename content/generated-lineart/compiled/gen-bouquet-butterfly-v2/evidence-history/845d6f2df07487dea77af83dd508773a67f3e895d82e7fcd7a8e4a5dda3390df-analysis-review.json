@@ -1,0 +1,776 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-bouquet-butterfly-v2",
+  "originalSha256": "2df6b16c36ac2f55f8734a74afdf88e29d83f8a5382b57faa31314ca473743da",
+  "coordinateSpace": "normalized-1600x2000",
+  "reviewer": "Codex technical source review",
+  "reviewKind": "author-technical-annotation",
+  "humanApproved": false,
+  "checks": [
+    "all-subject-parts-closed",
+    "negative-space-excluded",
+    "pupils-and-highlights-white"
+  ],
+  "unresolvedLeaks": [],
+  "regions": [
+    {
+      "sourceRegionId": "r01",
+      "point": [
+        1317,
+        235
+      ],
+      "role": "paint",
+      "name": "蝶の右上の羽",
+      "reason": "番号付き原画で蝶の右上の羽として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 56.344
+    },
+    {
+      "sourceRegionId": "r02",
+      "point": [
+        1283,
+        325
+      ],
+      "role": "paint",
+      "name": "蝶の右上の羽の模様",
+      "reason": "番号付き原画で蝶の右上の羽の模様として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 71.507
+    },
+    {
+      "sourceRegionId": "r03",
+      "point": [
+        629,
+        369
+      ],
+      "role": "paint",
+      "name": "チューリップ左の花びら",
+      "reason": "番号付き原画でチューリップ左の花びらとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 78
+    },
+    {
+      "sourceRegionId": "r04",
+      "point": [
+        753,
+        460
+      ],
+      "role": "paint",
+      "name": "チューリップ中央の花びら",
+      "reason": "番号付き原画でチューリップ中央の花びらとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 194
+    },
+    {
+      "sourceRegionId": "r05",
+      "point": [
+        880,
+        368
+      ],
+      "role": "paint",
+      "name": "チューリップ右の花びら",
+      "reason": "番号付き原画でチューリップ右の花びらとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 76
+    },
+    {
+      "sourceRegionId": "r06",
+      "point": [
+        468,
+        485
+      ],
+      "role": "paint",
+      "name": "左上の葉",
+      "reason": "番号付き原画で左上の葉として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 115.969
+    },
+    {
+      "sourceRegionId": "r07",
+      "point": [
+        1017,
+        374
+      ],
+      "role": "paint",
+      "name": "蝶の左上の羽",
+      "reason": "番号付き原画で蝶の左上の羽として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 41.544
+    },
+    {
+      "sourceRegionId": "r08",
+      "point": [
+        1092,
+        413
+      ],
+      "role": "paint",
+      "name": "蝶の左上の羽の模様",
+      "reason": "番号付き原画で蝶の左上の羽の模様として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 65.907
+    },
+    {
+      "sourceRegionId": "r09",
+      "point": [
+        1179,
+        365
+      ],
+      "role": "paint",
+      "name": "蝶の体",
+      "reason": "番号付き原画で蝶の体として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 38.769
+    },
+    {
+      "sourceRegionId": "r10",
+      "point": [
+        1383,
+        515
+      ],
+      "role": "paint",
+      "name": "蝶の右下の羽",
+      "reason": "番号付き原画で蝶の右下の羽として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 42.344
+    },
+    {
+      "sourceRegionId": "r11",
+      "point": [
+        1317,
+        475
+      ],
+      "role": "paint",
+      "name": "蝶の右下の羽の模様",
+      "reason": "番号付き原画で蝶の右下の羽の模様として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 48.332
+    },
+    {
+      "sourceRegionId": "r12",
+      "point": [
+        909,
+        652
+      ],
+      "role": "paint",
+      "name": "中央右の葉",
+      "reason": "番号付き原画で中央右の葉として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 95.07
+    },
+    {
+      "sourceRegionId": "r13",
+      "point": [
+        1173,
+        600
+      ],
+      "role": "paint",
+      "name": "蝶の左下の羽",
+      "reason": "番号付き原画で蝶の左下の羽として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 30.363
+    },
+    {
+      "sourceRegionId": "r14",
+      "point": [
+        1175,
+        536
+      ],
+      "role": "paint",
+      "name": "蝶の左下の羽の模様",
+      "reason": "番号付き原画で蝶の左下の羽の模様として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 43.544
+    },
+    {
+      "sourceRegionId": "r15",
+      "point": [
+        505,
+        622
+      ],
+      "role": "paint",
+      "name": "左の花の上の花びら",
+      "reason": "番号付き原画で左の花の上の花びらとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 119.839
+    },
+    {
+      "sourceRegionId": "r16",
+      "point": [
+        356,
+        653
+      ],
+      "role": "paint",
+      "name": "左の花の左上の花びら",
+      "reason": "番号付き原画で左の花の左上の花びらとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 126
+    },
+    {
+      "sourceRegionId": "r17",
+      "point": [
+        773,
+        1045
+      ],
+      "role": "paint",
+      "name": "中央の太い茎",
+      "reason": "番号付き原画で中央の太い茎として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 94
+    },
+    {
+      "sourceRegionId": "r18",
+      "point": [
+        1045,
+        682
+      ],
+      "role": "paint",
+      "name": "右の花の上の花びら",
+      "reason": "番号付き原画で右の花の上の花びらとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 147.795
+    },
+    {
+      "sourceRegionId": "r19",
+      "point": [
+        627,
+        717
+      ],
+      "role": "paint",
+      "name": "左の花の右上の花びら",
+      "reason": "番号付き原画で左の花の右上の花びらとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 119.839
+    },
+    {
+      "sourceRegionId": "r20",
+      "point": [
+        1188,
+        752
+      ],
+      "role": "paint",
+      "name": "右の花の右上の花びら",
+      "reason": "番号付き原画で右の花の右上の花びらとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 148.995
+    },
+    {
+      "sourceRegionId": "r21",
+      "point": [
+        305,
+        796
+      ],
+      "role": "paint",
+      "name": "左の花の左の花びら",
+      "reason": "番号付き原画で左の花の左の花びらとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 124.233
+    },
+    {
+      "sourceRegionId": "r22",
+      "point": [
+        466,
+        770
+      ],
+      "role": "paint",
+      "name": "左の花の中心",
+      "reason": "番号付き原画で左の花の中心として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 118.239
+    },
+    {
+      "sourceRegionId": "r23",
+      "point": [
+        923,
+        788
+      ],
+      "role": "paint",
+      "name": "右の花の左の花びら",
+      "reason": "番号付き原画で右の花の左の花びらとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 155.783
+    },
+    {
+      "sourceRegionId": "r24",
+      "point": [
+        588,
+        861
+      ],
+      "role": "paint",
+      "name": "左の花の右下の花びら",
+      "reason": "番号付き原画で左の花の右下の花びらとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 122.639
+    },
+    {
+      "sourceRegionId": "r25",
+      "point": [
+        1063,
+        815
+      ],
+      "role": "paint",
+      "name": "右の花の中心",
+      "reason": "番号付き原画で右の花の中心として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 101.057
+    },
+    {
+      "sourceRegionId": "r26",
+      "point": [
+        423,
+        898
+      ],
+      "role": "paint",
+      "name": "左の花の下の花びら",
+      "reason": "番号付き原画で左の花の下の花びらとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 133.02
+    },
+    {
+      "sourceRegionId": "r27",
+      "point": [
+        998,
+        933
+      ],
+      "role": "paint",
+      "name": "右の花の左下の花びら",
+      "reason": "番号付き原画で右の花の左下の花びらとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 146.995
+    },
+    {
+      "sourceRegionId": "r28",
+      "point": [
+        1298,
+        890
+      ],
+      "role": "paint",
+      "name": "右下の葉",
+      "reason": "番号付き原画で右下の葉として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 89.876
+    },
+    {
+      "sourceRegionId": "r29",
+      "point": [
+        1168,
+        910
+      ],
+      "role": "paint",
+      "name": "右の花の右下の花びら",
+      "reason": "番号付き原画で右の花の右下の花びらとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 152
+    },
+    {
+      "sourceRegionId": "r30",
+      "point": [
+        304,
+        963
+      ],
+      "role": "paint",
+      "name": "左下の葉",
+      "reason": "番号付き原画で左下の葉として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 87.876
+    },
+    {
+      "sourceRegionId": "r31",
+      "point": [
+        572,
+        981
+      ],
+      "role": "paint",
+      "name": "左の花の茎",
+      "reason": "番号付き原画で左の花の茎として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 76.695
+    },
+    {
+      "sourceRegionId": "r32",
+      "point": [
+        933,
+        1034
+      ],
+      "role": "paint",
+      "name": "右の花の茎",
+      "reason": "番号付き原画で右の花の茎として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 68.707
+    },
+    {
+      "sourceRegionId": "r33",
+      "point": [
+        517,
+        1116
+      ],
+      "role": "paint",
+      "name": "花束の包み左",
+      "reason": "番号付き原画で花束の包み左として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 186.54
+    },
+    {
+      "sourceRegionId": "r34",
+      "point": [
+        1071,
+        1126
+      ],
+      "role": "paint",
+      "name": "花束の包み右",
+      "reason": "番号付き原画で花束の包み右として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 183.752
+    },
+    {
+      "sourceRegionId": "r35",
+      "point": [
+        592,
+        1283
+      ],
+      "role": "paint",
+      "name": "リボン左",
+      "reason": "番号付き原画でリボン左として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 138.208
+    },
+    {
+      "sourceRegionId": "r36",
+      "point": [
+        1022,
+        1297
+      ],
+      "role": "paint",
+      "name": "リボン右",
+      "reason": "番号付き原画でリボン右として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 132
+    },
+    {
+      "sourceRegionId": "r37",
+      "point": [
+        805,
+        1360
+      ],
+      "role": "paint",
+      "name": "リボンの結び目",
+      "reason": "番号付き原画でリボンの結び目として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 90
+    },
+    {
+      "sourceRegionId": "r38",
+      "point": [
+        586,
+        1599
+      ],
+      "role": "paint",
+      "name": "リボンの左の垂れ",
+      "reason": "番号付き原画でリボンの左の垂れとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 135.994
+    },
+    {
+      "sourceRegionId": "r39",
+      "point": [
+        635,
+        1422
+      ],
+      "role": "paint",
+      "name": "リボン左の折り返し",
+      "reason": "番号付き原画でリボン左の折り返しとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 40.75
+    },
+    {
+      "sourceRegionId": "r40",
+      "point": [
+        1011,
+        1607
+      ],
+      "role": "paint",
+      "name": "リボンの右の垂れ",
+      "reason": "番号付き原画でリボンの右の垂れとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 133.194
+    },
+    {
+      "sourceRegionId": "r41",
+      "point": [
+        967,
+        1430
+      ],
+      "role": "paint",
+      "name": "リボン右の折り返し",
+      "reason": "番号付き原画でリボン右の折り返しとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 43.544
+    },
+    {
+      "sourceRegionId": "r42",
+      "point": [
+        775,
+        1720
+      ],
+      "role": "paint",
+      "name": "花束の包み中央",
+      "reason": "番号付き原画で花束の包み中央として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 146.394
+    },
+    {
+      "sourceRegionId": "r43",
+      "point": [
+        896,
+        1708
+      ],
+      "role": "paint",
+      "name": "花束の包み右下",
+      "reason": "番号付き原画で花束の包み右下として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 80.695
+    },
+    {
+      "sourceRegionId": "r44",
+      "point": [
+        663,
+        1708
+      ],
+      "role": "paint",
+      "name": "花束の包み左下",
+      "reason": "番号付き原画で花束の包み左下として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 63.969
+    }
+  ],
+  "gapReviews": [
+    {
+      "point": [
+        824,
+        639
+      ],
+      "classification": "background",
+      "reason": "チューリップの右の花びらと茎と葉の間の外背景。9px closeで外への入口だけが塞がる。花びらそのものは閉じている"
+    }
+  ],
+  "eyes": []
+}

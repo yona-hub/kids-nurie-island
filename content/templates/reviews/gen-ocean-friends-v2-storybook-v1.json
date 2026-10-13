@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-ocean-friends-v2-storybook-v1",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-07T17:12:11.060Z",
+    "contentHash": "e7e7a92f81db9a6bf1d076e2b9a90e06d9f9c039b1192cc3c842e4919495a03c",
+    "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+  }
+}

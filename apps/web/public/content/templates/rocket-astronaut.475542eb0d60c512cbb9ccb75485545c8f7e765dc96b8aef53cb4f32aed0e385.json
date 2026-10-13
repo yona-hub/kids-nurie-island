@@ -1,0 +1,523 @@
+{
+  "schemaVersion": 1,
+  "id": "rocket-astronaut",
+  "themeId": "space",
+  "title": "ロケットで しゅっぱつ",
+  "width": 1600,
+  "height": 2000,
+  "defaultColorFamily": "blue",
+  "approved": true,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "ロケットの左つばさ",
+      "path": "M 455 1101 Q 300 1138 252 1477 L 404 1409 L 516 1212 Z",
+      "bounds": {
+        "x": 252,
+        "y": 1101,
+        "width": 264,
+        "height": 376
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 24357756
+    },
+    {
+      "id": "r02",
+      "name": "ロケットの右つばさ",
+      "path": "M 686 1101 Q 842 1138 889 1477 L 737 1409 L 626 1212 Z",
+      "bounds": {
+        "x": 626,
+        "y": 1101,
+        "width": 263,
+        "height": 376
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 74690613
+    },
+    {
+      "id": "r03",
+      "name": "炎・外",
+      "path": "M 425 1390 L 718 1390 Q 778 1609 677 1758 L 600 1653 L 556 1809 Q 419 1683 425 1390 Z",
+      "bounds": {
+        "x": 424,
+        "y": 1390,
+        "width": 317,
+        "height": 419
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 57912994
+    },
+    {
+      "id": "r04",
+      "name": "炎・中",
+      "path": "M 479 1407 L 655 1407 Q 688 1561 613 1645 L 570 1592 L 538 1684 Q 465 1566 479 1407 Z",
+      "bounds": {
+        "x": 476,
+        "y": 1407,
+        "width": 190,
+        "height": 277
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4268992195
+    },
+    {
+      "id": "r05",
+      "name": "炎・芯",
+      "path": "M 530 1424 L 603 1424 Q 623 1519 575 1562 Q 518 1511 530 1424 Z",
+      "bounds": {
+        "x": 527,
+        "y": 1424,
+        "width": 82,
+        "height": 138
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4252214576
+    },
+    {
+      "id": "r06",
+      "name": "ロケットの胴体",
+      "path": "M 396 728 Q 397 448 572 274 Q 748 448 750 728 L 750 1305 Q 572 1407 393 1305 Z",
+      "bounds": {
+        "x": 393,
+        "y": 274,
+        "width": 357,
+        "height": 1082
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 7580137
+    },
+    {
+      "id": "r07",
+      "name": "ロケットの先端",
+      "path": "M 399 652 Q 426 412 572 274 Q 718 411 746 652 Q 572 695 399 652 Z",
+      "bounds": {
+        "x": 399,
+        "y": 274,
+        "width": 347,
+        "height": 400
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4285769814
+    },
+    {
+      "id": "r08",
+      "name": "ロケットの帯",
+      "path": "M 394 1196 Q 572 1254 750 1196 L 750 1294 Q 572 1362 394 1294 Z",
+      "bounds": {
+        "x": 394,
+        "y": 1196,
+        "width": 356,
+        "height": 132
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 175356327
+    },
+    {
+      "id": "r09",
+      "name": "ロケットの下部",
+      "path": "M 417 1332 Q 572 1381 726 1332 L 706 1407 L 438 1407 Z",
+      "bounds": {
+        "x": 417,
+        "y": 1332,
+        "width": 309,
+        "height": 75
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 158578708
+    },
+    {
+      "id": "r10",
+      "name": "丸窓のわく",
+      "path": "M 434 862 C 434 783.0211 496.2303 719 573 719 C 649.7697000000001 719 712 783.0211 712 862 C 712 940.9789 649.7697000000001 1005 573 1005 C 496.2303 1005 434 940.9789 434 862 Z",
+      "bounds": {
+        "x": 434,
+        "y": 719,
+        "width": 278,
+        "height": 286
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4235289862
+    },
+    {
+      "id": "r11",
+      "name": "丸窓のガラス",
+      "path": "M 479 862 C 479 807.8746 521.0838 764 573 764 C 624.9162 764 667 807.8746 667 862 C 667 916.1254 624.9162 960 573 960 C 521.0838 960 479 916.1254 479 862 Z",
+      "bounds": {
+        "x": 479,
+        "y": 764,
+        "width": 188,
+        "height": 196
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4252067481
+    },
+    {
+      "id": "r12",
+      "name": "宇宙服のバックパック",
+      "path": "M 1082 997 H 1249 Q 1314 997 1314 1062 V 1302 Q 1314 1367 1249 1367 H 1082 Q 1017 1367 1017 1302 V 1062 Q 1017 997 1082 997 Z",
+      "bounds": {
+        "x": 1017,
+        "y": 997,
+        "width": 297,
+        "height": 370
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4201734624
+    },
+    {
+      "id": "r13",
+      "name": "左の足",
+      "path": "M 1038 1303 L 1142 1315 L 1118 1565 L 1003 1552 Z",
+      "bounds": {
+        "x": 1003,
+        "y": 1303,
+        "width": 139,
+        "height": 262
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4218512243
+    },
+    {
+      "id": "r14",
+      "name": "右の足",
+      "path": "M 1171 1311 L 1271 1292 L 1323 1538 L 1206 1568 Z",
+      "bounds": {
+        "x": 1171,
+        "y": 1292,
+        "width": 152,
+        "height": 276
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 7433042
+    },
+    {
+      "id": "r15",
+      "name": "左ブーツ",
+      "path": "M 996 1523 L 1128 1534 L 1131 1620 Q 1036 1691 944 1637 Q 935 1595 996 1578 Z",
+      "bounds": {
+        "x": 942,
+        "y": 1523,
+        "width": 189,
+        "height": 138
+      },
+      "material": "rubber",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 24210661
+    },
+    {
+      "id": "r16",
+      "name": "右ブーツ",
+      "path": "M 1200 1539 L 1323 1512 L 1347 1557 Q 1414 1580 1390 1621 Q 1309 1668 1210 1624 Z",
+      "bounds": {
+        "x": 1200,
+        "y": 1512,
+        "width": 197,
+        "height": 134
+      },
+      "material": "rubber",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4268845100
+    },
+    {
+      "id": "r17",
+      "name": "左うで",
+      "path": "M 1040 1060 Q 987 1102 940 1100 L 890 1008 Q 882 965 845 978 Q 810 1000 828 1046 L 890 1189 Q 933 1230 1048 1171 Z",
+      "bounds": {
+        "x": 821,
+        "y": 974,
+        "width": 227,
+        "height": 232
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 4285622719
+    },
+    {
+      "id": "r18",
+      "name": "右うで",
+      "path": "M 1244 1060 Q 1294 1028 1316 1068 L 1392 1247 L 1308 1287 L 1202 1159 Z",
+      "bounds": {
+        "x": 1202,
+        "y": 1045,
+        "width": 190,
+        "height": 242
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 74543518
+    },
+    {
+      "id": "r19",
+      "name": "左グローブ",
+      "path": "M 830 1015 Q 786 1000 787 960 L 796 910 Q 813 884 835 905 L 841 939 L 866 928 Q 899 933 891 963 L 884 1008 Z",
+      "bounds": {
+        "x": 786,
+        "y": 895,
+        "width": 107,
+        "height": 120
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 91321137
+    },
+    {
+      "id": "r20",
+      "name": "右グローブ",
+      "path": "M 1305 1271 Q 1320 1350 1356 1360 Q 1418 1348 1412 1307 L 1390 1236 Z",
+      "bounds": {
+        "x": 1305,
+        "y": 1236,
+        "width": 108,
+        "height": 124
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2523825629
+    },
+    {
+      "id": "r21",
+      "name": "宇宙服",
+      "path": "M 1069 1010 Q 1155 985 1237 1018 L 1292 1283 Q 1258 1401 1030 1340 L 1018 1161 Z",
+      "bounds": {
+        "x": 1018,
+        "y": 999,
+        "width": 274,
+        "height": 362
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2507048010
+    },
+    {
+      "id": "r22",
+      "name": "ヘルメット",
+      "path": "M 992 827 C 1003 655 1269 650 1330 798 Q 1386 983 1260 1059 Q 1053 1099 992 937 Z",
+      "bounds": {
+        "x": 992,
+        "y": 692,
+        "width": 356,
+        "height": 375
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2490270391
+    },
+    {
+      "id": "r23",
+      "name": "ヘルメットのガラス",
+      "path": "M 1044 828 C 1058 716 1240 712 1287 817 Q 1324 942 1236 996 Q 1079 1020 1044 917 Z",
+      "bounds": {
+        "x": 1044,
+        "y": 741,
+        "width": 254,
+        "height": 260
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2473492772
+    },
+    {
+      "id": "r24",
+      "name": "胸のパネル",
+      "path": "M 1110 1122 H 1193 Q 1217 1122 1217 1146 V 1212 Q 1217 1236 1193 1236 H 1110 Q 1086 1236 1086 1212 V 1146 Q 1086 1122 1110 1122 Z",
+      "bounds": {
+        "x": 1086,
+        "y": 1122,
+        "width": 131,
+        "height": 114
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2456715153
+    },
+    {
+      "id": "r25",
+      "name": "腕のワッペン",
+      "path": "M 1277 1144 C 1277 1122.4603 1289.5356 1105 1305 1105 C 1320.4644 1105 1333 1122.4603 1333 1144 C 1333 1165.5397 1320.4644 1183 1305 1183 C 1289.5356 1183 1277 1165.5397 1277 1144 Z",
+      "bounds": {
+        "x": 1277,
+        "y": 1105,
+        "width": 56,
+        "height": 78
+      },
+      "material": "fabric",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2439937534
+    },
+    {
+      "id": "r26",
+      "name": "惑星",
+      "path": "M 1061 418 C 1061 349.5148 1116.5148 294 1185 294 C 1253.4852 294 1309 349.5148 1309 418 C 1309 486.4852 1253.4852 542 1185 542 C 1116.5148 542 1061 486.4852 1061 418 Z",
+      "bounds": {
+        "x": 1061,
+        "y": 294,
+        "width": 248,
+        "height": 248
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2423159915
+    },
+    {
+      "id": "r27",
+      "name": "惑星のわ",
+      "path": "M 1002 488 Q 1098 543 1340 366 Q 1435 312 1400 381 Q 1317 502 1074 543 Q 1000 549 1002 488 Z",
+      "bounds": {
+        "x": 1001,
+        "y": 342,
+        "width": 409,
+        "height": 202
+      },
+      "material": "stone",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2406382296
+    },
+    {
+      "id": "r28",
+      "name": "遠くの星",
+      "path": "M 825 245 L 840.6821105311632 281.4154265900764 L 880.1612779451189 285.07701432625305 L 850.3741878547547 311.2445734099236 L 859.0915446329634 349.92298567374695 L 825 329.68 L 790.9084553670366 349.92298567374695 L 799.6258121452453 311.2445734099236 L 769.8387220548811 285.07701432625305 L 809.3178894688368 281.4154265900764 Z",
+      "bounds": {
+        "x": 769,
+        "y": 245,
+        "width": 112,
+        "height": 105
+      },
+      "material": "standard",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2389604677
+    }
+  ],
+  "details": [
+    {
+      "path": "M 1092 799 Q 1134 759 1183 771 M 483 847 Q 485 803 527 785 M 1115 1166 L 1187 1166 M 1115 1195 L 1154 1195 M 1097 1281 L 1228 1281 M 476 706 L 500 712 M 646 712 L 670 706",
+      "strokeWidth": 8
+    }
+  ],
+  "lineWidth": 12
+}

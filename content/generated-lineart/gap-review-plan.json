@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 2,
+  "coordinateSpace": "normalized-1600x2000",
+  "reviewer": "Codex technical source review",
+  "basis": "2026-10-07 A06-03: 全10原画の12候補を原画crop・3px/9px closeの親領域・外周接続へ再照合。正式採用・素材・形状を変更しない技術注釈訂正。",
+  "templates": {
+    "gen-princess-bunny-v6": {
+      "originalSha256": "f0fbc3b052f29645893b44c49bbbc2e179d4b071fb4a0fca48aaaa356df321f0",
+      "candidates": {
+        "732,721": {
+          "candidateKey": "gap-013e737f0ffa6d143c2b5283ff9b02fdca73e5a2c1d20aa611bcbb0b4f2f2176",
+          "kind": "split-open-detail",
+          "parentRegionId": "r17",
+          "parentRegionName": "右外側の長い髪",
+          "parentExteriorConnected": false,
+          "classification": "intentional-open-detail",
+          "part": "首の右脇にある右外側の長い髪の細い接続部",
+          "reason": "首の右脇の白い部分はr17「右外側の長い髪」の一部。3px closeの解析では同じ髪の領域へつながり、外背景へは接続しない。9px closeだけが524px²を切り離す候補であり、まぶたではない。"
+        },
+        "1216,1254": {
+          "candidateKey": "gap-76d8ee1429d228c3cce1103b0a26871faaa437ce259b202aae39634a69f2c904",
+          "kind": "new-from-background",
+          "parentRegionId": null,
+          "parentRegionName": "外背景",
+          "parentExteriorConnected": true,
+          "classification": "background",
+          "part": "うさぎ耳の付け根の外背景",
+          "reason": "うさぎの両耳が顔に接する付け根側の外背景。3px closeではキャンバス外周へつながり、9px closeだけが347px²の出口を塞ぐ。耳や顔の内部ではなく、まぶたでもない。"
+        }
+      }
+    },
+    "gen-bouquet-butterfly-v2": {
+      "originalSha256": "2df6b16c36ac2f55f8734a74afdf88e29d83f8a5382b57faa31314ca473743da",
+      "candidates": {
+        "824,639": {
+          "candidateKey": "gap-2a7e4b4e17ade31e2b886735373c12f2a25815ffe04c256be4683bedd095fa53",
+          "kind": "new-from-background",
+          "parentRegionId": null,
+          "parentRegionName": "外背景",
+          "parentExteriorConnected": true,
+          "classification": "background",
+          "part": "チューリップ右側の花びら・茎・葉の間の外背景",
+          "reason": "チューリップの右の花びらと茎と葉の間の外背景。3px closeでは外周に接続し、9px closeでこの空間の出口だけが塞がる。花びらそのものは閉じている。"
+        }
+      }
+    },
+    "gen-dinosaur-eggs-v4": {
+      "originalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+      "candidates": {
+        "535,366": {
+          "candidateKey": "gap-fa522bd298f554eb27a69deae74ac74bfbb99981dc4fb851ddb74d24d91d7a04",
+          "kind": "split-open-detail",
+          "parentRegionId": "r02",
+          "parentRegionName": "左の瞳",
+          "parentExteriorConnected": false,
+          "classification": "intentional-open-detail",
+          "part": "左の瞳のハイライト上側を回り込む空間",
+          "reason": "r02「左の瞳」でハイライトの上側を回り込む同じ瞳内の空間。3px closeでは瞳内へ連続し、外背景に接続しない。9px closeがハイライト上の細い接続を塞ぐ。"
+        },
+        "644,1518": {
+          "candidateKey": "gap-4698fee03b05957f029d8be5270c9e22400e966ca935ecec5b21eb4b8c1f3d7c",
+          "kind": "split-open-detail",
+          "parentRegionId": "r15",
+          "parentRegionName": "奥の脚",
+          "parentExteriorConnected": false,
+          "classification": "intentional-open-detail",
+          "part": "奥の脚の爪の上のしわ",
+          "reason": "r15「奥の脚」の爪の上にある開いたしわの内側。3px closeでは同じ脚に接続し、9px closeだけで分割される。外背景への漏れではない。"
+        }
+      }
+    },
+    "gen-excavator-cones-v2": {
+      "originalSha256": "2109d4f4aec8169302ba45bac1592ddf7b9d9240e33fdc91f5ad9b74eb7962a6",
+      "candidates": {
+        "1063,859": {
+          "candidateKey": "gap-85688fdaf5f64c11704d7206a0825d96903209f820c5e69583151ddfcc094f80",
+          "kind": "split-open-detail",
+          "parentRegionId": "r21",
+          "parentRegionName": "ドアの枠",
+          "parentExteriorConnected": false,
+          "classification": "intentional-open-detail",
+          "part": "ドア枠の右側の細い接続部",
+          "reason": "r21「ドアの枠」の右側の細い接続部。3px closeでは同じ枠の内側へつながり、9px closeだけが分割する。外背景へは接続しない。"
+        },
+        "1437,1314": {
+          "candidateKey": "gap-29fe4eab5ccf92ce0d3a92663ae847427d5d34ca3df2cb0810975bda96693cff",
+          "kind": "split-open-detail",
+          "parentRegionId": "r37",
+          "parentRegionName": "手前のキャタピラ",
+          "parentExteriorConnected": false,
+          "classification": "intentional-open-detail",
+          "part": "手前キャタピラの右端の内周",
+          "reason": "r37「手前のキャタピラ」の右端にある内周沿いの細い接続部。3px closeではキャタピラの同じ領域につながり、9px closeだけが分割する。走行部の外背景へは接続しない。"
+        }
+      }
+    },
+    "gen-ocean-friends-v2": {
+      "originalSha256": "4af719f39cbeb41e124103b8df7f8f9ab8dff6eb946bb914eabbb8bb52eecdf7",
+      "candidates": {
+        "823,1646": {
+          "candidateKey": "gap-8ef0e7e64f83d0c952bf30e13d5925a2beea6db39c1bb98a8ce066c5254f45ca",
+          "kind": "split-open-detail",
+          "parentRegionId": "r41",
+          "parentRegionName": "貝がら",
+          "parentExteriorConnected": false,
+          "classification": "intentional-open-detail",
+          "part": "貝がら右側の放射状の筋の内側",
+          "reason": "r41「貝がら」の右側にある放射状の開いた筋の内側。3px closeでは貝がら内をつなぐ空間が残り、9px closeだけが分割する。貝がら全体の外周は閉じている。"
+        }
+      }
+    },
+    "gen-rocket-astronaut-v5": {
+      "originalSha256": "d559890d2600cf8d7e2eff6b06310547763dd861f2013c0feab78269c33170f9",
+      "candidates": {
+        "943,1355": {
+          "candidateKey": "gap-f24d141ef4fec3a3fceae0bd4ad2cf7391c0a249dd797bb86c8572e01d0f3257",
+          "kind": "new-from-background",
+          "parentRegionId": null,
+          "parentRegionName": "外背景",
+          "parentExteriorConnected": true,
+          "classification": "background",
+          "part": "左腕と胴体の間の外背景",
+          "reason": "宇宙飛行士の左腕と胴体の間の外背景。3px closeでは外周へつながり、9px closeだけがこの細い空間の出口を塞ぐ。宇宙服の内部ではない。"
+        }
+      }
+    },
+    "gen-round-sports-car-v2": {
+      "originalSha256": "535c8f0d875dc757fef66f512930896adbc18342c4e33782f93e18175bd4beaf",
+      "candidates": {
+        "494,585": {
+          "candidateKey": "gap-454250b7288c02948d3ef6a0b52dd18ca57ae495d0d40e89c01344d4a4fc33f6",
+          "kind": "split-open-detail",
+          "parentRegionId": "r01",
+          "parentRegionName": "車体左のストライプと左屋根",
+          "parentExteriorConnected": false,
+          "classification": "intentional-open-detail",
+          "part": "左屋根とストライプ上部",
+          "reason": "r01「車体左のストライプと左屋根」の左屋根側。3px closeではストライプへ続く同じパネルで、9px closeのみが細い接続を分割する。外背景にはつながらない。"
+        },
+        "271,735": {
+          "candidateKey": "gap-e31de00f60f12dd23dc8816ef6f3bb57111fd4aedd2445a9b970868586d23f75",
+          "kind": "split-open-detail",
+          "parentRegionId": "r01",
+          "parentRegionName": "車体左のストライプと左屋根",
+          "parentExteriorConnected": false,
+          "classification": "intentional-open-detail",
+          "part": "左ストライプにつながる左後部の車体パネル",
+          "reason": "左後部のパネルはr01「車体左のストライプと左屋根」の一部。3px closeでは左ストライプへつながり、9px closeのみが切り離す。隣接するr07の領域や外背景ではない。"
+        },
+        "1330,907": {
+          "candidateKey": "gap-323388f1f7cb042f34b802dc17a02d2ce6eb3336724a6365af1f073d731ab538",
+          "kind": "split-open-detail",
+          "parentRegionId": "r10",
+          "parentRegionName": "車体と前のフェンダー",
+          "parentExteriorConnected": false,
+          "classification": "intentional-open-detail",
+          "part": "右前フェンダーの張り出し",
+          "reason": "r10「車体と前のフェンダー」の右側の張り出し。3px closeでは本体パネルに接続し、9px closeが細い接続を分割する。外背景への漏れではない。"
+        }
+      }
+    },
+    "gen-tree-friends-v4": {
+      "originalSha256": "37736bbc37ce78f37849322dc5325e938e5f3403beca76e74e24765617a423a0",
+      "candidates": {}
+    },
+    "gen-wizard-lantern-v6": {
+      "originalSha256": "08eb9d02b3017b130bce97820a3c76ff7247487db559273fdb18dc0d4f0015b0",
+      "candidates": {}
+    },
+    "gen-explorer-robot-v2": {
+      "originalSha256": "cfd8eb3aee0aa120fb390e17c2c78ecb01e25614e2bec805832cdb2c60148802",
+      "candidates": {}
+    }
+  }
+}

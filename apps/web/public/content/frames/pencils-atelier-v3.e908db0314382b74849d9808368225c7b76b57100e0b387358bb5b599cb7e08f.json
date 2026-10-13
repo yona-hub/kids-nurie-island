@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/pencils-atelier-v3-top.b714e781289d024cc0a589aaae94fca0fcad7e86a69926855d13a8c19b33cc68.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/pencils-atelier-v3-bottom.46c46b53a17f33e038f9ca98d775ac260c3ab1b58f3880251167ec9cd39ae543.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/pencils-atelier-v3-left.636932854dc07a0170ad332d733388af7ddfd530e66c65b11c0bab9cd5562ef4.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/pencils-atelier-v3-right.5bc2d3e1f3aa03fb25397f90b397cfe37a5ba61a25e50bc1c93c0f9b4351c663.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "borderColor": "#cfe4e7",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/gear.862f31824a39e9e8b39d8732ee96e05db2253adfc5c9c086950836d9f622270e.png",
+      "x": 28,
+      "y": 12,
+      "width": 105,
+      "height": 103.564453125,
+      "rotation": 5,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/circuit.862518d60bb1cbd1cba4a15a6c006252456e2ce0ad238cde53d349b0d4e02ce9.png",
+      "x": 28,
+      "y": 1865,
+      "width": 105,
+      "height": 107.30538922155688,
+      "rotation": -8,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/circuit.862518d60bb1cbd1cba4a15a6c006252456e2ce0ad238cde53d349b0d4e02ce9.png",
+      "x": 330,
+      "y": 24,
+      "width": 120,
+      "height": 122.63473053892216,
+      "rotation": -5,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/gear.862f31824a39e9e8b39d8732ee96e05db2253adfc5c9c086950836d9f622270e.png",
+      "x": 330,
+      "y": 1883,
+      "width": 120,
+      "height": 118.359375,
+      "rotation": 8,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/gear.862f31824a39e9e8b39d8732ee96e05db2253adfc5c9c086950836d9f622270e.png",
+      "x": 612,
+      "y": 12,
+      "width": 135,
+      "height": 133.154296875,
+      "rotation": 5,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/circuit.862518d60bb1cbd1cba4a15a6c006252456e2ce0ad238cde53d349b0d4e02ce9.png",
+      "x": 612,
+      "y": 1865,
+      "width": 135,
+      "height": 137.96407185628743,
+      "rotation": -8,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/circuit.862518d60bb1cbd1cba4a15a6c006252456e2ce0ad238cde53d349b0d4e02ce9.png",
+      "x": 914,
+      "y": 24,
+      "width": 105,
+      "height": 107.30538922155688,
+      "rotation": -5,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/gear.862f31824a39e9e8b39d8732ee96e05db2253adfc5c9c086950836d9f622270e.png",
+      "x": 914,
+      "y": 1883,
+      "width": 105,
+      "height": 103.564453125,
+      "rotation": 8,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/gear.862f31824a39e9e8b39d8732ee96e05db2253adfc5c9c086950836d9f622270e.png",
+      "x": 1196,
+      "y": 12,
+      "width": 120,
+      "height": 118.359375,
+      "rotation": 5,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/circuit.862518d60bb1cbd1cba4a15a6c006252456e2ce0ad238cde53d349b0d4e02ce9.png",
+      "x": 1196,
+      "y": 1865,
+      "width": 120,
+      "height": 122.63473053892216,
+      "rotation": -8,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/circuit.862518d60bb1cbd1cba4a15a6c006252456e2ce0ad238cde53d349b0d4e02ce9.png",
+      "x": 1498,
+      "y": 24,
+      "width": 135,
+      "height": 137.96407185628743,
+      "rotation": -5,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/gear.862f31824a39e9e8b39d8732ee96e05db2253adfc5c9c086950836d9f622270e.png",
+      "x": 1498,
+      "y": 1883,
+      "width": 135,
+      "height": 133.154296875,
+      "rotation": 8,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/gear.862f31824a39e9e8b39d8732ee96e05db2253adfc5c9c086950836d9f622270e.png",
+      "x": -22,
+      "y": 365,
+      "width": 95,
+      "height": 93.701171875,
+      "rotation": -13,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/gear.862f31824a39e9e8b39d8732ee96e05db2253adfc5c9c086950836d9f622270e.png",
+      "x": 1530,
+      "y": 460,
+      "width": 95,
+      "height": 93.701171875,
+      "rotation": 12,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/circuit.862518d60bb1cbd1cba4a15a6c006252456e2ce0ad238cde53d349b0d4e02ce9.png",
+      "x": -22,
+      "y": 725,
+      "width": 95,
+      "height": 97.08582834331337,
+      "rotation": -13,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/circuit.862518d60bb1cbd1cba4a15a6c006252456e2ce0ad238cde53d349b0d4e02ce9.png",
+      "x": 1530,
+      "y": 820,
+      "width": 95,
+      "height": 97.08582834331337,
+      "rotation": 12,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/gear.862f31824a39e9e8b39d8732ee96e05db2253adfc5c9c086950836d9f622270e.png",
+      "x": -22,
+      "y": 1085,
+      "width": 95,
+      "height": 93.701171875,
+      "rotation": -13,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/gear.862f31824a39e9e8b39d8732ee96e05db2253adfc5c9c086950836d9f622270e.png",
+      "x": 1530,
+      "y": 1180,
+      "width": 95,
+      "height": 93.701171875,
+      "rotation": 12,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/circuit.862518d60bb1cbd1cba4a15a6c006252456e2ce0ad238cde53d349b0d4e02ce9.png",
+      "x": -22,
+      "y": 1445,
+      "width": 95,
+      "height": 97.08582834331337,
+      "rotation": -13,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/circuit.862518d60bb1cbd1cba4a15a6c006252456e2ce0ad238cde53d349b0d4e02ce9.png",
+      "x": 1530,
+      "y": 1540,
+      "width": 95,
+      "height": 97.08582834331337,
+      "rotation": 12,
+      "opacity": 0.78
+    }
+  ]
+}

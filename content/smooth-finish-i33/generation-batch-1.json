@@ -1,0 +1,32 @@
+{
+  "instruction": "I33",
+  "tool": "built-in image_gen.imagegen",
+  "privateMaster": true,
+  "paidApiFallback": false,
+  "requests": [
+    {
+      "theme": "flowers",
+      "prompt": "Use case: sketch-to-render. Asset type: private production master for a children's coloring app. Input image 1 is the exact edit target and coordinate/layout guide. Input image 2 is a quality/style reference ONLY. Turn image 1 into a richly finished, softly rendered storybook illustration at the craft quality of image 2. Keep the same canvas aspect ratio 4:5, white margins, exact position, scale, silhouette, pose, number of objects and boundaries of every colored part. Do not recenter, crop or zoom. Replace heavy black outlines with delicate color-matched edges and natural occlusion. Model rounded forms, contact shadows, coherent soft upper-left light and restrained highlights. Keep each part's base color from image 1; no new parts, scenery, labels, decoration, drop shadow outside the subject or watermark. This master will be separated into colorless lighting and recolored at runtime, so spatial registration is critical. Give the tulip translucent layered petal shading and fine striations, two daisies softly curved petals and granular golden centers, sculpted leaves with fine veins, gently creased pale blue wrapping paper, a lustrous pink satin bow with overlapping folds, delicate butterfly wing scales and soft purple/gold gradients. Preserve all petals and wing patterns in their exact existing positions.",
+      "references": [
+        "C:/Users/yonaf/develop/app/キッズ塗り絵アイランド/test-results/smooth-home-i33/revision-1/before/flowers-source.png",
+        "C:/Users/yonaf/AppData/Local/Temp/codex-clipboard-e81e9ec9-70a5-4c71-a615-ca8dd926a460.png"
+      ]
+    },
+    {
+      "theme": "dinosaurs",
+      "prompt": "Use case: sketch-to-render. Asset type: private production master for a children's coloring app. Input image 1 is the exact edit target and coordinate/layout guide. Input image 2 is a quality/style reference ONLY. Turn image 1 into a richly finished, softly rendered storybook illustration at the craft quality of image 2. Keep the same canvas aspect ratio 4:5, white margins, exact position, scale, silhouette, pose, number of objects and boundaries of every colored part. Do not recenter, crop or zoom. Replace heavy black outlines with delicate color-matched edges and natural occlusion. Model rounded forms, contact shadows, coherent soft upper-left light and restrained highlights. Keep each part's base color from image 1; no new parts, scenery, labels, decoration, drop shadow outside the subject or watermark. This master will be separated into colorless lighting and recolored at runtime, so spatial registration is critical. Give the friendly green dinosaur softly rounded cheeks, muzzle, belly and limbs with subtle small scales and a smooth cream belly; cream eggs have rounded shell light and tiny natural speckles, rocks have softly faceted mineral texture. Keep the existing face and teeth, glossy round natural eyes, absolutely no eyelashes. Preserve all object boundaries.",
+      "references": [
+        "C:/Users/yonaf/develop/app/キッズ塗り絵アイランド/test-results/smooth-home-i33/revision-1/before/dinosaurs-source.png",
+        "C:/Users/yonaf/AppData/Local/Temp/codex-clipboard-e81e9ec9-70a5-4c71-a615-ca8dd926a460.png"
+      ]
+    },
+    {
+      "theme": "construction",
+      "prompt": "Use case: sketch-to-render. Asset type: private production master for a children's coloring app. Input image 1 is the exact edit target and coordinate/layout guide. Input image 2 is a quality/style reference ONLY. Turn image 1 into a richly finished, softly rendered storybook illustration at the craft quality of image 2. Keep the same canvas aspect ratio 4:5, white margins, exact position, scale, silhouette, pose, number of objects and boundaries of every colored part. Do not recenter, crop or zoom. Replace heavy black outlines with delicate color-matched edges and natural occlusion. Model rounded forms, contact shadows, coherent soft upper-left light and restrained highlights. Keep each part's base color from image 1; no new parts, scenery, labels, decoration, drop shadow outside the subject or watermark. This master will be separated into colorless lighting and recolored at runtime, so spatial registration is critical. Render the yellow excavator with toy-like polished painted metal, clear pale blue window reflections, brushed steel hydraulic rods, dark matte rubber tracks with fine tread detail and orange safety cones. No face, eyes, eyebrows or mouth anywhere on the vehicle. Keep its exact original mechanism, perspective, parts and track shapes; no new hardware or extra lines crossing part boundaries.",
+      "references": [
+        "C:/Users/yonaf/develop/app/キッズ塗り絵アイランド/test-results/smooth-home-i33/revision-1/before/construction-source.png",
+        "C:/Users/yonaf/AppData/Local/Temp/codex-clipboard-e81e9ec9-70a5-4c71-a615-ca8dd926a460.png"
+      ]
+    }
+  ]
+}

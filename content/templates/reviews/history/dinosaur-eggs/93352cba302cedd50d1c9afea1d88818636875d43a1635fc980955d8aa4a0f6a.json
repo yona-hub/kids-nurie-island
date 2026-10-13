@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "dinosaur-eggs",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "93352cba302cedd50d1c9afea1d88818636875d43a1635fc980955d8aa4a0f6a",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

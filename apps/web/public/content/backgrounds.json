@@ -1,0 +1,283 @@
+[
+  {
+    "id": "white",
+    "name": "まっしろ",
+    "assetUrl": "/content/backgrounds/white.685b25723213d31f088c9dc076061aab2b2d03bf1d4dce8c5bb67d2dc65de763.svg",
+    "thumbnailUrl": "/content/backgrounds/white.685b25723213d31f088c9dc076061aab2b2d03bf1d4dce8c5bb67d2dc65de763.svg",
+    "catalogVisible": true
+  },
+  {
+    "id": "sky-island-scenic-v3",
+    "name": "あおぞらのしま",
+    "assetUrl": "/content/backgrounds/sky-island-scenic-v3.87b2525868890b7d83ab9f236f8edac19f192c2241123b4ce6aec99dbdc5a17c.png",
+    "thumbnailUrl": "/content/backgrounds/sky-island-scenic-v3-thumb.a31c96111deb8cb1cccc84fdf1706b8cc36fa6065f659f363a4b9905b226eb44.png",
+    "compositionUrl": "/content/backgrounds/sky-island-scenic-v3.742d31ed523b243bd63f87f817fe3a5d7b8201d198a0f1ff4b99c7f12fce5827.json",
+    "catalogVisible": true,
+    "legacyId": "sky-island"
+  },
+  {
+    "id": "flower-meadow-scenic-v3",
+    "name": "お花のひろば",
+    "themeId": "flowers",
+    "assetUrl": "/content/backgrounds/flower-meadow-scenic-v3.5ea0255c32e5ad702ca8aabcc887d6f24afe35900034ebf41bbce90257f787f8.png",
+    "thumbnailUrl": "/content/backgrounds/flower-meadow-scenic-v3-thumb.c1777fff2a2df6de761b7e48721caef6933fcb3c1314e2be35cb764401bc2952.png",
+    "compositionUrl": "/content/backgrounds/flower-meadow-scenic-v3.18ae17c0ce61a2ee3bed66732b4ab22fb6b3661bceeda3b1cc9c77a2a209c489.json",
+    "catalogVisible": true,
+    "legacyId": "flower-meadow"
+  },
+  {
+    "id": "sunset-sea-scenic-v3",
+    "name": "夕焼けの海",
+    "themeId": "ocean",
+    "assetUrl": "/content/backgrounds/sunset-sea-scenic-v3.838cae54ebf2dd84723a01e1edf68421f6ad8c0d73ae2d6b09a50277bb95a952.png",
+    "thumbnailUrl": "/content/backgrounds/sunset-sea-scenic-v3-thumb.9157e37b9c2a2a7bb695cd18d7ac84ddd73a56af92da6d260cd4eaecdd777f36.png",
+    "compositionUrl": "/content/backgrounds/sunset-sea-scenic-v3.1691f1e61ca83fae083367ce7e32a8a369a75ed9fe358a12f8708bda5564c81b.json",
+    "catalogVisible": true,
+    "legacyId": "sunset-sea"
+  },
+  {
+    "id": "starry-sky-scenic-v3",
+    "name": "ほしぞら",
+    "assetUrl": "/content/backgrounds/starry-sky-scenic-v3.7e6064d6e3df1dfb045862ae4e083ea67a5db1d7ea3faf193854cb99aeee7115.png",
+    "thumbnailUrl": "/content/backgrounds/starry-sky-scenic-v3-thumb.3af5dc944a1347bc571cace23368e01610abba64b1b61868844cd550edba4b6c.png",
+    "compositionUrl": "/content/backgrounds/starry-sky-scenic-v3.c3a79d667c280d6d1d9a8311dbde8067946430f8cb07b54ff1933734b2511357.json",
+    "catalogVisible": true,
+    "legacyId": "starry-sky"
+  },
+  {
+    "id": "forest-clearing-scenic-v3",
+    "name": "森のひろば",
+    "themeId": "animals",
+    "assetUrl": "/content/backgrounds/forest-clearing-scenic-v3.2f55c0dabc0ffbb6f281de803db308a7adc5681a0c0a31e782a3e61d1fc17a40.png",
+    "thumbnailUrl": "/content/backgrounds/forest-clearing-scenic-v3-thumb.d137f027e2dd4e91f334b9ec37f5aa92cbdc074332a958638da20b963fd63c65.png",
+    "compositionUrl": "/content/backgrounds/forest-clearing-scenic-v3.2295fa5a8a0adcad676323fdfa508682d1bfe76fe7dce17fa45aaf482e4c3198.json",
+    "catalogVisible": true,
+    "legacyId": "forest-clearing"
+  },
+  {
+    "id": "future-city-scenic-v3",
+    "name": "みらいのまち",
+    "themeId": "robots",
+    "assetUrl": "/content/backgrounds/future-city-scenic-v3.ea8a262e7b32f97961356b6ccafd82bc7f40d732b0a92106ab0b63df16a8e5fb.png",
+    "thumbnailUrl": "/content/backgrounds/future-city-scenic-v3-thumb.a57a91cc85c257af02e67577418564da0481e493d6417e8668b3cf7b3b58730a.png",
+    "compositionUrl": "/content/backgrounds/future-city-scenic-v3.46e62f333ca8e8dfbe7cf286a54ac7c92698eaaf297c22fa5f80d9dba928634f.json",
+    "catalogVisible": true,
+    "legacyId": "future-city"
+  },
+  {
+    "id": "underwater-scenic-v3",
+    "name": "うみのなか",
+    "themeId": "ocean",
+    "assetUrl": "/content/backgrounds/underwater-scenic-v3.082b862e6af16e869e5111576c03b8c1c8f92e5fa625c68a224911d307474bb1.png",
+    "thumbnailUrl": "/content/backgrounds/underwater-scenic-v3-thumb.59bdd5361f3a4d49feb936ad806f9e608ba65e010e1f89b2a0210ffc1ad6651c.png",
+    "compositionUrl": "/content/backgrounds/underwater-scenic-v3.4997cf651681aa73d80c3133d2b463eb2772b3ea6673770954aafe71677e0e10.json",
+    "catalogVisible": true,
+    "legacyId": "underwater"
+  },
+  {
+    "id": "outer-space-scenic-v3",
+    "name": "宇宙空間",
+    "themeId": "space",
+    "assetUrl": "/content/backgrounds/outer-space-scenic-v3.2dbc7f8528fbcb37a20c65024f89e460896b580a95edaf6bbfecb6c88f115613.png",
+    "thumbnailUrl": "/content/backgrounds/outer-space-scenic-v3-thumb.1e083744621503407e1eb2e4265a7d1265fa57763ca0add05a00272200455282.png",
+    "compositionUrl": "/content/backgrounds/outer-space-scenic-v3.38ac005ef4208bab5f033e6de91192731498e720ca3d4ab037a0e0d3058cb9ed.json",
+    "catalogVisible": true,
+    "legacyId": "outer-space"
+  },
+  {
+    "id": "castle-garden-scenic-v3",
+    "name": "お城の庭",
+    "themeId": "princess",
+    "assetUrl": "/content/backgrounds/castle-garden-scenic-v3.648eac17f0d12e2d98a2b015e363d700676feb46b22456ee3283a234b91e2a8a.png",
+    "thumbnailUrl": "/content/backgrounds/castle-garden-scenic-v3-thumb.9eab6b024df65c2c15452559c99beb77b03848f06ac0c1332ba3c181a238b504.png",
+    "compositionUrl": "/content/backgrounds/castle-garden-scenic-v3.7b3c52b30853eda9cb5b00bca856b89ac1141da39aa736510e79d5004375f1fb.json",
+    "catalogVisible": true,
+    "legacyId": "castle-garden"
+  },
+  {
+    "id": "planet-surface-scenic-v3",
+    "name": "わくせいのだいち",
+    "themeId": "space",
+    "assetUrl": "/content/backgrounds/planet-surface-scenic-v3.5a9e8158af9835af506d0c6cb1ef495512ea576561429e9499f17c63510f4e78.png",
+    "thumbnailUrl": "/content/backgrounds/planet-surface-scenic-v3-thumb.9d84b24f7dece8bb1eb8aa27f6ee3cc847f86ad7e283eb99847e263a06c662ff.png",
+    "compositionUrl": "/content/backgrounds/planet-surface-scenic-v3.9200a223500d006198159b3495999ba1c10b55a7132a08f57f2a32d6f4185480.json",
+    "catalogVisible": true,
+    "legacyId": "planet-surface"
+  },
+  {
+    "id": "sky-island-storybook-v1",
+    "name": "あおぞらのしま",
+    "assetUrl": "/content/backgrounds/sky-island-storybook-v1.dae327ade2e35089edd469c4d0388815be7595a9fd791a0a4b57e17f319bf131.png",
+    "thumbnailUrl": "/content/backgrounds/sky-island-storybook-v1.dae327ade2e35089edd469c4d0388815be7595a9fd791a0a4b57e17f319bf131.png",
+    "compositionUrl": "/content/backgrounds/sky-island-storybook-v1.d71459bc12843fc044c83c85f078b2ace8f8a10e137323a433f0bd3da7c5def6.json",
+    "catalogVisible": false,
+    "legacyId": "sky-island"
+  },
+  {
+    "id": "flower-meadow-storybook-v1",
+    "name": "お花のひろば",
+    "themeId": "flowers",
+    "assetUrl": "/content/backgrounds/flower-meadow-storybook-v1.09db9dadc79090c754d5d0b2a391fe89fcb98e1dd6e44a33132c35099e55a28f.png",
+    "thumbnailUrl": "/content/backgrounds/flower-meadow-storybook-v1.09db9dadc79090c754d5d0b2a391fe89fcb98e1dd6e44a33132c35099e55a28f.png",
+    "compositionUrl": "/content/backgrounds/flower-meadow-storybook-v1.162820e874a4074d98496637541a755c9a5488780cacd483b6d2f0ed704c1723.json",
+    "catalogVisible": false,
+    "legacyId": "flower-meadow"
+  },
+  {
+    "id": "sunset-sea-storybook-v1",
+    "name": "夕焼けの海",
+    "themeId": "ocean",
+    "assetUrl": "/content/backgrounds/sunset-sea-storybook-v1.6232c8ed9683b6fe8320252dc7ed581a1e424dc7455cfa001104246429ba0c50.png",
+    "thumbnailUrl": "/content/backgrounds/sunset-sea-storybook-v1.6232c8ed9683b6fe8320252dc7ed581a1e424dc7455cfa001104246429ba0c50.png",
+    "compositionUrl": "/content/backgrounds/sunset-sea-storybook-v1.eac04a519463a2d0e325cf36bca813571b9e9a532e5d66e182ecc8e3eb209bd8.json",
+    "catalogVisible": false,
+    "legacyId": "sunset-sea"
+  },
+  {
+    "id": "starry-sky-storybook-v1",
+    "name": "ほしぞら",
+    "assetUrl": "/content/backgrounds/starry-sky-storybook-v1.385f4638939c17a8f60ff9f0f0a46a37ad8d977ff32a77d07b92b85eb06b9d3b.png",
+    "thumbnailUrl": "/content/backgrounds/starry-sky-storybook-v1.385f4638939c17a8f60ff9f0f0a46a37ad8d977ff32a77d07b92b85eb06b9d3b.png",
+    "compositionUrl": "/content/backgrounds/starry-sky-storybook-v1.cb30fc6ff39a53a03a1a1759771b4af6077458bdc791eb89653bd39ec282fd3c.json",
+    "catalogVisible": false,
+    "legacyId": "starry-sky"
+  },
+  {
+    "id": "forest-clearing-storybook-v1",
+    "name": "森のひろば",
+    "themeId": "animals",
+    "assetUrl": "/content/backgrounds/forest-clearing-storybook-v1.a608d75094c6832e7bf21036f90f4d5983d378e50bf12b37b2afda15b96d2873.png",
+    "thumbnailUrl": "/content/backgrounds/forest-clearing-storybook-v1.a608d75094c6832e7bf21036f90f4d5983d378e50bf12b37b2afda15b96d2873.png",
+    "compositionUrl": "/content/backgrounds/forest-clearing-storybook-v1.735133a69cffe08b44a33e6259d157afe64e038d986e60b3d0b25565cc36011a.json",
+    "catalogVisible": false,
+    "legacyId": "forest-clearing"
+  },
+  {
+    "id": "future-city-storybook-v1",
+    "name": "みらいのまち",
+    "themeId": "robots",
+    "assetUrl": "/content/backgrounds/future-city-storybook-v1.8c282baf0430eee11a1b518df06e61d549329dce2efcb5542a3882e2cfa4e7d8.png",
+    "thumbnailUrl": "/content/backgrounds/future-city-storybook-v1.8c282baf0430eee11a1b518df06e61d549329dce2efcb5542a3882e2cfa4e7d8.png",
+    "compositionUrl": "/content/backgrounds/future-city-storybook-v1.0c50c0c9de7d6ca01cb92b6e5e40d7669557204b33fdd33150b151fbe8be7143.json",
+    "catalogVisible": false,
+    "legacyId": "future-city"
+  },
+  {
+    "id": "underwater-storybook-v1",
+    "name": "うみのなか",
+    "themeId": "ocean",
+    "assetUrl": "/content/backgrounds/underwater-storybook-v1.3ecf880e27e10385e98cda92affbd397b5b02ed649fb1071cd3cec59da7ad2a3.png",
+    "thumbnailUrl": "/content/backgrounds/underwater-storybook-v1.3ecf880e27e10385e98cda92affbd397b5b02ed649fb1071cd3cec59da7ad2a3.png",
+    "compositionUrl": "/content/backgrounds/underwater-storybook-v1.1348250519fb52b8d98018c78622560235fee433d9646e99e8110ef033fee704.json",
+    "catalogVisible": false,
+    "legacyId": "underwater"
+  },
+  {
+    "id": "outer-space-storybook-v1",
+    "name": "宇宙空間",
+    "themeId": "space",
+    "assetUrl": "/content/backgrounds/outer-space-storybook-v1.ded9e881499280b29d6003f3a82454f6e952d07f31403af9dc330be488a80fca.png",
+    "thumbnailUrl": "/content/backgrounds/outer-space-storybook-v1.ded9e881499280b29d6003f3a82454f6e952d07f31403af9dc330be488a80fca.png",
+    "compositionUrl": "/content/backgrounds/outer-space-storybook-v1.bf3897cae12e38bf098ddef6208df9955f73ec0518e7aa6f5f565e9c971d068e.json",
+    "catalogVisible": false,
+    "legacyId": "outer-space"
+  },
+  {
+    "id": "castle-garden-storybook-v1",
+    "name": "お城の庭",
+    "themeId": "princess",
+    "assetUrl": "/content/backgrounds/castle-garden-storybook-v1.4875351b8ff0e2ac54a793fca3cfe46042b78d67bd24a666c898bef254838096.png",
+    "thumbnailUrl": "/content/backgrounds/castle-garden-storybook-v1.4875351b8ff0e2ac54a793fca3cfe46042b78d67bd24a666c898bef254838096.png",
+    "compositionUrl": "/content/backgrounds/castle-garden-storybook-v1.92a323ace7fa2a0639a075a67b1277ed9ca08bf0b087ff53a6b047e49cf81f58.json",
+    "catalogVisible": false,
+    "legacyId": "castle-garden"
+  },
+  {
+    "id": "planet-surface-storybook-v1",
+    "name": "わくせいのだいち",
+    "themeId": "space",
+    "assetUrl": "/content/backgrounds/planet-surface-storybook-v1.62cdd9adbfdb8185716be645c2af4c7db9855e260b313ed9ab210c6eb8197017.png",
+    "thumbnailUrl": "/content/backgrounds/planet-surface-storybook-v1.62cdd9adbfdb8185716be645c2af4c7db9855e260b313ed9ab210c6eb8197017.png",
+    "compositionUrl": "/content/backgrounds/planet-surface-storybook-v1.82a31b416f7d5e873a8964b9f30ad9f7052ff45dcf92e71a6ba6a9c35fa46ec1.json",
+    "catalogVisible": false,
+    "legacyId": "planet-surface"
+  },
+  {
+    "id": "sky-island",
+    "name": "あおぞらのしま",
+    "assetUrl": "/content/backgrounds/sky-island.df6f6191cf58b4d111257e398be621ddd7290893ded0c7d72ed8eba258b26e72.svg",
+    "thumbnailUrl": "/content/backgrounds/sky-island.df6f6191cf58b4d111257e398be621ddd7290893ded0c7d72ed8eba258b26e72.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "flower-meadow",
+    "name": "お花のひろば",
+    "themeId": "flowers",
+    "assetUrl": "/content/backgrounds/flower-meadow.0d4a2db0f013e0ac3dcd1eabff554d914b50d87b899350c337f4ba207ec8cb3b.svg",
+    "thumbnailUrl": "/content/backgrounds/flower-meadow.0d4a2db0f013e0ac3dcd1eabff554d914b50d87b899350c337f4ba207ec8cb3b.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "sunset-sea",
+    "name": "夕焼けの海",
+    "themeId": "ocean",
+    "assetUrl": "/content/backgrounds/sunset-sea.e85497dc0d6e0b482a33b417737545bad1b6f9bb6de10e2083140cfaf764d627.svg",
+    "thumbnailUrl": "/content/backgrounds/sunset-sea.e85497dc0d6e0b482a33b417737545bad1b6f9bb6de10e2083140cfaf764d627.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "starry-sky",
+    "name": "ほしぞら",
+    "assetUrl": "/content/backgrounds/starry-sky.1babd26814494c0814f8dbdc7b7be4359af0f0e552193b2573694eaeced35ccc.svg",
+    "thumbnailUrl": "/content/backgrounds/starry-sky.1babd26814494c0814f8dbdc7b7be4359af0f0e552193b2573694eaeced35ccc.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "forest-clearing",
+    "name": "森のひろば",
+    "themeId": "animals",
+    "assetUrl": "/content/backgrounds/forest-clearing.b697ace861771d17ee58e75c0726494c0ae520264f7c5c6d45743ec6a1c066df.svg",
+    "thumbnailUrl": "/content/backgrounds/forest-clearing.b697ace861771d17ee58e75c0726494c0ae520264f7c5c6d45743ec6a1c066df.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "future-city",
+    "name": "みらいのまち",
+    "themeId": "robots",
+    "assetUrl": "/content/backgrounds/future-city.de6313eba63c9a65003dd9c9ad948cc019309daa8f226a7d2da34e2c399c3aaf.svg",
+    "thumbnailUrl": "/content/backgrounds/future-city.de6313eba63c9a65003dd9c9ad948cc019309daa8f226a7d2da34e2c399c3aaf.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "underwater",
+    "name": "うみのなか",
+    "themeId": "ocean",
+    "assetUrl": "/content/backgrounds/underwater.2d10975c8031bb594bcafd3ffe03027410a4ad491c70d55006df9f93e71685dc.svg",
+    "thumbnailUrl": "/content/backgrounds/underwater.2d10975c8031bb594bcafd3ffe03027410a4ad491c70d55006df9f93e71685dc.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "outer-space",
+    "name": "宇宙空間",
+    "themeId": "space",
+    "assetUrl": "/content/backgrounds/outer-space.137dc6542e552dca3e46d27789886feca3734c8b8d826410f37a0d50724f7b04.svg",
+    "thumbnailUrl": "/content/backgrounds/outer-space.137dc6542e552dca3e46d27789886feca3734c8b8d826410f37a0d50724f7b04.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "castle-garden",
+    "name": "お城の庭",
+    "themeId": "princess",
+    "assetUrl": "/content/backgrounds/castle-garden.4ffb52e4d1e74afa86fb59699d03d3df8340ecb7cabad2fa336717ebb7708e1c.svg",
+    "thumbnailUrl": "/content/backgrounds/castle-garden.4ffb52e4d1e74afa86fb59699d03d3df8340ecb7cabad2fa336717ebb7708e1c.svg",
+    "catalogVisible": false
+  },
+  {
+    "id": "planet-surface",
+    "name": "わくせいのだいち",
+    "themeId": "space",
+    "assetUrl": "/content/backgrounds/planet-surface.ec810cf35333b99350ccd854d822b616374b01891122ed685a0a1ff7626fb610.svg",
+    "thumbnailUrl": "/content/backgrounds/planet-surface.ec810cf35333b99350ccd854d822b616374b01891122ed685a0a1ff7626fb610.svg",
+    "catalogVisible": false
+  }
+]

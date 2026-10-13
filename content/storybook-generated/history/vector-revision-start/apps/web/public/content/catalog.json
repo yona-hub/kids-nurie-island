@@ -1,0 +1,102 @@
+[
+  {
+    "id": "gen-bouquet-butterfly-v2-storybook-v1",
+    "themeId": "flowers",
+    "title": "はなたばと ちょうちょ",
+    "defaultColorFamily": "pink",
+    "regionCount": 44,
+    "assetUrl": "/content/templates/gen-bouquet-butterfly-v2-storybook-v1.43706f18ae8a24d543efbdc03f695ebb9486d12c41b626846d4b0b884a742652.json",
+    "thumbnailUrl": "/content/templates/gen-bouquet-butterfly-v2-storybook-v1.43d9b22cf012c5e9b1ce168a3e9e83dc0dff62661ddae9e648cec0a637949be0.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-bouquet-butterfly-v2-storybook-v1.43d9b22cf012c5e9b1ce168a3e9e83dc0dff62661ddae9e648cec0a637949be0.svg"
+  },
+  {
+    "id": "gen-dinosaur-eggs-v4-storybook-v1",
+    "themeId": "dinosaurs",
+    "title": "きょうりゅうと たまご",
+    "defaultColorFamily": "green",
+    "regionCount": 23,
+    "assetUrl": "/content/templates/gen-dinosaur-eggs-v4-storybook-v1.39b899cba1e8809d26cec59c3917518c144217671987ad915be65a612f0b2870.json",
+    "thumbnailUrl": "/content/templates/gen-dinosaur-eggs-v4-storybook-v1.d04cf410deb9731e3ee3e84a65a35618af3f427eab19c90a0492ec182ce5cfa2.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-dinosaur-eggs-v4-storybook-v1.d04cf410deb9731e3ee3e84a65a35618af3f427eab19c90a0492ec182ce5cfa2.svg"
+  },
+  {
+    "id": "gen-excavator-cones-v2-storybook-v1",
+    "themeId": "construction",
+    "title": "ショベルカーと コーン",
+    "defaultColorFamily": "yellow",
+    "regionCount": 54,
+    "assetUrl": "/content/templates/gen-excavator-cones-v2-storybook-v1.b7b6481b5d3fc4185af8e54aee02dd5fb8f172821cdd76699280e01cc505db9e.json",
+    "thumbnailUrl": "/content/templates/gen-excavator-cones-v2-storybook-v1.0ae6a9c0bb1c0a8558fc74a25110bfcbfde3a1fe780950e1b8d5f8dac0d33442.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-excavator-cones-v2-storybook-v1.0ae6a9c0bb1c0a8558fc74a25110bfcbfde3a1fe780950e1b8d5f8dac0d33442.svg"
+  },
+  {
+    "id": "gen-explorer-robot-v2-storybook-v1",
+    "themeId": "robots",
+    "title": "たんけん ロボット",
+    "defaultColorFamily": "gray",
+    "regionCount": 46,
+    "assetUrl": "/content/templates/gen-explorer-robot-v2-storybook-v1.53175c08f0287b3c991e782eb4aa7de6bb4102766ff44a3560d5bdd08fae008d.json",
+    "thumbnailUrl": "/content/templates/gen-explorer-robot-v2-storybook-v1.34dcf7c9d7025fbbda741a1c142a102adf8225aaad53fee3841d70ca011b198e.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-explorer-robot-v2-storybook-v1.34dcf7c9d7025fbbda741a1c142a102adf8225aaad53fee3841d70ca011b198e.svg"
+  },
+  {
+    "id": "gen-ocean-friends-v2-storybook-v1",
+    "themeId": "ocean",
+    "title": "うみの なかまたち",
+    "defaultColorFamily": "blue",
+    "regionCount": 41,
+    "assetUrl": "/content/templates/gen-ocean-friends-v2-storybook-v1.00cf89c4ff2cc3d6b6af29829e4a449abb5d31ef46832ec878f049ba70dee8c9.json",
+    "thumbnailUrl": "/content/templates/gen-ocean-friends-v2-storybook-v1.f947482f84db328651999cfe699adbb1d3b46e6e47de40d20ad48252e14d161f.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-ocean-friends-v2-storybook-v1.f947482f84db328651999cfe699adbb1d3b46e6e47de40d20ad48252e14d161f.svg"
+  },
+  {
+    "id": "gen-princess-bunny-v6-storybook-v1",
+    "themeId": "princess",
+    "title": "おひめさまと うさぎ",
+    "defaultColorFamily": "pink",
+    "regionCount": 51,
+    "assetUrl": "/content/templates/gen-princess-bunny-v6-storybook-v1.15b648c7e325c9e669143686141edf79d7b66ffef3ebf40be3c313c794e19bb4.json",
+    "thumbnailUrl": "/content/templates/gen-princess-bunny-v6-storybook-v1.c4f254f53a86c053421b0b03443327ac91f38302c2a427b42074449e6a65ba9a.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-princess-bunny-v6-storybook-v1.c4f254f53a86c053421b0b03443327ac91f38302c2a427b42074449e6a65ba9a.svg"
+  },
+  {
+    "id": "gen-rocket-astronaut-v5-storybook-v1",
+    "themeId": "space",
+    "title": "ロケットと うちゅうひこうし",
+    "defaultColorFamily": "blue",
+    "regionCount": 46,
+    "assetUrl": "/content/templates/gen-rocket-astronaut-v5-storybook-v1.69bd9c8fc037c7feb13cea7b02ceb167345b50dadcc7240c266487f41a5f2240.json",
+    "thumbnailUrl": "/content/templates/gen-rocket-astronaut-v5-storybook-v1.fa09500fbffb6e17262c45d3917b42cc5514e3e3d1b78cd4a9af8bb192a656e2.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-rocket-astronaut-v5-storybook-v1.fa09500fbffb6e17262c45d3917b42cc5514e3e3d1b78cd4a9af8bb192a656e2.svg"
+  },
+  {
+    "id": "gen-round-sports-car-v2-storybook-v1",
+    "themeId": "vehicles",
+    "title": "まるい スポーツカー",
+    "defaultColorFamily": "red",
+    "regionCount": 28,
+    "assetUrl": "/content/templates/gen-round-sports-car-v2-storybook-v1.46a801b815f8bf2222ae66e866697c15aad258c046023de3b68f3380d7d16b42.json",
+    "thumbnailUrl": "/content/templates/gen-round-sports-car-v2-storybook-v1.ccd0eab34781759c1f2c5c147c120a368af80a2fbbc28e559b875b9c917e8df7.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-round-sports-car-v2-storybook-v1.ccd0eab34781759c1f2c5c147c120a368af80a2fbbc28e559b875b9c917e8df7.svg"
+  },
+  {
+    "id": "gen-tree-friends-v4-storybook-v1",
+    "themeId": "animals",
+    "title": "きのしたの なかまたち",
+    "defaultColorFamily": "brown",
+    "regionCount": 29,
+    "assetUrl": "/content/templates/gen-tree-friends-v4-storybook-v1.d6cb8281ee2799906c43cd89287a7964a34f3bfa0ee9975f7cca7cafb82ed838.json",
+    "thumbnailUrl": "/content/templates/gen-tree-friends-v4-storybook-v1.ca03e359a6159f3b62c40f7dbc21da78fae0b59287ac1b6912621117fe0e7c3c.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-tree-friends-v4-storybook-v1.ca03e359a6159f3b62c40f7dbc21da78fae0b59287ac1b6912621117fe0e7c3c.svg"
+  },
+  {
+    "id": "gen-wizard-lantern-v6-storybook-v1",
+    "themeId": "magic",
+    "title": "まほうつかいと ランタン",
+    "defaultColorFamily": "purple",
+    "regionCount": 46,
+    "assetUrl": "/content/templates/gen-wizard-lantern-v6-storybook-v1.59bc63e34bcdda4c56722d925ca55d32ba058084152e7918e2e9dea802319f54.json",
+    "thumbnailUrl": "/content/templates/gen-wizard-lantern-v6-storybook-v1.e6583d640e78874cef2ca473aa41aec22fd3bc996ba44c994b9c2d3b76dae584.svg",
+    "coloredThumbnailUrl": "/content/templates/gen-wizard-lantern-v6-storybook-v1.e6583d640e78874cef2ca473aa41aec22fd3bc996ba44c994b9c2d3b76dae584.svg"
+  }
+]

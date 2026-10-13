@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "baseColor": "#f1f9fc",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/future-city.2124edb112ea52b5eb01a861dede85d354855e1f0a572c858b4006811fab8832.png",
+      "x": -60,
+      "y": 1480,
+      "width": 1740,
+      "height": 914.1796875,
+      "rotation": 0,
+      "opacity": 0.36
+    },
+    {
+      "assetUrl": "/content/decor/cloud.00a3bb8dff232f94a89098a1af507bcda6e9296e4b6f0d28ce6f3f77cc49d668.png",
+      "x": 80,
+      "y": 210,
+      "width": 400,
+      "height": 229.6875,
+      "rotation": 0,
+      "opacity": 0.32
+    },
+    {
+      "assetUrl": "/content/decor/gear.862f31824a39e9e8b39d8732ee96e05db2253adfc5c9c086950836d9f622270e.png",
+      "x": 1420,
+      "y": 350,
+      "width": 130,
+      "height": 128.22265625,
+      "rotation": 0,
+      "opacity": 0.23
+    }
+  ]
+}

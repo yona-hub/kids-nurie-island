@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/space-orbit-atelier-v3-top.f100b4c326b29c536b8649142a9503d95666a83d097cf5b8f0d75829d49f95b2.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/space-orbit-atelier-v3-bottom.bcdfa5f40efbae30d5dd42e77ce184f09d15999d7bb31dc6b7a56c85afbe8630.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/space-orbit-atelier-v3-left.ae47b120de1c0c04aea6cff795d2f9b2eb7e936d935dc1a0c45c861f73d239c0.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/space-orbit-atelier-v3-right.6ecee4b0c8e46c9fd4270033b0704b7e3a98c659eb247940311f1d75f072b391.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

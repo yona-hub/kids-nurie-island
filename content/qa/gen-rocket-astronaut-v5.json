@@ -1,0 +1,1165 @@
+{
+  "templateId": "gen-rocket-astronaut-v5",
+  "pass": true,
+  "regionCount": 46,
+  "expectedRegionRange": [
+    25,
+    30
+  ],
+  "errors": [],
+  "warnings": [
+    "領域数 46 は目安 25〜30 の範囲外",
+    "r15: 塗れる幅が24px未満 (22.0px)、個別の4×操作実測証拠付き例外"
+  ],
+  "closedRegions": 46,
+  "backgroundLeak": null,
+  "closureMethod": "threshold + 3px analysis close; original ink contours preserved separately",
+  "minimumBoundsWidth": 29,
+  "minimumUsableDiameter": 22,
+  "minVisibleArea": 814,
+  "blackRatio": 0.0521375,
+  "whiteRatio": 0.93418125,
+  "antiAliasRatio": 0.01368125,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "ロケットの先端",
+      "visibleArea": 35215,
+      "usableDiameter": 166.05
+    },
+    {
+      "id": "r02",
+      "name": "惑星上側",
+      "visibleArea": 41592,
+      "usableDiameter": 182
+    },
+    {
+      "id": "r03",
+      "name": "惑星の輪",
+      "visibleArea": 19552,
+      "usableDiameter": 61.4
+    },
+    {
+      "id": "r05",
+      "name": "ロケット上の帯",
+      "visibleArea": 19096,
+      "usableDiameter": 60
+    },
+    {
+      "id": "r07",
+      "name": "惑星下側",
+      "visibleArea": 15446,
+      "usableDiameter": 82.49
+    },
+    {
+      "id": "r08",
+      "name": "星",
+      "visibleArea": 23844,
+      "usableDiameter": 125.62
+    },
+    {
+      "id": "r09",
+      "name": "ロケット本体",
+      "visibleArea": 112985,
+      "usableDiameter": 150
+    },
+    {
+      "id": "r10",
+      "name": "丸窓の枠",
+      "visibleArea": 45004,
+      "usableDiameter": 49.46
+    },
+    {
+      "id": "r11",
+      "name": "丸窓",
+      "visibleArea": 50774,
+      "usableDiameter": 250
+    },
+    {
+      "id": "r12",
+      "name": "ヘルメットの枠",
+      "visibleArea": 38702,
+      "usableDiameter": 54
+    },
+    {
+      "id": "r13",
+      "name": "髪",
+      "visibleArea": 28495,
+      "usableDiameter": 78.37
+    },
+    {
+      "id": "r14",
+      "name": "顔と左耳",
+      "visibleArea": 49547,
+      "usableDiameter": 104.51
+    },
+    {
+      "id": "r15",
+      "name": "ヘルメット右の部品",
+      "visibleArea": 2244,
+      "usableDiameter": 22
+    },
+    {
+      "id": "r16",
+      "name": "ヘルメット左の部品",
+      "visibleArea": 3900,
+      "usableDiameter": 36.83
+    },
+    {
+      "id": "r17",
+      "name": "左の瞳",
+      "visibleArea": 2769,
+      "usableDiameter": 35.11
+    },
+    {
+      "id": "r18",
+      "name": "右の瞳",
+      "visibleArea": 3035,
+      "usableDiameter": 36.77
+    },
+    {
+      "id": "r19",
+      "name": "右の瞳のハイライト",
+      "visibleArea": 818,
+      "usableDiameter": 28
+    },
+    {
+      "id": "r20",
+      "name": "左の瞳のハイライト",
+      "visibleArea": 814,
+      "usableDiameter": 30
+    },
+    {
+      "id": "r21",
+      "name": "右の手袋",
+      "visibleArea": 11498,
+      "usableDiameter": 88.28
+    },
+    {
+      "id": "r22",
+      "name": "口",
+      "visibleArea": 1856,
+      "usableDiameter": 36
+    },
+    {
+      "id": "r23",
+      "name": "ロケット左の翼",
+      "visibleArea": 34881,
+      "usableDiameter": 147.66
+    },
+    {
+      "id": "r24",
+      "name": "ロケット右の翼",
+      "visibleArea": 31378,
+      "usableDiameter": 134.94
+    },
+    {
+      "id": "r25",
+      "name": "右の肩ひも",
+      "visibleArea": 2605,
+      "usableDiameter": 30.28
+    },
+    {
+      "id": "r27",
+      "name": "右袖",
+      "visibleArea": 6188,
+      "usableDiameter": 65.05
+    },
+    {
+      "id": "r28",
+      "name": "右の袖口",
+      "visibleArea": 5573,
+      "usableDiameter": 61.11
+    },
+    {
+      "id": "r29",
+      "name": "ロケット下の帯",
+      "visibleArea": 53946,
+      "usableDiameter": 164
+    },
+    {
+      "id": "r30",
+      "name": "左袖",
+      "visibleArea": 7850,
+      "usableDiameter": 82.02
+    },
+    {
+      "id": "r31",
+      "name": "左肩の後ろの背負い袋",
+      "visibleArea": 1525,
+      "usableDiameter": 29.46
+    },
+    {
+      "id": "r32",
+      "name": "左の肩ひも",
+      "visibleArea": 3505,
+      "usableDiameter": 41.6
+    },
+    {
+      "id": "r33",
+      "name": "宇宙服の身頃",
+      "visibleArea": 21281,
+      "usableDiameter": 58.77
+    },
+    {
+      "id": "r34",
+      "name": "胸のパネル",
+      "visibleArea": 9272,
+      "usableDiameter": 62
+    },
+    {
+      "id": "r35",
+      "name": "胸のボタン",
+      "visibleArea": 2452,
+      "usableDiameter": 53.74
+    },
+    {
+      "id": "r36",
+      "name": "背負い袋の右側",
+      "visibleArea": 2902,
+      "usableDiameter": 33.31
+    },
+    {
+      "id": "r37",
+      "name": "左の袖口",
+      "visibleArea": 4621,
+      "usableDiameter": 50
+    },
+    {
+      "id": "r38",
+      "name": "ロケットのノズル",
+      "visibleArea": 19415,
+      "usableDiameter": 72
+    },
+    {
+      "id": "r39",
+      "name": "左の手袋",
+      "visibleArea": 10165,
+      "usableDiameter": 82
+    },
+    {
+      "id": "r40",
+      "name": "腰のベルト",
+      "visibleArea": 10871,
+      "usableDiameter": 44
+    },
+    {
+      "id": "r41",
+      "name": "ロケットの炎の外側",
+      "visibleArea": 40330,
+      "usableDiameter": 82
+    },
+    {
+      "id": "r42",
+      "name": "ロケットの炎の内側",
+      "visibleArea": 23614,
+      "usableDiameter": 146
+    },
+    {
+      "id": "r43",
+      "name": "宇宙服のズボン",
+      "visibleArea": 37782,
+      "usableDiameter": 138
+    },
+    {
+      "id": "r44",
+      "name": "左の裾",
+      "visibleArea": 7485,
+      "usableDiameter": 57.46
+    },
+    {
+      "id": "r45",
+      "name": "右の裾",
+      "visibleArea": 7165,
+      "usableDiameter": 54.97
+    },
+    {
+      "id": "r46",
+      "name": "左のブーツ",
+      "visibleArea": 17203,
+      "usableDiameter": 92
+    },
+    {
+      "id": "r47",
+      "name": "右のブーツ",
+      "visibleArea": 18602,
+      "usableDiameter": 92
+    },
+    {
+      "id": "r48",
+      "name": "左の靴底",
+      "visibleArea": 5077,
+      "usableDiameter": 26
+    },
+    {
+      "id": "r49",
+      "name": "右の靴底",
+      "visibleArea": 5611,
+      "usableDiameter": 27.66
+    }
+  ],
+  "rasterEvidence": {
+    "pass": true,
+    "templateId": "gen-rocket-astronaut-v5",
+    "approved": false,
+    "approvalRequired": true,
+    "originalSha256": "d559890d2600cf8d7e2eff6b06310547763dd861f2013c0feab78269c33170f9",
+    "compilerVersion": 2,
+    "templateSha256": "522ba4d709d9d816ca60ee97b07a7e84ad7a8ec2744c99d49490eb933db86f81",
+    "normalizedSha256": "3a0884a8ff01c5357a75e56142489d9ccf3c886c2079d147636019b9ef187efc",
+    "originalSize": [
+      1122,
+      1402
+    ],
+    "analysisSize": [
+      1600,
+      2000
+    ],
+    "normalization": {
+      "method": "contain-whole-page-on-white",
+      "scale": 1.1978609625668448,
+      "offset": [
+        128,
+        160
+      ],
+      "imageSize": [
+        1344,
+        1679
+      ],
+      "canvasSize": [
+        1600,
+        2000
+      ],
+      "safeMargin": 128,
+      "cropped": false,
+      "contoursRedrawn": false
+    },
+    "regionCount": 46,
+    "detectedRegionCount": 49,
+    "countPolicy": "advisory",
+    "countWithinExpectedRange": false,
+    "expectedRange": [
+      25,
+      30
+    ],
+    "smallRepairCandidates": 0,
+    "largeGapCandidates": 1,
+    "dilationApplied": false,
+    "unreviewedLargeGapCandidates": 0,
+    "gapCandidateDetails": [
+      {
+        "id": "g01",
+        "candidateKey": "gap-f24d141ef4fec3a3fceae0bd4ad2cf7391c0a249dd797bb86c8572e01d0f3257",
+        "originalSha256": "d559890d2600cf8d7e2eff6b06310547763dd861f2013c0feab78269c33170f9",
+        "maskSha256": "b63404a38510c7e46ffe702a914cf06e9c6c9fc399f1c3d01143ae50002cf329",
+        "kind": "new-from-background",
+        "parentRegionId": null,
+        "parentRegionName": "外背景",
+        "parentExteriorConnected": true,
+        "labelPoint": [
+          943,
+          1355
+        ],
+        "bounds": [
+          933,
+          1291,
+          27,
+          104
+        ],
+        "area": 1574,
+        "usableDiameter": 21.969,
+        "review": {
+          "candidateKey": "gap-f24d141ef4fec3a3fceae0bd4ad2cf7391c0a249dd797bb86c8572e01d0f3257",
+          "kind": "new-from-background",
+          "parentRegionId": null,
+          "parentRegionName": "外背景",
+          "parentExteriorConnected": true,
+          "classification": "background",
+          "part": "左腕と胴体の間の外背景",
+          "reason": "宇宙飛行士の左腕と胴体の間の外背景。3px closeでは外周へつながり、9px closeだけがこの細い空間の出口を塞ぐ。宇宙服の内部ではない。",
+          "originalSha256": "d559890d2600cf8d7e2eff6b06310547763dd861f2013c0feab78269c33170f9",
+          "point": [
+            943,
+            1355
+          ]
+        }
+      }
+    ],
+    "gapReviewSchemaVersion": 2,
+    "tinyRegions": 0,
+    "blackRatio": 0.065828125,
+    "grayRatio": 0.019325,
+    "backgroundComponentsExcluded": 1,
+    "contourPoints": 4509,
+    "originalInkContourPoints": 20444,
+    "minimumUsableDiameter": 22.788,
+    "regions": [
+      {
+        "id": "r01",
+        "area": 35950,
+        "usableDiameter": 165.371,
+        "labelPoint": [
+          511,
+          413
+        ],
+        "bounds": [
+          357,
+          287,
+          299,
+          229
+        ]
+      },
+      {
+        "id": "r02",
+        "area": 42280,
+        "usableDiameter": 178.552,
+        "labelPoint": [
+          941,
+          381
+        ],
+        "bounds": [
+          798,
+          292,
+          295,
+          198
+        ]
+      },
+      {
+        "id": "r03",
+        "area": 20731,
+        "usableDiameter": 62,
+        "labelPoint": [
+          1173,
+          388
+        ],
+        "bounds": [
+          701,
+          356,
+          512,
+          172
+        ]
+      },
+      {
+        "id": "r05",
+        "area": 19584,
+        "usableDiameter": 62,
+        "labelPoint": [
+          491,
+          535
+        ],
+        "bounds": [
+          327,
+          505,
+          354,
+          83
+        ]
+      },
+      {
+        "id": "r07",
+        "area": 15952,
+        "usableDiameter": 82.788,
+        "labelPoint": [
+          964,
+          554
+        ],
+        "bounds": [
+          832,
+          478,
+          258,
+          119
+        ]
+      },
+      {
+        "id": "r08",
+        "area": 24594,
+        "usableDiameter": 124.363,
+        "labelPoint": [
+          1279,
+          582
+        ],
+        "bounds": [
+          1163,
+          453,
+          231,
+          234
+        ]
+      },
+      {
+        "id": "r09",
+        "area": 115561,
+        "usableDiameter": 145.181,
+        "labelPoint": [
+          631,
+          1041
+        ],
+        "bounds": [
+          264,
+          575,
+          468,
+          546
+        ]
+      },
+      {
+        "id": "r10",
+        "area": 46825,
+        "usableDiameter": 48.375,
+        "labelPoint": [
+          607,
+          927
+        ],
+        "bounds": [
+          321,
+          623,
+          360,
+          370
+        ]
+      },
+      {
+        "id": "r11",
+        "area": 51504,
+        "usableDiameter": 248.853,
+        "labelPoint": [
+          500,
+          807
+        ],
+        "bounds": [
+          374,
+          679,
+          253,
+          259
+        ]
+      },
+      {
+        "id": "r12",
+        "area": 41027,
+        "usableDiameter": 54.332,
+        "labelPoint": [
+          1003,
+          724
+        ],
+        "bounds": [
+          815,
+          693,
+          452,
+          438
+        ]
+      },
+      {
+        "id": "r13",
+        "area": 29884,
+        "usableDiameter": 77.107,
+        "labelPoint": [
+          1063,
+          793
+        ],
+        "bounds": [
+          854,
+          755,
+          382,
+          263
+        ]
+      },
+      {
+        "id": "r14",
+        "area": 51593,
+        "usableDiameter": 101.907,
+        "labelPoint": [
+          1043,
+          916
+        ],
+        "bounds": [
+          863,
+          797,
+          339,
+          302
+        ]
+      },
+      {
+        "id": "r15",
+        "area": 2435,
+        "usableDiameter": 22.788,
+        "labelPoint": [
+          1282,
+          881
+        ],
+        "bounds": [
+          1260,
+          831,
+          36,
+          123
+        ]
+      },
+      {
+        "id": "r16",
+        "area": 4143,
+        "usableDiameter": 37.969,
+        "labelPoint": [
+          804,
+          961
+        ],
+        "bounds": [
+          785,
+          910,
+          49,
+          123
+        ]
+      },
+      {
+        "id": "r17",
+        "area": 3105,
+        "usableDiameter": 35.575,
+        "labelPoint": [
+          972,
+          1002
+        ],
+        "bounds": [
+          934,
+          929,
+          68,
+          91
+        ]
+      },
+      {
+        "id": "r18",
+        "area": 3314,
+        "usableDiameter": 36.357,
+        "labelPoint": [
+          1142,
+          971
+        ],
+        "bounds": [
+          1099,
+          898,
+          69,
+          95
+        ]
+      },
+      {
+        "id": "r19",
+        "area": 910,
+        "usableDiameter": 31.181,
+        "labelPoint": [
+          1121,
+          934
+        ],
+        "bounds": [
+          1106,
+          915,
+          31,
+          37
+        ]
+      },
+      {
+        "id": "r20",
+        "area": 886,
+        "usableDiameter": 30,
+        "labelPoint": [
+          963,
+          959
+        ],
+        "bounds": [
+          949,
+          942,
+          30,
+          37
+        ]
+      },
+      {
+        "id": "r21",
+        "area": 12037,
+        "usableDiameter": 86.282,
+        "labelPoint": [
+          1351,
+          1057
+        ],
+        "bounds": [
+          1288,
+          963,
+          142,
+          140
+        ]
+      },
+      {
+        "id": "r22",
+        "area": 2007,
+        "usableDiameter": 37.181,
+        "labelPoint": [
+          1067,
+          1056
+        ],
+        "bounds": [
+          1032,
+          1029,
+          70,
+          46
+        ]
+      },
+      {
+        "id": "r23",
+        "area": 35649,
+        "usableDiameter": 148,
+        "labelPoint": [
+          259,
+          1256
+        ],
+        "bounds": [
+          182,
+          1072,
+          156,
+          385
+        ]
+      },
+      {
+        "id": "r24",
+        "area": 32104,
+        "usableDiameter": 135.994,
+        "labelPoint": [
+          731,
+          1262
+        ],
+        "bounds": [
+          659,
+          1071,
+          140,
+          386
+        ]
+      },
+      {
+        "id": "r25",
+        "area": 2828,
+        "usableDiameter": 31.188,
+        "labelPoint": [
+          1185,
+          1132
+        ],
+        "bounds": [
+          1152,
+          1110,
+          68,
+          110
+        ]
+      },
+      {
+        "id": "r27",
+        "area": 6500,
+        "usableDiameter": 65.994,
+        "labelPoint": [
+          1261,
+          1177
+        ],
+        "bounds": [
+          1207,
+          1108,
+          118,
+          105
+        ]
+      },
+      {
+        "id": "r28",
+        "area": 5863,
+        "usableDiameter": 59.919,
+        "labelPoint": [
+          1325,
+          1134
+        ],
+        "bounds": [
+          1265,
+          1067,
+          111,
+          98
+        ]
+      },
+      {
+        "id": "r29",
+        "area": 54712,
+        "usableDiameter": 164,
+        "labelPoint": [
+          417,
+          1208
+        ],
+        "bounds": [
+          315,
+          1114,
+          371,
+          179
+        ]
+      },
+      {
+        "id": "r30",
+        "area": 8171,
+        "usableDiameter": 81.888,
+        "labelPoint": [
+          920,
+          1227
+        ],
+        "bounds": [
+          858,
+          1154,
+          104,
+          134
+        ]
+      },
+      {
+        "id": "r31",
+        "area": 1680,
+        "usableDiameter": 29.981,
+        "labelPoint": [
+          908,
+          1145
+        ],
+        "bounds": [
+          887,
+          1125,
+          59,
+          62
+        ]
+      },
+      {
+        "id": "r32",
+        "area": 3759,
+        "usableDiameter": 41.15,
+        "labelPoint": [
+          973,
+          1157
+        ],
+        "bounds": [
+          944,
+          1135,
+          56,
+          126
+        ]
+      },
+      {
+        "id": "r33",
+        "area": 22386,
+        "usableDiameter": 58,
+        "labelPoint": [
+          997,
+          1296
+        ],
+        "bounds": [
+          969,
+          1122,
+          248,
+          214
+        ]
+      },
+      {
+        "id": "r34",
+        "area": 9823,
+        "usableDiameter": 61.119,
+        "labelPoint": [
+          1141,
+          1220
+        ],
+        "bounds": [
+          1028,
+          1190,
+          147,
+          108
+        ]
+      },
+      {
+        "id": "r35",
+        "area": 2611,
+        "usableDiameter": 55.138,
+        "labelPoint": [
+          1079,
+          1247
+        ],
+        "bounds": [
+          1051,
+          1219,
+          57,
+          58
+        ]
+      },
+      {
+        "id": "r36",
+        "area": 3125,
+        "usableDiameter": 34.363,
+        "labelPoint": [
+          1235,
+          1241
+        ],
+        "bounds": [
+          1217,
+          1221,
+          39,
+          112
+        ]
+      },
+      {
+        "id": "r37",
+        "area": 4891,
+        "usableDiameter": 50,
+        "labelPoint": [
+          872,
+          1294
+        ],
+        "bounds": [
+          833,
+          1270,
+          107,
+          72
+        ]
+      },
+      {
+        "id": "r38",
+        "area": 19935,
+        "usableDiameter": 74,
+        "labelPoint": [
+          453,
+          1337
+        ],
+        "bounds": [
+          351,
+          1295,
+          295,
+          80
+        ]
+      },
+      {
+        "id": "r39",
+        "area": 10662,
+        "usableDiameter": 82,
+        "labelPoint": [
+          867,
+          1367
+        ],
+        "bounds": [
+          814,
+          1327,
+          122,
+          128
+        ]
+      },
+      {
+        "id": "r40",
+        "area": 11414,
+        "usableDiameter": 46,
+        "labelPoint": [
+          1045,
+          1365
+        ],
+        "bounds": [
+          962,
+          1313,
+          266,
+          76
+        ]
+      },
+      {
+        "id": "r41",
+        "area": 41826,
+        "usableDiameter": 80.695,
+        "labelPoint": [
+          380,
+          1516
+        ],
+        "bounds": [
+          339,
+          1377,
+          306,
+          350
+        ]
+      },
+      {
+        "id": "r42",
+        "area": 24114,
+        "usableDiameter": 148,
+        "labelPoint": [
+          494,
+          1457
+        ],
+        "bounds": [
+          421,
+          1382,
+          148,
+          231
+        ]
+      },
+      {
+        "id": "r43",
+        "area": 38687,
+        "usableDiameter": 136.208,
+        "labelPoint": [
+          1014,
+          1461
+        ],
+        "bounds": [
+          937,
+          1358,
+          328,
+          174
+        ]
+      },
+      {
+        "id": "r44",
+        "area": 7787,
+        "usableDiameter": 56.332,
+        "labelPoint": [
+          957,
+          1560
+        ],
+        "bounds": [
+          920,
+          1519,
+          149,
+          74
+        ]
+      },
+      {
+        "id": "r45",
+        "area": 7476,
+        "usableDiameter": 54.394,
+        "labelPoint": [
+          1219,
+          1560
+        ],
+        "bounds": [
+          1136,
+          1512,
+          147,
+          77
+        ]
+      },
+      {
+        "id": "r46",
+        "area": 17773,
+        "usableDiameter": 94,
+        "labelPoint": [
+          917,
+          1659
+        ],
+        "bounds": [
+          847,
+          1586,
+          204,
+          121
+        ]
+      },
+      {
+        "id": "r47",
+        "area": 19194,
+        "usableDiameter": 92,
+        "labelPoint": [
+          1288,
+          1659
+        ],
+        "bounds": [
+          1145,
+          1578,
+          215,
+          127
+        ]
+      },
+      {
+        "id": "r48",
+        "area": 5457,
+        "usableDiameter": 27.181,
+        "labelPoint": [
+          990,
+          1720
+        ],
+        "bounds": [
+          844,
+          1684,
+          207,
+          57
+        ]
+      },
+      {
+        "id": "r49",
+        "area": 6049,
+        "usableDiameter": 28.363,
+        "labelPoint": [
+          1208,
+          1720
+        ],
+        "bounds": [
+          1144,
+          1684,
+          220,
+          57
+        ]
+      }
+    ],
+    "tinyRegionBounds": [],
+    "tinyRegionDetails": [],
+    "materialReviewRequired": false,
+    "annotationSha256": "69c6c50678a871569f6b624fc8f413023ac3168f23b5b07d97adbd4b09899acc",
+    "technicalSemanticReview": {
+      "reviewer": "Codex technical source review",
+      "checks": [
+        "all-subject-parts-closed",
+        "negative-space-excluded",
+        "pupils-and-highlights-white"
+      ],
+      "unresolvedLeaks": []
+    },
+    "excludedBackgroundRegions": [
+      {
+        "name": "惑星の輪の右の背景",
+        "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+        "bounds": [
+          1095,
+          385,
+          39,
+          31
+        ]
+      },
+      {
+        "name": "惑星の輪の左の背景",
+        "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+        "bounds": [
+          757,
+          455,
+          38,
+          35
+        ]
+      },
+      {
+        "name": "右肩の後ろの背景",
+        "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+        "bounds": [
+          1186,
+          1094,
+          27,
+          17
+        ]
+      }
+    ],
+    "widthExceptions": [
+      {
+        "id": "r15",
+        "name": "ヘルメット右の部品",
+        "usableDiameter": 22.788,
+        "reason": "ヘルメット右の部品は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-rocket-astronaut-v5.json",
+        "evidenceSha256": "800de56defb565b67aaadfefcf4bf9ba29738d373482f8a78dd464dd2401d274",
+        "evidenceSnapshot": "interaction-800de56defb565b67aaadfefcf4bf9ba29738d373482f8a78dd464dd2401d274.json"
+      }
+    ],
+    "excludedLineDetails": [],
+    "visibleInkSource": "original-threshold-contours; no morphological repair or extra region stroke",
+    "errors": [],
+    "warnings": [
+      "9px close候補 1箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）",
+      "1pxの線拡張で閉じる候補があります。解析マスクを確認してください",
+      "領域数 46 が目安 25〜30 の範囲外です",
+      "r15: 幅 22.8px。個別注釈と4×操作・塗り消去の実測証拠付き例外"
+    ],
+    "publicationNote": "原画と解析maskを別保存。素材・細部・輪郭の人間確認後に公開してください。",
+    "originalFile": "content/generated-lineart/compiled/gen-rocket-astronaut-v5/original.png"
+  },
+  "backgroundLeakStatus": "semantic visual review required; a large gap may remain connected to exterior even after 9px close",
+  "contentHash": "628b3c77375d0960e992f7d8b450e70a6903b6152fab5413ff51151ed7abfedb",
+  "approval": {
+    "kind": "human",
+    "reviewer": "ユーザー（Codex会話）",
+    "recordedAt": "2026-10-06T16:39:21.516Z",
+    "contentHash": "628b3c77375d0960e992f7d8b450e70a6903b6152fab5413ff51151ed7abfedb",
+    "basis": "新しい10枚の線画一覧を確認し「この10枚を正式採用する」と回答"
+  }
+}

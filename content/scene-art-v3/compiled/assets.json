@@ -1,0 +1,561 @@
+{
+  "tool": "built-in image_gen",
+  "humanAdoption": "not-received",
+  "backgrounds": [
+    {
+      "id": "white",
+      "name": "まっしろ",
+      "assetUrl": "/content/backgrounds/white.685b25723213d31f088c9dc076061aab2b2d03bf1d4dce8c5bb67d2dc65de763.svg",
+      "thumbnailUrl": "/content/backgrounds/white.685b25723213d31f088c9dc076061aab2b2d03bf1d4dce8c5bb67d2dc65de763.svg",
+      "catalogVisible": true
+    },
+    {
+      "id": "sky-island-scenic-v3",
+      "name": "あおぞらのしま",
+      "assetUrl": "/content/backgrounds/sky-island-scenic-v3.87b2525868890b7d83ab9f236f8edac19f192c2241123b4ce6aec99dbdc5a17c.png",
+      "thumbnailUrl": "/content/backgrounds/sky-island-scenic-v3-thumb.a31c96111deb8cb1cccc84fdf1706b8cc36fa6065f659f363a4b9905b226eb44.png",
+      "compositionUrl": "/content/backgrounds/sky-island-scenic-v3.742d31ed523b243bd63f87f817fe3a5d7b8201d198a0f1ff4b99c7f12fce5827.json",
+      "catalogVisible": true,
+      "legacyId": "sky-island"
+    },
+    {
+      "id": "flower-meadow-scenic-v3",
+      "name": "お花のひろば",
+      "themeId": "flowers",
+      "assetUrl": "/content/backgrounds/flower-meadow-scenic-v3.5ea0255c32e5ad702ca8aabcc887d6f24afe35900034ebf41bbce90257f787f8.png",
+      "thumbnailUrl": "/content/backgrounds/flower-meadow-scenic-v3-thumb.c1777fff2a2df6de761b7e48721caef6933fcb3c1314e2be35cb764401bc2952.png",
+      "compositionUrl": "/content/backgrounds/flower-meadow-scenic-v3.18ae17c0ce61a2ee3bed66732b4ab22fb6b3661bceeda3b1cc9c77a2a209c489.json",
+      "catalogVisible": true,
+      "legacyId": "flower-meadow"
+    },
+    {
+      "id": "sunset-sea-scenic-v3",
+      "name": "夕焼けの海",
+      "themeId": "ocean",
+      "assetUrl": "/content/backgrounds/sunset-sea-scenic-v3.838cae54ebf2dd84723a01e1edf68421f6ad8c0d73ae2d6b09a50277bb95a952.png",
+      "thumbnailUrl": "/content/backgrounds/sunset-sea-scenic-v3-thumb.9157e37b9c2a2a7bb695cd18d7ac84ddd73a56af92da6d260cd4eaecdd777f36.png",
+      "compositionUrl": "/content/backgrounds/sunset-sea-scenic-v3.1691f1e61ca83fae083367ce7e32a8a369a75ed9fe358a12f8708bda5564c81b.json",
+      "catalogVisible": true,
+      "legacyId": "sunset-sea"
+    },
+    {
+      "id": "starry-sky-scenic-v3",
+      "name": "ほしぞら",
+      "assetUrl": "/content/backgrounds/starry-sky-scenic-v3.7e6064d6e3df1dfb045862ae4e083ea67a5db1d7ea3faf193854cb99aeee7115.png",
+      "thumbnailUrl": "/content/backgrounds/starry-sky-scenic-v3-thumb.3af5dc944a1347bc571cace23368e01610abba64b1b61868844cd550edba4b6c.png",
+      "compositionUrl": "/content/backgrounds/starry-sky-scenic-v3.c3a79d667c280d6d1d9a8311dbde8067946430f8cb07b54ff1933734b2511357.json",
+      "catalogVisible": true,
+      "legacyId": "starry-sky"
+    },
+    {
+      "id": "forest-clearing-scenic-v3",
+      "name": "森のひろば",
+      "themeId": "animals",
+      "assetUrl": "/content/backgrounds/forest-clearing-scenic-v3.2f55c0dabc0ffbb6f281de803db308a7adc5681a0c0a31e782a3e61d1fc17a40.png",
+      "thumbnailUrl": "/content/backgrounds/forest-clearing-scenic-v3-thumb.d137f027e2dd4e91f334b9ec37f5aa92cbdc074332a958638da20b963fd63c65.png",
+      "compositionUrl": "/content/backgrounds/forest-clearing-scenic-v3.2295fa5a8a0adcad676323fdfa508682d1bfe76fe7dce17fa45aaf482e4c3198.json",
+      "catalogVisible": true,
+      "legacyId": "forest-clearing"
+    },
+    {
+      "id": "future-city-scenic-v3",
+      "name": "みらいのまち",
+      "themeId": "robots",
+      "assetUrl": "/content/backgrounds/future-city-scenic-v3.ea8a262e7b32f97961356b6ccafd82bc7f40d732b0a92106ab0b63df16a8e5fb.png",
+      "thumbnailUrl": "/content/backgrounds/future-city-scenic-v3-thumb.a57a91cc85c257af02e67577418564da0481e493d6417e8668b3cf7b3b58730a.png",
+      "compositionUrl": "/content/backgrounds/future-city-scenic-v3.46e62f333ca8e8dfbe7cf286a54ac7c92698eaaf297c22fa5f80d9dba928634f.json",
+      "catalogVisible": true,
+      "legacyId": "future-city"
+    },
+    {
+      "id": "underwater-scenic-v3",
+      "name": "うみのなか",
+      "themeId": "ocean",
+      "assetUrl": "/content/backgrounds/underwater-scenic-v3.082b862e6af16e869e5111576c03b8c1c8f92e5fa625c68a224911d307474bb1.png",
+      "thumbnailUrl": "/content/backgrounds/underwater-scenic-v3-thumb.59bdd5361f3a4d49feb936ad806f9e608ba65e010e1f89b2a0210ffc1ad6651c.png",
+      "compositionUrl": "/content/backgrounds/underwater-scenic-v3.4997cf651681aa73d80c3133d2b463eb2772b3ea6673770954aafe71677e0e10.json",
+      "catalogVisible": true,
+      "legacyId": "underwater"
+    },
+    {
+      "id": "outer-space-scenic-v3",
+      "name": "宇宙空間",
+      "themeId": "space",
+      "assetUrl": "/content/backgrounds/outer-space-scenic-v3.2dbc7f8528fbcb37a20c65024f89e460896b580a95edaf6bbfecb6c88f115613.png",
+      "thumbnailUrl": "/content/backgrounds/outer-space-scenic-v3-thumb.1e083744621503407e1eb2e4265a7d1265fa57763ca0add05a00272200455282.png",
+      "compositionUrl": "/content/backgrounds/outer-space-scenic-v3.38ac005ef4208bab5f033e6de91192731498e720ca3d4ab037a0e0d3058cb9ed.json",
+      "catalogVisible": true,
+      "legacyId": "outer-space"
+    },
+    {
+      "id": "castle-garden-scenic-v3",
+      "name": "お城の庭",
+      "themeId": "princess",
+      "assetUrl": "/content/backgrounds/castle-garden-scenic-v3.648eac17f0d12e2d98a2b015e363d700676feb46b22456ee3283a234b91e2a8a.png",
+      "thumbnailUrl": "/content/backgrounds/castle-garden-scenic-v3-thumb.9eab6b024df65c2c15452559c99beb77b03848f06ac0c1332ba3c181a238b504.png",
+      "compositionUrl": "/content/backgrounds/castle-garden-scenic-v3.7b3c52b30853eda9cb5b00bca856b89ac1141da39aa736510e79d5004375f1fb.json",
+      "catalogVisible": true,
+      "legacyId": "castle-garden"
+    },
+    {
+      "id": "planet-surface-scenic-v3",
+      "name": "わくせいのだいち",
+      "themeId": "space",
+      "assetUrl": "/content/backgrounds/planet-surface-scenic-v3.5a9e8158af9835af506d0c6cb1ef495512ea576561429e9499f17c63510f4e78.png",
+      "thumbnailUrl": "/content/backgrounds/planet-surface-scenic-v3-thumb.9d84b24f7dece8bb1eb8aa27f6ee3cc847f86ad7e283eb99847e263a06c662ff.png",
+      "compositionUrl": "/content/backgrounds/planet-surface-scenic-v3.9200a223500d006198159b3495999ba1c10b55a7132a08f57f2a32d6f4185480.json",
+      "catalogVisible": true,
+      "legacyId": "planet-surface"
+    }
+  ],
+  "frames": [
+    {
+      "id": "none",
+      "name": "なし",
+      "assetUrl": "/content/frames/none.d8e5b4aa50c3f605916ed92113ff4c622aa1f2597819cb3ca0db1812ae8c4a8b.svg",
+      "thumbnailUrl": "/content/frames/none.d8e5b4aa50c3f605916ed92113ff4c622aa1f2597819cb3ca0db1812ae8c4a8b.svg",
+      "catalogVisible": true
+    },
+    {
+      "id": "simple-white-atelier-v3",
+      "name": "シンプル白",
+      "assetUrl": "/content/frames/simple-white-atelier-v3.e8c8b01ad02fdeb189c49b54a4c003ffe5bb53c8834313284c77e1e21a770c90.png",
+      "thumbnailUrl": "/content/frames/simple-white-atelier-v3-thumb.6211b24b411aa41690c10d486b64f6902d5d9b02b12a224c61a8f8a4525ee37b.png",
+      "compositionUrl": "/content/frames/simple-white-atelier-v3.22e1c7f18f5756e088f9755fad29aa42c325f84b2ef7691b7ce4f4d532c1a0da.json",
+      "catalogVisible": true,
+      "legacyId": "simple-white"
+    },
+    {
+      "id": "color-dots-atelier-v3",
+      "name": "カラードット",
+      "assetUrl": "/content/frames/color-dots-atelier-v3.eee00b01bb9347ade79d1426c9aece81aca295a82ff955a8c47358fe71ec56c1.png",
+      "thumbnailUrl": "/content/frames/color-dots-atelier-v3-thumb.042ad3883f024d6faefee5ac57cd283aa3ec0a635103e6a58636902060f300c2.png",
+      "compositionUrl": "/content/frames/color-dots-atelier-v3.3bd46164255ffb37fb9ba46e2d3a76ea62fa4d6592a3a3eaede82c0cae809805.json",
+      "catalogVisible": true,
+      "legacyId": "color-dots"
+    },
+    {
+      "id": "color-drops-atelier-v3",
+      "name": "色のしずく",
+      "assetUrl": "/content/frames/color-drops-atelier-v3.2887b593fd737948ef822ede92ae7b3a90ff72f7b206ed2978f3f31dc23925dd.png",
+      "thumbnailUrl": "/content/frames/color-drops-atelier-v3-thumb.977b40d30027e4426ccbc662a772e10fe6487d2bb0ef5d4fff2893e6af6e3e30.png",
+      "compositionUrl": "/content/frames/color-drops-atelier-v3.f5ad2e79252f81d06ef139cf96108d83395d756a093c13e6d295cb41a0b5aa38.json",
+      "catalogVisible": true,
+      "legacyId": "color-drops"
+    },
+    {
+      "id": "rainbow-clouds-atelier-v3",
+      "name": "虹と雲",
+      "assetUrl": "/content/frames/rainbow-clouds-atelier-v3.6c8ca0f532fd914604f567f611a9a3ffc32f6066830e04e7c33adf7e1df993eb.png",
+      "thumbnailUrl": "/content/frames/rainbow-clouds-atelier-v3-thumb.bc86f3a131ec4c20ab862cbefbcdb0fdd8fd6b31b778d6fb4fa8cbb05296281a.png",
+      "compositionUrl": "/content/frames/rainbow-clouds-atelier-v3.dfbc1dbd544fef9667136f56665c29e38c3457e2a486d1e716a288938e636da6.json",
+      "catalogVisible": true,
+      "legacyId": "rainbow-clouds"
+    },
+    {
+      "id": "little-stars-atelier-v3",
+      "name": "ちいさな星",
+      "assetUrl": "/content/frames/little-stars-atelier-v3.83946b505788a1db79d284aaa6c93e64588a78bf84abd6fd90ff10741ec301ae.png",
+      "thumbnailUrl": "/content/frames/little-stars-atelier-v3-thumb.8bef00a8727bf796b482b257d9ede1bff2ff4669ba5286de52619e66457c9bfc.png",
+      "compositionUrl": "/content/frames/little-stars-atelier-v3.726877da39a76cc13c64708fca2268e85f5f4630832d2efe7754288924c038be.json",
+      "catalogVisible": true,
+      "legacyId": "little-stars"
+    },
+    {
+      "id": "gentle-waves-atelier-v3",
+      "name": "なみのおと",
+      "assetUrl": "/content/frames/gentle-waves-atelier-v3.aae6b10b0ac5d104cc4694260b9a59b97f5e750a92ba24a6b677a9f1df09fc89.png",
+      "thumbnailUrl": "/content/frames/gentle-waves-atelier-v3-thumb.608ea9339d1b8cc2a817bc5356f08cdfb1733716340fdbcbaef8c78786196101.png",
+      "compositionUrl": "/content/frames/gentle-waves-atelier-v3.2e2fc3a873f26e77e28c5912a475342d869283fe2571e74c06bb8c00235179a2.json",
+      "catalogVisible": true,
+      "legacyId": "gentle-waves"
+    },
+    {
+      "id": "crayons-atelier-v3",
+      "name": "クレヨン",
+      "assetUrl": "/content/frames/crayons-atelier-v3.bca6f4e993cce93d32924ea7e9546b090879fc05297ee3506cd4cedc55d05d73.png",
+      "thumbnailUrl": "/content/frames/crayons-atelier-v3-thumb.cd32a60c2a80bb0530524a0e3324515f89c2fad93b13de77c30819b503d03fe9.png",
+      "compositionUrl": "/content/frames/crayons-atelier-v3.ae20882481125bc8f461fe4e834d4746fba0a25cfdd398cb96a66cfa184b3bc5.json",
+      "catalogVisible": true,
+      "legacyId": "crayons"
+    },
+    {
+      "id": "pencils-atelier-v3",
+      "name": "いろえんぴつ",
+      "assetUrl": "/content/frames/pencils-atelier-v3.1dbcece3b2ec5b6083527d23a0394d0411d69f5e0e5b6f63c796d221ff048b1e.png",
+      "thumbnailUrl": "/content/frames/pencils-atelier-v3-thumb.9bf07248befaadbd137035ac79b9dcd041182923aa8e0b7660cd0ea2b248d165.png",
+      "compositionUrl": "/content/frames/pencils-atelier-v3.e908db0314382b74849d9808368225c7b76b57100e0b387358bb5b599cb7e08f.json",
+      "catalogVisible": true,
+      "legacyId": "pencils"
+    },
+    {
+      "id": "royal-jewels-atelier-v3",
+      "name": "王冠と宝石",
+      "themeId": "princess",
+      "assetUrl": "/content/frames/royal-jewels-atelier-v3.dd52e48bfecea87290ccbdace3d4a1d68c78c32a0e9786d10dca7cc19c9cd951.png",
+      "thumbnailUrl": "/content/frames/royal-jewels-atelier-v3-thumb.da259c5a37ae57a96bb8b4a5e27a7643f48f3606829c71485125162dce68028a.png",
+      "compositionUrl": "/content/frames/royal-jewels-atelier-v3.77bc6abd816b25b96c09316f4f25da00adac6d354ae4f260b17529b4340de003.json",
+      "catalogVisible": true,
+      "legacyId": "royal-jewels"
+    },
+    {
+      "id": "magic-night-atelier-v3",
+      "name": "星と月",
+      "themeId": "magic",
+      "assetUrl": "/content/frames/magic-night-atelier-v3.fa402348487825401213adac43051a1a34a947779fdf5a46aaba36e38f2e4772.png",
+      "thumbnailUrl": "/content/frames/magic-night-atelier-v3-thumb.55219e7e603f7141be8d5fca4d89b96b813e5cf54df8b3d5c1c4b2112fca479d.png",
+      "compositionUrl": "/content/frames/magic-night-atelier-v3.eda33a740dac22b093467ea6d2d9df24c14ddef81bdf8a2b8379fcf3b1fb9cfc.json",
+      "catalogVisible": true,
+      "legacyId": "magic-night"
+    },
+    {
+      "id": "forest-paws-atelier-v3",
+      "name": "足あとと葉っぱ",
+      "themeId": "animals",
+      "assetUrl": "/content/frames/forest-paws-atelier-v3.c3bd72184031fd3853fa79108962501603017c2ad03901ad0dd267a6e3ecd88e.png",
+      "thumbnailUrl": "/content/frames/forest-paws-atelier-v3-thumb.d5dbb2a2ff49c0fe5550fb9a95faaf82c4a02cc0a39a8e9594f1574ee443020d.png",
+      "compositionUrl": "/content/frames/forest-paws-atelier-v3.5505962032a57fe4dc29ee391c8fad895364579daa7ff387b0aca81b836a21ba.json",
+      "catalogVisible": true,
+      "legacyId": "forest-paws"
+    },
+    {
+      "id": "ocean-shells-atelier-v3",
+      "name": "貝がらとあわ",
+      "themeId": "ocean",
+      "assetUrl": "/content/frames/ocean-shells-atelier-v3.00209ae1e506800822c6d6b4ccb1cc79e0c41aa866bff4628759af769a79c729.png",
+      "thumbnailUrl": "/content/frames/ocean-shells-atelier-v3-thumb.54de7fe0053c95bfc335e80b990837c5ebfeb0c0b10812999c2cd77effbd0a49.png",
+      "compositionUrl": "/content/frames/ocean-shells-atelier-v3.aabbc5a84f1d6fa6fdbc58df59237786cf6cdf06e7a4ef184d11c77f5e442478.json",
+      "catalogVisible": true,
+      "legacyId": "ocean-shells"
+    },
+    {
+      "id": "dino-fossils-atelier-v3",
+      "name": "化石とシダ",
+      "themeId": "dinosaurs",
+      "assetUrl": "/content/frames/dino-fossils-atelier-v3.a063f6c2795cf330425fac29656ebe2a961a4da602804e19e5894beefb76a02f.png",
+      "thumbnailUrl": "/content/frames/dino-fossils-atelier-v3-thumb.b80e53405092177a6caf0c0fb16adc6ed25fe44ca3510feb78455eeb12807630.png",
+      "compositionUrl": "/content/frames/dino-fossils-atelier-v3.c5f7efd51a77325ad0dcf484dd566d22ff7367428fb10bada8c9331e27075f58.json",
+      "catalogVisible": true,
+      "legacyId": "dino-fossils"
+    },
+    {
+      "id": "happy-road-atelier-v3",
+      "name": "タイヤとみち",
+      "themeId": "vehicles",
+      "assetUrl": "/content/frames/happy-road-atelier-v3.6b360dd3b7bcb8ba8e4b331100e553230d08a8bccd8f171e2225243415885d96.png",
+      "thumbnailUrl": "/content/frames/happy-road-atelier-v3-thumb.4ba4b842421f4cbf50fdc3942a04d0f16f4c9feb495ff26922ddb6aeab204692.png",
+      "compositionUrl": "/content/frames/happy-road-atelier-v3.4cccee596e12924bead3917bf41ac57a1e552c5f089f6374c1cd266a847d789d.json",
+      "catalogVisible": true,
+      "legacyId": "happy-road"
+    },
+    {
+      "id": "work-zone-atelier-v3",
+      "name": "コーンとしましま",
+      "themeId": "construction",
+      "assetUrl": "/content/frames/work-zone-atelier-v3.919c8c64aefe1016b49b0ae3b412191386277d296709c6a209cd4fdfa4da5252.png",
+      "thumbnailUrl": "/content/frames/work-zone-atelier-v3-thumb.f0b23ccbf1a12c666905d8b27dc07fdf87e34605f71a9d94dcc7259d45f08e73.png",
+      "compositionUrl": "/content/frames/work-zone-atelier-v3.36d9962886153fc624c1c88f5a69e5f701c40f1e9d2a027e872688b816043f6f.json",
+      "catalogVisible": true,
+      "legacyId": "work-zone"
+    },
+    {
+      "id": "robot-circuit-atelier-v3",
+      "name": "歯車と回路",
+      "themeId": "robots",
+      "assetUrl": "/content/frames/robot-circuit-atelier-v3.f81ea9929dc25ac0d94ce2ca66136aa97e6ed4b340121995041aaae4467bc7a1.png",
+      "thumbnailUrl": "/content/frames/robot-circuit-atelier-v3-thumb.dbdfbb2101dad995a9d83dfd155687b685114f4bb0bc627a7d6bb8f98c0e318e.png",
+      "compositionUrl": "/content/frames/robot-circuit-atelier-v3.beab0e383e4d8db600d405b8dd7c636766d060fd7f0874be2722b6a2d89d0dc4.json",
+      "catalogVisible": true,
+      "legacyId": "robot-circuit"
+    },
+    {
+      "id": "space-orbit-atelier-v3",
+      "name": "惑星と星",
+      "themeId": "space",
+      "assetUrl": "/content/frames/space-orbit-atelier-v3.007f00ee255d41fd821b53c61b9cf556a730ab28bc417c6d9b5b1959a2ff8ed1.png",
+      "thumbnailUrl": "/content/frames/space-orbit-atelier-v3-thumb.45909b693588e8ffa966a3177d7f9ea16c6c258751c33000c44b555dea068633.png",
+      "compositionUrl": "/content/frames/space-orbit-atelier-v3.6ed24063b8e241054d3cd7949ff7d3a065a0ae153a3c467c17095bfacbd67307.json",
+      "catalogVisible": true,
+      "legacyId": "space-orbit"
+    },
+    {
+      "id": "sweet-fruit-atelier-v3",
+      "name": "おかしとくだもの",
+      "themeId": "food",
+      "assetUrl": "/content/frames/sweet-fruit-atelier-v3.45ab0b67edc96307e9792318b28a03356dddcd3cc0b03944c9377adad87a0d70.png",
+      "thumbnailUrl": "/content/frames/sweet-fruit-atelier-v3-thumb.e838d5da6bad6e809dfc7525e4d20a75d2ccb1adc0fb4b8aa39a6bc638a70cfa.png",
+      "compositionUrl": "/content/frames/sweet-fruit-atelier-v3.dbe12346258f710f92d9ed5f5bcd1f5eb3dc6cf433a7075994c69f937356eada.json",
+      "catalogVisible": true,
+      "legacyId": "sweet-fruit"
+    },
+    {
+      "id": "flower-leaves-atelier-v3",
+      "name": "お花と葉っぱ",
+      "themeId": "flowers",
+      "assetUrl": "/content/frames/flower-leaves-atelier-v3.6666841aedaff99830f2f7fdac2bf1306747483b09dfde34fe170f975b49349e.png",
+      "thumbnailUrl": "/content/frames/flower-leaves-atelier-v3-thumb.22bb39a29d6eeb564a98c31b40f860b64a4e2ce6d5554b6fd7273fe7e179734d.png",
+      "compositionUrl": "/content/frames/flower-leaves-atelier-v3.289e44bb167634d3ac326517ab57c9fe30af86c54fb2d5a394f2e39e2a720fc3.json",
+      "catalogVisible": true,
+      "legacyId": "flower-leaves"
+    },
+    {
+      "id": "toy-box-atelier-v3",
+      "name": "つみきとボール",
+      "themeId": "toys",
+      "assetUrl": "/content/frames/toy-box-atelier-v3.10499bda3ccfe701875333b72931b0a2769f9d51a12d1197961123d7aab160bf.png",
+      "thumbnailUrl": "/content/frames/toy-box-atelier-v3-thumb.c0be7049b5cafaf35291e438930f78e80f6580545d833c5a4d41bdb82442358a.png",
+      "compositionUrl": "/content/frames/toy-box-atelier-v3.b55d38f7572eb5fd3fa72b43b498c7de7c8b68b2caaef3b856afdfa955855546.json",
+      "catalogVisible": true,
+      "legacyId": "toy-box"
+    }
+  ],
+  "published": [
+    {
+      "id": "sky-island-scenic-v3",
+      "kind": "backgrounds",
+      "sourceSha256": "d4194ea6e7500644b0e0a9a531c292081e99ba8471066ec8ac2dac58045bb9e8",
+      "originalFile": "content/scene-art-v3/originals/backgrounds-sky-island-v1.png",
+      "compositionUrl": "/content/backgrounds/sky-island-scenic-v3.742d31ed523b243bd63f87f817fe3a5d7b8201d198a0f1ff4b99c7f12fce5827.json",
+      "layers": 1
+    },
+    {
+      "id": "flower-meadow-scenic-v3",
+      "kind": "backgrounds",
+      "sourceSha256": "3864602814ab80e7c6e9c4f64dc81240268f83fc322661fc483afc4da0bd2e7b",
+      "originalFile": "content/scene-art-v3/originals/backgrounds-flower-meadow-v1.png",
+      "compositionUrl": "/content/backgrounds/flower-meadow-scenic-v3.18ae17c0ce61a2ee3bed66732b4ab22fb6b3661bceeda3b1cc9c77a2a209c489.json",
+      "layers": 1
+    },
+    {
+      "id": "sunset-sea-scenic-v3",
+      "kind": "backgrounds",
+      "sourceSha256": "4587eaa4f62275da8ae9d02f791b05899923b23f41ed909ea57b22cf825f38c8",
+      "originalFile": "content/scene-art-v3/originals/backgrounds-sunset-sea-v1.png",
+      "compositionUrl": "/content/backgrounds/sunset-sea-scenic-v3.1691f1e61ca83fae083367ce7e32a8a369a75ed9fe358a12f8708bda5564c81b.json",
+      "layers": 1
+    },
+    {
+      "id": "starry-sky-scenic-v3",
+      "kind": "backgrounds",
+      "sourceSha256": "dd960cc96277949fed53153bd6c59316b5c15423dd04af07eca44f6bf1c21397",
+      "originalFile": "content/scene-art-v3/originals/backgrounds-starry-sky-v1.png",
+      "compositionUrl": "/content/backgrounds/starry-sky-scenic-v3.c3a79d667c280d6d1d9a8311dbde8067946430f8cb07b54ff1933734b2511357.json",
+      "layers": 1
+    },
+    {
+      "id": "forest-clearing-scenic-v3",
+      "kind": "backgrounds",
+      "sourceSha256": "5b6ec145a027e777133a6d64c10c926b85f6aa8fa3bd231f28074ac92e94cea4",
+      "originalFile": "content/scene-art-v3/originals/backgrounds-forest-clearing-v1.png",
+      "compositionUrl": "/content/backgrounds/forest-clearing-scenic-v3.2295fa5a8a0adcad676323fdfa508682d1bfe76fe7dce17fa45aaf482e4c3198.json",
+      "layers": 1
+    },
+    {
+      "id": "future-city-scenic-v3",
+      "kind": "backgrounds",
+      "sourceSha256": "56c241c06471cfcfaa48ffdd7c515e8d0d84d1d2bf175acc0ea57b00154d2bfa",
+      "originalFile": "content/scene-art-v3/originals/backgrounds-future-city-v1.png",
+      "compositionUrl": "/content/backgrounds/future-city-scenic-v3.46e62f333ca8e8dfbe7cf286a54ac7c92698eaaf297c22fa5f80d9dba928634f.json",
+      "layers": 1
+    },
+    {
+      "id": "underwater-scenic-v3",
+      "kind": "backgrounds",
+      "sourceSha256": "c742200412a8e695ab15f8835180523af2a74a4da2f3fa47a003879e7a39b7fe",
+      "originalFile": "content/scene-art-v3/originals/backgrounds-underwater-v1.png",
+      "compositionUrl": "/content/backgrounds/underwater-scenic-v3.4997cf651681aa73d80c3133d2b463eb2772b3ea6673770954aafe71677e0e10.json",
+      "layers": 1
+    },
+    {
+      "id": "outer-space-scenic-v3",
+      "kind": "backgrounds",
+      "sourceSha256": "bbaff010e9a91c4a7d56c288046673debdee8c7d19ae47c3bf6f7e67224dd0c3",
+      "originalFile": "content/scene-art-v3/originals/backgrounds-outer-space-v1.png",
+      "compositionUrl": "/content/backgrounds/outer-space-scenic-v3.38ac005ef4208bab5f033e6de91192731498e720ca3d4ab037a0e0d3058cb9ed.json",
+      "layers": 1
+    },
+    {
+      "id": "castle-garden-scenic-v3",
+      "kind": "backgrounds",
+      "sourceSha256": "98ded4673855fc902757b2bfc39e9593ba07065ddf8e1f4c1a143159405c0d93",
+      "originalFile": "content/scene-art-v3/originals/backgrounds-castle-garden-v1.png",
+      "compositionUrl": "/content/backgrounds/castle-garden-scenic-v3.7b3c52b30853eda9cb5b00bca856b89ac1141da39aa736510e79d5004375f1fb.json",
+      "layers": 1
+    },
+    {
+      "id": "planet-surface-scenic-v3",
+      "kind": "backgrounds",
+      "sourceSha256": "0cb4f7cddbb9959399f0be980809cba198a291d78517b63693f31d46521f87d5",
+      "originalFile": "content/scene-art-v3/originals/backgrounds-planet-surface-v1.png",
+      "compositionUrl": "/content/backgrounds/planet-surface-scenic-v3.9200a223500d006198159b3495999ba1c10b55a7132a08f57f2a32d6f4185480.json",
+      "layers": 1
+    },
+    {
+      "id": "simple-white-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "ab622c22bcaccf3364a0219aad740cfeda21aefaf8f235c79b47707e63757069",
+      "originalFile": "content/scene-art-v3/originals/frames-simple-white-v1.png",
+      "compositionUrl": "/content/frames/simple-white-atelier-v3.22e1c7f18f5756e088f9755fad29aa42c325f84b2ef7691b7ce4f4d532c1a0da.json",
+      "layers": 4
+    },
+    {
+      "id": "color-dots-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "6676d1ec43d07da912a73c255361f73729fafec1bdbb342128a97abb4dc95adf",
+      "originalFile": "content/scene-art-v3/originals/frames-color-dots-v1.png",
+      "compositionUrl": "/content/frames/color-dots-atelier-v3.3bd46164255ffb37fb9ba46e2d3a76ea62fa4d6592a3a3eaede82c0cae809805.json",
+      "layers": 4
+    },
+    {
+      "id": "color-drops-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "229c53d2d79a1feafc9f94c88c28183baa69f5a7258d607105d3488758498e03",
+      "originalFile": "content/scene-art-v3/originals/frames-color-drops-v1.png",
+      "compositionUrl": "/content/frames/color-drops-atelier-v3.f5ad2e79252f81d06ef139cf96108d83395d756a093c13e6d295cb41a0b5aa38.json",
+      "layers": 4
+    },
+    {
+      "id": "rainbow-clouds-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "1d25eaed721421aa9f1850dcf9dfb0cc1122e9a41e36ce078d4edb37fd33fa7a",
+      "originalFile": "content/scene-art-v3/originals/frames-rainbow-clouds-v1.png",
+      "compositionUrl": "/content/frames/rainbow-clouds-atelier-v3.dfbc1dbd544fef9667136f56665c29e38c3457e2a486d1e716a288938e636da6.json",
+      "layers": 4
+    },
+    {
+      "id": "little-stars-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "e4c60594c2479fd3e99f66be830443cf8d4c370eb6a99064be504554351bc94d",
+      "originalFile": "content/scene-art-v3/originals/frames-little-stars-v1.png",
+      "compositionUrl": "/content/frames/little-stars-atelier-v3.726877da39a76cc13c64708fca2268e85f5f4630832d2efe7754288924c038be.json",
+      "layers": 4
+    },
+    {
+      "id": "gentle-waves-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "cb7a9a5e86cbc83e413f5a408b66f323fcee537f39655e7b78e4890a07b6abe3",
+      "originalFile": "content/scene-art-v3/originals/frames-gentle-waves-v1.png",
+      "compositionUrl": "/content/frames/gentle-waves-atelier-v3.2e2fc3a873f26e77e28c5912a475342d869283fe2571e74c06bb8c00235179a2.json",
+      "layers": 4
+    },
+    {
+      "id": "crayons-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "3d2939ee845379f279685d7f057b22cb622e4310b41057bceb4bcf5e2d4b31d2",
+      "originalFile": "content/scene-art-v3/originals/frames-crayons-v1.png",
+      "compositionUrl": "/content/frames/crayons-atelier-v3.ae20882481125bc8f461fe4e834d4746fba0a25cfdd398cb96a66cfa184b3bc5.json",
+      "layers": 4
+    },
+    {
+      "id": "pencils-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "e177f3c5b531bd0f4372cd285a470e05c737046f80e93c013791d9085af7707a",
+      "originalFile": "content/scene-art-v3/originals/frames-pencils-v1.png",
+      "compositionUrl": "/content/frames/pencils-atelier-v3.e908db0314382b74849d9808368225c7b76b57100e0b387358bb5b599cb7e08f.json",
+      "layers": 4
+    },
+    {
+      "id": "royal-jewels-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "ad3248b8a80fde72f0b9b3dcf425dc914eaa27e8b101166525907d258236c236",
+      "originalFile": "content/scene-art-v3/originals/frames-royal-jewels-v1.png",
+      "compositionUrl": "/content/frames/royal-jewels-atelier-v3.77bc6abd816b25b96c09316f4f25da00adac6d354ae4f260b17529b4340de003.json",
+      "layers": 4
+    },
+    {
+      "id": "magic-night-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "1e429017dad8442e8767c61b0e3d8af3305d3e64470be69b9df25d994aa43552",
+      "originalFile": "content/scene-art-v3/originals/frames-magic-night-v1.png",
+      "compositionUrl": "/content/frames/magic-night-atelier-v3.eda33a740dac22b093467ea6d2d9df24c14ddef81bdf8a2b8379fcf3b1fb9cfc.json",
+      "layers": 4
+    },
+    {
+      "id": "forest-paws-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "7648f79d1237c0ee6a1febddff81167f51c424e85bd8540046abf9c6e32c17c3",
+      "originalFile": "content/scene-art-v3/originals/frames-forest-paws-v1.png",
+      "compositionUrl": "/content/frames/forest-paws-atelier-v3.5505962032a57fe4dc29ee391c8fad895364579daa7ff387b0aca81b836a21ba.json",
+      "layers": 4
+    },
+    {
+      "id": "ocean-shells-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "5575f24356e085f06f24996c9da5e91ed2b8ced59132cfa75ef7510d5c012500",
+      "originalFile": "content/scene-art-v3/originals/frames-ocean-shells-v1.png",
+      "compositionUrl": "/content/frames/ocean-shells-atelier-v3.aabbc5a84f1d6fa6fdbc58df59237786cf6cdf06e7a4ef184d11c77f5e442478.json",
+      "layers": 4
+    },
+    {
+      "id": "dino-fossils-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "129206225b891e4c97fef2c12562aff6fb2add6487cffec4f9b92f09d044c114",
+      "originalFile": "content/scene-art-v3/originals/frames-dino-fossils-v1.png",
+      "compositionUrl": "/content/frames/dino-fossils-atelier-v3.c5f7efd51a77325ad0dcf484dd566d22ff7367428fb10bada8c9331e27075f58.json",
+      "layers": 4
+    },
+    {
+      "id": "happy-road-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "5ab3e82817da538364ffe23215b148dc3c58c1378346213cdda162eb1cfa271c",
+      "originalFile": "content/scene-art-v3/originals/frames-happy-road-v1.png",
+      "compositionUrl": "/content/frames/happy-road-atelier-v3.4cccee596e12924bead3917bf41ac57a1e552c5f089f6374c1cd266a847d789d.json",
+      "layers": 4
+    },
+    {
+      "id": "work-zone-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "69504eb84b20df0b86ccfc350eeb67008a4fa5d363a6a7a13b0d1598451132ea",
+      "originalFile": "content/scene-art-v3/originals/frames-work-zone-v1.png",
+      "compositionUrl": "/content/frames/work-zone-atelier-v3.36d9962886153fc624c1c88f5a69e5f701c40f1e9d2a027e872688b816043f6f.json",
+      "layers": 4
+    },
+    {
+      "id": "robot-circuit-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "22e264ce08823b8a22f0fef7260065dfa0fc51388ab5b6a2900c5c49b0165656",
+      "originalFile": "content/scene-art-v3/originals/frames-robot-circuit-v1.png",
+      "compositionUrl": "/content/frames/robot-circuit-atelier-v3.beab0e383e4d8db600d405b8dd7c636766d060fd7f0874be2722b6a2d89d0dc4.json",
+      "layers": 4
+    },
+    {
+      "id": "space-orbit-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "9d089d50fac23f2dc1f95c7d73a05b70d48fe3786569409b0749e84fccdb7b8f",
+      "originalFile": "content/scene-art-v3/originals/frames-space-orbit-v1.png",
+      "compositionUrl": "/content/frames/space-orbit-atelier-v3.6ed24063b8e241054d3cd7949ff7d3a065a0ae153a3c467c17095bfacbd67307.json",
+      "layers": 4
+    },
+    {
+      "id": "sweet-fruit-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "5938a35b145d2514c66641270209ab2d8d360256f1bcac2bad4252b039bc5b89",
+      "originalFile": "content/scene-art-v3/originals/frames-sweet-fruit-v1.png",
+      "compositionUrl": "/content/frames/sweet-fruit-atelier-v3.dbe12346258f710f92d9ed5f5bcd1f5eb3dc6cf433a7075994c69f937356eada.json",
+      "layers": 4
+    },
+    {
+      "id": "flower-leaves-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "64fde6f7c52bcf7e9e35a4c9d0735455b80ad8b0b44a6741a786918e94c17873",
+      "originalFile": "content/scene-art-v3/originals/frames-flower-leaves-v1.png",
+      "compositionUrl": "/content/frames/flower-leaves-atelier-v3.289e44bb167634d3ac326517ab57c9fe30af86c54fb2d5a394f2e39e2a720fc3.json",
+      "layers": 4
+    },
+    {
+      "id": "toy-box-atelier-v3",
+      "kind": "frames",
+      "sourceSha256": "eec06e64ff3294ac740576036821a737a454de44c6a636a58281b86039742428",
+      "originalFile": "content/scene-art-v3/originals/frames-toy-box-v1.png",
+      "compositionUrl": "/content/frames/toy-box-atelier-v3.b55d38f7572eb5fd3fa72b43b498c7de7c8b68b2caaef3b856afdfa955855546.json",
+      "layers": 4
+    }
+  ],
+  "protectedOpening": {
+    "x": 320,
+    "y": 320,
+    "width": 960,
+    "height": 1360
+  },
+  "artworkInFront": true
+}

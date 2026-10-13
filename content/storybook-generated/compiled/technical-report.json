@@ -1,0 +1,196 @@
+{
+  "recordedAt": "2026-10-07T17:12:18.305Z",
+  "reports": [
+    {
+      "templateId": "gen-bouquet-butterfly-v2-storybook-v1",
+      "pass": false,
+      "contentHash": "b348495cb9800171568d4fbe0729b2531c11c94d6dc2eaaecf892edfdf946637",
+      "regionCount": 44,
+      "groupCount": 11,
+      "eyes": 0,
+      "sourceTemplateId": "gen-bouquet-butterfly-v2",
+      "sourceOriginalSha256": "2df6b16c36ac2f55f8734a74afdf88e29d83f8a5382b57faa31314ca473743da",
+      "approval": {
+        "kind": "author-technical",
+        "reviewer": "Codex asset author",
+        "recordedAt": "2026-10-07T17:12:05.169Z",
+        "contentHash": "b348495cb9800171568d4fbe0729b2531c11c94d6dc2eaaecf892edfdf946637",
+        "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+      },
+      "errors": [],
+      "status": "pending technical and human visual verification"
+    },
+    {
+      "templateId": "gen-dinosaur-eggs-v4-storybook-v1",
+      "pass": false,
+      "contentHash": "a7e3d8acaab7f073301cb8afadc3b796b3c6ac40a1ef611c5b7dce03ec75d5d4",
+      "regionCount": 23,
+      "groupCount": 11,
+      "eyes": 2,
+      "sourceTemplateId": "gen-dinosaur-eggs-v4",
+      "sourceOriginalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+      "approval": {
+        "kind": "author-technical",
+        "reviewer": "Codex asset author",
+        "recordedAt": "2026-10-07T17:12:06.752Z",
+        "contentHash": "a7e3d8acaab7f073301cb8afadc3b796b3c6ac40a1ef611c5b7dce03ec75d5d4",
+        "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+      },
+      "errors": [],
+      "status": "pending technical and human visual verification"
+    },
+    {
+      "templateId": "gen-excavator-cones-v2-storybook-v1",
+      "pass": false,
+      "contentHash": "134c09f56d7015dcefd85e34321faf405f311a4bdc9b5af80023cdd7628e51d4",
+      "regionCount": 54,
+      "groupCount": 17,
+      "eyes": 2,
+      "sourceTemplateId": "gen-excavator-cones-v2",
+      "sourceOriginalSha256": "2109d4f4aec8169302ba45bac1592ddf7b9d9240e33fdc91f5ad9b74eb7962a6",
+      "approval": {
+        "kind": "author-technical",
+        "reviewer": "Codex asset author",
+        "recordedAt": "2026-10-07T17:12:08.398Z",
+        "contentHash": "134c09f56d7015dcefd85e34321faf405f311a4bdc9b5af80023cdd7628e51d4",
+        "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+      },
+      "errors": [],
+      "status": "pending technical and human visual verification"
+    },
+    {
+      "templateId": "gen-explorer-robot-v2-storybook-v1",
+      "pass": false,
+      "contentHash": "a5aec5eaf1c3df10da072582fe193cdf8b2873ca9306a34acfa2c323c973e216",
+      "regionCount": 46,
+      "groupCount": 16,
+      "eyes": 2,
+      "sourceTemplateId": "gen-explorer-robot-v2",
+      "sourceOriginalSha256": "cfd8eb3aee0aa120fb390e17c2c78ecb01e25614e2bec805832cdb2c60148802",
+      "approval": {
+        "kind": "author-technical",
+        "reviewer": "Codex asset author",
+        "recordedAt": "2026-10-07T17:12:09.654Z",
+        "contentHash": "a5aec5eaf1c3df10da072582fe193cdf8b2873ca9306a34acfa2c323c973e216",
+        "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+      },
+      "errors": [],
+      "status": "pending technical and human visual verification"
+    },
+    {
+      "templateId": "gen-ocean-friends-v2-storybook-v1",
+      "pass": false,
+      "contentHash": "e7e7a92f81db9a6bf1d076e2b9a90e06d9f9c039b1192cc3c842e4919495a03c",
+      "regionCount": 41,
+      "groupCount": 16,
+      "eyes": 4,
+      "sourceTemplateId": "gen-ocean-friends-v2",
+      "sourceOriginalSha256": "4af719f39cbeb41e124103b8df7f8f9ab8dff6eb946bb914eabbb8bb52eecdf7",
+      "approval": {
+        "kind": "author-technical",
+        "reviewer": "Codex asset author",
+        "recordedAt": "2026-10-07T17:12:11.060Z",
+        "contentHash": "e7e7a92f81db9a6bf1d076e2b9a90e06d9f9c039b1192cc3c842e4919495a03c",
+        "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+      },
+      "errors": [],
+      "status": "pending technical and human visual verification"
+    },
+    {
+      "templateId": "gen-princess-bunny-v6-storybook-v1",
+      "pass": false,
+      "contentHash": "4c3ef840eb2917ceadcab05413b18c90b0661a7e17ec779486c198aaff446e66",
+      "regionCount": 51,
+      "groupCount": 15,
+      "eyes": 4,
+      "sourceTemplateId": "gen-princess-bunny-v6",
+      "sourceOriginalSha256": "f0fbc3b052f29645893b44c49bbbc2e179d4b071fb4a0fca48aaaa356df321f0",
+      "approval": {
+        "kind": "author-technical",
+        "reviewer": "Codex asset author",
+        "recordedAt": "2026-10-07T17:12:12.564Z",
+        "contentHash": "4c3ef840eb2917ceadcab05413b18c90b0661a7e17ec779486c198aaff446e66",
+        "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+      },
+      "errors": [],
+      "status": "pending technical and human visual verification"
+    },
+    {
+      "templateId": "gen-rocket-astronaut-v5-storybook-v1",
+      "pass": false,
+      "contentHash": "8f9d98302d2d9afaa0a436df633542b0c9bfc7d45f45c0e4fc0fcd6c8b73331c",
+      "regionCount": 46,
+      "groupCount": 23,
+      "eyes": 2,
+      "sourceTemplateId": "gen-rocket-astronaut-v5",
+      "sourceOriginalSha256": "d559890d2600cf8d7e2eff6b06310547763dd861f2013c0feab78269c33170f9",
+      "approval": {
+        "kind": "author-technical",
+        "reviewer": "Codex asset author",
+        "recordedAt": "2026-10-07T17:12:13.930Z",
+        "contentHash": "8f9d98302d2d9afaa0a436df633542b0c9bfc7d45f45c0e4fc0fcd6c8b73331c",
+        "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+      },
+      "errors": [],
+      "status": "pending technical and human visual verification"
+    },
+    {
+      "templateId": "gen-round-sports-car-v2-storybook-v1",
+      "pass": false,
+      "contentHash": "b3bc3c685af42b61af8cead16ca18221518eea6105ae78c9f4f81e3312b03994",
+      "regionCount": 28,
+      "groupCount": 9,
+      "eyes": 0,
+      "sourceTemplateId": "gen-round-sports-car-v2",
+      "sourceOriginalSha256": "535c8f0d875dc757fef66f512930896adbc18342c4e33782f93e18175bd4beaf",
+      "approval": {
+        "kind": "author-technical",
+        "reviewer": "Codex asset author",
+        "recordedAt": "2026-10-07T17:12:15.235Z",
+        "contentHash": "b3bc3c685af42b61af8cead16ca18221518eea6105ae78c9f4f81e3312b03994",
+        "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+      },
+      "errors": [],
+      "status": "pending technical and human visual verification"
+    },
+    {
+      "templateId": "gen-tree-friends-v4-storybook-v1",
+      "pass": false,
+      "contentHash": "dd284c334a5b439c5450c00127a7aec839c34f905e1ca3b16b00f8a161ea1e53",
+      "regionCount": 29,
+      "groupCount": 10,
+      "eyes": 4,
+      "sourceTemplateId": "gen-tree-friends-v4",
+      "sourceOriginalSha256": "37736bbc37ce78f37849322dc5325e938e5f3403beca76e74e24765617a423a0",
+      "approval": {
+        "kind": "author-technical",
+        "reviewer": "Codex asset author",
+        "recordedAt": "2026-10-07T17:12:16.796Z",
+        "contentHash": "dd284c334a5b439c5450c00127a7aec839c34f905e1ca3b16b00f8a161ea1e53",
+        "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+      },
+      "errors": [],
+      "status": "pending technical and human visual verification"
+    },
+    {
+      "templateId": "gen-wizard-lantern-v6-storybook-v1",
+      "pass": false,
+      "contentHash": "58942820993c3e2fc55d69582014ec4eeae8ff88feb87c1316501cf8981d19cd",
+      "regionCount": 46,
+      "groupCount": 20,
+      "eyes": 2,
+      "sourceTemplateId": "gen-wizard-lantern-v6",
+      "sourceOriginalSha256": "08eb9d02b3017b130bce97820a3c76ff7247487db559273fdb18dc0d4f0015b0",
+      "approval": {
+        "kind": "author-technical",
+        "reviewer": "Codex asset author",
+        "recordedAt": "2026-10-07T17:12:18.301Z",
+        "contentHash": "58942820993c3e2fc55d69582014ec4eeae8ff88feb87c1316501cf8981d19cd",
+        "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+      },
+      "errors": [],
+      "status": "pending technical and human visual verification"
+    }
+  ],
+  "status": "pending verification"
+}

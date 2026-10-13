@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-tree-friends-v4",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06T15:54:29.846Z",
+    "contentHash": "f28bb45e4e58d03e7f1ac465bab6b584c2017993677a9d0aa95396cf91247749",
+    "basis": "Image-generated original, source-bound semantic annotations, original ink contours, measured QA and individual interaction evidence reviewed. Human art/content review is required before release."
+  }
+}

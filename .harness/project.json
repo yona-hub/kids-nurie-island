@@ -1,0 +1,85 @@
+{
+  "schema_version": "2.0",
+  "project_id": "キッズ塗り絵アイランド",
+  "profile_status": "reviewed_project_sources",
+  "stack": [
+    "node",
+    "react",
+    "typescript",
+    "vite",
+    "indexeddb",
+    "supabase"
+  ],
+  "human_constraints": [
+    "承認済み原画・出力・採用hashを保持",
+    "主モデル・effortを維持",
+    "子は同時最大2・孫禁止",
+    "同じ失敗2回または進展なしで停止",
+    "commit・push・deploy・外部サービス・有料API・スケジュール変更なし",
+    "共通Coreの再検査・編集なし"
+  ],
+  "sources_of_truth": {
+    "specs": [
+      "docs/storybook-improvement.md",
+      "docs/product-spec.md",
+      "docs/user-art-decisions.md",
+      "docs/testing.md",
+      "docs/audit-tracker.md",
+      "docs/release-checklist.md",
+      "docs/paused-handoff.md",
+      "docs/audits"
+    ],
+    "adr": [],
+    "issues": null,
+    "changelog": "docs/work-log.md",
+    "artifact_manifest": "content/generated-lineart/user-adoption.json"
+  },
+  "verification": {
+    "approved_commands": [
+      "npm run build",
+      "npm run build:demo",
+      "npm run typecheck",
+      "npm run lint",
+      "npm run test",
+      "npm run test:e2e",
+      "npm run test:visual",
+      "npm run test:rls",
+      "npm run check",
+      "node scripts/build-cloud-e2e.mjs",
+      "node scripts/check-performance.mjs",
+      "node scripts/check-interaction-performance.mjs",
+      "node scripts/check-lifecycle-performance.mjs",
+      "node scripts/check-pwa-update.mjs",
+      "node scripts/check-pwa-migration.mjs"
+    ],
+    "discovered_commands": [
+      "npm run dev",
+      "npm run build",
+      "npm run build:demo",
+      "npm run preview:demo",
+      "npm run preview",
+      "npm run typecheck",
+      "npm run lint",
+      "npm run test",
+      "npm run test:e2e",
+      "npm run test:visual",
+      "npm run test:rls",
+      "npm run assets:build",
+      "npm run assets:review",
+      "npm run assets:brand",
+      "npm run licenses",
+      "npm run check"
+    ]
+  },
+  "schedule": {
+    "enabled": false
+  },
+  "adoption": {
+    "automatically_approved_change_classes": [],
+    "pinned_core_only": true
+  },
+  "core": {
+    "version": "0.1.0",
+    "sha256": "c22036eaa6845b18d1eab8a1c580bc707c503cd36cf996958912025f198cd86f"
+  }
+}

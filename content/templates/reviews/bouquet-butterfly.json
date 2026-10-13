@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "bouquet-butterfly",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "3837bcb498da233dba65ca3ab045132b1bc889f1dea07d7f2957f0d98735778c",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "instruction": "I33",
+  "tool": "built-in image_gen.imagegen",
+  "privateMaster": true,
+  "paidApiFallback": false,
+  "requests": [
+    {
+      "theme": "robots",
+      "prompt": "Use case: sketch-to-render. Asset type: private production master for a children's coloring app. Input image 1 is the exact edit target and coordinate/layout guide. Input image 2 is a quality/style reference ONLY. Turn image 1 into a richly finished, softly rendered storybook illustration at the craft quality of image 2. Keep the same canvas aspect ratio 4:5, white margins, exact position, scale, silhouette, pose, number of objects and boundaries of every colored part. Do not recenter, crop or zoom. Replace heavy black outlines with delicate color-matched edges and natural occlusion. Model rounded forms, contact shadows, coherent soft upper-left light and restrained highlights. Keep each part's base color from image 1; no new parts, scenery, labels, decoration, drop shadow outside the subject or watermark. This master will be separated into colorless lighting and recolored at runtime, so spatial registration is critical. Model the rounded blue robot with softly reflective enamel panels, brushed metal joints, matte rubber seams, subtle panel-edge occlusion and glass dome gauge. Preserve its two friendly glossy blue eyes and smile at exactly the original positions; no extra facial details. Keep all buttons, hands, antenna and feet in the original proportions; no extra machinery or decoration.",
+      "references": [
+        "C:/Users/yonaf/develop/app/キッズ塗り絵アイランド/test-results/smooth-home-i33/revision-1/before/robots-source.png",
+        "C:/Users/yonaf/AppData/Local/Temp/codex-clipboard-e81e9ec9-70a5-4c71-a615-ca8dd926a460.png"
+      ]
+    },
+    {
+      "theme": "vehicles",
+      "prompt": "Use case: sketch-to-render. Asset type: private production master for a children's coloring app. Input image 1 is the exact edit target and coordinate/layout guide. Input image 2 is a quality/style reference ONLY. Turn image 1 into a richly finished, softly rendered storybook illustration at the craft quality of image 2. Keep the same canvas aspect ratio 4:5, white margins, exact position, scale, silhouette, pose, number of objects and boundaries of every colored part. Do not recenter, crop or zoom. Replace heavy black outlines with delicate color-matched edges and natural occlusion. Model rounded forms, contact shadows, coherent soft upper-left light and restrained highlights. Keep each part's base color from image 1; no new parts, scenery, labels, decoration, drop shadow outside the subject or watermark. This master will be separated into colorless lighting and recolored at runtime, so spatial registration is critical. Render the rounded red sports car in glossy warm-red lacquer, with smooth rounded fenders and hood, clear blue reflective window glass, polished silver wheel hubs, finely treaded matte dark tires, jewel-like pale headlights and a neutral grille. Absolutely no face, eyes, eyebrows or mouth on the car. Keep all exact original seams and part shapes, number of visible wheels, perspective and canvas framing. No text or emblem.",
+      "references": [
+        "C:/Users/yonaf/develop/app/キッズ塗り絵アイランド/test-results/smooth-home-i33/revision-1/before/vehicles-source.png",
+        "C:/Users/yonaf/AppData/Local/Temp/codex-clipboard-e81e9ec9-70a5-4c71-a615-ca8dd926a460.png"
+      ]
+    },
+    {
+      "theme": "space",
+      "prompt": "Use case: sketch-to-render. Asset type: private production master for a children's coloring app. Input image 1 is the exact edit target and coordinate/layout guide. Input image 2 is a quality/style reference ONLY. Turn image 1 into a richly finished, softly rendered storybook illustration at the craft quality of image 2. Keep the same canvas aspect ratio 4:5, white margins, exact position, scale, silhouette, pose, number of objects and boundaries of every colored part. Do not recenter, crop or zoom. Replace heavy black outlines with delicate color-matched edges and natural occlusion. Model rounded forms, contact shadows, coherent soft upper-left light and restrained highlights. Keep each part's base color from image 1; no new parts, scenery, labels, decoration, drop shadow outside the subject or watermark. This master will be separated into colorless lighting and recolored at runtime, so spatial registration is critical. Render the boy astronaut with a friendly softly shaded child face and no eyelashes, chestnut hair, rounded cream protective suit with fabric folds, pale blue metal boots, polished red/cream rocket with reflective blue porthole and gold/orange flame, a softly banded golden ringed planet and a glowing gold star. Preserve the exact original objects, pose and all colored boundaries. The rocket must have no face. No new stars, scenery or space background.",
+      "references": [
+        "C:/Users/yonaf/develop/app/キッズ塗り絵アイランド/test-results/smooth-home-i33/revision-1/before/space-source.png",
+        "C:/Users/yonaf/AppData/Local/Temp/codex-clipboard-e81e9ec9-70a5-4c71-a615-ca8dd926a460.png"
+      ]
+    }
+  ]
+}

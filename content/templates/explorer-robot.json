@@ -1,0 +1,685 @@
+{
+  "schemaVersion": 1,
+  "id": "explorer-robot",
+  "themeId": "robots",
+  "title": "たんけん ロボット",
+  "width": 1600,
+  "height": 2000,
+  "defaultColorFamily": "blue",
+  "approved": true,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "バックパック",
+      "path": "M 562 764 H 1051 Q 1122 764 1122 835 V 1185 Q 1122 1256 1051 1256 H 562 Q 491 1256 491 1185 V 835 Q 491 764 562 764 Z",
+      "bounds": {
+        "x": 491,
+        "y": 764,
+        "width": 631,
+        "height": 492
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 506821244
+    },
+    {
+      "id": "r02",
+      "name": "左のもも",
+      "path": "M 630 1261 H 710 Q 745 1261 745 1296 V 1452 Q 745 1487 710 1487 H 630 Q 595 1487 595 1452 V 1296 Q 595 1261 630 1261 Z",
+      "bounds": {
+        "x": 595,
+        "y": 1261,
+        "width": 150,
+        "height": 226
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 557154101
+    },
+    {
+      "id": "r03",
+      "name": "右のもも",
+      "path": "M 895 1261 H 975 Q 1010 1261 1010 1296 V 1452 Q 1010 1487 975 1487 H 895 Q 860 1487 860 1452 V 1296 Q 860 1261 895 1261 Z",
+      "bounds": {
+        "x": 860,
+        "y": 1261,
+        "width": 150,
+        "height": 226
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 540376482
+    },
+    {
+      "id": "r04",
+      "name": "左のすね",
+      "path": "M 630 1436 H 709 Q 751 1436 751 1478 V 1616 Q 751 1658 709 1658 H 630 Q 588 1658 588 1616 V 1478 Q 588 1436 630 1436 Z",
+      "bounds": {
+        "x": 588,
+        "y": 1436,
+        "width": 163,
+        "height": 222
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 456488387
+    },
+    {
+      "id": "r05",
+      "name": "右のすね",
+      "path": "M 894 1436 H 973 Q 1015 1436 1015 1478 V 1616 Q 1015 1658 973 1658 H 894 Q 852 1658 852 1616 V 1478 Q 852 1436 894 1436 Z",
+      "bounds": {
+        "x": 852,
+        "y": 1436,
+        "width": 163,
+        "height": 222
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 439710768
+    },
+    {
+      "id": "r06",
+      "name": "左のブーツ",
+      "path": "M 588 1603 L 753 1603 L 780 1699 Q 751 1750 655 1747 L 487 1747 Q 457 1650 588 1603 Z",
+      "bounds": {
+        "x": 481,
+        "y": 1603,
+        "width": 299,
+        "height": 145
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 490043625
+    },
+    {
+      "id": "r07",
+      "name": "右のブーツ",
+      "path": "M 852 1603 L 1017 1603 Q 1147 1650 1117 1747 L 950 1747 Q 854 1750 825 1699 Z",
+      "bounds": {
+        "x": 825,
+        "y": 1603,
+        "width": 298,
+        "height": 145
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 473266006
+    },
+    {
+      "id": "r08",
+      "name": "左のくつ底",
+      "path": "M 485 1704 L 777 1704 L 780 1733 Q 672 1781 487 1751 Z",
+      "bounds": {
+        "x": 485,
+        "y": 1704,
+        "width": 295,
+        "height": 59
+      },
+      "material": "rubber",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 657819815
+    },
+    {
+      "id": "r09",
+      "name": "右のくつ底",
+      "path": "M 826 1704 L 1118 1704 L 1117 1751 Q 932 1781 825 1733 Z",
+      "bounds": {
+        "x": 825,
+        "y": 1704,
+        "width": 293,
+        "height": 59
+      },
+      "material": "rubber",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 641042196
+    },
+    {
+      "id": "r10",
+      "name": "左のひざ",
+      "path": "M 601 1457 C 601 1426.6235 631.8913 1402 670 1402 C 708.1087 1402 739 1426.6235 739 1457 C 739 1487.3765 708.1087 1512 670 1512 C 631.8913 1512 601 1487.3765 601 1457 Z",
+      "bounds": {
+        "x": 601,
+        "y": 1402,
+        "width": 138,
+        "height": 110
+      },
+      "material": "rubber",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 422786054
+    },
+    {
+      "id": "r11",
+      "name": "右のひざ",
+      "path": "M 865 1457 C 865 1426.6235 895.8913 1402 934 1402 C 972.1087 1402 1003 1426.6235 1003 1457 C 1003 1487.3765 972.1087 1512 934 1512 C 895.8913 1512 865 1487.3765 865 1457 Z",
+      "bounds": {
+        "x": 865,
+        "y": 1402,
+        "width": 138,
+        "height": 110
+      },
+      "material": "rubber",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 439563673
+    },
+    {
+      "id": "r12",
+      "name": "左の上うで",
+      "path": "M 474 843 L 553 884 L 469 1080 L 379 1044 Z",
+      "bounds": {
+        "x": 379,
+        "y": 843,
+        "width": 174,
+        "height": 237
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 389230816
+    },
+    {
+      "id": "r13",
+      "name": "右の上うで",
+      "path": "M 1047 884 L 1127 843 L 1225 1044 L 1131 1080 Z",
+      "bounds": {
+        "x": 1047,
+        "y": 843,
+        "width": 178,
+        "height": 237
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 406008435
+    },
+    {
+      "id": "r14",
+      "name": "左のひじ",
+      "path": "M 353 1071 C 353 1034.5482 384.339 1005 423 1005 C 461.661 1005 493 1034.5482 493 1071 C 493 1107.4518 461.661 1137 423 1137 C 384.339 1137 353 1107.4518 353 1071 Z",
+      "bounds": {
+        "x": 353,
+        "y": 1005,
+        "width": 140,
+        "height": 132
+      },
+      "material": "rubber",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 489896530
+    },
+    {
+      "id": "r15",
+      "name": "右のひじ",
+      "path": "M 1108 1071 C 1108 1034.5482 1139.339 1005 1178 1005 C 1216.661 1005 1248 1034.5482 1248 1071 C 1248 1107.4518 1216.661 1137 1178 1137 C 1139.339 1137 1108 1107.4518 1108 1071 Z",
+      "bounds": {
+        "x": 1108,
+        "y": 1005,
+        "width": 140,
+        "height": 132
+      },
+      "material": "rubber",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 506674149
+    },
+    {
+      "id": "r16",
+      "name": "左の前うで",
+      "path": "M 375 1061 Q 423 1033 470 1072 L 437 1237 Q 381 1272 335 1228 Z",
+      "bounds": {
+        "x": 335,
+        "y": 1049,
+        "width": 135,
+        "height": 204
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 456341292
+    },
+    {
+      "id": "r17",
+      "name": "右の前うで",
+      "path": "M 1132 1072 Q 1178 1033 1227 1061 L 1266 1228 Q 1219 1272 1164 1237 Z",
+      "bounds": {
+        "x": 1132,
+        "y": 1049,
+        "width": 134,
+        "height": 204
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 473118911
+    },
+    {
+      "id": "r18",
+      "name": "左手",
+      "path": "M 335 1223 Q 290 1272 302 1336 Q 325 1362 351 1336 L 359 1298 Q 372 1280 390 1298 L 400 1339 Q 432 1368 451 1335 Q 464 1272 437 1231 Z",
+      "bounds": {
+        "x": 299,
+        "y": 1223,
+        "width": 157,
+        "height": 130
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 557007006
+    },
+    {
+      "id": "r19",
+      "name": "右手",
+      "path": "M 1164 1231 Q 1137 1272 1150 1335 Q 1169 1368 1201 1339 L 1211 1298 Q 1229 1280 1242 1298 L 1250 1336 Q 1276 1362 1299 1336 Q 1311 1272 1266 1223 Z",
+      "bounds": {
+        "x": 1145,
+        "y": 1223,
+        "width": 157,
+        "height": 130
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 573784625
+    },
+    {
+      "id": "r20",
+      "name": "くび",
+      "path": "M 727 692 H 877 Q 913 692 913 728 V 788 Q 913 824 877 824 H 727 Q 691 824 691 788 V 728 Q 691 692 727 692 Z",
+      "bounds": {
+        "x": 691,
+        "y": 692,
+        "width": 222,
+        "height": 132
+      },
+      "material": "rubber",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 3006289117
+    },
+    {
+      "id": "r21",
+      "name": "どうたい",
+      "path": "M 570 782 Q 803 744 1032 782 L 1081 1144 Q 1061 1316 941 1336 L 655 1336 Q 534 1314 522 1144 Z",
+      "bounds": {
+        "x": 522,
+        "y": 763,
+        "width": 559,
+        "height": 573
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2989511498
+    },
+    {
+      "id": "r22",
+      "name": "左かた",
+      "path": "M 422 833 C 422 782.1884 465.8746 741 520 741 C 574.1254 741 618 782.1884 618 833 C 618 883.8116 574.1254 925 520 925 C 465.8746 925 422 883.8116 422 833 Z",
+      "bounds": {
+        "x": 422,
+        "y": 741,
+        "width": 196,
+        "height": 184
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2972733879
+    },
+    {
+      "id": "r23",
+      "name": "右かた",
+      "path": "M 982 833 C 982 782.1884 1025.8746 741 1080 741 C 1134.1254 741 1178 782.1884 1178 833 C 1178 883.8116 1134.1254 925 1080 925 C 1025.8746 925 982 883.8116 982 833 Z",
+      "bounds": {
+        "x": 982,
+        "y": 741,
+        "width": 196,
+        "height": 184
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2955956260
+    },
+    {
+      "id": "r24",
+      "name": "おなかのパネル",
+      "path": "M 682 923 H 920 Q 977 923 977 980 V 1159 Q 977 1216 920 1216 H 682 Q 625 1216 625 1159 V 980 Q 625 923 682 923 Z",
+      "bounds": {
+        "x": 625,
+        "y": 923,
+        "width": 352,
+        "height": 293
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2939178641
+    },
+    {
+      "id": "r25",
+      "name": "大きなメーター",
+      "path": "M 731 1028 C 731 989.3389999999999 762.3389999999999 958 801 958 C 839.6610000000001 958 871 989.3389999999999 871 1028 C 871 1066.661 839.6610000000001 1098 801 1098 C 762.3389999999999 1098 731 1066.661 731 1028 Z",
+      "bounds": {
+        "x": 731,
+        "y": 958,
+        "width": 140,
+        "height": 140
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2922401022
+    },
+    {
+      "id": "r26",
+      "name": "スイッチ・左",
+      "path": "M 672 1141 C 672 1125.5356 684.5356 1113 700 1113 C 715.4644 1113 728 1125.5356 728 1141 C 728 1156.4644 715.4644 1169 700 1169 C 684.5356 1169 672 1156.4644 672 1141 Z",
+      "bounds": {
+        "x": 672,
+        "y": 1113,
+        "width": 56,
+        "height": 56
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2905623403
+    },
+    {
+      "id": "r27",
+      "name": "スイッチ・中",
+      "path": "M 773 1141 C 773 1125.5356 785.5356 1113 801 1113 C 816.4644 1113 829 1125.5356 829 1141 C 829 1156.4644 816.4644 1169 801 1169 C 785.5356 1169 773 1156.4644 773 1141 Z",
+      "bounds": {
+        "x": 773,
+        "y": 1113,
+        "width": 56,
+        "height": 56
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2888845784
+    },
+    {
+      "id": "r28",
+      "name": "スイッチ・右",
+      "path": "M 874 1141 C 874 1125.5356 886.5356 1113 902 1113 C 917.4644 1113 930 1125.5356 930 1141 C 930 1156.4644 917.4644 1169 902 1169 C 886.5356 1169 874 1156.4644 874 1141 Z",
+      "bounds": {
+        "x": 874,
+        "y": 1113,
+        "width": 56,
+        "height": 56
+      },
+      "material": "plastic",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2872068165
+    },
+    {
+      "id": "r29",
+      "name": "ベルト",
+      "path": "M 556 1241 Q 800 1296 1045 1241 L 1020 1296 Q 801 1367 581 1296 Z",
+      "bounds": {
+        "x": 556,
+        "y": 1241,
+        "width": 489,
+        "height": 91
+      },
+      "material": "rubber",
+      "confidence": 1,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2855290546
+    },
+    {
+      "id": "r30",
+      "name": "左耳",
+      "path": "M 492 494 H 504 Q 547 494 547 537 V 597 Q 547 640 504 640 H 492 Q 449 640 449 597 V 537 Q 449 494 492 494 Z",
+      "bounds": {
+        "x": 449,
+        "y": 494,
+        "width": 98,
+        "height": 146
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2905476308
+    },
+    {
+      "id": "r31",
+      "name": "右耳",
+      "path": "M 1098 494 H 1110 Q 1153 494 1153 537 V 597 Q 1153 640 1110 640 H 1098 Q 1055 640 1055 597 V 537 Q 1055 494 1098 494 Z",
+      "bounds": {
+        "x": 1055,
+        "y": 494,
+        "width": 98,
+        "height": 146
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2922253927
+    },
+    {
+      "id": "r32",
+      "name": "アンテナ",
+      "path": "M 798 314 H 804 Q 824 314 824 334 V 428 Q 824 448 804 448 H 798 Q 778 448 778 428 V 334 Q 778 314 798 314 Z",
+      "bounds": {
+        "x": 778,
+        "y": 314,
+        "width": 46,
+        "height": 134
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2939031546
+    },
+    {
+      "id": "r33",
+      "name": "アンテナの先",
+      "path": "M 750 291 C 750 262.8327 772.8327 240 801 240 C 829.1673 240 852 262.8327 852 291 C 852 319.1673 829.1673 342 801 342 C 772.8327 342 750 319.1673 750 291 Z",
+      "bounds": {
+        "x": 750,
+        "y": 240,
+        "width": 102,
+        "height": 102
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2955809165
+    },
+    {
+      "id": "r34",
+      "name": "頭",
+      "path": "M 568 424 Q 800 356 1037 424 Q 1080 461 1080 553 L 1061 670 Q 1022 745 801 750 Q 579 745 540 670 L 522 553 Q 522 461 568 424 Z",
+      "bounds": {
+        "x": 522,
+        "y": 390,
+        "width": 558,
+        "height": 360
+      },
+      "material": "metal",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2838365832
+    },
+    {
+      "id": "r35",
+      "name": "顔のスクリーン",
+      "path": "M 657 490 H 947 Q 1014 490 1014 557 V 592 Q 1014 659 947 659 H 657 Q 590 659 590 592 V 557 Q 590 490 657 490 Z",
+      "bounds": {
+        "x": 590,
+        "y": 490,
+        "width": 424,
+        "height": 169
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2855143451
+    },
+    {
+      "id": "r36",
+      "name": "目・左",
+      "path": "M 656 563 C 656 537.0418999999999 673.908 516 696 516 C 718.092 516 736 537.0418999999999 736 563 C 736 588.9581000000001 718.092 610 696 610 C 673.908 610 656 588.9581000000001 656 563 Z",
+      "bounds": {
+        "x": 656,
+        "y": 516,
+        "width": 80,
+        "height": 94
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2871921070
+    },
+    {
+      "id": "r37",
+      "name": "目・右",
+      "path": "M 866 563 C 866 537.0418999999999 883.908 516 906 516 C 928.092 516 946 537.0418999999999 946 563 C 946 588.9581000000001 928.092 610 906 610 C 883.908 610 866 588.9581000000001 866 563 Z",
+      "bounds": {
+        "x": 866,
+        "y": 516,
+        "width": 80,
+        "height": 94
+      },
+      "material": "glass",
+      "confidence": 1,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.35,
+      "direction": 90,
+      "seed": 2888698689
+    }
+  ],
+  "details": [
+    {
+      "path": "M 745 622 Q 801 649 857 622 M 668 862 L 931 862 M 801 985 L 801 1028 L 839 1044 M 694 1458 L 647 1458 M 910 1458 L 957 1458",
+      "strokeWidth": 9
+    }
+  ],
+  "lineWidth": 12
+}

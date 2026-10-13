@@ -1,0 +1,21 @@
+[
+  {
+    "file": "content/vector-generated/compiled/ink/gen-round-sports-car-v2-storybook-v2/general.png",
+    "x": 0,
+    "y": 0,
+    "scale": 2,
+    "closeSeams": 0,
+    "protectSilhouette": {
+      "opaque": "content/vector-generated/compiled/ink/gen-round-sports-car-v2-storybook-v2/opaque.png",
+      "ink": "content/vector-generated/compiled/ink/gen-round-sports-car-v2-storybook-v2/source-ink.png",
+      "width": 5
+    }
+  },
+  {
+    "file": "content/vector-generated/compiled/ink/gen-round-sports-car-v2-storybook-v2/opaque.png",
+    "x": 0,
+    "y": 0,
+    "scale": 2,
+    "closeSeams": 1
+  }
+]

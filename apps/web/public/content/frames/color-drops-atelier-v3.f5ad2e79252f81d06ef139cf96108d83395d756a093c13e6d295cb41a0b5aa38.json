@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/color-drops-atelier-v3-top.31df7da42705a79417280e740f6f0f3565fd52d4affeb8919f6cfda72ccfe264.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/color-drops-atelier-v3-bottom.887dd0fbd5f9b939e20c5bedf51c6e5b30a51384b60892d134f6d4d5122fc8b4.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/color-drops-atelier-v3-left.440c51120a5f131b443ce71de5371d3bfa3fadad06dfa8199fd775b2fc98af5c.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/color-drops-atelier-v3-right.4362030857bfb460590176050f3f7987ffa8b2f561c1e90431663f72da0e3454.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

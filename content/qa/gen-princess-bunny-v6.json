@@ -1,0 +1,1394 @@
+{
+  "templateId": "gen-princess-bunny-v6",
+  "pass": true,
+  "regionCount": 51,
+  "expectedRegionRange": [
+    30,
+    35
+  ],
+  "errors": [],
+  "warnings": [
+    "領域数 51 は目安 30〜35 の範囲外",
+    "r04: 塗れる幅が24px未満 (22.0px)、個別の4×操作実測証拠付き例外",
+    "r05: 塗れる幅が24px未満 (22.0px)、個別の4×操作実測証拠付き例外",
+    "r09: 塗れる幅が24px未満 (22.0px)、個別の4×操作実測証拠付き例外",
+    "r11: 塗れる幅が24px未満 (22.0px)、個別の4×操作実測証拠付き例外",
+    "r14: 塗れる幅が24px未満 (20.0px)、個別の4×操作実測証拠付き例外",
+    "r43: 塗れる幅が24px未満 (23.8px)、個別の4×操作実測証拠付き例外",
+    "r46: 塗れる幅が24px未満 (22.0px)、個別の4×操作実測証拠付き例外"
+  ],
+  "closedRegions": 51,
+  "backgroundLeak": null,
+  "closureMethod": "threshold + 3px analysis close; original ink contours preserved separately",
+  "minimumBoundsWidth": 20,
+  "minimumUsableDiameter": 20,
+  "minVisibleArea": 366,
+  "blackRatio": 0.04104875,
+  "whiteRatio": 0.9468475,
+  "antiAliasRatio": 0.01210375,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "王冠",
+      "visibleArea": 14276,
+      "usableDiameter": 40.83
+    },
+    {
+      "id": "r02",
+      "name": "王冠中央の宝石",
+      "visibleArea": 1898,
+      "usableDiameter": 40
+    },
+    {
+      "id": "r03",
+      "name": "王冠左の髪",
+      "visibleArea": 3802,
+      "usableDiameter": 39.6
+    },
+    {
+      "id": "r04",
+      "name": "王冠左の宝石",
+      "visibleArea": 681,
+      "usableDiameter": 22
+    },
+    {
+      "id": "r05",
+      "name": "王冠右の宝石",
+      "visibleArea": 552,
+      "usableDiameter": 22
+    },
+    {
+      "id": "r06",
+      "name": "前髪と右内側の髪",
+      "visibleArea": 62767,
+      "usableDiameter": 87.68
+    },
+    {
+      "id": "r07",
+      "name": "顔と耳",
+      "visibleArea": 48077,
+      "usableDiameter": 106.63
+    },
+    {
+      "id": "r08",
+      "name": "左外側の長い髪",
+      "visibleArea": 41379,
+      "usableDiameter": 99.2
+    },
+    {
+      "id": "r09",
+      "name": "左こめかみの髪",
+      "visibleArea": 731,
+      "usableDiameter": 22
+    },
+    {
+      "id": "r10",
+      "name": "左の瞳",
+      "visibleArea": 1924,
+      "usableDiameter": 30
+    },
+    {
+      "id": "r11",
+      "name": "左の瞳のハイライト",
+      "visibleArea": 427,
+      "usableDiameter": 22
+    },
+    {
+      "id": "r12",
+      "name": "右の瞳",
+      "visibleArea": 1591,
+      "usableDiameter": 26
+    },
+    {
+      "id": "r13",
+      "name": "左内側の長い髪",
+      "visibleArea": 29259,
+      "usableDiameter": 118.79
+    },
+    {
+      "id": "r14",
+      "name": "右の瞳のハイライト",
+      "visibleArea": 366,
+      "usableDiameter": 20
+    },
+    {
+      "id": "r15",
+      "name": "首の左側の髪",
+      "visibleArea": 2393,
+      "usableDiameter": 45.31
+    },
+    {
+      "id": "r16",
+      "name": "口",
+      "visibleArea": 1033,
+      "usableDiameter": 29.46
+    },
+    {
+      "id": "r17",
+      "name": "右外側の長い髪",
+      "visibleArea": 37218,
+      "usableDiameter": 169.71
+    },
+    {
+      "id": "r18",
+      "name": "左の袖",
+      "visibleArea": 9358,
+      "usableDiameter": 76.37
+    },
+    {
+      "id": "r19",
+      "name": "首と胸元",
+      "visibleArea": 7811,
+      "usableDiameter": 74
+    },
+    {
+      "id": "r20",
+      "name": "右の袖",
+      "visibleArea": 16592,
+      "usableDiameter": 118.79
+    },
+    {
+      "id": "r21",
+      "name": "ドレスの身頃",
+      "visibleArea": 18539,
+      "usableDiameter": 115.54
+    },
+    {
+      "id": "r22",
+      "name": "左腕と手",
+      "visibleArea": 15337,
+      "usableDiameter": 59.4
+    },
+    {
+      "id": "r23",
+      "name": "右腕と手",
+      "visibleArea": 17455,
+      "usableDiameter": 62.23
+    },
+    {
+      "id": "r25",
+      "name": "リボン左",
+      "visibleArea": 5188,
+      "usableDiameter": 66.83
+    },
+    {
+      "id": "r26",
+      "name": "リボン右",
+      "visibleArea": 4596,
+      "usableDiameter": 62.63
+    },
+    {
+      "id": "r28",
+      "name": "スカート左の重なり",
+      "visibleArea": 53197,
+      "usableDiameter": 185.71
+    },
+    {
+      "id": "r29",
+      "name": "スカート右の重なり",
+      "visibleArea": 54287,
+      "usableDiameter": 206.45
+    },
+    {
+      "id": "r30",
+      "name": "リボンの垂れ",
+      "visibleArea": 5850,
+      "usableDiameter": 66
+    },
+    {
+      "id": "r31",
+      "name": "リボンの結び目",
+      "visibleArea": 933,
+      "usableDiameter": 32
+    },
+    {
+      "id": "r34",
+      "name": "うさぎ左耳",
+      "visibleArea": 10375,
+      "usableDiameter": 39.6
+    },
+    {
+      "id": "r35",
+      "name": "スカート左端",
+      "visibleArea": 52199,
+      "usableDiameter": 124.45
+    },
+    {
+      "id": "r36",
+      "name": "スカート中央",
+      "visibleArea": 177240,
+      "usableDiameter": 342
+    },
+    {
+      "id": "r37",
+      "name": "うさぎ左耳の内側",
+      "visibleArea": 7345,
+      "usableDiameter": 60
+    },
+    {
+      "id": "r38",
+      "name": "うさぎの顔と右耳",
+      "visibleArea": 56586,
+      "usableDiameter": 89.54
+    },
+    {
+      "id": "r39",
+      "name": "うさぎ右耳の内側",
+      "visibleArea": 8628,
+      "usableDiameter": 65.05
+    },
+    {
+      "id": "r40",
+      "name": "スカート左中央",
+      "visibleArea": 89604,
+      "usableDiameter": 208
+    },
+    {
+      "id": "r41",
+      "name": "スカート右端",
+      "visibleArea": 97856,
+      "usableDiameter": 218.96
+    },
+    {
+      "id": "r42",
+      "name": "うさぎ左の瞳",
+      "visibleArea": 1605,
+      "usableDiameter": 33.94
+    },
+    {
+      "id": "r43",
+      "name": "うさぎ左の瞳のハイライト",
+      "visibleArea": 504,
+      "usableDiameter": 23.8
+    },
+    {
+      "id": "r44",
+      "name": "うさぎ右の瞳",
+      "visibleArea": 2644,
+      "usableDiameter": 38
+    },
+    {
+      "id": "r45",
+      "name": "うさぎ右の瞳のハイライト",
+      "visibleArea": 794,
+      "usableDiameter": 30.28
+    },
+    {
+      "id": "r46",
+      "name": "うさぎの鼻",
+      "visibleArea": 529,
+      "usableDiameter": 22
+    },
+    {
+      "id": "r47",
+      "name": "うさぎの口",
+      "visibleArea": 1229,
+      "usableDiameter": 33.11
+    },
+    {
+      "id": "r48",
+      "name": "うさぎの胸と左前脚",
+      "visibleArea": 20774,
+      "usableDiameter": 83.2
+    },
+    {
+      "id": "r49",
+      "name": "うさぎの首飾り",
+      "visibleArea": 1630,
+      "usableDiameter": 25.66
+    },
+    {
+      "id": "r50",
+      "name": "うさぎリボン左",
+      "visibleArea": 2407,
+      "usableDiameter": 44
+    },
+    {
+      "id": "r51",
+      "name": "うさぎリボン結び目",
+      "visibleArea": 648,
+      "usableDiameter": 26
+    },
+    {
+      "id": "r52",
+      "name": "うさぎリボン右",
+      "visibleArea": 2634,
+      "usableDiameter": 45.8
+    },
+    {
+      "id": "r53",
+      "name": "うさぎの体と右前脚",
+      "visibleArea": 43759,
+      "usableDiameter": 138
+    },
+    {
+      "id": "r54",
+      "name": "うさぎの左後脚",
+      "visibleArea": 5664,
+      "usableDiameter": 41.66
+    },
+    {
+      "id": "r55",
+      "name": "うさぎのしっぽ",
+      "visibleArea": 9137,
+      "usableDiameter": 62
+    }
+  ],
+  "rasterEvidence": {
+    "pass": true,
+    "templateId": "gen-princess-bunny-v6",
+    "approved": false,
+    "approvalRequired": true,
+    "originalSha256": "f0fbc3b052f29645893b44c49bbbc2e179d4b071fb4a0fca48aaaa356df321f0",
+    "compilerVersion": 2,
+    "templateSha256": "dc01ca3be24a4b3c73269d1881108b5e59badb5051227394dd2efda8410c3f0d",
+    "normalizedSha256": "2e84076409201bf17b0cb30673ca7e33dbcd6e460cd3f635b4773ba1dfa765e2",
+    "originalSize": [
+      1122,
+      1402
+    ],
+    "analysisSize": [
+      1600,
+      2000
+    ],
+    "normalization": {
+      "method": "contain-whole-page-on-white",
+      "scale": 1.1978609625668448,
+      "offset": [
+        128,
+        160
+      ],
+      "imageSize": [
+        1344,
+        1679
+      ],
+      "canvasSize": [
+        1600,
+        2000
+      ],
+      "safeMargin": 128,
+      "cropped": false,
+      "contoursRedrawn": false
+    },
+    "regionCount": 51,
+    "detectedRegionCount": 56,
+    "countPolicy": "advisory",
+    "countWithinExpectedRange": false,
+    "expectedRange": [
+      30,
+      35
+    ],
+    "smallRepairCandidates": 1,
+    "largeGapCandidates": 2,
+    "dilationApplied": false,
+    "unreviewedLargeGapCandidates": 0,
+    "gapCandidateDetails": [
+      {
+        "id": "g01",
+        "candidateKey": "gap-013e737f0ffa6d143c2b5283ff9b02fdca73e5a2c1d20aa611bcbb0b4f2f2176",
+        "originalSha256": "f0fbc3b052f29645893b44c49bbbc2e179d4b071fb4a0fca48aaaa356df321f0",
+        "maskSha256": "ac3fde5b429efc058693ec1ad71e89094ac18fd319e4173dfbc840822aa21a71",
+        "kind": "split-open-detail",
+        "parentRegionId": "r17",
+        "parentRegionName": "右外側の長い髪",
+        "parentExteriorConnected": false,
+        "labelPoint": [
+          732,
+          721
+        ],
+        "bounds": [
+          713,
+          711,
+          40,
+          19
+        ],
+        "area": 524,
+        "usableDiameter": 16.394,
+        "review": {
+          "candidateKey": "gap-013e737f0ffa6d143c2b5283ff9b02fdca73e5a2c1d20aa611bcbb0b4f2f2176",
+          "kind": "split-open-detail",
+          "parentRegionId": "r17",
+          "parentRegionName": "右外側の長い髪",
+          "parentExteriorConnected": false,
+          "classification": "intentional-open-detail",
+          "part": "首の右脇にある右外側の長い髪の細い接続部",
+          "reason": "首の右脇の白い部分はr17「右外側の長い髪」の一部。3px closeの解析では同じ髪の領域へつながり、外背景へは接続しない。9px closeだけが524px²を切り離す候補であり、まぶたではない。",
+          "originalSha256": "f0fbc3b052f29645893b44c49bbbc2e179d4b071fb4a0fca48aaaa356df321f0",
+          "point": [
+            732,
+            721
+          ]
+        }
+      },
+      {
+        "id": "g02",
+        "candidateKey": "gap-76d8ee1429d228c3cce1103b0a26871faaa437ce259b202aae39634a69f2c904",
+        "originalSha256": "f0fbc3b052f29645893b44c49bbbc2e179d4b071fb4a0fca48aaaa356df321f0",
+        "maskSha256": "db1a6eece313e438befca7644bef3f560655897114e9a1e1d26411eb1edf2e67",
+        "kind": "new-from-background",
+        "parentRegionId": null,
+        "parentRegionName": "外背景",
+        "parentExteriorConnected": true,
+        "labelPoint": [
+          1216,
+          1254
+        ],
+        "bounds": [
+          1209,
+          1237,
+          18,
+          26
+        ],
+        "area": 347,
+        "usableDiameter": 15.981,
+        "review": {
+          "candidateKey": "gap-76d8ee1429d228c3cce1103b0a26871faaa437ce259b202aae39634a69f2c904",
+          "kind": "new-from-background",
+          "parentRegionId": null,
+          "parentRegionName": "外背景",
+          "parentExteriorConnected": true,
+          "classification": "background",
+          "part": "うさぎ耳の付け根の外背景",
+          "reason": "うさぎの両耳が顔に接する付け根側の外背景。3px closeではキャンバス外周へつながり、9px closeだけが347px²の出口を塞ぐ。耳や顔の内部ではなく、まぶたでもない。",
+          "originalSha256": "f0fbc3b052f29645893b44c49bbbc2e179d4b071fb4a0fca48aaaa356df321f0",
+          "point": [
+            1216,
+            1254
+          ]
+        }
+      }
+    ],
+    "gapReviewSchemaVersion": 2,
+    "tinyRegions": 0,
+    "blackRatio": 0.0532084375,
+    "grayRatio": 0.0177334375,
+    "backgroundComponentsExcluded": 1,
+    "contourPoints": 4460,
+    "originalInkContourPoints": 20510,
+    "minimumUsableDiameter": 21.181,
+    "regions": [
+      {
+        "id": "r01",
+        "area": 15327,
+        "usableDiameter": 41.544,
+        "labelPoint": [
+          710,
+          303
+        ],
+        "bounds": [
+          634,
+          193,
+          242,
+          167
+        ]
+      },
+      {
+        "id": "r02",
+        "area": 2038,
+        "usableDiameter": 41.15,
+        "labelPoint": [
+          754,
+          279
+        ],
+        "bounds": [
+          734,
+          245,
+          41,
+          64
+        ]
+      },
+      {
+        "id": "r03",
+        "area": 4123,
+        "usableDiameter": 39.15,
+        "labelPoint": [
+          606,
+          327
+        ],
+        "bounds": [
+          513,
+          298,
+          115,
+          113
+        ]
+      },
+      {
+        "id": "r04",
+        "area": 644,
+        "usableDiameter": 22,
+        "labelPoint": [
+          673,
+          292
+        ],
+        "bounds": [
+          662,
+          276,
+          22,
+          36
+        ]
+      },
+      {
+        "id": "r05",
+        "area": 614,
+        "usableDiameter": 21.969,
+        "labelPoint": [
+          830,
+          311
+        ],
+        "bounds": [
+          819,
+          296,
+          22,
+          35
+        ]
+      },
+      {
+        "id": "r06",
+        "area": 64885,
+        "usableDiameter": 88.394,
+        "labelPoint": [
+          885,
+          702
+        ],
+        "bounds": [
+          472,
+          332,
+          486,
+          460
+        ]
+      },
+      {
+        "id": "r07",
+        "area": 50042,
+        "usableDiameter": 102.695,
+        "labelPoint": [
+          758,
+          515
+        ],
+        "bounds": [
+          508,
+          412,
+          358,
+          296
+        ]
+      },
+      {
+        "id": "r08",
+        "area": 42543,
+        "usableDiameter": 95.888,
+        "labelPoint": [
+          330,
+          820
+        ],
+        "bounds": [
+          268,
+          509,
+          256,
+          506
+        ]
+      },
+      {
+        "id": "r09",
+        "area": 872,
+        "usableDiameter": 23.969,
+        "labelPoint": [
+          573,
+          526
+        ],
+        "bounds": [
+          545,
+          507,
+          53,
+          42
+        ]
+      },
+      {
+        "id": "r10",
+        "area": 2198,
+        "usableDiameter": 31.963,
+        "labelPoint": [
+          655,
+          582
+        ],
+        "bounds": [
+          629,
+          526,
+          57,
+          72
+        ]
+      },
+      {
+        "id": "r11",
+        "area": 483,
+        "usableDiameter": 23.969,
+        "labelPoint": [
+          658,
+          548
+        ],
+        "bounds": [
+          647,
+          535,
+          23,
+          26
+        ]
+      },
+      {
+        "id": "r12",
+        "area": 1751,
+        "usableDiameter": 28,
+        "labelPoint": [
+          785,
+          614
+        ],
+        "bounds": [
+          767,
+          561,
+          52,
+          67
+        ]
+      },
+      {
+        "id": "r13",
+        "area": 30230,
+        "usableDiameter": 116.651,
+        "labelPoint": [
+          426,
+          880
+        ],
+        "bounds": [
+          357,
+          581,
+          222,
+          420
+        ]
+      },
+      {
+        "id": "r14",
+        "area": 416,
+        "usableDiameter": 21.181,
+        "labelPoint": [
+          787,
+          582
+        ],
+        "bounds": [
+          777,
+          570,
+          21,
+          25
+        ]
+      },
+      {
+        "id": "r15",
+        "area": 2599,
+        "usableDiameter": 45.969,
+        "labelPoint": [
+          605,
+          709
+        ],
+        "bounds": [
+          574,
+          656,
+          55,
+          82
+        ]
+      },
+      {
+        "id": "r16",
+        "area": 1163,
+        "usableDiameter": 30.363,
+        "labelPoint": [
+          698,
+          664
+        ],
+        "bounds": [
+          677,
+          639,
+          50,
+          41
+        ]
+      },
+      {
+        "id": "r17",
+        "area": 38331,
+        "usableDiameter": 169.594,
+        "labelPoint": [
+          947,
+          896
+        ],
+        "bounds": [
+          710,
+          677,
+          327,
+          373
+        ]
+      },
+      {
+        "id": "r18",
+        "area": 9754,
+        "usableDiameter": 74.301,
+        "labelPoint": [
+          523,
+          799
+        ],
+        "bounds": [
+          479,
+          730,
+          119,
+          145
+        ]
+      },
+      {
+        "id": "r19",
+        "area": 8175,
+        "usableDiameter": 74,
+        "labelPoint": [
+          669,
+          749
+        ],
+        "bounds": [
+          580,
+          696,
+          146,
+          109
+        ]
+      },
+      {
+        "id": "r20",
+        "area": 17067,
+        "usableDiameter": 116.394,
+        "labelPoint": [
+          775,
+          785
+        ],
+        "bounds": [
+          708,
+          724,
+          148,
+          155
+        ]
+      },
+      {
+        "id": "r21",
+        "area": 19059,
+        "usableDiameter": 110.664,
+        "labelPoint": [
+          653,
+          864
+        ],
+        "bounds": [
+          560,
+          793,
+          172,
+          157
+        ]
+      },
+      {
+        "id": "r22",
+        "area": 16200,
+        "usableDiameter": 59.532,
+        "labelPoint": [
+          478,
+          961
+        ],
+        "bounds": [
+          284,
+          868,
+          278,
+          236
+        ]
+      },
+      {
+        "id": "r23",
+        "area": 18411,
+        "usableDiameter": 63.194,
+        "labelPoint": [
+          851,
+          975
+        ],
+        "bounds": [
+          769,
+          865,
+          289,
+          282
+        ]
+      },
+      {
+        "id": "r25",
+        "area": 5400,
+        "usableDiameter": 65.575,
+        "labelPoint": [
+          631,
+          958
+        ],
+        "bounds": [
+          599,
+          923,
+          75,
+          97
+        ]
+      },
+      {
+        "id": "r26",
+        "area": 4832,
+        "usableDiameter": 62.363,
+        "labelPoint": [
+          750,
+          964
+        ],
+        "bounds": [
+          710,
+          913,
+          72,
+          89
+        ]
+      },
+      {
+        "id": "r28",
+        "area": 54001,
+        "usableDiameter": 179.07,
+        "labelPoint": [
+          467,
+          1132
+        ],
+        "bounds": [
+          311,
+          954,
+          323,
+          288
+        ]
+      },
+      {
+        "id": "r29",
+        "area": 55362,
+        "usableDiameter": 199.746,
+        "labelPoint": [
+          826,
+          1164
+        ],
+        "bounds": [
+          621,
+          982,
+          327,
+          282
+        ]
+      },
+      {
+        "id": "r30",
+        "area": 6138,
+        "usableDiameter": 66.332,
+        "labelPoint": [
+          691,
+          1066
+        ],
+        "bounds": [
+          658,
+          989,
+          73,
+          121
+        ]
+      },
+      {
+        "id": "r31",
+        "area": 1016,
+        "usableDiameter": 33.557,
+        "labelPoint": [
+          692,
+          963
+        ],
+        "bounds": [
+          676,
+          944,
+          33,
+          39
+        ]
+      },
+      {
+        "id": "r34",
+        "area": 11193,
+        "usableDiameter": 40.794,
+        "labelPoint": [
+          1220,
+          1050
+        ],
+        "bounds": [
+          1109,
+          1026,
+          138,
+          226
+        ]
+      },
+      {
+        "id": "r35",
+        "area": 53428,
+        "usableDiameter": 118.239,
+        "labelPoint": [
+          298,
+          1258
+        ],
+        "bounds": [
+          139,
+          1110,
+          238,
+          574
+        ]
+      },
+      {
+        "id": "r36",
+        "area": 178726,
+        "usableDiameter": 341.575,
+        "labelPoint": [
+          620,
+          1633
+        ],
+        "bounds": [
+          442,
+          1107,
+          367,
+          697
+        ]
+      },
+      {
+        "id": "r37",
+        "area": 7671,
+        "usableDiameter": 58.726,
+        "labelPoint": [
+          1172,
+          1159
+        ],
+        "bounds": [
+          1133,
+          1072,
+          74,
+          167
+        ]
+      },
+      {
+        "id": "r38",
+        "area": 59556,
+        "usableDiameter": 87.144,
+        "labelPoint": [
+          1138,
+          1301
+        ],
+        "bounds": [
+          970,
+          1113,
+          433,
+          404
+        ]
+      },
+      {
+        "id": "r39",
+        "area": 8984,
+        "usableDiameter": 63.926,
+        "labelPoint": [
+          1318,
+          1225
+        ],
+        "bounds": [
+          1257,
+          1151,
+          116,
+          166
+        ]
+      },
+      {
+        "id": "r40",
+        "area": 90788,
+        "usableDiameter": 206.509,
+        "labelPoint": [
+          336,
+          1655
+        ],
+        "bounds": [
+          223,
+          1221,
+          291,
+          546
+        ]
+      },
+      {
+        "id": "r41",
+        "area": 99226,
+        "usableDiameter": 214.509,
+        "labelPoint": [
+          886,
+          1509
+        ],
+        "bounds": [
+          709,
+          1231,
+          304,
+          534
+        ]
+      },
+      {
+        "id": "r42",
+        "area": 1815,
+        "usableDiameter": 34.788,
+        "labelPoint": [
+          1045,
+          1357
+        ],
+        "bounds": [
+          1027,
+          1299,
+          52,
+          77
+        ]
+      },
+      {
+        "id": "r43",
+        "area": 571,
+        "usableDiameter": 24.769,
+        "labelPoint": [
+          1052,
+          1320
+        ],
+        "bounds": [
+          1040,
+          1306,
+          25,
+          29
+        ]
+      },
+      {
+        "id": "r44",
+        "area": 2883,
+        "usableDiameter": 38.394,
+        "labelPoint": [
+          1171,
+          1404
+        ],
+        "bounds": [
+          1141,
+          1339,
+          66,
+          85
+        ]
+      },
+      {
+        "id": "r45",
+        "area": 871,
+        "usableDiameter": 30.757,
+        "labelPoint": [
+          1169,
+          1361
+        ],
+        "bounds": [
+          1153,
+          1345,
+          32,
+          35
+        ]
+      },
+      {
+        "id": "r46",
+        "area": 608,
+        "usableDiameter": 23.181,
+        "labelPoint": [
+          1080,
+          1401
+        ],
+        "bounds": [
+          1066,
+          1389,
+          34,
+          24
+        ]
+      },
+      {
+        "id": "r47",
+        "area": 1347,
+        "usableDiameter": 33.169,
+        "labelPoint": [
+          1072,
+          1454
+        ],
+        "bounds": [
+          1051,
+          1431,
+          52,
+          41
+        ]
+      },
+      {
+        "id": "r48",
+        "area": 21804,
+        "usableDiameter": 80.295,
+        "labelPoint": [
+          1082,
+          1617
+        ],
+        "bounds": [
+          990,
+          1521,
+          162,
+          280
+        ]
+      },
+      {
+        "id": "r49",
+        "area": 1808,
+        "usableDiameter": 25.969,
+        "labelPoint": [
+          1047,
+          1518
+        ],
+        "bounds": [
+          1017,
+          1492,
+          70,
+          50
+        ]
+      },
+      {
+        "id": "r50",
+        "area": 2561,
+        "usableDiameter": 44.757,
+        "labelPoint": [
+          1115,
+          1532
+        ],
+        "bounds": [
+          1093,
+          1509,
+          48,
+          67
+        ]
+      },
+      {
+        "id": "r51",
+        "area": 730,
+        "usableDiameter": 27.569,
+        "labelPoint": [
+          1158,
+          1539
+        ],
+        "bounds": [
+          1145,
+          1523,
+          28,
+          34
+        ]
+      },
+      {
+        "id": "r52",
+        "area": 2812,
+        "usableDiameter": 44.788,
+        "labelPoint": [
+          1202,
+          1546
+        ],
+        "bounds": [
+          1175,
+          1503,
+          51,
+          70
+        ]
+      },
+      {
+        "id": "r53",
+        "area": 45213,
+        "usableDiameter": 136,
+        "labelPoint": [
+          1270,
+          1684
+        ],
+        "bounds": [
+          1066,
+          1534,
+          272,
+          271
+        ]
+      },
+      {
+        "id": "r54",
+        "area": 6141,
+        "usableDiameter": 41.544,
+        "labelPoint": [
+          990,
+          1697
+        ],
+        "bounds": [
+          944,
+          1625,
+          81,
+          160
+        ]
+      },
+      {
+        "id": "r55",
+        "area": 9546,
+        "usableDiameter": 62.719,
+        "labelPoint": [
+          1376,
+          1705
+        ],
+        "bounds": [
+          1326,
+          1598,
+          87,
+          170
+        ]
+      }
+    ],
+    "tinyRegionBounds": [],
+    "tinyRegionDetails": [],
+    "materialReviewRequired": false,
+    "annotationSha256": "5e7bf98944c79e57900f9eea3e85f82fe62f869cab54cf4baeff49ac1e265ee2",
+    "technicalSemanticReview": {
+      "reviewer": "Codex technical source review",
+      "checks": [
+        "all-subject-parts-closed",
+        "negative-space-excluded",
+        "pupils-and-highlights-white"
+      ],
+      "unresolvedLeaks": []
+    },
+    "excludedBackgroundRegions": [
+      {
+        "name": "左腕と身頃の間の背景",
+        "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+        "bounds": [
+          538,
+          915,
+          34,
+          45
+        ]
+      },
+      {
+        "name": "右袖と身頃の間の背景",
+        "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+        "bounds": [
+          731,
+          886,
+          37,
+          26
+        ]
+      },
+      {
+        "name": "右腕とリボンの間の背景",
+        "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+        "bounds": [
+          789,
+          952,
+          20,
+          32
+        ]
+      },
+      {
+        "name": "左手とスカートの間の背景",
+        "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+        "bounds": [
+          377,
+          1036,
+          52,
+          35
+        ]
+      },
+      {
+        "name": "うさぎの脚の間の背景",
+        "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+        "bounds": [
+          1154,
+          1714,
+          39,
+          62
+        ]
+      }
+    ],
+    "widthExceptions": [
+      {
+        "id": "r04",
+        "name": "王冠左の宝石",
+        "usableDiameter": 22,
+        "reason": "王冠左の宝石は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v6.json",
+        "evidenceSha256": "e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0",
+        "evidenceSnapshot": "interaction-e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0.json"
+      },
+      {
+        "id": "r05",
+        "name": "王冠右の宝石",
+        "usableDiameter": 21.969,
+        "reason": "王冠右の宝石は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v6.json",
+        "evidenceSha256": "e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0",
+        "evidenceSnapshot": "interaction-e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0.json"
+      },
+      {
+        "id": "r09",
+        "name": "左こめかみの髪",
+        "usableDiameter": 23.969,
+        "reason": "左こめかみの髪は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v6.json",
+        "evidenceSha256": "e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0",
+        "evidenceSnapshot": "interaction-e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0.json"
+      },
+      {
+        "id": "r11",
+        "name": "左の瞳のハイライト",
+        "usableDiameter": 23.969,
+        "reason": "左の瞳のハイライトは意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v6.json",
+        "evidenceSha256": "e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0",
+        "evidenceSnapshot": "interaction-e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0.json"
+      },
+      {
+        "id": "r14",
+        "name": "右の瞳のハイライト",
+        "usableDiameter": 21.181,
+        "reason": "右の瞳のハイライトは意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v6.json",
+        "evidenceSha256": "e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0",
+        "evidenceSnapshot": "interaction-e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0.json"
+      },
+      {
+        "id": "r43",
+        "name": "うさぎ左の瞳のハイライト",
+        "usableDiameter": 24.769,
+        "reason": "うさぎ左の瞳のハイライトは原画maskの幅24.769pxに対し、実寸の公開path再描画で23.8px。17〜24pxの個別操作例外として、4×での選択・着色・消去の実測に結び付ける。",
+        "secondaryUsableDiameter": 23.8,
+        "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v6.json",
+        "evidenceSha256": "e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0",
+        "evidenceSnapshot": "interaction-e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0.json"
+      },
+      {
+        "id": "r46",
+        "name": "うさぎの鼻",
+        "usableDiameter": 23.181,
+        "reason": "うさぎの鼻は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v6.json",
+        "evidenceSha256": "e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0",
+        "evidenceSnapshot": "interaction-e9a6e6fb957e6375b5d4febf16a4b54a12c691934393930141a58e7e9fa560a0.json"
+      }
+    ],
+    "excludedLineDetails": [],
+    "visibleInkSource": "original-threshold-contours; no morphological repair or extra region stroke",
+    "errors": [],
+    "warnings": [
+      "9px close候補 2箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）",
+      "1pxの線拡張で閉じる候補があります。解析マスクを確認してください",
+      "領域数 51 が目安 30〜35 の範囲外です",
+      "r04: 幅 22.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+      "r05: 幅 22.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+      "r09: 幅 24.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+      "r11: 幅 24.0px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+      "r14: 幅 21.2px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+      "r43: 幅 24.8px。個別注釈と4×操作・塗り消去の実測証拠付き例外",
+      "r46: 幅 23.2px。個別注釈と4×操作・塗り消去の実測証拠付き例外"
+    ],
+    "publicationNote": "原画と解析maskを別保存。素材・細部・輪郭の人間確認後に公開してください。",
+    "originalFile": "content/generated-lineart/compiled/gen-princess-bunny-v6/original.png"
+  },
+  "backgroundLeakStatus": "semantic visual review required; a large gap may remain connected to exterior even after 9px close",
+  "contentHash": "b588b311fe0dbdb38ffba9fef8eb6029113d453d581523ecae1972c08ac2f99e",
+  "approval": {
+    "kind": "human",
+    "reviewer": "ユーザー（Codex会話）",
+    "recordedAt": "2026-10-06T16:39:21.516Z",
+    "contentHash": "b588b311fe0dbdb38ffba9fef8eb6029113d453d581523ecae1972c08ac2f99e",
+    "basis": "新しい10枚の線画一覧を確認し「この10枚を正式採用する」と回答"
+  }
+}

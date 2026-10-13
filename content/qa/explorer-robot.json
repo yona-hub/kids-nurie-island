@@ -1,0 +1,252 @@
+{
+  "templateId": "explorer-robot",
+  "pass": true,
+  "regionCount": 37,
+  "expectedRegionRange": [
+    30,
+    40
+  ],
+  "errors": [],
+  "warnings": [],
+  "closedRegions": 37,
+  "backgroundLeak": false,
+  "closureMethod": "explicit SVG Z paths; background excluded by compiled visible region masks",
+  "minimumBoundsWidth": 46,
+  "minimumUsableDiameter": 24,
+  "minVisibleArea": 2552,
+  "blackRatio": 0.0608925,
+  "whiteRatio": 0.92503875,
+  "antiAliasRatio": 0.01406875,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "バックパック",
+      "visibleArea": 26808,
+      "usableDiameter": 52
+    },
+    {
+      "id": "r02",
+      "name": "左のもも",
+      "visibleArea": 13736,
+      "usableDiameter": 76
+    },
+    {
+      "id": "r03",
+      "name": "右のもも",
+      "visibleArea": 13940,
+      "usableDiameter": 80
+    },
+    {
+      "id": "r04",
+      "name": "左のすね",
+      "visibleArea": 18376,
+      "usableDiameter": 96
+    },
+    {
+      "id": "r05",
+      "name": "右のすね",
+      "visibleArea": 18864,
+      "usableDiameter": 96
+    },
+    {
+      "id": "r06",
+      "name": "左のブーツ",
+      "visibleArea": 26588,
+      "usableDiameter": 100
+    },
+    {
+      "id": "r07",
+      "name": "右のブーツ",
+      "visibleArea": 26016,
+      "usableDiameter": 100
+    },
+    {
+      "id": "r08",
+      "name": "左のくつ底",
+      "visibleArea": 15864,
+      "usableDiameter": 60
+    },
+    {
+      "id": "r09",
+      "name": "右のくつ底",
+      "visibleArea": 15680,
+      "usableDiameter": 60
+    },
+    {
+      "id": "r10",
+      "name": "左のひざ",
+      "visibleArea": 12328,
+      "usableDiameter": 111.31
+    },
+    {
+      "id": "r11",
+      "name": "右のひざ",
+      "visibleArea": 12116,
+      "usableDiameter": 111.31
+    },
+    {
+      "id": "r12",
+      "name": "左の上うで",
+      "visibleArea": 10112,
+      "usableDiameter": 98.51
+    },
+    {
+      "id": "r13",
+      "name": "右の上うで",
+      "visibleArea": 10544,
+      "usableDiameter": 100.17
+    },
+    {
+      "id": "r14",
+      "name": "左のひじ",
+      "visibleArea": 7420,
+      "usableDiameter": 47.31
+    },
+    {
+      "id": "r15",
+      "name": "右のひじ",
+      "visibleArea": 7632,
+      "usableDiameter": 47.31
+    },
+    {
+      "id": "r16",
+      "name": "左の前うで",
+      "visibleArea": 17716,
+      "usableDiameter": 100
+    },
+    {
+      "id": "r17",
+      "name": "右の前うで",
+      "visibleArea": 17380,
+      "usableDiameter": 100
+    },
+    {
+      "id": "r18",
+      "name": "左手",
+      "visibleArea": 14956,
+      "usableDiameter": 76
+    },
+    {
+      "id": "r19",
+      "name": "右手",
+      "visibleArea": 14744,
+      "usableDiameter": 76
+    },
+    {
+      "id": "r20",
+      "name": "くび",
+      "visibleArea": 3864,
+      "usableDiameter": 24
+    },
+    {
+      "id": "r21",
+      "name": "どうたい",
+      "visibleArea": 141712,
+      "usableDiameter": 160
+    },
+    {
+      "id": "r22",
+      "name": "左かた",
+      "visibleArea": 29020,
+      "usableDiameter": 184
+    },
+    {
+      "id": "r23",
+      "name": "右かた",
+      "visibleArea": 29692,
+      "usableDiameter": 184
+    },
+    {
+      "id": "r24",
+      "name": "おなかのパネル",
+      "visibleArea": 76940,
+      "usableDiameter": 116.57
+    },
+    {
+      "id": "r25",
+      "name": "大きなメーター",
+      "visibleArea": 16528,
+      "usableDiameter": 140
+    },
+    {
+      "id": "r26",
+      "name": "スイッチ・左",
+      "visibleArea": 3076,
+      "usableDiameter": 56
+    },
+    {
+      "id": "r27",
+      "name": "スイッチ・中",
+      "visibleArea": 2904,
+      "usableDiameter": 56
+    },
+    {
+      "id": "r28",
+      "name": "スイッチ・右",
+      "visibleArea": 2748,
+      "usableDiameter": 54.91
+    },
+    {
+      "id": "r29",
+      "name": "ベルト",
+      "visibleArea": 26420,
+      "usableDiameter": 64
+    },
+    {
+      "id": "r30",
+      "name": "左耳",
+      "visibleArea": 10372,
+      "usableDiameter": 80
+    },
+    {
+      "id": "r31",
+      "name": "右耳",
+      "visibleArea": 10472,
+      "usableDiameter": 80
+    },
+    {
+      "id": "r32",
+      "name": "アンテナ",
+      "visibleArea": 2552,
+      "usableDiameter": 48
+    },
+    {
+      "id": "r33",
+      "name": "アンテナの先",
+      "visibleArea": 8172,
+      "usableDiameter": 100
+    },
+    {
+      "id": "r34",
+      "name": "頭",
+      "visibleArea": 103864,
+      "usableDiameter": 100
+    },
+    {
+      "id": "r35",
+      "name": "顔のスクリーン",
+      "visibleArea": 56980,
+      "usableDiameter": 140.97
+    },
+    {
+      "id": "r36",
+      "name": "目・左",
+      "visibleArea": 6308,
+      "usableDiameter": 80
+    },
+    {
+      "id": "r37",
+      "name": "目・右",
+      "visibleArea": 5888,
+      "usableDiameter": 80
+    }
+  ],
+  "contentHash": "c3d458750080b2796aa132df953462f6b25a2f0add8451ba5836258dbfbfb177",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "c3d458750080b2796aa132df953462f6b25a2f0add8451ba5836258dbfbfb177",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

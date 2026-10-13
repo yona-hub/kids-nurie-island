@@ -1,0 +1,168 @@
+{
+  "templateId": "dinosaur-eggs",
+  "pass": true,
+  "regionCount": 23,
+  "expectedRegionRange": [
+    20,
+    25
+  ],
+  "errors": [],
+  "warnings": [],
+  "closedRegions": 23,
+  "backgroundLeak": false,
+  "closureMethod": "explicit SVG Z paths; background excluded by compiled visible region masks",
+  "minimumBoundsWidth": 42,
+  "minimumUsableDiameter": 28,
+  "minVisibleArea": 1848,
+  "blackRatio": 0.0448275,
+  "whiteRatio": 0.94448125,
+  "antiAliasRatio": 0.01069125,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "しっぽ",
+      "visibleArea": 84760,
+      "usableDiameter": 201.99
+    },
+    {
+      "id": "r02",
+      "name": "奥の足",
+      "visibleArea": 24632,
+      "usableDiameter": 126.63
+    },
+    {
+      "id": "r03",
+      "name": "奥の手",
+      "visibleArea": 2480,
+      "usableDiameter": 28
+    },
+    {
+      "id": "r04",
+      "name": "からだ",
+      "visibleArea": 104188,
+      "usableDiameter": 183.36
+    },
+    {
+      "id": "r05",
+      "name": "おなか",
+      "visibleArea": 68416,
+      "usableDiameter": 237.66
+    },
+    {
+      "id": "r06",
+      "name": "手前の足",
+      "visibleArea": 58216,
+      "usableDiameter": 184
+    },
+    {
+      "id": "r07",
+      "name": "頭",
+      "visibleArea": 190340,
+      "usableDiameter": 251.24
+    },
+    {
+      "id": "r08",
+      "name": "下あご",
+      "visibleArea": 35132,
+      "usableDiameter": 92
+    },
+    {
+      "id": "r09",
+      "name": "口のなか",
+      "visibleArea": 15368,
+      "usableDiameter": 50.63
+    },
+    {
+      "id": "r10",
+      "name": "歯・左",
+      "visibleArea": 2088,
+      "usableDiameter": 32.28
+    },
+    {
+      "id": "r11",
+      "name": "歯・まんなか",
+      "visibleArea": 1848,
+      "usableDiameter": 32
+    },
+    {
+      "id": "r12",
+      "name": "歯・右",
+      "visibleArea": 1888,
+      "usableDiameter": 32.28
+    },
+    {
+      "id": "r13",
+      "name": "手前の手",
+      "visibleArea": 12400,
+      "usableDiameter": 73.54
+    },
+    {
+      "id": "r14",
+      "name": "まゆ",
+      "visibleArea": 5568,
+      "usableDiameter": 56
+    },
+    {
+      "id": "r15",
+      "name": "大きなたまご",
+      "visibleArea": 55872,
+      "usableDiameter": 135.6
+    },
+    {
+      "id": "r16",
+      "name": "たまごのもよう・上",
+      "visibleArea": 6428,
+      "usableDiameter": 76
+    },
+    {
+      "id": "r17",
+      "name": "たまごのもよう・下",
+      "visibleArea": 5148,
+      "usableDiameter": 72
+    },
+    {
+      "id": "r18",
+      "name": "小さなたまご",
+      "visibleArea": 25648,
+      "usableDiameter": 101.82
+    },
+    {
+      "id": "r19",
+      "name": "小さなたまごのもよう",
+      "visibleArea": 8312,
+      "usableDiameter": 49.66
+    },
+    {
+      "id": "r20",
+      "name": "岩・左",
+      "visibleArea": 31488,
+      "usableDiameter": 139.76
+    },
+    {
+      "id": "r21",
+      "name": "岩の面",
+      "visibleArea": 6936,
+      "usableDiameter": 79.2
+    },
+    {
+      "id": "r22",
+      "name": "岩・右",
+      "visibleArea": 13648,
+      "usableDiameter": 113.14
+    },
+    {
+      "id": "r23",
+      "name": "シダの葉",
+      "visibleArea": 15588,
+      "usableDiameter": 101.25
+    }
+  ],
+  "contentHash": "93352cba302cedd50d1c9afea1d88818636875d43a1635fc980955d8aa4a0f6a",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "93352cba302cedd50d1c9afea1d88818636875d43a1635fc980955d8aa4a0f6a",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

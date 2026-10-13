@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/rainbow-clouds-atelier-v3-top.1873bf13d50e9c58cc511078bc8eed11e9d2345461af3422675921955783e1dc.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/rainbow-clouds-atelier-v3-bottom.8844fc4a1ab8cb85f110f8984a2a53e45cfde6a9201c09edf8281c4eff931f77.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/rainbow-clouds-atelier-v3-left.35c8830e1b08dcd60ef334bd3e577e78b273c83e2727b33ba2c0a11e8194ae93.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/rainbow-clouds-atelier-v3-right.cb6fb5f312d099c276910a65b276cd5b2c7db404b4cfc282d365cfb25853032e.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

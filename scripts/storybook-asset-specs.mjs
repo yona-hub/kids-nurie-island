@@ -1,0 +1,22 @@
+export const motifSubjects = {
+ star:'a plump five-point golden pastel star with pearl-like sheen',dot:'a soft opalescent round candy pearl',drop:'a glossy turquoise teardrop',cloud:'a fluffy ivory cloud',rainbow:'a small pastel rainbow with soft clouds',wave:'a curling turquoise sea wave',leaf:'a graceful fresh green leaf',crown:'a little pink-and-gold princess crown',gem:'a sparkling faceted lavender jewel',moon:'a warm crescent moon',paw:'a soft cute peach paw print',shell:'a pink scallop shell',bone:'a small ivory dinosaur bone',tire:'a cute dark blue rubber wheel with a silver hub',road:'a short curved toy road with cream lane markings',cone:'a small rounded orange safety cone',gear:'a friendly mint mechanical gear',circuit:'a small luminous cyan circuit-board branch',planet:'a little lavender planet with a golden ring',fruit:'a bright red apple with a green leaf',candy:'a pink wrapped candy',flower:'a delicate pink flower with a golden center',block:'a pastel wooden toy building block',ball:'a colorful soft toy ball',crayon:'a pink wax crayon with a paper wrapper',pencil:'a sharpened lavender colored pencil'
+};
+export const landscapeSubjects = {
+ 'floating-ground':'a small lush floating island ground, with cream sandy edges, low grass, seen from a gentle elevated front view, no buildings',
+ 'grass-cluster':'a small patch of lush meadow grass and tiny daisies',
+ 'distant-tree':'a graceful leafy tree with a full soft green canopy and slim trunk',
+ 'flower-cluster':'a low patch of small pastel meadow flowers and leaves',
+ 'sea-surface':'a broad low graceful patch of turquoise sea water with soft curling ripples, no animals',
+ seaweed:'a small graceful cluster of green and turquoise seaweed',coral:'a small pink coral branch with rounded tips',
+ 'castle-tower':'one elegant small cream and pink fairy-tale castle tower with a golden roof',
+ 'rock-cluster':'a small group of rounded lavender and cream stones with a little fern',
+ 'future-city':'a low distant cluster of elegant pastel futuristic buildings, soft blue windows'
+};
+const style='Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.';
+export const assetSpecs = [
+ ...Object.entries(motifSubjects).map(([id,subject])=>({id,kind:'motif',transparent:true,prompt:`Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: ${subject}. ${style}`})),
+ ...Object.entries(landscapeSubjects).map(([id,subject])=>({id,kind:'landscape',transparent:true,prompt:`Use case: illustration-story. Asset type: individual transparent landscape component. Subject: ${subject}. ${style}`})),
+ {id:'paper',kind:'medium',transparent:false,prompt:'Square macro scan of premium white drawing paper with fine natural fibers and shallow irregular tooth. Neutral grayscale, even light, edge-to-edge material, no objects, text, border or vignette.'},
+ {id:'wax',kind:'medium',transparent:false,prompt:'Use case: productivity-visual. Asset type: seamless grayscale pigment coverage mask. Extreme close-up macro of REAL dark wax crayon rubbed generously over textured white drawing paper. Dense irregular wax islands, very small exposed paper tooth, short broad wax marks, visibly tactile and granular, overall dark gray with fine ivory irregular speckles. Flat even illumination, completely covered square, no drawn objects, no text, no border, no vignette. NOT digital white noise, NOT long parallel lines. High-resolution flat scan, detail should visibly read as wax crayon.'},
+ {id:'pencil-strokes',kind:'medium',transparent:false,prompt:'Use case: productivity-visual. Asset type: seamless grayscale pigment coverage mask. Extreme close-up macro of REAL graphite/colored-pencil shading on fine drawing paper, filled square. Dense overlapping fine SHORT diagonal strokes, subtly varied pressure, delicate fibers of white paper showing between pigment, soft layered gray pigment, recognizably pencil hand shading rather than a flat computer fill. Flat even illumination, no objects, no text, no border, no vignette, no broad wax marks, no evenly spaced ruled lines. High-resolution flat scan.'}
+];

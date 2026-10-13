@@ -1,0 +1,48 @@
+{
+  "retrievedAt": "2026-10-07",
+  "guidelines": "https://developers.google.com/identity/branding-guidelines",
+  "configurator": {
+    "url": "https://developers.google.com/frame/identity/branding-guidelines_7b8d9bf3a7d73f9b941566f079fb45ddb35b7a565bb9f11edee13272ffc9922a.frame",
+    "sha256": "c1b32c30c10c734aee8fceb591f1cbda82981cd5687db3853702e10c2e6d5e7e",
+    "retained": "official-button-styles.css",
+    "license": "Apache-2.0"
+  },
+  "assets": [
+    {
+      "file": "g-logo.png",
+      "url": "https://developers.google.com/static/identity/images/g-logo.png",
+      "purpose": "Unmodified standard gradient G for Google sign-in only",
+      "sha256": "d1ce9c2af0b10a7333abc99bc706f9a6a199e5b65bf3e3009624f076b8638e6a"
+    },
+    {
+      "file": "signin-assets.zip",
+      "url": "https://developers.google.com/static/identity/images/signin-assets.zip",
+      "purpose": "Official reference, not shipped",
+      "sha256": "ba884069e12093b06bcfd776915081254a7c95094b80d50be2c5dc6bac1c1da1"
+    },
+    {
+      "file": "google-sans.css",
+      "url": "https://fonts.googleapis.com/css2?family=Google+Sans:wght@500&display=swap&text=Google",
+      "license": "OFL-1.1",
+      "sha256": "298cd3c4b4878d9012c9510ee53d38a5915b6cd5f59b256b41edf5df01e5e47a"
+    },
+    {
+      "file": "google-sans-google-500.ttf",
+      "url": "https://fonts.gstatic.com/l/font?kit=4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IKlitSmtdkVUOA&skey=c30756b8cf584a60&v=v71",
+      "license": "OFL-1.1",
+      "sha256": "14b81efbef4733beacdd4ad1a8e5c9c1c99d390461262c9b7dab631793ac2362"
+    },
+    {
+      "file": "OFL.txt",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/googlesans/OFL.txt",
+      "license": "OFL-1.1",
+      "sha256": "2b75ef20f13d83a7514aee452c4782c20cdc9ff2dee17600f44d37a06d4fb958"
+    },
+    {
+      "url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+      "file": "Apache-2.0.txt",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "license": "Apache-2.0"
+    }
+  ]
+}

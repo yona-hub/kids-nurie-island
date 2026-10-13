@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "baseColor": "#f4f3fc",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/planet.1911f2e680085f6bc1da12d15fc243681596cc13198f95be775f3d18e9f43d83.png",
+      "x": 1280,
+      "y": 230,
+      "width": 320,
+      "height": 196.25,
+      "rotation": -12,
+      "opacity": 0.43
+    },
+    {
+      "assetUrl": "/content/decor/star.a185245c643bbacde68bb58ee79b60dff1fd6d5f574a10303d78dd82a8c31e81.png",
+      "x": 70,
+      "y": 220,
+      "width": 90,
+      "height": 84.90234375,
+      "rotation": 0,
+      "opacity": 0.38
+    },
+    {
+      "assetUrl": "/content/decor/star.a185245c643bbacde68bb58ee79b60dff1fd6d5f574a10303d78dd82a8c31e81.png",
+      "x": 1440,
+      "y": 1410,
+      "width": 110,
+      "height": 103.76953125,
+      "rotation": 0,
+      "opacity": 0.38
+    },
+    {
+      "assetUrl": "/content/decor/cloud.00a3bb8dff232f94a89098a1af507bcda6e9296e4b6f0d28ce6f3f77cc49d668.png",
+      "x": -130,
+      "y": 1810,
+      "width": 620,
+      "height": 356.015625,
+      "rotation": 0,
+      "opacity": 0.18
+    }
+  ]
+}

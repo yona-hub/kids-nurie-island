@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "borderColor": "#edd5b3",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 61.073833691829186,
+      "y": 28.99493218810518,
+      "width": 67.85233261634163,
+      "height": 42.01013562378964,
+      "rotation": 14,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/cone.0eb66995584ea145a045bbd9d647e8f31e8b58824937b10054e8abbec45477e6.png",
+      "x": 67.90821779250801,
+      "y": 1918.5465022897145,
+      "width": 54.183564414983984,
+      "height": 62.90699542057097,
+      "rotation": -17,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/cone.0eb66995584ea145a045bbd9d647e8f31e8b58824937b10054e8abbec45477e6.png",
+      "x": 355.0387238588738,
+      "y": 15.215026339554207,
+      "width": 59.922552282252326,
+      "height": 69.56994732089159,
+      "rotation": -14,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 348.9504647860102,
+      "y": 1927.6802682366508,
+      "width": 72.09907042797964,
+      "height": 44.63946352669833,
+      "rotation": 17,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 615.717070590539,
+      "y": 25.678342533595472,
+      "width": 78.56585881892188,
+      "height": 48.643314932809055,
+      "rotation": 14,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/cone.0eb66995584ea145a045bbd9d647e8f31e8b58824937b10054e8abbec45477e6.png",
+      "x": 623.6305679702724,
+      "y": 1913.580160545985,
+      "width": 62.73886405945514,
+      "height": 72.83967890802955,
+      "rotation": -17,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/cone.0eb66995584ea145a045bbd9d647e8f31e8b58824937b10054e8abbec45477e6.png",
+      "x": 917.231012357005,
+      "y": 17.760268314708775,
+      "width": 55.53797528598996,
+      "height": 64.47946337058245,
+      "rotation": -14,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 911.5882356553265,
+      "y": 1929.3134193412861,
+      "width": 66.82352868934699,
+      "height": 41.37316131742772,
+      "rotation": 17,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 1178.395452141184,
+      "y": 27.336637360850325,
+      "width": 73.20909571763175,
+      "height": 45.32672527829935,
+      "rotation": 14,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/cone.0eb66995584ea145a045bbd9d647e8f31e8b58824937b10054e8abbec45477e6.png",
+      "x": 1185.76939288139,
+      "y": 1916.06333141785,
+      "width": 58.461214237219565,
+      "height": 67.87333716430027,
+      "rotation": -17,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/cone.0eb66995584ea145a045bbd9d647e8f31e8b58824937b10054e8abbec45477e6.png",
+      "x": 1472.8464353607426,
+      "y": 12.669784364399632,
+      "width": 64.3071292785147,
+      "height": 74.66043127120074,
+      "rotation": -14,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 1466.312693916694,
+      "y": 1926.0471171320155,
+      "width": 77.3746121666123,
+      "height": 47.90576573596894,
+      "rotation": 17,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 6.8020995005796365,
+      "y": 376.35012801110105,
+      "width": 76.39580099884073,
+      "height": 47.299743977797874,
+      "rotation": 2,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 1517.173853193369,
+      "y": 446.58029582480077,
+      "width": 75.65229361326192,
+      "height": 46.83940835039849,
+      "rotation": 3,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/cone.0eb66995584ea145a045bbd9d647e8f31e8b58824937b10054e8abbec45477e6.png",
+      "x": 12.369204368803977,
+      "y": 722.1157202649152,
+      "width": 65.26159126239205,
+      "height": 75.76855947016945,
+      "rotation": 2,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/cone.0eb66995584ea145a045bbd9d647e8f31e8b58824937b10054e8abbec45477e6.png",
+      "x": 1522.8149463497132,
+      "y": 792.6332256939982,
+      "width": 64.37010730057351,
+      "height": 74.73354861200372,
+      "rotation": 3,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 6.8020995005796365,
+      "y": 1096.350128011101,
+      "width": 76.39580099884073,
+      "height": 47.299743977797874,
+      "rotation": 2,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 1517.173853193369,
+      "y": 1166.5802958248007,
+      "width": 75.65229361326192,
+      "height": 46.83940835039849,
+      "rotation": 3,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/cone.0eb66995584ea145a045bbd9d647e8f31e8b58824937b10054e8abbec45477e6.png",
+      "x": 12.369204368803977,
+      "y": 1442.1157202649154,
+      "width": 65.26159126239205,
+      "height": 75.76855947016945,
+      "rotation": 2,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/cone.0eb66995584ea145a045bbd9d647e8f31e8b58824937b10054e8abbec45477e6.png",
+      "x": 1522.8149463497132,
+      "y": 1512.6332256939982,
+      "width": 64.37010730057351,
+      "height": 74.73354861200372,
+      "rotation": 3,
+      "opacity": 0.78
+    }
+  ]
+}

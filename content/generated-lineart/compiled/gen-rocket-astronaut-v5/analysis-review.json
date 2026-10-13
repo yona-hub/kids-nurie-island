@@ -1,0 +1,873 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-rocket-astronaut-v5",
+  "originalSha256": "d559890d2600cf8d7e2eff6b06310547763dd861f2013c0feab78269c33170f9",
+  "coordinateSpace": "normalized-1600x2000",
+  "reviewer": "Codex technical source review",
+  "reviewKind": "author-technical-annotation",
+  "humanApproved": false,
+  "checks": [
+    "all-subject-parts-closed",
+    "negative-space-excluded",
+    "pupils-and-highlights-white"
+  ],
+  "unresolvedLeaks": [],
+  "regions": [
+    {
+      "sourceRegionId": "r01",
+      "point": [
+        511,
+        413
+      ],
+      "role": "paint",
+      "name": "ロケットの先端",
+      "reason": "番号付き原画でロケットの先端として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 165.371
+    },
+    {
+      "sourceRegionId": "r02",
+      "point": [
+        941,
+        381
+      ],
+      "role": "paint",
+      "name": "惑星上側",
+      "reason": "番号付き原画で惑星上側として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 178.552
+    },
+    {
+      "sourceRegionId": "r03",
+      "point": [
+        1173,
+        388
+      ],
+      "role": "paint",
+      "name": "惑星の輪",
+      "reason": "番号付き原画で惑星の輪として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 62
+    },
+    {
+      "sourceRegionId": "r04",
+      "point": [
+        1111,
+        397
+      ],
+      "role": "background",
+      "name": "惑星の輪の右の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 25.969
+    },
+    {
+      "sourceRegionId": "r05",
+      "point": [
+        491,
+        535
+      ],
+      "role": "paint",
+      "name": "ロケット上の帯",
+      "reason": "番号付き原画でロケット上の帯として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 62
+    },
+    {
+      "sourceRegionId": "r06",
+      "point": [
+        777,
+        474
+      ],
+      "role": "background",
+      "name": "惑星の輪の左の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 27.181
+    },
+    {
+      "sourceRegionId": "r07",
+      "point": [
+        964,
+        554
+      ],
+      "role": "paint",
+      "name": "惑星下側",
+      "reason": "番号付き原画で惑星下側として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 82.788
+    },
+    {
+      "sourceRegionId": "r08",
+      "point": [
+        1279,
+        582
+      ],
+      "role": "paint",
+      "name": "星",
+      "reason": "番号付き原画で星として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 124.363
+    },
+    {
+      "sourceRegionId": "r09",
+      "point": [
+        631,
+        1041
+      ],
+      "role": "paint",
+      "name": "ロケット本体",
+      "reason": "番号付き原画でロケット本体として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 145.181
+    },
+    {
+      "sourceRegionId": "r10",
+      "point": [
+        607,
+        927
+      ],
+      "role": "paint",
+      "name": "丸窓の枠",
+      "reason": "番号付き原画で丸窓の枠として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 48.375
+    },
+    {
+      "sourceRegionId": "r11",
+      "point": [
+        500,
+        807
+      ],
+      "role": "paint",
+      "name": "丸窓",
+      "reason": "番号付き原画で丸窓として識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 248.853
+    },
+    {
+      "sourceRegionId": "r12",
+      "point": [
+        1003,
+        724
+      ],
+      "role": "paint",
+      "name": "ヘルメットの枠",
+      "reason": "番号付き原画でヘルメットの枠として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 54.332
+    },
+    {
+      "sourceRegionId": "r13",
+      "point": [
+        1063,
+        793
+      ],
+      "role": "paint",
+      "name": "髪",
+      "reason": "番号付き原画で髪として識別。原画の閉領域をそのまま使用。",
+      "material": "hair",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 77.107
+    },
+    {
+      "sourceRegionId": "r14",
+      "point": [
+        1043,
+        916
+      ],
+      "role": "paint",
+      "name": "顔と左耳",
+      "reason": "番号付き原画で顔と左耳として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 101.907
+    },
+    {
+      "sourceRegionId": "r15",
+      "point": [
+        1282,
+        881
+      ],
+      "role": "paint",
+      "name": "ヘルメット右の部品",
+      "reason": "番号付き原画でヘルメット右の部品として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "ヘルメット右の部品は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-rocket-astronaut-v5.json"
+      },
+      "measuredDiameter": 22.788
+    },
+    {
+      "sourceRegionId": "r16",
+      "point": [
+        804,
+        961
+      ],
+      "role": "paint",
+      "name": "ヘルメット左の部品",
+      "reason": "番号付き原画でヘルメット左の部品として識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 37.969
+    },
+    {
+      "sourceRegionId": "r17",
+      "point": [
+        972,
+        1002
+      ],
+      "role": "paint",
+      "name": "左の瞳",
+      "reason": "番号付き原画で左の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 35.575,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r18",
+      "point": [
+        1142,
+        971
+      ],
+      "role": "paint",
+      "name": "右の瞳",
+      "reason": "番号付き原画で右の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 36.357,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r19",
+      "point": [
+        1121,
+        934
+      ],
+      "role": "paint",
+      "name": "右の瞳のハイライト",
+      "reason": "番号付き原画で右の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 31.181,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r20",
+      "point": [
+        963,
+        959
+      ],
+      "role": "paint",
+      "name": "左の瞳のハイライト",
+      "reason": "番号付き原画で左の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 30,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r21",
+      "point": [
+        1351,
+        1057
+      ],
+      "role": "paint",
+      "name": "右の手袋",
+      "reason": "番号付き原画で右の手袋として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 86.282
+    },
+    {
+      "sourceRegionId": "r22",
+      "point": [
+        1067,
+        1056
+      ],
+      "role": "paint",
+      "name": "口",
+      "reason": "番号付き原画で口として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 37.181
+    },
+    {
+      "sourceRegionId": "r23",
+      "point": [
+        259,
+        1256
+      ],
+      "role": "paint",
+      "name": "ロケット左の翼",
+      "reason": "番号付き原画でロケット左の翼として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 148
+    },
+    {
+      "sourceRegionId": "r24",
+      "point": [
+        731,
+        1262
+      ],
+      "role": "paint",
+      "name": "ロケット右の翼",
+      "reason": "番号付き原画でロケット右の翼として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 135.994
+    },
+    {
+      "sourceRegionId": "r25",
+      "point": [
+        1185,
+        1132
+      ],
+      "role": "paint",
+      "name": "右の肩ひも",
+      "reason": "番号付き原画で右の肩ひもとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 31.188
+    },
+    {
+      "sourceRegionId": "r26",
+      "point": [
+        1200,
+        1102
+      ],
+      "role": "background",
+      "name": "右肩の後ろの背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 15.981
+    },
+    {
+      "sourceRegionId": "r27",
+      "point": [
+        1261,
+        1177
+      ],
+      "role": "paint",
+      "name": "右袖",
+      "reason": "番号付き原画で右袖として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 65.994
+    },
+    {
+      "sourceRegionId": "r28",
+      "point": [
+        1325,
+        1134
+      ],
+      "role": "paint",
+      "name": "右の袖口",
+      "reason": "番号付き原画で右の袖口として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 59.919
+    },
+    {
+      "sourceRegionId": "r29",
+      "point": [
+        417,
+        1208
+      ],
+      "role": "paint",
+      "name": "ロケット下の帯",
+      "reason": "番号付き原画でロケット下の帯として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 164
+    },
+    {
+      "sourceRegionId": "r30",
+      "point": [
+        920,
+        1227
+      ],
+      "role": "paint",
+      "name": "左袖",
+      "reason": "番号付き原画で左袖として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 81.888
+    },
+    {
+      "sourceRegionId": "r31",
+      "point": [
+        908,
+        1145
+      ],
+      "role": "paint",
+      "name": "左肩の後ろの背負い袋",
+      "reason": "番号付き原画で左肩の後ろの背負い袋として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 29.981
+    },
+    {
+      "sourceRegionId": "r32",
+      "point": [
+        973,
+        1157
+      ],
+      "role": "paint",
+      "name": "左の肩ひも",
+      "reason": "番号付き原画で左の肩ひもとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 41.15
+    },
+    {
+      "sourceRegionId": "r33",
+      "point": [
+        997,
+        1296
+      ],
+      "role": "paint",
+      "name": "宇宙服の身頃",
+      "reason": "番号付き原画で宇宙服の身頃として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 58
+    },
+    {
+      "sourceRegionId": "r34",
+      "point": [
+        1141,
+        1220
+      ],
+      "role": "paint",
+      "name": "胸のパネル",
+      "reason": "番号付き原画で胸のパネルとして識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 61.119
+    },
+    {
+      "sourceRegionId": "r35",
+      "point": [
+        1079,
+        1247
+      ],
+      "role": "paint",
+      "name": "胸のボタン",
+      "reason": "番号付き原画で胸のボタンとして識別。原画の閉領域をそのまま使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 55.138
+    },
+    {
+      "sourceRegionId": "r36",
+      "point": [
+        1235,
+        1241
+      ],
+      "role": "paint",
+      "name": "背負い袋の右側",
+      "reason": "番号付き原画で背負い袋の右側として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 34.363
+    },
+    {
+      "sourceRegionId": "r37",
+      "point": [
+        872,
+        1294
+      ],
+      "role": "paint",
+      "name": "左の袖口",
+      "reason": "番号付き原画で左の袖口として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 50
+    },
+    {
+      "sourceRegionId": "r38",
+      "point": [
+        453,
+        1337
+      ],
+      "role": "paint",
+      "name": "ロケットのノズル",
+      "reason": "番号付き原画でロケットのノズルとして識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 74
+    },
+    {
+      "sourceRegionId": "r39",
+      "point": [
+        867,
+        1367
+      ],
+      "role": "paint",
+      "name": "左の手袋",
+      "reason": "番号付き原画で左の手袋として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 82
+    },
+    {
+      "sourceRegionId": "r40",
+      "point": [
+        1045,
+        1365
+      ],
+      "role": "paint",
+      "name": "腰のベルト",
+      "reason": "番号付き原画で腰のベルトとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 46
+    },
+    {
+      "sourceRegionId": "r41",
+      "point": [
+        380,
+        1516
+      ],
+      "role": "paint",
+      "name": "ロケットの炎の外側",
+      "reason": "番号付き原画でロケットの炎の外側として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 80.695
+    },
+    {
+      "sourceRegionId": "r42",
+      "point": [
+        494,
+        1457
+      ],
+      "role": "paint",
+      "name": "ロケットの炎の内側",
+      "reason": "番号付き原画でロケットの炎の内側として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 148
+    },
+    {
+      "sourceRegionId": "r43",
+      "point": [
+        1014,
+        1461
+      ],
+      "role": "paint",
+      "name": "宇宙服のズボン",
+      "reason": "番号付き原画で宇宙服のズボンとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 136.208
+    },
+    {
+      "sourceRegionId": "r44",
+      "point": [
+        957,
+        1560
+      ],
+      "role": "paint",
+      "name": "左の裾",
+      "reason": "番号付き原画で左の裾として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 56.332
+    },
+    {
+      "sourceRegionId": "r45",
+      "point": [
+        1219,
+        1560
+      ],
+      "role": "paint",
+      "name": "右の裾",
+      "reason": "番号付き原画で右の裾として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 54.394
+    },
+    {
+      "sourceRegionId": "r46",
+      "point": [
+        917,
+        1659
+      ],
+      "role": "paint",
+      "name": "左のブーツ",
+      "reason": "番号付き原画で左のブーツとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 94
+    },
+    {
+      "sourceRegionId": "r47",
+      "point": [
+        1288,
+        1659
+      ],
+      "role": "paint",
+      "name": "右のブーツ",
+      "reason": "番号付き原画で右のブーツとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 92
+    },
+    {
+      "sourceRegionId": "r48",
+      "point": [
+        990,
+        1720
+      ],
+      "role": "paint",
+      "name": "左の靴底",
+      "reason": "番号付き原画で左の靴底として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 27.181
+    },
+    {
+      "sourceRegionId": "r49",
+      "point": [
+        1208,
+        1720
+      ],
+      "role": "paint",
+      "name": "右の靴底",
+      "reason": "番号付き原画で右の靴底として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 28.363
+    }
+  ],
+  "gapReviews": [
+    {
+      "candidateKey": "gap-f24d141ef4fec3a3fceae0bd4ad2cf7391c0a249dd797bb86c8572e01d0f3257",
+      "kind": "new-from-background",
+      "parentRegionId": null,
+      "parentRegionName": "外背景",
+      "parentExteriorConnected": true,
+      "classification": "background",
+      "part": "左腕と胴体の間の外背景",
+      "reason": "宇宙飛行士の左腕と胴体の間の外背景。3px closeでは外周へつながり、9px closeだけがこの細い空間の出口を塞ぐ。宇宙服の内部ではない。",
+      "originalSha256": "d559890d2600cf8d7e2eff6b06310547763dd861f2013c0feab78269c33170f9",
+      "point": [
+        943,
+        1355
+      ]
+    }
+  ],
+  "eyes": [
+    {
+      "name": "左",
+      "pupilIds": [
+        "r17"
+      ],
+      "highlightId": "r20"
+    },
+    {
+      "name": "右",
+      "pupilIds": [
+        "r18"
+      ],
+      "highlightId": "r19"
+    }
+  ]
+}

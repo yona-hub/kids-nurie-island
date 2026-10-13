@@ -1,0 +1,857 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-excavator-cones-faceless-v1",
+  "originalSha256": "6de9789ee4824f96952fa65b5b958c5096c102aed645786e4b257c3ff9f3330f",
+  "coordinateSpace": "normalized-1600x2000",
+  "reviewer": "Codex technical source review",
+  "reviewKind": "author-technical-annotation",
+  "humanApproved": false,
+  "checks": [
+    "faceless-vehicle",
+    "physical-parts-preserved",
+    "negative-spaces-excluded"
+  ],
+  "unresolvedLeaks": [],
+  "regions": [
+    {
+      "sourceRegionId": "r01",
+      "point": [
+        547,
+        328
+      ],
+      "role": "paint",
+      "name": "手前のアーム",
+      "reason": "新しい番号付き原画と対応表で手前のアームとして照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r02",
+      "point": [
+        447,
+        339
+      ],
+      "role": "paint",
+      "name": "手前アームの側面",
+      "reason": "新しい番号付き原画と対応表で手前アームの側面として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r03",
+      "point": [
+        577,
+        248
+      ],
+      "role": "paint",
+      "name": "上の軸",
+      "reason": "新しい番号付き原画と対応表で上の軸として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r04",
+      "point": [
+        665,
+        315
+      ],
+      "role": "paint",
+      "name": "上のピストン棒",
+      "reason": "新しい番号付き原画と対応表で上のピストン棒として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r05",
+      "point": [
+        778,
+        540
+      ],
+      "role": "paint",
+      "name": "奥のアーム",
+      "reason": "新しい番号付き原画と対応表で奥のアームとして照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r06",
+      "point": [
+        765,
+        390
+      ],
+      "role": "paint",
+      "name": "上の油圧シリンダー",
+      "reason": "新しい番号付き原画と対応表で上の油圧シリンダーとして照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r07",
+      "point": [
+        353,
+        522
+      ],
+      "role": "paint",
+      "name": "左の油圧シリンダー",
+      "reason": "新しい番号付き原画と対応表で左の油圧シリンダーとして照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r08",
+      "point": [
+        368,
+        613
+      ],
+      "role": "background",
+      "name": "アームとピストンの間の背景",
+      "reason": "生成原画でアームとピストンに挟まれた負の空間。車の部品ではないため塗り領域から除く。"
+    },
+    {
+      "sourceRegionId": "r09",
+      "point": [
+        743,
+        675
+      ],
+      "role": "paint",
+      "name": "奥のアームの側面",
+      "reason": "新しい番号付き原画と対応表で奥のアームの側面として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r10",
+      "point": [
+        892,
+        515
+      ],
+      "role": "paint",
+      "name": "奥のピストン棒",
+      "reason": "新しい番号付き原画と対応表で奥のピストン棒として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r11",
+      "point": [
+        316,
+        604
+      ],
+      "role": "paint",
+      "name": "左のピストン棒",
+      "reason": "新しい番号付き原画と対応表で左のピストン棒として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r12",
+      "point": [
+        911,
+        623
+      ],
+      "role": "paint",
+      "name": "奥の関節",
+      "reason": "新しい番号付き原画と対応表で奥の関節として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r13",
+      "point": [
+        873,
+        588
+      ],
+      "role": "paint",
+      "name": "奥の軸",
+      "reason": "新しい番号付き原画と対応表で奥の軸として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r14",
+      "point": [
+        214,
+        820
+      ],
+      "role": "paint",
+      "name": "バケット外側",
+      "reason": "新しい番号付き原画と対応表でバケット外側として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r15",
+      "point": [
+        235,
+        719
+      ],
+      "role": "paint",
+      "name": "バケットの小さい関節",
+      "reason": "新しい番号付き原画と対応表でバケットの小さい関節として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "細い軸・クローラー部品。新原画に対する4倍の直接タップ・描画・消去を測定する。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-excavator-cones-faceless-v1.json"
+      }
+    },
+    {
+      "sourceRegionId": "r16",
+      "point": [
+        348,
+        687
+      ],
+      "role": "paint",
+      "name": "手前の軸",
+      "reason": "新しい番号付き原画と対応表で手前の軸として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r17",
+      "point": [
+        966,
+        1131
+      ],
+      "role": "paint",
+      "name": "本体",
+      "reason": "新しい番号付き原画と対応表で本体として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r18",
+      "point": [
+        407,
+        973
+      ],
+      "role": "paint",
+      "name": "バケット内側",
+      "reason": "新しい番号付き原画と対応表でバケット内側として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r19",
+      "point": [
+        387,
+        757
+      ],
+      "role": "paint",
+      "name": "バケット左の縁",
+      "reason": "新しい番号付き原画と対応表でバケット左の縁として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r20",
+      "point": [
+        873,
+        909
+      ],
+      "role": "paint",
+      "name": "フロントガラス",
+      "reason": "新しい番号付き原画と対応表でフロントガラスとして照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r21",
+      "point": [
+        1105,
+        1106
+      ],
+      "role": "paint",
+      "name": "ドアの枠",
+      "reason": "新しい番号付き原画と対応表でドアの枠として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r22",
+      "point": [
+        1127,
+        916
+      ],
+      "role": "paint",
+      "name": "ドアの窓",
+      "reason": "新しい番号付き原画と対応表でドアの窓として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r23",
+      "point": [
+        1239,
+        892
+      ],
+      "role": "paint",
+      "name": "右後ろの窓",
+      "reason": "新しい番号付き原画と対応表で右後ろの窓として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r24",
+      "point": [
+        501,
+        1025
+      ],
+      "role": "paint",
+      "name": "バケット先端の縁",
+      "reason": "新しい番号付き原画と対応表でバケット先端の縁として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r25",
+      "point": [
+        662,
+        1123
+      ],
+      "role": "paint",
+      "name": "本体左のライト",
+      "reason": "新しい番号付き原画と対応表で本体左のライトとして照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r26",
+      "point": [
+        1150,
+        1033
+      ],
+      "role": "paint",
+      "name": "ドアの取っ手",
+      "reason": "新しい番号付き原画と対応表でドアの取っ手として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "細い軸・クローラー部品。新原画に対する4倍の直接タップ・描画・消去を測定する。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-excavator-cones-faceless-v1.json"
+      }
+    },
+    {
+      "sourceRegionId": "r27",
+      "point": [
+        1370,
+        1011
+      ],
+      "role": "paint",
+      "name": "上の通風口",
+      "reason": "新しい番号付き原画と対応表で上の通風口として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "細い軸・クローラー部品。新原画に対する4倍の直接タップ・描画・消去を測定する。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-excavator-cones-faceless-v1.json"
+      }
+    },
+    {
+      "sourceRegionId": "r28",
+      "point": [
+        1343,
+        1069
+      ],
+      "role": "paint",
+      "name": "中央の通風口",
+      "reason": "新しい番号付き原画と対応表で中央の通風口として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "細い軸・クローラー部品。新原画に対する4倍の直接タップ・描画・消去を測定する。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-excavator-cones-faceless-v1.json"
+      }
+    },
+    {
+      "sourceRegionId": "r29",
+      "point": [
+        1380,
+        1117
+      ],
+      "role": "paint",
+      "name": "下の通風口",
+      "reason": "新しい番号付き原画と対応表で下の通風口として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "細い軸・クローラー部品。新原画に対する4倍の直接タップ・描画・消去を測定する。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-excavator-cones-faceless-v1.json"
+      }
+    },
+    {
+      "sourceRegionId": "r30",
+      "point": [
+        441,
+        1330
+      ],
+      "role": "paint",
+      "name": "奥のキャタピラ",
+      "reason": "新しい番号付き原画と対応表で奥のキャタピラとして照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r31",
+      "point": [
+        720,
+        1253
+      ],
+      "role": "paint",
+      "name": "奥のキャタピラ内側",
+      "reason": "新しい番号付き原画と対応表で奥のキャタピラ内側として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r32",
+      "point": [
+        798,
+        1412
+      ],
+      "role": "paint",
+      "name": "手前のキャタピラ",
+      "reason": "新しい番号付き原画と対応表で手前のキャタピラとして照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r33",
+      "point": [
+        787,
+        1221
+      ],
+      "role": "paint",
+      "name": "本体の旋回台",
+      "reason": "新しい番号付き原画と対応表で本体の旋回台として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r34",
+      "point": [
+        673,
+        1356
+      ],
+      "role": "paint",
+      "name": "奥の走行部",
+      "reason": "新しい番号付き原画と対応表で奥の走行部として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r35",
+      "point": [
+        1144,
+        1301
+      ],
+      "role": "paint",
+      "name": "手前のキャタピラ内側",
+      "reason": "新しい番号付き原画と対応表で手前のキャタピラ内側として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r36",
+      "point": [
+        329,
+        1405
+      ],
+      "role": "paint",
+      "name": "左コーンの上段",
+      "reason": "新しい番号付き原画と対応表で左コーンの上段として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r37",
+      "point": [
+        573,
+        1351
+      ],
+      "role": "paint",
+      "name": "奥の車輪",
+      "reason": "新しい番号付き原画と対応表で奥の車輪として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r38",
+      "point": [
+        1006,
+        1477
+      ],
+      "role": "paint",
+      "name": "手前の走行部",
+      "reason": "新しい番号付き原画と対応表で手前の走行部として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r39",
+      "point": [
+        1158,
+        1396
+      ],
+      "role": "paint",
+      "name": "手前中央の車輪",
+      "reason": "新しい番号付き原画と対応表で手前中央の車輪として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r40",
+      "point": [
+        1262,
+        1377
+      ],
+      "role": "paint",
+      "name": "手前右から二番目の車輪",
+      "reason": "新しい番号付き原画と対応表で手前右から二番目の車輪として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r41",
+      "point": [
+        1357,
+        1353
+      ],
+      "role": "paint",
+      "name": "手前右端の車輪",
+      "reason": "新しい番号付き原画と対応表で手前右端の車輪として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r42",
+      "point": [
+        946,
+        1430
+      ],
+      "role": "paint",
+      "name": "手前左端の車輪",
+      "reason": "新しい番号付き原画と対応表で手前左端の車輪として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r43",
+      "point": [
+        1053,
+        1416
+      ],
+      "role": "paint",
+      "name": "手前左から二番目の車輪",
+      "reason": "新しい番号付き原画と対応表で手前左から二番目の車輪として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r44",
+      "point": [
+        310,
+        1501
+      ],
+      "role": "paint",
+      "name": "左コーンの中央",
+      "reason": "新しい番号付き原画と対応表で左コーンの中央として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r45",
+      "point": [
+        1310,
+        1519
+      ],
+      "role": "paint",
+      "name": "右コーンの上段",
+      "reason": "新しい番号付き原画と対応表で右コーンの上段として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r46",
+      "point": [
+        324,
+        1603
+      ],
+      "role": "paint",
+      "name": "左コーンの下段",
+      "reason": "新しい番号付き原画と対応表で左コーンの下段として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r47",
+      "point": [
+        1281,
+        1611
+      ],
+      "role": "paint",
+      "name": "右コーンの中央",
+      "reason": "新しい番号付き原画と対応表で右コーンの中央として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r48",
+      "point": [
+        363,
+        1688
+      ],
+      "role": "paint",
+      "name": "左コーンの台座",
+      "reason": "新しい番号付き原画と対応表で左コーンの台座として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r49",
+      "point": [
+        1260,
+        1697
+      ],
+      "role": "paint",
+      "name": "右コーンの下段",
+      "reason": "新しい番号付き原画と対応表で右コーンの下段として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "plastic",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "sourceRegionId": "r50",
+      "point": [
+        1237,
+        1773
+      ],
+      "role": "paint",
+      "name": "右コーンの台座",
+      "reason": "新しい番号付き原画と対応表で右コーンの台座として照合。旧承認・旧幅例外は転記せず、新原画の操作証拠を使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90
+    },
+    {
+      "point": [
+        861,
+        507
+      ],
+      "role": "background",
+      "name": "奥アームとピストン接合の負の空間",
+      "reason": "原画を拡大して確認した二本の部品の交点にある小さな白い隙間。独立した車の部品ではなく、線やmaskの修復はしない。"
+    }
+  ],
+  "gapReviews": [
+    {
+      "candidateKey": "gap-a5f84ba51434d9562ebcb888ac0ecdce527fcafd0d529390407eaa5ca23230c3",
+      "originalSha256": "6de9789ee4824f96952fa65b5b958c5096c102aed645786e4b257c3ff9f3330f",
+      "kind": "split-open-detail",
+      "parentRegionId": "r32",
+      "parentRegionName": "手前のキャタピラ",
+      "parentExteriorConnected": false,
+      "point": [
+        1437,
+        1312
+      ],
+      "classification": "intentional-open-detail",
+      "part": "右クローラーの外周折り返し",
+      "reason": "生成原画の右端で履帯の内部線が外周手前で止まる意図した開線。外背景に接続せず、9px closeだけで別領域へ分割される。原画・黒線・解析maskを自動修復しない。"
+    }
+  ]
+}

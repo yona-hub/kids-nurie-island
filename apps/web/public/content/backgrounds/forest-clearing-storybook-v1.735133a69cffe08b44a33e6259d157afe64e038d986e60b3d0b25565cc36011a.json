@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "baseColor": "#f7fbf0",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/distant-tree.417c22d5ccd298510c6343d9f31434ea3e22c68e7c10a918a0abb4583fef66a1.png",
+      "x": -340,
+      "y": 560,
+      "width": 660,
+      "height": 638.0859375,
+      "rotation": 0,
+      "opacity": 0.4
+    },
+    {
+      "assetUrl": "/content/decor/distant-tree.417c22d5ccd298510c6343d9f31434ea3e22c68e7c10a918a0abb4583fef66a1.png",
+      "x": 1300,
+      "y": 650,
+      "width": 660,
+      "height": 638.0859375,
+      "rotation": 0,
+      "opacity": 0.37
+    },
+    {
+      "assetUrl": "/content/decor/grass-cluster.3aad6528ef4a8b2104c6271ad1346a2adc4b4e4ae8a9f324a62e9e70f5f28f97.png",
+      "x": -40,
+      "y": 1730,
+      "width": 590,
+      "height": 301.337890625,
+      "rotation": 0,
+      "opacity": 0.48
+    },
+    {
+      "assetUrl": "/content/decor/grass-cluster.3aad6528ef4a8b2104c6271ad1346a2adc4b4e4ae8a9f324a62e9e70f5f28f97.png",
+      "x": 1100,
+      "y": 1760,
+      "width": 590,
+      "height": 301.337890625,
+      "rotation": 0,
+      "opacity": 0.45
+    }
+  ]
+}

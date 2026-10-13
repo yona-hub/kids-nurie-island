@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/sweet-fruit-atelier-v3-top.9c52c584581cd1283ba290d4911835167225325834c6bdebcf54a105ecd8d54f.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/sweet-fruit-atelier-v3-bottom.e2a89077a0ce98c4f1f91bb2e6fee6db5528d4dd9ad4b40a8dd8ec9706f1a989.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/sweet-fruit-atelier-v3-left.ce47d175f405bb064358d194c6779ea5c000acf2cd6af15562f1111db38c44a2.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/sweet-fruit-atelier-v3-right.e38ea05bdadb83aa246ae9f67508953b9cd60af7dbc6bef8aa6baeb5a4b83c60.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

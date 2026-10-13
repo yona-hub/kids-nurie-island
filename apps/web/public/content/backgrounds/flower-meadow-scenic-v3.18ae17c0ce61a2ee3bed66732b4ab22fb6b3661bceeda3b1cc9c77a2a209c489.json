@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "layers": [
+    {
+      "assetUrl": "/content/decor/flower-meadow-scenic-v3-landscape.ab822aa4fe7afb2181cbbb18b5a72072b5a732f16fe72b991cea49d8f6ab3c79.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 2000,
+      "opacity": 1
+    }
+  ]
+}

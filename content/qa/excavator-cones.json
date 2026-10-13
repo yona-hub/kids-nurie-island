@@ -1,0 +1,222 @@
+{
+  "templateId": "excavator-cones",
+  "pass": true,
+  "regionCount": 32,
+  "expectedRegionRange": [
+    30,
+    35
+  ],
+  "errors": [],
+  "warnings": [],
+  "closedRegions": 32,
+  "backgroundLeak": false,
+  "closureMethod": "explicit SVG Z paths; background excluded by compiled visible region masks",
+  "minimumBoundsWidth": 35,
+  "minimumUsableDiameter": 36,
+  "minVisibleArea": 4284,
+  "blackRatio": 0.06420125,
+  "whiteRatio": 0.92053125,
+  "antiAliasRatio": 0.0152675,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "クローラー",
+      "visibleArea": 44704,
+      "usableDiameter": 51.31
+    },
+    {
+      "id": "r02",
+      "name": "クローラーの内がわ",
+      "visibleArea": 56708,
+      "usableDiameter": 56.57
+    },
+    {
+      "id": "r03",
+      "name": "クローラーの車輪 1",
+      "visibleArea": 10432,
+      "usableDiameter": 101.66
+    },
+    {
+      "id": "r04",
+      "name": "クローラーの車輪 2",
+      "visibleArea": 9516,
+      "usableDiameter": 101.66
+    },
+    {
+      "id": "r05",
+      "name": "クローラーの車輪 3",
+      "visibleArea": 9576,
+      "usableDiameter": 100
+    },
+    {
+      "id": "r06",
+      "name": "クローラーの車輪 4",
+      "visibleArea": 9368,
+      "usableDiameter": 100
+    },
+    {
+      "id": "r07",
+      "name": "クローラーの車輪 5",
+      "visibleArea": 8988,
+      "usableDiameter": 100
+    },
+    {
+      "id": "r08",
+      "name": "車体",
+      "visibleArea": 104624,
+      "usableDiameter": 184
+    },
+    {
+      "id": "r09",
+      "name": "エンジンカバー",
+      "visibleArea": 52108,
+      "usableDiameter": 85.54
+    },
+    {
+      "id": "r10",
+      "name": "エンジンの通気口・上",
+      "visibleArea": 6056,
+      "usableDiameter": 36
+    },
+    {
+      "id": "r11",
+      "name": "エンジンの通気口・下",
+      "visibleArea": 5632,
+      "usableDiameter": 36
+    },
+    {
+      "id": "r12",
+      "name": "マフラー",
+      "visibleArea": 8644,
+      "usableDiameter": 56
+    },
+    {
+      "id": "r13",
+      "name": "運転席",
+      "visibleArea": 68268,
+      "usableDiameter": 164
+    },
+    {
+      "id": "r14",
+      "name": "運転席の左窓",
+      "visibleArea": 26864,
+      "usableDiameter": 120
+    },
+    {
+      "id": "r15",
+      "name": "ドア",
+      "visibleArea": 37608,
+      "usableDiameter": 144
+    },
+    {
+      "id": "r16",
+      "name": "運転席の右窓",
+      "visibleArea": 15608,
+      "usableDiameter": 92
+    },
+    {
+      "id": "r17",
+      "name": "屋根",
+      "visibleArea": 29384,
+      "usableDiameter": 80
+    },
+    {
+      "id": "r18",
+      "name": "アームの根元",
+      "visibleArea": 24400,
+      "usableDiameter": 124.85
+    },
+    {
+      "id": "r19",
+      "name": "ブーム",
+      "visibleArea": 58916,
+      "usableDiameter": 122.79
+    },
+    {
+      "id": "r20",
+      "name": "アーム",
+      "visibleArea": 61656,
+      "usableDiameter": 100
+    },
+    {
+      "id": "r21",
+      "name": "油圧シリンダー",
+      "visibleArea": 18400,
+      "usableDiameter": 56.57
+    },
+    {
+      "id": "r22",
+      "name": "シリンダーロッド",
+      "visibleArea": 7832,
+      "usableDiameter": 43.6
+    },
+    {
+      "id": "r23",
+      "name": "バケット",
+      "visibleArea": 47720,
+      "usableDiameter": 164.05
+    },
+    {
+      "id": "r24",
+      "name": "根元のボルト",
+      "visibleArea": 5548,
+      "usableDiameter": 83.2
+    },
+    {
+      "id": "r25",
+      "name": "先端のボルト",
+      "visibleArea": 4284,
+      "usableDiameter": 71.88
+    },
+    {
+      "id": "r26",
+      "name": "左コーンの台",
+      "visibleArea": 19408,
+      "usableDiameter": 76
+    },
+    {
+      "id": "r27",
+      "name": "左コーン",
+      "visibleArea": 21832,
+      "usableDiameter": 96
+    },
+    {
+      "id": "r28",
+      "name": "左コーンの白い帯",
+      "visibleArea": 7588,
+      "usableDiameter": 68
+    },
+    {
+      "id": "r29",
+      "name": "右コーンの台",
+      "visibleArea": 10284,
+      "usableDiameter": 52
+    },
+    {
+      "id": "r30",
+      "name": "右コーン",
+      "visibleArea": 14992,
+      "usableDiameter": 72
+    },
+    {
+      "id": "r31",
+      "name": "右コーンの白い帯",
+      "visibleArea": 5916,
+      "usableDiameter": 60
+    },
+    {
+      "id": "r32",
+      "name": "警告灯",
+      "visibleArea": 4580,
+      "usableDiameter": 64
+    }
+  ],
+  "contentHash": "14d2eac602fba0e3dbbebe2c68bc06303253bff70197f9aa4a9cd4432bd8fe09",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "14d2eac602fba0e3dbbebe2c68bc06303253bff70197f9aa4a9cd4432bd8fe09",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/happy-road-atelier-v3-top.4b6d2ed3ebc959951240b918567a61260606c4e8a7c4977c520504fde83f8fd3.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/happy-road-atelier-v3-bottom.59e98e4b3676eef35c3a6d018bcc4f51a25ddeb4856f8ac0ed0f49577c34ca67.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/happy-road-atelier-v3-left.1741f96d803274fbfe1c7e84de65e9fc6264ffdff6d266ce41e1ab1c572ddd03.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/happy-road-atelier-v3-right.4d7308ec797e81ac293a7a65349929ef9313c05d7dff0cbe1f2ac8cc2ce739c7.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

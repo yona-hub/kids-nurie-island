@@ -1,0 +1,1184 @@
+{
+  "instruction": "I33",
+  "scope": "smooth only; current ten templates; geometry unchanged",
+  "humanApproved": false,
+  "templates": [
+    {
+      "theme": "flowers",
+      "templateId": "gen-bouquet-butterfly-v2-storybook-v2",
+      "previousTemplateSha256": "196c3cf5aa462b2d69c058c907f27396632ca8aadc2323b48fd9e456db22c140",
+      "templateSha256": "4c58551e36ab3111eb461fe2bf15efc9c29fcd606f46867d49be84cd30539560",
+      "masterFile": "content/smooth-finish-i33/originals/flowers-finished-v1.png",
+      "masterSha256": "bd17e5de3f587696b6612394490873e4c857e15bc86288346755d9ca15bc906c",
+      "originalSize": [
+        1121,
+        1403
+      ],
+      "mapUrl": "/content/media/smooth-flowers-v1.c8acd070883cc7b984ca38b399f5d663d656ebd44dcc987df3b9df9e6d5c2781.png",
+      "mapSha256": "c8acd070883cc7b984ca38b399f5d663d656ebd44dcc987df3b9df9e6d5c2781",
+      "range": [
+        26,
+        242
+      ],
+      "groups": [
+        {
+          "groupId": "g1",
+          "name": "チューリップ",
+          "referenceColor": "#F393AF",
+          "referenceLuminance": 0.6724901795387268,
+          "sampleCount": 65516
+        },
+        {
+          "groupId": "g2",
+          "name": "左の花びら",
+          "referenceColor": "#F2D177",
+          "referenceLuminance": 0.8686439394950867,
+          "sampleCount": 88497
+        },
+        {
+          "groupId": "g3",
+          "name": "右の花びら",
+          "referenceColor": "#EFA2BE",
+          "referenceLuminance": 0.7457489967346191,
+          "sampleCount": 87677
+        },
+        {
+          "groupId": "g4",
+          "name": "葉と茎",
+          "referenceColor": "#7EB75E",
+          "referenceLuminance": 0.5456188321113586,
+          "sampleCount": 115424
+        },
+        {
+          "groupId": "g5",
+          "name": "蝶の羽",
+          "referenceColor": "#AC9DDB",
+          "referenceLuminance": 0.6308549046516418,
+          "sampleCount": 23775
+        },
+        {
+          "groupId": "g6",
+          "name": "蝶の模様",
+          "referenceColor": "#EBD482",
+          "referenceLuminance": 0.8843929171562195,
+          "sampleCount": 15047
+        },
+        {
+          "groupId": "g7",
+          "name": "包み紙",
+          "referenceColor": "#D9E7EC",
+          "referenceLuminance": 0.867959201335907,
+          "sampleCount": 179468
+        },
+        {
+          "groupId": "g8",
+          "name": "リボン",
+          "referenceColor": "#ED9EAF",
+          "referenceLuminance": 0.6776008009910583,
+          "sampleCount": 134056
+        },
+        {
+          "groupId": "g9",
+          "name": "蝶の体",
+          "referenceColor": "#817494",
+          "referenceLuminance": 0.4295749068260193,
+          "sampleCount": 2590
+        },
+        {
+          "groupId": "g10",
+          "name": "左の花の中心",
+          "referenceColor": "#C59F45",
+          "referenceLuminance": 0.7542493939399719,
+          "sampleCount": 6149
+        },
+        {
+          "groupId": "g11",
+          "name": "右の花の中心",
+          "referenceColor": "#F6D379",
+          "referenceLuminance": 0.8318039178848267,
+          "sampleCount": 4887
+        }
+      ],
+      "regionsWithoutDirectSamples": [],
+      "privateMaster": true,
+      "humanApproved": false
+    },
+    {
+      "theme": "dinosaurs",
+      "templateId": "gen-dinosaur-eggs-v4-storybook-v2",
+      "previousTemplateSha256": "e79313463ec60c8719cdf820b47d6b2ca0a0f248a7077aa66551b470340f28a6",
+      "templateSha256": "1a475d72d00b18fd28bed70b8d0c736e50747c68f037919bc300c06c875d3849",
+      "masterFile": "content/smooth-finish-i33/originals/dinosaurs-finished-v1.png",
+      "masterSha256": "0f27e330788419d93d6b76a4f34828221d15ca01d1dd26c44b8fcf95cb98af49",
+      "originalSize": [
+        1122,
+        1402
+      ],
+      "mapUrl": "/content/media/smooth-dinosaurs-v1.ce81d37c34b8364d235a222c6e52f7a238cdc0ea8ff580af05fc534df7ce141a.png",
+      "mapSha256": "ce81d37c34b8364d235a222c6e52f7a238cdc0ea8ff580af05fc534df7ce141a",
+      "range": [
+        38,
+        242
+      ],
+      "groups": [
+        {
+          "groupId": "g1",
+          "name": "恐竜の体",
+          "referenceColor": "#8EC986",
+          "referenceLuminance": 0.6877827644348145,
+          "sampleCount": 400814
+        },
+        {
+          "groupId": "g2",
+          "name": "鼻孔",
+          "referenceColor": "#52785D",
+          "referenceLuminance": 0.46231529116630554,
+          "sampleCount": 44
+        },
+        {
+          "groupId": "g3",
+          "name": "歯",
+          "referenceColor": "#FFF9EE",
+          "referenceLuminance": 0.9088243246078491,
+          "sampleCount": 4356
+        },
+        {
+          "groupId": "g4",
+          "name": "爪",
+          "referenceColor": "#F1E4C9",
+          "referenceLuminance": 0.8758745193481445,
+          "sampleCount": 21675
+        },
+        {
+          "groupId": "g5",
+          "name": "手前の卵",
+          "referenceColor": "#F6E0AD",
+          "referenceLuminance": 0.86803138256073,
+          "sampleCount": 76577
+        },
+        {
+          "groupId": "g7",
+          "name": "口の中",
+          "referenceColor": "#DB8A8D",
+          "referenceLuminance": 0.6867419481277466,
+          "sampleCount": 7781
+        },
+        {
+          "groupId": "g8",
+          "name": "おなか",
+          "referenceColor": "#F1DEB1",
+          "referenceLuminance": 0.8620337247848511,
+          "sampleCount": 97665
+        },
+        {
+          "groupId": "g9",
+          "name": "奥の卵",
+          "referenceColor": "#E8D5AC",
+          "referenceLuminance": 0.883733332157135,
+          "sampleCount": 71809
+        },
+        {
+          "groupId": "g10",
+          "name": "大きい岩",
+          "referenceColor": "#A6A69C",
+          "referenceLuminance": 0.692378044128418,
+          "sampleCount": 32999
+        },
+        {
+          "groupId": "g11",
+          "name": "小さい岩",
+          "referenceColor": "#C1B9A7",
+          "referenceLuminance": 0.7080015540122986,
+          "sampleCount": 19487
+        }
+      ],
+      "regionsWithoutDirectSamples": [
+        "r06"
+      ],
+      "privateMaster": true,
+      "humanApproved": false
+    },
+    {
+      "theme": "construction",
+      "templateId": "gen-excavator-cones-v2-storybook-v2",
+      "previousTemplateSha256": "8ffa6ebe6578655a76a128d00a4535149222efcb40d746f9f7fa4e596b61d0da",
+      "templateSha256": "346c78a0ab3719308fb25c29df1a3786a1c9a5e45c1a991684992e50520a4323",
+      "masterFile": "content/smooth-finish-i33/originals/construction-finished-v1.png",
+      "masterSha256": "ddaf597edb302982840f94434ee67fc739d16bbdef1cfd15590621d794cd22bb",
+      "originalSize": [
+        1121,
+        1403
+      ],
+      "mapUrl": "/content/media/smooth-construction-v1.36f7670a6cc710299c74ef889f5b52d1977fab3a294b6f85c587aaf9e2cde4c6.png",
+      "mapSha256": "36f7670a6cc710299c74ef889f5b52d1977fab3a294b6f85c587aaf9e2cde4c6",
+      "range": [
+        19,
+        242
+      ],
+      "groups": [
+        {
+          "groupId": "g1",
+          "name": "車体とアーム",
+          "referenceColor": "#F2BC4C",
+          "referenceLuminance": 0.8123474717140198,
+          "sampleCount": 257722
+        },
+        {
+          "groupId": "g2",
+          "name": "バケット",
+          "referenceColor": "#E7AC3E",
+          "referenceLuminance": 0.7492172718048096,
+          "sampleCount": 81283
+        },
+        {
+          "groupId": "g3",
+          "name": "窓",
+          "referenceColor": "#A9D5E8",
+          "referenceLuminance": 0.8036305904388428,
+          "sampleCount": 111891
+        },
+        {
+          "groupId": "g4",
+          "name": "油圧シリンダー",
+          "referenceColor": "#A4B0BA",
+          "referenceLuminance": 0.5276744961738586,
+          "sampleCount": 21595
+        },
+        {
+          "groupId": "g5",
+          "name": "ピストン棒",
+          "referenceColor": "#D2DADE",
+          "referenceLuminance": 0.7583662867546082,
+          "sampleCount": 8982
+        },
+        {
+          "groupId": "g6",
+          "name": "関節と軸",
+          "referenceColor": "#6A7885",
+          "referenceLuminance": 0.4431372582912445,
+          "sampleCount": 6874
+        },
+        {
+          "groupId": "g7",
+          "name": "キャタピラ",
+          "referenceColor": "#445364",
+          "referenceLuminance": 0.31046903133392334,
+          "sampleCount": 93620
+        },
+        {
+          "groupId": "g8",
+          "name": "車輪",
+          "referenceColor": "#9CAEBB",
+          "referenceLuminance": 0.6511513590812683,
+          "sampleCount": 21059
+        },
+        {
+          "groupId": "g9",
+          "name": "通風口",
+          "referenceColor": "#6D7D89",
+          "referenceLuminance": 0.420288622379303,
+          "sampleCount": 2594
+        },
+        {
+          "groupId": "g10",
+          "name": "左のコーン",
+          "referenceColor": "#F49B51",
+          "referenceLuminance": 0.6099004149436951,
+          "sampleCount": 19760
+        },
+        {
+          "groupId": "g11",
+          "name": "右のコーン",
+          "referenceColor": "#F49B51",
+          "referenceLuminance": 0.5874313712120056,
+          "sampleCount": 15793
+        },
+        {
+          "groupId": "g12",
+          "name": "コーンの白い帯",
+          "referenceColor": "#FFF9EE",
+          "referenceLuminance": 0.9320501685142517,
+          "sampleCount": 15399
+        },
+        {
+          "groupId": "g13",
+          "name": "コーンの台座",
+          "referenceColor": "#626A73",
+          "referenceLuminance": 0.38744863867759705,
+          "sampleCount": 28047
+        },
+        {
+          "groupId": "g14",
+          "name": "本体左のライト",
+          "referenceColor": "#FFE4A2",
+          "referenceLuminance": 0.9176972508430481,
+          "sampleCount": 1688
+        },
+        {
+          "groupId": "g15",
+          "name": "ドアの取っ手",
+          "referenceColor": "#808D99",
+          "referenceLuminance": 0.5012258887290955,
+          "sampleCount": 366
+        }
+      ],
+      "regionsWithoutDirectSamples": [],
+      "privateMaster": true,
+      "humanApproved": false
+    },
+    {
+      "theme": "robots",
+      "templateId": "gen-explorer-robot-v2-storybook-v2",
+      "previousTemplateSha256": "ca4fd90de132bd54280efffcd4ee89016b0dfa19b5d2508f581a47128585c601",
+      "templateSha256": "060c33f8aa56f86d5c4ee0d68f86a6fa9ec25682921ae25676955c340604a0b4",
+      "masterFile": "content/smooth-finish-i33/originals/robots-finished-v1.png",
+      "masterSha256": "8af6dd5bd8e685948afe5dfae3f43d18c121aaf6c4c466a5eed651bb3f565b90",
+      "originalSize": [
+        1122,
+        1402
+      ],
+      "mapUrl": "/content/media/smooth-robots-v1.f24fa2185f667bca17206192efaed5059be9b95edd6d93619ae53759adf4d19e.png",
+      "mapSha256": "f24fa2185f667bca17206192efaed5059be9b95edd6d93619ae53759adf4d19e",
+      "range": [
+        33,
+        242
+      ],
+      "groups": [
+        {
+          "groupId": "g1",
+          "name": "ロボットの外装",
+          "referenceColor": "#A2D4EC",
+          "referenceLuminance": 0.7973513603210449,
+          "sampleCount": 206927
+        },
+        {
+          "groupId": "g2",
+          "name": "耳の内側",
+          "referenceColor": "#6E9DCC",
+          "referenceLuminance": 0.45280078053474426,
+          "sampleCount": 7099
+        },
+        {
+          "groupId": "g3",
+          "name": "肩",
+          "referenceColor": "#C4E7F2",
+          "referenceLuminance": 0.7696486115455627,
+          "sampleCount": 14375
+        },
+        {
+          "groupId": "g4",
+          "name": "手",
+          "referenceColor": "#7AADD7",
+          "referenceLuminance": 0.5630431175231934,
+          "sampleCount": 45029
+        },
+        {
+          "groupId": "g5",
+          "name": "関節",
+          "referenceColor": "#526D91",
+          "referenceLuminance": 0.3717239201068878,
+          "sampleCount": 43114
+        },
+        {
+          "groupId": "g6",
+          "name": "靴",
+          "referenceColor": "#91BEDE",
+          "referenceLuminance": 0.8304070830345154,
+          "sampleCount": 52537
+        },
+        {
+          "groupId": "g7",
+          "name": "靴底",
+          "referenceColor": "#3B526F",
+          "referenceLuminance": 0.3731960654258728,
+          "sampleCount": 24313
+        },
+        {
+          "groupId": "g9",
+          "name": "アンテナの球",
+          "referenceColor": "#F1C55D",
+          "referenceLuminance": 0.8066039085388184,
+          "sampleCount": 7705
+        },
+        {
+          "groupId": "g10",
+          "name": "アンテナの軸",
+          "referenceColor": "#7996B9",
+          "referenceLuminance": 0.5561591982841492,
+          "sampleCount": 391
+        },
+        {
+          "groupId": "g11",
+          "name": "顔のパネル",
+          "referenceColor": "#466B94",
+          "referenceLuminance": 0.39822903275489807,
+          "sampleCount": 31207
+        },
+        {
+          "groupId": "g12",
+          "name": "胸のメーター",
+          "referenceColor": "#99D9E7",
+          "referenceLuminance": 0.7944580316543579,
+          "sampleCount": 25660
+        },
+        {
+          "groupId": "g13",
+          "name": "胸の左ボタン",
+          "referenceColor": "#E78487",
+          "referenceLuminance": 0.5823278427124023,
+          "sampleCount": 2830
+        },
+        {
+          "groupId": "g14",
+          "name": "胸の中央ボタン",
+          "referenceColor": "#EFCF75",
+          "referenceLuminance": 0.8001341223716736,
+          "sampleCount": 3165
+        },
+        {
+          "groupId": "g15",
+          "name": "胸の右ボタン",
+          "referenceColor": "#91CD9F",
+          "referenceLuminance": 0.7270533442497253,
+          "sampleCount": 2849
+        },
+        {
+          "groupId": "g16",
+          "name": "腰のベルト",
+          "referenceColor": "#6D91B5",
+          "referenceLuminance": 0.37994274497032166,
+          "sampleCount": 18658
+        }
+      ],
+      "regionsWithoutDirectSamples": [],
+      "privateMaster": true,
+      "humanApproved": false
+    },
+    {
+      "theme": "ocean",
+      "templateId": "gen-ocean-friends-v2-storybook-v2",
+      "previousTemplateSha256": "4df7a91ba869a8a8ee800e304557ed5b91c5e95d19b5d6a5b2d99437683b5cda",
+      "templateSha256": "91d79cc2d805bb9cc4cb48e30cfe9b691d338e113073622cf714ce68f7970a39",
+      "masterFile": "content/smooth-finish-i33/originals/ocean-finished-v1.png",
+      "masterSha256": "6cefdc9d6a7966fa5677659d2ac6d75d30d028450fd66710ca4d93189444edf6",
+      "originalSize": [
+        1121,
+        1403
+      ],
+      "mapUrl": "/content/media/smooth-ocean-v1.fe1df839baa70bef71cc750848fc412ec1958cf89d9242db2c151d0adff0c5a7.png",
+      "mapSha256": "fe1df839baa70bef71cc750848fc412ec1958cf89d9242db2c151d0adff0c5a7",
+      "range": [
+        50,
+        242
+      ],
+      "groups": [
+        {
+          "groupId": "g1",
+          "name": "イルカ",
+          "referenceColor": "#73BDE9",
+          "referenceLuminance": 0.6767788529396057,
+          "sampleCount": 222176
+        },
+        {
+          "groupId": "g2",
+          "name": "カメの体",
+          "referenceColor": "#A7D27C",
+          "referenceLuminance": 0.7360203862190247,
+          "sampleCount": 83702
+        },
+        {
+          "groupId": "g3",
+          "name": "カメの甲羅",
+          "referenceColor": "#71AA62",
+          "referenceLuminance": 0.5089647173881531,
+          "sampleCount": 76415
+        },
+        {
+          "groupId": "g4",
+          "name": "魚の体とひれ",
+          "referenceColor": "#F2A146",
+          "referenceLuminance": 0.6314729452133179,
+          "sampleCount": 27057
+        },
+        {
+          "groupId": "g5",
+          "name": "魚の模様",
+          "referenceColor": "#FFF0BA",
+          "referenceLuminance": 0.9451929330825806,
+          "sampleCount": 15243
+        },
+        {
+          "groupId": "g6",
+          "name": "泡",
+          "referenceColor": "#CDF3F8",
+          "referenceLuminance": 0.854183554649353,
+          "sampleCount": 25756
+        },
+        {
+          "groupId": "g10",
+          "name": "イルカの口",
+          "referenceColor": "#D8878C",
+          "referenceLuminance": 0.6228360533714294,
+          "sampleCount": 1527
+        },
+        {
+          "groupId": "g11",
+          "name": "カメの口",
+          "referenceColor": "#E88788",
+          "referenceLuminance": 0.7139678597450256,
+          "sampleCount": 349
+        },
+        {
+          "groupId": "g12",
+          "name": "魚の口",
+          "referenceColor": "#E88788",
+          "referenceLuminance": 0.7549168467521667,
+          "sampleCount": 150
+        },
+        {
+          "groupId": "g13",
+          "name": "左のサンゴ",
+          "referenceColor": "#EC9CA3",
+          "referenceLuminance": 0.623938798904419,
+          "sampleCount": 41659
+        },
+        {
+          "groupId": "g14",
+          "name": "右のサンゴ",
+          "referenceColor": "#A986C7",
+          "referenceLuminance": 0.5861090421676636,
+          "sampleCount": 21150
+        },
+        {
+          "groupId": "g15",
+          "name": "ヒトデ",
+          "referenceColor": "#F9D67A",
+          "referenceLuminance": 0.8087937235832214,
+          "sampleCount": 40081
+        },
+        {
+          "groupId": "g16",
+          "name": "貝がら",
+          "referenceColor": "#F1CFB2",
+          "referenceLuminance": 0.8770917654037476,
+          "sampleCount": 28905
+        }
+      ],
+      "regionsWithoutDirectSamples": [],
+      "privateMaster": true,
+      "humanApproved": false
+    },
+    {
+      "theme": "princess",
+      "templateId": "gen-princess-bunny-v6-master-v3",
+      "previousTemplateSha256": "a1a88829b5247fc784354c885f32694d3d31a68ad56f7e80525c124b8d16d982",
+      "templateSha256": "d07657bf38266da8c9a6083473c085f8577f4211a4fb46ccc18be1990d1a617e",
+      "masterFile": "content/princess-master/originals/princess-finished-v1.png",
+      "masterSha256": "a1b87bc1f7f1491ed99d874f282a420381dce9c176ec0e16090f6a1a7bcff8c6",
+      "originalSize": [
+        1122,
+        1402
+      ],
+      "mapUrl": "/content/media/smooth-princess-v1.7896b0c92f09b27089c902b9b0f9b3ff6d9206fc19425019e9fcb7db55405d60.png",
+      "mapSha256": "7896b0c92f09b27089c902b9b0f9b3ff6d9206fc19425019e9fcb7db55405d60",
+      "range": [
+        38,
+        242
+      ],
+      "groups": [
+        {
+          "groupId": "g1",
+          "name": "髪全体",
+          "referenceColor": "#94522E",
+          "referenceLuminance": 0.36090901494026184,
+          "sampleCount": 117489
+        },
+        {
+          "groupId": "g2",
+          "name": "おひめさまの肌",
+          "referenceColor": "#F8D8C6",
+          "referenceLuminance": 0.8421458601951599,
+          "sampleCount": 55564
+        },
+        {
+          "groupId": "g3",
+          "name": "ドレスの上",
+          "referenceColor": "#F47DAF",
+          "referenceLuminance": 0.706440806388855,
+          "sampleCount": 37409
+        },
+        {
+          "groupId": "g4",
+          "name": "スカート",
+          "referenceColor": "#F47DAF",
+          "referenceLuminance": 0.739856481552124,
+          "sampleCount": 486602
+        },
+        {
+          "groupId": "g5",
+          "name": "リボン",
+          "referenceColor": "#F6D16B",
+          "referenceLuminance": 0.8549144864082336,
+          "sampleCount": 12447
+        },
+        {
+          "groupId": "g6",
+          "name": "王冠の宝石",
+          "referenceColor": "#E75B9B",
+          "referenceLuminance": 0.478934109210968,
+          "sampleCount": 1578
+        },
+        {
+          "groupId": "g7",
+          "name": "うさぎの毛",
+          "referenceColor": "#FFF9EE",
+          "referenceLuminance": 0.9449474215507507,
+          "sampleCount": 93091
+        },
+        {
+          "groupId": "g8",
+          "name": "うさぎの耳の内側",
+          "referenceColor": "#F8B7CA",
+          "referenceLuminance": 0.7102870345115662,
+          "sampleCount": 12410
+        },
+        {
+          "groupId": "g9",
+          "name": "うさぎのリボン",
+          "referenceColor": "#85C89A",
+          "referenceLuminance": 0.8801364898681641,
+          "sampleCount": 4570
+        },
+        {
+          "groupId": "g12",
+          "name": "王冠",
+          "referenceColor": "#F6D16B",
+          "referenceLuminance": 0.8433482646942139,
+          "sampleCount": 8525
+        },
+        {
+          "groupId": "g13",
+          "name": "口",
+          "referenceColor": "#ED8278",
+          "referenceLuminance": 0.6010847091674805,
+          "sampleCount": 454
+        },
+        {
+          "groupId": "g14",
+          "name": "うさぎの鼻",
+          "referenceColor": "#E99EB6",
+          "referenceLuminance": 0.5935356616973877,
+          "sampleCount": 136
+        },
+        {
+          "groupId": "g15",
+          "name": "うさぎの口",
+          "referenceColor": "#ED8278",
+          "referenceLuminance": 0.6440737247467041,
+          "sampleCount": 653
+        }
+      ],
+      "regionsWithoutDirectSamples": [],
+      "privateMaster": true,
+      "humanApproved": false
+    },
+    {
+      "theme": "space",
+      "templateId": "gen-rocket-astronaut-v5-storybook-v2",
+      "previousTemplateSha256": "3386320c64e3f215e50b8f71acf0cf3a1c2cdd604541cc571f8d29d05b6bc7ec",
+      "templateSha256": "1e2ceaf7520db54147f9c8f2c07edc8ae73f1daf7662e48f340fde85f6a271a9",
+      "masterFile": "content/smooth-finish-i33/originals/space-finished-v1.png",
+      "masterSha256": "4eff4f2150a367e936ad968cf4953bc460851e8d0e97067a17f6b02da140293e",
+      "originalSize": [
+        1121,
+        1403
+      ],
+      "mapUrl": "/content/media/smooth-space-v1.3b32fd7a48a317370c9f08cebde195ce4aa4fe0b64f5c052dadf173d92a57425.png",
+      "mapSha256": "3b32fd7a48a317370c9f08cebde195ce4aa4fe0b64f5c052dadf173d92a57425",
+      "range": [
+        24,
+        242
+      ],
+      "groups": [
+        {
+          "groupId": "g1",
+          "name": "惑星",
+          "referenceColor": "#F2D37C",
+          "referenceLuminance": 0.801534116268158,
+          "sampleCount": 50584
+        },
+        {
+          "groupId": "g2",
+          "name": "ロケット本体",
+          "referenceColor": "#F6E9D4",
+          "referenceLuminance": 0.8765144944190979,
+          "sampleCount": 157419
+        },
+        {
+          "groupId": "g3",
+          "name": "ロケットの翼",
+          "referenceColor": "#ED7C67",
+          "referenceLuminance": 0.48345881700515747,
+          "sampleCount": 50099
+        },
+        {
+          "groupId": "g4",
+          "name": "宇宙服",
+          "referenceColor": "#F7F0E4",
+          "referenceLuminance": 0.8917176723480225,
+          "sampleCount": 115289
+        },
+        {
+          "groupId": "g5",
+          "name": "肩ひも",
+          "referenceColor": "#C49B78",
+          "referenceLuminance": 0.501144289970398,
+          "sampleCount": 3640
+        },
+        {
+          "groupId": "g6",
+          "name": "背負い袋",
+          "referenceColor": "#B4C4D4",
+          "referenceLuminance": 0.4352400004863739,
+          "sampleCount": 2567
+        },
+        {
+          "groupId": "g7",
+          "name": "ブーツ",
+          "referenceColor": "#98AFC7",
+          "referenceLuminance": 0.6661027669906616,
+          "sampleCount": 29422
+        },
+        {
+          "groupId": "g8",
+          "name": "靴底",
+          "referenceColor": "#53687F",
+          "referenceLuminance": 0.3486666679382324,
+          "sampleCount": 6167
+        },
+        {
+          "groupId": "g10",
+          "name": "ロケットの先端",
+          "referenceColor": "#E67A61",
+          "referenceLuminance": 0.554746687412262,
+          "sampleCount": 27967
+        },
+        {
+          "groupId": "g11",
+          "name": "惑星の輪",
+          "referenceColor": "#CDB38A",
+          "referenceLuminance": 0.7925278544425964,
+          "sampleCount": 13169
+        },
+        {
+          "groupId": "g12",
+          "name": "星",
+          "referenceColor": "#F5DA7E",
+          "referenceLuminance": 0.8739592432975769,
+          "sampleCount": 20010
+        },
+        {
+          "groupId": "g13",
+          "name": "丸窓の枠",
+          "referenceColor": "#AEC3D0",
+          "referenceLuminance": 0.6425215601921082,
+          "sampleCount": 35261
+        },
+        {
+          "groupId": "g14",
+          "name": "丸窓",
+          "referenceColor": "#A3D8EE",
+          "referenceLuminance": 0.7560007572174072,
+          "sampleCount": 45973
+        },
+        {
+          "groupId": "g15",
+          "name": "髪",
+          "referenceColor": "#94522E",
+          "referenceLuminance": 0.33110275864601135,
+          "sampleCount": 21242
+        },
+        {
+          "groupId": "g16",
+          "name": "顔と左耳",
+          "referenceColor": "#F8D8C6",
+          "referenceLuminance": 0.8054062724113464,
+          "sampleCount": 18738
+        },
+        {
+          "groupId": "g17",
+          "name": "口",
+          "referenceColor": "#E18A85",
+          "referenceLuminance": 0.5667137503623962,
+          "sampleCount": 1091
+        },
+        {
+          "groupId": "g18",
+          "name": "胸のパネル",
+          "referenceColor": "#92BCC9",
+          "referenceLuminance": 0.5843521356582642,
+          "sampleCount": 6110
+        },
+        {
+          "groupId": "g19",
+          "name": "胸のボタン",
+          "referenceColor": "#E6BD58",
+          "referenceLuminance": 0.8102627396583557,
+          "sampleCount": 1728
+        },
+        {
+          "groupId": "g20",
+          "name": "ロケットのノズル",
+          "referenceColor": "#687A8B",
+          "referenceLuminance": 0.49999842047691345,
+          "sampleCount": 16137
+        },
+        {
+          "groupId": "g21",
+          "name": "腰のベルト",
+          "referenceColor": "#97ADC2",
+          "referenceLuminance": 0.5988854765892029,
+          "sampleCount": 8017
+        },
+        {
+          "groupId": "g22",
+          "name": "ロケットの炎の外側",
+          "referenceColor": "#F9A24C",
+          "referenceLuminance": 0.6696219444274902,
+          "sampleCount": 32828
+        },
+        {
+          "groupId": "g23",
+          "name": "ロケットの炎の内側",
+          "referenceColor": "#FFE69A",
+          "referenceLuminance": 0.9494674801826477,
+          "sampleCount": 20815
+        }
+      ],
+      "regionsWithoutDirectSamples": [],
+      "privateMaster": true,
+      "humanApproved": false
+    },
+    {
+      "theme": "vehicles",
+      "templateId": "gen-round-sports-car-v2-storybook-v2",
+      "previousTemplateSha256": "42c8381e9e693a0d0a45f41e1d9e2f10c08fb3c81463fd5d24a590778e57325a",
+      "templateSha256": "c7671338ab83dba3876f11712c7492ef1f98832cbd602127a792ccfb5cedc924",
+      "masterFile": "content/smooth-finish-i33/originals/vehicles-finished-v1.png",
+      "masterSha256": "5bb4ed26c3ec3accd53946cfd63e210f32482e9d23e16ff3447dcbd2838d47f1",
+      "originalSize": [
+        1121,
+        1403
+      ],
+      "mapUrl": "/content/media/smooth-vehicles-v1.cc540d5cd8bd9c72f9a242fd64fcfd60429ea6d6ef6ccae4ff919dbe7852ff78.png",
+      "mapSha256": "cc540d5cd8bd9c72f9a242fd64fcfd60429ea6d6ef6ccae4ff919dbe7852ff78",
+      "range": [
+        29,
+        242
+      ],
+      "groups": [
+        {
+          "groupId": "g1",
+          "name": "車体",
+          "referenceColor": "#E96759",
+          "referenceLuminance": 0.4806431233882904,
+          "sampleCount": 187648
+        },
+        {
+          "groupId": "g2",
+          "name": "窓",
+          "referenceColor": "#AFD8EC",
+          "referenceLuminance": 0.7664737105369568,
+          "sampleCount": 115574
+        },
+        {
+          "groupId": "g3",
+          "name": "タイヤ",
+          "referenceColor": "#4B5361",
+          "referenceLuminance": 0.3562917709350586,
+          "sampleCount": 52095
+        },
+        {
+          "groupId": "g4",
+          "name": "ホイール",
+          "referenceColor": "#B2C2CC",
+          "referenceLuminance": 0.7453811764717102,
+          "sampleCount": 17584
+        },
+        {
+          "groupId": "g5",
+          "name": "ライトの枠",
+          "referenceColor": "#AFBBC7",
+          "referenceLuminance": 0.7345490455627441,
+          "sampleCount": 8976
+        },
+        {
+          "groupId": "g6",
+          "name": "ヘッドライト",
+          "referenceColor": "#FFF3BE",
+          "referenceLuminance": 0.9432109594345093,
+          "sampleCount": 11948
+        },
+        {
+          "groupId": "g7",
+          "name": "グリル",
+          "referenceColor": "#667381",
+          "referenceLuminance": 0.3726635277271271,
+          "sampleCount": 22944
+        },
+        {
+          "groupId": "g8",
+          "name": "ドアの取っ手",
+          "referenceColor": "#C1CBD1",
+          "referenceLuminance": 0.7935255169868469,
+          "sampleCount": 513
+        },
+        {
+          "groupId": "g9",
+          "name": "ナンバープレート",
+          "referenceColor": "#F5E9D8",
+          "referenceLuminance": 0.8855576515197754,
+          "sampleCount": 14591
+        }
+      ],
+      "regionsWithoutDirectSamples": [],
+      "privateMaster": true,
+      "humanApproved": false
+    },
+    {
+      "theme": "animals",
+      "templateId": "gen-tree-friends-v4-storybook-v2",
+      "previousTemplateSha256": "5de37c760ea72762a99bb3783c95c68af334edc1643e8397850925eae64746c0",
+      "templateSha256": "7684e33fcea7b26f03f6feaaa1bc41203554891ef1663035b32c2e5d2977b7d8",
+      "masterFile": "content/smooth-finish-i33/originals/animals-finished-v1.png",
+      "masterSha256": "2cd5af7c4daa7c0ff70079e0c182194f2c2ef857f17d842749eee28be19aed91",
+      "originalSize": [
+        1121,
+        1403
+      ],
+      "mapUrl": "/content/media/smooth-animals-v1.9775b58f82aa791e035408671a0f4db097f80a3ccade1676ceff4d1917ed5bcd.png",
+      "mapSha256": "9775b58f82aa791e035408671a0f4db097f80a3ccade1676ceff4d1917ed5bcd",
+      "range": [
+        37,
+        242
+      ],
+      "groups": [
+        {
+          "groupId": "g1",
+          "name": "木の葉",
+          "referenceColor": "#80B45C",
+          "referenceLuminance": 0.5470595955848694,
+          "sampleCount": 413305
+        },
+        {
+          "groupId": "g2",
+          "name": "犬の毛",
+          "referenceColor": "#E8BE8F",
+          "referenceLuminance": 0.8025262951850891,
+          "sampleCount": 256096
+        },
+        {
+          "groupId": "g3",
+          "name": "猫の毛",
+          "referenceColor": "#EDCAA3",
+          "referenceLuminance": 0.8480948805809021,
+          "sampleCount": 192854
+        },
+        {
+          "groupId": "g4",
+          "name": "猫の耳の内側",
+          "referenceColor": "#F7B7BD",
+          "referenceLuminance": 0.6713905930519104,
+          "sampleCount": 3559
+        },
+        {
+          "groupId": "g7",
+          "name": "木の幹",
+          "referenceColor": "#A77945",
+          "referenceLuminance": 0.4274054765701294,
+          "sampleCount": 64542
+        },
+        {
+          "groupId": "g8",
+          "name": "犬の鼻",
+          "referenceColor": "#58463C",
+          "referenceLuminance": 0.23496313393115997,
+          "sampleCount": 651
+        },
+        {
+          "groupId": "g9",
+          "name": "犬の口",
+          "referenceColor": "#EB8F8E",
+          "referenceLuminance": 0.6542070508003235,
+          "sampleCount": 1964
+        },
+        {
+          "groupId": "g10",
+          "name": "猫の鼻",
+          "referenceColor": "#E695A0",
+          "referenceLuminance": 0.5885317921638489,
+          "sampleCount": 86
+        }
+      ],
+      "regionsWithoutDirectSamples": [],
+      "privateMaster": true,
+      "humanApproved": false
+    },
+    {
+      "theme": "magic",
+      "templateId": "gen-wizard-lantern-v6-storybook-v2",
+      "previousTemplateSha256": "1b6826f1d83d161f87b9a204301c148ef74219f66cb377ed4c11f941e689e9b7",
+      "templateSha256": "0dedafe3d6dd4c51ce551ed617b2fe1d1f08c401a302312521ed05d3f43e17dc",
+      "masterFile": "content/smooth-finish-i33/originals/magic-finished-v1.png",
+      "masterSha256": "2dc3531e40f46f91912d66bfe0570a303c45176ae39c9f2941221a4a72583a0a",
+      "originalSize": [
+        1121,
+        1403
+      ],
+      "mapUrl": "/content/media/smooth-magic-v1.ffaa0cd2140fbd5edf7e0dbac17215de44cd264731037442b01b2e372f608516.png",
+      "mapSha256": "ffaa0cd2140fbd5edf7e0dbac17215de44cd264731037442b01b2e372f608516",
+      "range": [
+        18,
+        242
+      ],
+      "groups": [
+        {
+          "groupId": "g1",
+          "name": "帽子",
+          "referenceColor": "#8764C9",
+          "referenceLuminance": 0.32794275879859924,
+          "sampleCount": 91447
+        },
+        {
+          "groupId": "g2",
+          "name": "髪全体",
+          "referenceColor": "#94522E",
+          "referenceLuminance": 0.35900548100471497,
+          "sampleCount": 26275
+        },
+        {
+          "groupId": "g3",
+          "name": "男の子の肌",
+          "referenceColor": "#F8D8C6",
+          "referenceLuminance": 0.8371027708053589,
+          "sampleCount": 47332
+        },
+        {
+          "groupId": "g4",
+          "name": "マントと袖",
+          "referenceColor": "#8764C9",
+          "referenceLuminance": 0.3106376528739929,
+          "sampleCount": 261464
+        },
+        {
+          "groupId": "g5",
+          "name": "襟",
+          "referenceColor": "#C1AFE7",
+          "referenceLuminance": 0.670605480670929,
+          "sampleCount": 12492
+        },
+        {
+          "groupId": "g6",
+          "name": "ズボン",
+          "referenceColor": "#4D638D",
+          "referenceLuminance": 0.3734854757785797,
+          "sampleCount": 40097
+        },
+        {
+          "groupId": "g7",
+          "name": "靴",
+          "referenceColor": "#73503C",
+          "referenceLuminance": 0.34565648436546326,
+          "sampleCount": 64275
+        },
+        {
+          "groupId": "g8",
+          "name": "靴底",
+          "referenceColor": "#3F3D4B",
+          "referenceLuminance": 0.268745094537735,
+          "sampleCount": 4093
+        },
+        {
+          "groupId": "g9",
+          "name": "杖",
+          "referenceColor": "#A77945",
+          "referenceLuminance": 0.4372054934501648,
+          "sampleCount": 6984
+        },
+        {
+          "groupId": "g10",
+          "name": "ランタンの金属",
+          "referenceColor": "#EDBD5C",
+          "referenceLuminance": 0.6622894406318665,
+          "sampleCount": 58347
+        },
+        {
+          "groupId": "g11",
+          "name": "ろうそく",
+          "referenceColor": "#FFF3D2",
+          "referenceLuminance": 0.8930235505104065,
+          "sampleCount": 9169
+        },
+        {
+          "groupId": "g13",
+          "name": "帽子の星",
+          "referenceColor": "#F6D16B",
+          "referenceLuminance": 0.8060533404350281,
+          "sampleCount": 6596
+        },
+        {
+          "groupId": "g14",
+          "name": "杖の星",
+          "referenceColor": "#F6D16B",
+          "referenceLuminance": 0.7706870436668396,
+          "sampleCount": 16325
+        },
+        {
+          "groupId": "g15",
+          "name": "口",
+          "referenceColor": "#E8847F",
+          "referenceLuminance": 0.5534297823905945,
+          "sampleCount": 939
+        },
+        {
+          "groupId": "g16",
+          "name": "胸の留め具",
+          "referenceColor": "#F6D16B",
+          "referenceLuminance": 0.7751905918121338,
+          "sampleCount": 1792
+        },
+        {
+          "groupId": "g17",
+          "name": "服の身頃",
+          "referenceColor": "#B799DB",
+          "referenceLuminance": 0.6551709771156311,
+          "sampleCount": 92053
+        },
+        {
+          "groupId": "g18",
+          "name": "ランタンのガラス",
+          "referenceColor": "#BDE8F2",
+          "referenceLuminance": 0.7231357097625732,
+          "sampleCount": 33765
+        },
+        {
+          "groupId": "g19",
+          "name": "炎の外側",
+          "referenceColor": "#FF9B49",
+          "referenceLuminance": 0.8464251160621643,
+          "sampleCount": 2951
+        },
+        {
+          "groupId": "g20",
+          "name": "炎の内側",
+          "referenceColor": "#FFEBA1",
+          "referenceLuminance": 0.8404635190963745,
+          "sampleCount": 66
+        }
+      ],
+      "regionsWithoutDirectSamples": [],
+      "privateMaster": true,
+      "humanApproved": false
+    }
+  ]
+}

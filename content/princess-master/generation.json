@@ -1,0 +1,17 @@
+{
+  "instruction": "I19: OKです。まずは姫1枚で確認できるよう、実装してください",
+  "taskDateJst": "2026-10-10",
+  "tool": "built-in image_gen.imagegen",
+  "toolOutput": "C:/Users/yonaf/.codex/generated_images/01a11153-749f-7af1-9d87-047b622f384b/exec-e7ddbc1c-d2bd-42fd-9929-b91d216d8774.png",
+  "projectCopy": "content/princess-master/originals/princess-finished-v1.png",
+  "privateMaster": true,
+  "submittedPromptVerbatimAvailable": false,
+  "promptRecordNote": "The following is the retained production brief from the generation run, not a claimed verbatim transcription of the tool request. The selected image hash and registration are recorded in manifest.json. The original tool call remains the authoritative prompt source.",
+  "productionBrief": "Edit the existing princess-and-rabbit coloring page into one polished finished storybook painting for internal shading production. Preserve exactly the original full-body composition, silhouette, crown, arms, dress panels, bow, rabbit and empty white page, with all original parts in their original coordinates. Use the home princess artwork as a quality/style reference only. Give chestnut hair curved locks and flowing highlights, pink satin sleeves and skirt with soft folds and overlap shadows, a golden crown and bow, warm cream-peach skin, and a cream rabbit with pink ears and a mint bow. Keep a coherent soft upper-left light. Do not add scenery, text, trims, new contours, or objects. This image is a private production master; runtime colors remain freely selectable.",
+  "references": [
+    {"role": "edit target and exact composition", "file": "content/generated-lineart/originals/princess-v6.png"},
+    {"role": "style and quality reference", "file": "content/brand-generated/originals/princess-v1.png"}
+  ],
+  "generationCount": 1,
+  "paidApiFallback": false
+}

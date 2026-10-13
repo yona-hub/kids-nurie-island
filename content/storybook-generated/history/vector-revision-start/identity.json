@@ -1,0 +1,42 @@
+{
+  "recordedAt": "2026-10-08T14:51:08.574Z",
+  "files": [
+    {
+      "file": "packages/coloring-engine/src/storybook-engine.ts",
+      "sha256": "e2736c3a16d958d909a0bfe2d775315b9771155b764511cd4b721961c010a3fd"
+    },
+    {
+      "file": "packages/coloring-engine/src/storybook-texture.ts",
+      "sha256": "5f1c6e5e0ddcb25f2ecfb335803b13655df1dfe6a37cac801461fa2e5aa291d4"
+    },
+    {
+      "file": "packages/coloring-engine/src/painting.ts",
+      "sha256": "21216cd492d4d26882be69208470ba08c660f6cb86c3e870dd95d04a9cedae67"
+    },
+    {
+      "file": "packages/shared-types/src/index.ts",
+      "sha256": "e8e561d3019fbdba456911ce5653baa0765ba3a5ca901d01051800fdab72ecba"
+    },
+    {
+      "file": "apps/web/public/content/catalog.json",
+      "sha256": "2311360d67307e864754dca5c165057a414829a89d90741d28231cb92bde8a23"
+    },
+    {
+      "file": "apps/web/public/content/upgrade-index.json",
+      "sha256": "ca3420efa266371124ac14a66b53c841a2eb6ce6fdec538fe72be22f9b96a6d4"
+    },
+    {
+      "file": "scripts/build-storybook-content.mjs",
+      "sha256": "4f745903d46267ac069798d6c5c0799cca104b4fc44830f671ed541e65f5ab30"
+    },
+    {
+      "file": "docs/storybook-improvement.md",
+      "sha256": "28173c1cf75d04b945800f67bfd9c9b2fa76cfd6913184d4f2f619d289652dda"
+    },
+    {
+      "file": "dist-demo/assets/artwork-source-V2c1FoTm.js",
+      "sha256": "6f647489fc140b5fb4491b2823e797f7ba4165f819a21e292e389861288efc65"
+    }
+  ],
+  "status": "Implementation start; no acceptance."
+}

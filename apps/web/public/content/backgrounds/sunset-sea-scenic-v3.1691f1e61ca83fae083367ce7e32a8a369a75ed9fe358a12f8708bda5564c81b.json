@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "layers": [
+    {
+      "assetUrl": "/content/decor/sunset-sea-scenic-v3-landscape.bf0dd65812aec16dd446c19610b7601c0a8082b9eecb911731e48d541daa7c7e.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 2000,
+      "opacity": 1
+    }
+  ]
+}

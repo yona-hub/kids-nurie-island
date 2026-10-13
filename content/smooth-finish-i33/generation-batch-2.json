@@ -1,0 +1,32 @@
+{
+  "instruction": "I33",
+  "tool": "built-in image_gen.imagegen",
+  "privateMaster": true,
+  "paidApiFallback": false,
+  "requests": [
+    {
+      "theme": "magic",
+      "prompt": "Use case: sketch-to-render. Asset type: private production master for a children's coloring app. Input image 1 is the exact edit target and coordinate/layout guide. Input image 2 is a quality/style reference ONLY. Turn image 1 into a richly finished, softly rendered storybook illustration at the craft quality of image 2. Keep the same canvas aspect ratio 4:5, white margins, exact position, scale, silhouette, pose, number of objects and boundaries of every colored part. Do not recenter, crop or zoom. Replace heavy black outlines with delicate color-matched edges and natural occlusion. Model rounded forms, contact shadows, coherent soft upper-left light and restrained highlights. Keep each part's base color from image 1; no new parts, scenery, labels, decoration, drop shadow outside the subject or watermark. This master will be separated into colorless lighting and recolored at runtime, so spatial registration is critical. Render the young boy with a friendly soft child face and rosy cheeks, chestnut locks with flowing strands, rich lavender/violet cloth with coherent draped folds and gentle woven detail, gold stars and clasp, warm brown leather boots, polished brass lantern with blue glass and warm candlelight. Keep the face anatomy and exact eye positions, no eyelashes, no extra stars or decorations. Lantern glow must remain inside existing parts.",
+      "references": [
+        "C:/Users/yonaf/develop/app/キッズ塗り絵アイランド/test-results/smooth-home-i33/revision-1/before/magic-source.png",
+        "C:/Users/yonaf/AppData/Local/Temp/codex-clipboard-e81e9ec9-70a5-4c71-a615-ca8dd926a460.png"
+      ]
+    },
+    {
+      "theme": "animals",
+      "prompt": "Use case: sketch-to-render. Asset type: private production master for a children's coloring app. Input image 1 is the exact edit target and coordinate/layout guide. Input image 2 is a quality/style reference ONLY. Turn image 1 into a richly finished, softly rendered storybook illustration at the craft quality of image 2. Keep the same canvas aspect ratio 4:5, white margins, exact position, scale, silhouette, pose, number of objects and boundaries of every colored part. Do not recenter, crop or zoom. Replace heavy black outlines with delicate color-matched edges and natural occlusion. Model rounded forms, contact shadows, coherent soft upper-left light and restrained highlights. Keep each part's base color from image 1; no new parts, scenery, labels, decoration, drop shadow outside the subject or watermark. This master will be separated into colorless lighting and recolored at runtime, so spatial registration is critical. Give the puppy and kitten soft detailed cream/golden fur following the actual limbs and cheeks, gentle occlusion under ears/chins, moist noses, warm friendly glossy eyes, fine tree bark and dense sculpted leaf clusters confined inside the exact three existing foliage silhouettes. Keep every contour, gap and pose, with no extra plants or ground.",
+      "references": [
+        "C:/Users/yonaf/develop/app/キッズ塗り絵アイランド/test-results/smooth-home-i33/revision-1/before/animals-source.png",
+        "C:/Users/yonaf/AppData/Local/Temp/codex-clipboard-e81e9ec9-70a5-4c71-a615-ca8dd926a460.png"
+      ]
+    },
+    {
+      "theme": "ocean",
+      "prompt": "Use case: sketch-to-render. Asset type: private production master for a children's coloring app. Input image 1 is the exact edit target and coordinate/layout guide. Input image 2 is a quality/style reference ONLY. Turn image 1 into a richly finished, softly rendered storybook illustration at the craft quality of image 2. Keep the same canvas aspect ratio 4:5, white margins, exact position, scale, silhouette, pose, number of objects and boundaries of every colored part. Do not recenter, crop or zoom. Replace heavy black outlines with delicate color-matched edges and natural occlusion. Model rounded forms, contact shadows, coherent soft upper-left light and restrained highlights. Keep each part's base color from image 1; no new parts, scenery, labels, decoration, drop shadow outside the subject or watermark. This master will be separated into colorless lighting and recolored at runtime, so spatial registration is critical. Render the blue dolphin with smooth rounded luminous skin, soft belly reflection and natural flipper contact shadows. Give the turtle softly scaled green limbs and polished gently domed shell panels, the clownfish rounded orange/cream scales and translucent fins, iridescent soap bubbles, softly sculpted pink/purple coral, ridged shell and gold starfish. Keep the exact positions and face anatomy, no eyelashes or new objects.",
+      "references": [
+        "C:/Users/yonaf/develop/app/キッズ塗り絵アイランド/test-results/smooth-home-i33/revision-1/before/ocean-source.png",
+        "C:/Users/yonaf/AppData/Local/Temp/codex-clipboard-e81e9ec9-70a5-4c71-a615-ca8dd926a460.png"
+      ]
+    }
+  ]
+}

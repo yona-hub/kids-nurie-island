@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "baseColor": "#f1faff",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/cloud.00a3bb8dff232f94a89098a1af507bcda6e9296e4b6f0d28ce6f3f77cc49d668.png",
+      "x": 40,
+      "y": 130,
+      "width": 430,
+      "height": 246.9140625,
+      "rotation": 0,
+      "opacity": 0.35
+    },
+    {
+      "assetUrl": "/content/decor/cloud.00a3bb8dff232f94a89098a1af507bcda6e9296e4b6f0d28ce6f3f77cc49d668.png",
+      "x": 1260,
+      "y": 390,
+      "width": 380,
+      "height": 218.203125,
+      "rotation": 0,
+      "opacity": 0.3
+    },
+    {
+      "assetUrl": "/content/decor/floating-ground.aead01b87c279366601c3123bfff5e45f9cb1dfc1672ff77580af97236ea8ca8.png",
+      "x": -60,
+      "y": 1640,
+      "width": 1720,
+      "height": 1138.828125,
+      "rotation": 0,
+      "opacity": 0.42
+    }
+  ]
+}

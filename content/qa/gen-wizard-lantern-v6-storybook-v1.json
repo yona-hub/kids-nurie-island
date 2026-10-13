@@ -1,0 +1,19 @@
+{
+  "templateId": "gen-wizard-lantern-v6-storybook-v1",
+  "pass": false,
+  "contentHash": "58942820993c3e2fc55d69582014ec4eeae8ff88feb87c1316501cf8981d19cd",
+  "regionCount": 46,
+  "groupCount": 20,
+  "eyes": 2,
+  "sourceTemplateId": "gen-wizard-lantern-v6",
+  "sourceOriginalSha256": "08eb9d02b3017b130bce97820a3c76ff7247487db559273fdb18dc0d4f0015b0",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-07T17:12:18.301Z",
+    "contentHash": "58942820993c3e2fc55d69582014ec4eeae8ff88feb87c1316501cf8981d19cd",
+    "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+  },
+  "errors": [],
+  "status": "pending technical and human visual verification"
+}

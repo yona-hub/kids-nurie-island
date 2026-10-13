@@ -1,0 +1,19 @@
+{
+  "templateId": "gen-explorer-robot-v2-storybook-v1",
+  "pass": false,
+  "contentHash": "a5aec5eaf1c3df10da072582fe193cdf8b2873ca9306a34acfa2c323c973e216",
+  "regionCount": 46,
+  "groupCount": 16,
+  "eyes": 2,
+  "sourceTemplateId": "gen-explorer-robot-v2",
+  "sourceOriginalSha256": "cfd8eb3aee0aa120fb390e17c2c78ecb01e25614e2bec805832cdb2c60148802",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-07T17:12:09.654Z",
+    "contentHash": "a5aec5eaf1c3df10da072582fe193cdf8b2873ca9306a34acfa2c323c973e216",
+    "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+  },
+  "errors": [],
+  "status": "pending technical and human visual verification"
+}

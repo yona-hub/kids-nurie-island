@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-bouquet-butterfly-v2",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06T15:47:54.707Z",
+    "contentHash": "624d73224978ec6616b6f3ae6d95c3daac7f26534d531c09ced754e707cb88b9",
+    "basis": "Image-generated original, source-bound semantic annotations, original ink contours, measured QA and individual interaction evidence reviewed. Human art/content review is required before release."
+  }
+}

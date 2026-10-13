@@ -1,0 +1,102 @@
+[
+  {
+    "id": "gen-bouquet-butterfly-v2",
+    "themeId": "flowers",
+    "title": "はなたばと ちょうちょ",
+    "defaultColorFamily": "pink",
+    "regionCount": 44,
+    "assetUrl": "/content/templates/gen-bouquet-butterfly-v2.230330e9d19cc46ab725aed1765ada6ef74aa6f1bf3a4c4742354d9384e74451.json",
+    "thumbnailUrl": "/content/templates/gen-bouquet-butterfly-v2.f6554c083cd5df00102c3996d9b46f61d69f4183b856ce414ef7832eee789f02.png",
+    "coloredThumbnailUrl": "/content/templates/gen-bouquet-butterfly-v2.f6554c083cd5df00102c3996d9b46f61d69f4183b856ce414ef7832eee789f02.png"
+  },
+  {
+    "id": "gen-dinosaur-eggs-v4",
+    "themeId": "dinosaurs",
+    "title": "きょうりゅうと たまご",
+    "defaultColorFamily": "green",
+    "regionCount": 23,
+    "assetUrl": "/content/templates/gen-dinosaur-eggs-v4.f9a86ea6b9102b9a51629d7c235d06065470b396a108443b6db08bb5fdd9eeec.json",
+    "thumbnailUrl": "/content/templates/gen-dinosaur-eggs-v4.a42fb49932696529199063469b26268d62b758606a83a89cc607ec195a9eb237.png",
+    "coloredThumbnailUrl": "/content/templates/gen-dinosaur-eggs-v4.a42fb49932696529199063469b26268d62b758606a83a89cc607ec195a9eb237.png"
+  },
+  {
+    "id": "gen-excavator-cones-v2",
+    "themeId": "construction",
+    "title": "ショベルカーと コーン",
+    "defaultColorFamily": "yellow",
+    "regionCount": 54,
+    "assetUrl": "/content/templates/gen-excavator-cones-v2.a9d67d7286ae1d0fb8a3f8b9e551b406d93108623f532bc3714603d258d00fe5.json",
+    "thumbnailUrl": "/content/templates/gen-excavator-cones-v2.086bd2b89168e449e887237f1bdb9144768bd3ad35e9099c921523604db45ccf.png",
+    "coloredThumbnailUrl": "/content/templates/gen-excavator-cones-v2.086bd2b89168e449e887237f1bdb9144768bd3ad35e9099c921523604db45ccf.png"
+  },
+  {
+    "id": "gen-explorer-robot-v2",
+    "themeId": "robots",
+    "title": "たんけん ロボット",
+    "defaultColorFamily": "gray",
+    "regionCount": 46,
+    "assetUrl": "/content/templates/gen-explorer-robot-v2.f5b00ee567251af8ac2612eb7958b77a8c891f9f9b249bbdb2a67b7458292e08.json",
+    "thumbnailUrl": "/content/templates/gen-explorer-robot-v2.d16d62bc76d6a614c5bdf5cb808a46df544b8a76703f229e62f0a9ee6e5ed564.png",
+    "coloredThumbnailUrl": "/content/templates/gen-explorer-robot-v2.d16d62bc76d6a614c5bdf5cb808a46df544b8a76703f229e62f0a9ee6e5ed564.png"
+  },
+  {
+    "id": "gen-ocean-friends-v2",
+    "themeId": "ocean",
+    "title": "うみの なかまたち",
+    "defaultColorFamily": "blue",
+    "regionCount": 41,
+    "assetUrl": "/content/templates/gen-ocean-friends-v2.f68dae4c61465be0627de2cce3eeba5a59216cf1bf855be73a63227f2158d90b.json",
+    "thumbnailUrl": "/content/templates/gen-ocean-friends-v2.d8ec6339905ec615501593f1bec7adfc039d4f61f84d91f57115e21a92baa261.png",
+    "coloredThumbnailUrl": "/content/templates/gen-ocean-friends-v2.d8ec6339905ec615501593f1bec7adfc039d4f61f84d91f57115e21a92baa261.png"
+  },
+  {
+    "id": "gen-princess-bunny-v6",
+    "themeId": "princess",
+    "title": "おひめさまと うさぎ",
+    "defaultColorFamily": "pink",
+    "regionCount": 51,
+    "assetUrl": "/content/templates/gen-princess-bunny-v6.61db06e42cd5a304470f2d70f6b6e59b941ddebc1712d3c1fa8b365ec27d3df7.json",
+    "thumbnailUrl": "/content/templates/gen-princess-bunny-v6.2e84076409201bf17b0cb30673ca7e33dbcd6e460cd3f635b4773ba1dfa765e2.png",
+    "coloredThumbnailUrl": "/content/templates/gen-princess-bunny-v6.2e84076409201bf17b0cb30673ca7e33dbcd6e460cd3f635b4773ba1dfa765e2.png"
+  },
+  {
+    "id": "gen-rocket-astronaut-v5",
+    "themeId": "space",
+    "title": "ロケットと うちゅうひこうし",
+    "defaultColorFamily": "blue",
+    "regionCount": 46,
+    "assetUrl": "/content/templates/gen-rocket-astronaut-v5.368bb68ed2a4d51c93076ee2b2eee65e3705176fc3e49df0fb34a865bc8b9677.json",
+    "thumbnailUrl": "/content/templates/gen-rocket-astronaut-v5.3a0884a8ff01c5357a75e56142489d9ccf3c886c2079d147636019b9ef187efc.png",
+    "coloredThumbnailUrl": "/content/templates/gen-rocket-astronaut-v5.3a0884a8ff01c5357a75e56142489d9ccf3c886c2079d147636019b9ef187efc.png"
+  },
+  {
+    "id": "gen-round-sports-car-v2",
+    "themeId": "vehicles",
+    "title": "まるい スポーツカー",
+    "defaultColorFamily": "red",
+    "regionCount": 28,
+    "assetUrl": "/content/templates/gen-round-sports-car-v2.c431d3e67af654b733f3e8764a3b48aad4f336f767be044c5680a837908d463b.json",
+    "thumbnailUrl": "/content/templates/gen-round-sports-car-v2.215c7c0888be5fef18dd57e789bf5d2c86a2aada69c0ab8602e84a837db7b1f2.png",
+    "coloredThumbnailUrl": "/content/templates/gen-round-sports-car-v2.215c7c0888be5fef18dd57e789bf5d2c86a2aada69c0ab8602e84a837db7b1f2.png"
+  },
+  {
+    "id": "gen-tree-friends-v4",
+    "themeId": "animals",
+    "title": "きのしたの なかまたち",
+    "defaultColorFamily": "brown",
+    "regionCount": 29,
+    "assetUrl": "/content/templates/gen-tree-friends-v4.b499fffc73140b1e7e3233b3cf44262e226f90c7e5ff1cbd1116f34ee6437343.json",
+    "thumbnailUrl": "/content/templates/gen-tree-friends-v4.936eb1e4d2232b09ba4628ad8dc5ac1a61f57714bcaf7a53ba237fa6e2536e58.png",
+    "coloredThumbnailUrl": "/content/templates/gen-tree-friends-v4.936eb1e4d2232b09ba4628ad8dc5ac1a61f57714bcaf7a53ba237fa6e2536e58.png"
+  },
+  {
+    "id": "gen-wizard-lantern-v6",
+    "themeId": "magic",
+    "title": "まほうつかいと ランタン",
+    "defaultColorFamily": "purple",
+    "regionCount": 46,
+    "assetUrl": "/content/templates/gen-wizard-lantern-v6.7e9ec611b3b4b3d89e3264586cf87088f9190829a0b66f2aacb2f595dfd8925b.json",
+    "thumbnailUrl": "/content/templates/gen-wizard-lantern-v6.079084f2e92f2e7fb9264fc7c5e0b98bea0f46724f3e38b03b9dfd86de581059.png",
+    "coloredThumbnailUrl": "/content/templates/gen-wizard-lantern-v6.079084f2e92f2e7fb9264fc7c5e0b98bea0f46724f3e38b03b9dfd86de581059.png"
+  }
+]

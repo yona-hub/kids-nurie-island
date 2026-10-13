@@ -1,0 +1,390 @@
+{
+  "schemaVersion": 1,
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "id": "paper",
+      "kind": "medium",
+      "transparent": false,
+      "prompt": "Square macro scan of premium white drawing paper with fine natural fibers and shallow irregular tooth. Neutral grayscale, even light, edge-to-edge material, no objects, text, border or vignette.",
+      "originalFile": "content/storybook-generated/originals/paper-df0be8f16daa.png",
+      "sha256": "df0be8f16daa40b646c0aeff5375e1173fa5276425a6b03d3f3e2cff642e40ee",
+      "generatedAt": "2026-10-07T15:23:56.832Z"
+    },
+    {
+      "id": "wax",
+      "kind": "medium",
+      "transparent": false,
+      "prompt": "Use case: productivity-visual. Production asset: ONE edge-to-edge seamless square monochrome pigment-coverage mask of REAL thick wax-crayon rubbing on textured drawing paper, flat scanned very close up. Black represents dense wax pigment, white represents exposed paper gaps. The entire square is mostly dense black/very dark charcoal wax pigment (about 88-92% coverage) with broken irregular jagged WHITE paper gaps aligned into uneven short diagonal streaks at 35 degrees. The gaps are sparse little torn chips, coarse granules and interrupted very narrow tracks between overlapping wide pressed crayon swaths, not rounded bubbles or random gray clouds. Some raised wax chunks and tiny scattered paper specks. Strong solid wax coverage between the gaps; visible short broad swaths of pressure, absolutely no thin pencil hatch lines, no regular stripe spacing, no scratches looking like fabric. Authentic physical wax crayon with a rough slightly crumbly, waxy grain like a bold child crayon swatch, and broken grain naturally aligned along the stroke direction. Uniform exposure, near black-to-white high contrast, no gradient/vignette, no objects, no crayon stick, no background border, no illustration, no text. Make all four edges seamless. High resolution flat macro scan.",
+      "originalFile": "content/storybook-generated/originals/wax-034f627a21f3.png",
+      "sha256": "034f627a21f33e5c67b38b23d6f659c89aa33d6afa30419ca36e2bed8604962d",
+      "generatedAt": "2026-10-07T16:44:52.249Z"
+    },
+    {
+      "id": "pencil-strokes",
+      "kind": "medium",
+      "transparent": false,
+      "prompt": "Use case: productivity-visual. Production asset: ONE seamless square grayscale scanned pigment-density texture for a realistic colored-pencil renderer. Entire image must be filled edge-to-edge with a CLOSE-UP 1:1 flat scan of actual softly layered colored-pencil shading on toothy drawing paper, translated into monochrome. Black and charcoal mean dense pigment, white means exposed paper. Very fine irregular jagged flecks of white paper tooth between small clustered graphite grains, fine short hand-drawn strokes at several slightly varying shallow diagonal angles, faint crossing layers, visibly uneven hand pressure, denser small strokes and translucent lighter patches. Natural physical pencil marks like a colored-pencil apple drawing: tiny paper pits, fuzzy broken stroke boundaries, dense small stipple plus thin curved/diagonal stroke traces. Mid/dark gray majority, only 12-22 percent scattered bright paper tooth; no large empty white areas, no broad wax flakes. Uniform lighting with no overall directional gradient or vignette, no shadows, no frame, no pencil objects, no writing, no illustrations, no grid or regular evenly spaced lines, no horizontal scan-line pattern. Make all four edges seamlessly compatible. High resolution macro flat scan, tactile authentic paper and pigment.",
+      "originalFile": "content/storybook-generated/originals/pencil-strokes-d45f66aaeb0e.png",
+      "sha256": "d45f66aaeb0ed00175d04fd837299109b049a2bd15be6dd5d53bb628b1796ef9",
+      "generatedAt": "2026-10-07T16:44:52.237Z"
+    },
+    {
+      "id": "star",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a plump five-point golden pastel star with pearl-like sheen. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/star-ec9d80b27585.png",
+      "sha256": "ec9d80b27585b9be1cbe1b50fcc383921eabc2c75d6de5b2d91c8797906622e7",
+      "generatedAt": "2026-10-07T15:25:42.327Z"
+    },
+    {
+      "id": "dot",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a soft opalescent round candy pearl. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/dot-28664399ca60.png",
+      "sha256": "28664399ca60531811bbab6a9935ff49d50428ab78f84f3cff439eadc137c248",
+      "generatedAt": "2026-10-07T15:26:18.910Z"
+    },
+    {
+      "id": "drop",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a glossy turquoise teardrop. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/drop-84f386581ad6.png",
+      "sha256": "84f386581ad665858e7498e596eb747855921ea6ec924e7ebaa7fc8e62ada50c",
+      "generatedAt": "2026-10-07T15:26:56.900Z"
+    },
+    {
+      "id": "cloud",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a fluffy ivory cloud. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/cloud-b2c8dd67c69e.png",
+      "sha256": "b2c8dd67c69e9093f9560bfe026e9a3a184c878cada94ff991f468765b239708",
+      "generatedAt": "2026-10-07T15:27:28.989Z"
+    },
+    {
+      "id": "rainbow",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a small pastel rainbow with soft clouds. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/rainbow-af04ad593fef.png",
+      "sha256": "af04ad593fef55ff584ea032171aa1414b44f1cdceba05bbe8820aa4cb47d4d1",
+      "generatedAt": "2026-10-07T15:27:59.028Z"
+    },
+    {
+      "id": "wave",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a curling turquoise sea wave. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/wave-2a5ed219c4ce.png",
+      "sha256": "2a5ed219c4cedbc5ace7f95085578c4c07f50136c89306c2dccc4e471eacb7cb",
+      "generatedAt": "2026-10-07T15:28:41.478Z"
+    },
+    {
+      "id": "leaf",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a graceful fresh green leaf. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/leaf-a6cadccc665d.png",
+      "sha256": "a6cadccc665d4d1cd6f8eebbaf4a35382bc35f6327f7dd871a3738c967a1d84c",
+      "generatedAt": "2026-10-07T15:29:20.616Z"
+    },
+    {
+      "id": "crown",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a little pink-and-gold princess crown. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/crown-525e2a9df06c.png",
+      "sha256": "525e2a9df06cd2c96c2e4618a90ce4186f5d6c27ec3409c8572fcfd50ae9a9c9",
+      "generatedAt": "2026-10-07T15:29:56.589Z"
+    },
+    {
+      "id": "gem",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a sparkling faceted lavender jewel. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/gem-8ba78a7325a8.png",
+      "sha256": "8ba78a7325a81cf6aef0e6ee5ea6722954d669ecb30406532fc7d95f0e856b39",
+      "generatedAt": "2026-10-07T15:30:38.536Z"
+    },
+    {
+      "id": "moon",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a warm crescent moon. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/moon-5eb0beaf8c31.png",
+      "sha256": "5eb0beaf8c3130dc337cb2cf66f734e6508ac4f19f01b2fb657fe0d69f496eae",
+      "generatedAt": "2026-10-07T15:31:31.215Z"
+    },
+    {
+      "id": "paw",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a soft cute peach paw print. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/paw-a3ade888d217.png",
+      "sha256": "a3ade888d21774c0e488d385cc8b70e677308b81520e7b7f40586bb041660cdc",
+      "generatedAt": "2026-10-07T15:32:13.006Z"
+    },
+    {
+      "id": "shell",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a pink scallop shell. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/shell-4d8009fbf667.png",
+      "sha256": "4d8009fbf667d92b3aa6c0c294b9e5725ceceb83bb78b541b06833a4c5a21706",
+      "generatedAt": "2026-10-07T15:32:50.349Z"
+    },
+    {
+      "id": "bone",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a small ivory dinosaur bone. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/bone-6a47ba60fc09.png",
+      "sha256": "6a47ba60fc09954747aa0bb961462a123484e5512a943b6b3023d4f413190403",
+      "generatedAt": "2026-10-07T15:33:21.428Z"
+    },
+    {
+      "id": "tire",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a cute dark blue rubber wheel with a silver hub. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/tire-eda8ffeb99cf.png",
+      "sha256": "eda8ffeb99cf63676f7d794e06ca313fc60ebf795a21b3e0b99b0b3b527e8dc8",
+      "generatedAt": "2026-10-07T15:34:10.276Z"
+    },
+    {
+      "id": "road",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a short curved toy road with cream lane markings. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/road-2c8c32f61edd.png",
+      "sha256": "2c8c32f61edde474e82e69e6ab3ea5a8c25ee39f2350eb81cadbfdef6114a6ef",
+      "generatedAt": "2026-10-07T15:34:49.657Z"
+    },
+    {
+      "id": "cone",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a small rounded orange safety cone. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/cone-ca3f3747d1b7.png",
+      "sha256": "ca3f3747d1b73a29f98965b4592e51bc4e9fea3124620247a26b1a5e3cebf4db",
+      "generatedAt": "2026-10-07T15:35:24.289Z"
+    },
+    {
+      "id": "gear",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a friendly mint mechanical gear. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/gear-c2dc63809554.png",
+      "sha256": "c2dc638095540bb36ce251116d62bfffbebd48f205042eaba4eede2d5ea267f6",
+      "generatedAt": "2026-10-07T15:36:05.486Z"
+    },
+    {
+      "id": "circuit",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a small luminous cyan circuit-board branch. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/circuit-4e5f8cc96dec.png",
+      "sha256": "4e5f8cc96dec9645f9e5fe4dea6ecb5f47f8059aeaca20709f3d2c2bb78eeff1",
+      "generatedAt": "2026-10-07T15:36:42.850Z"
+    },
+    {
+      "id": "planet",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a little lavender planet with a golden ring. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/planet-3589847cbf86.png",
+      "sha256": "3589847cbf86e79b71159030a869121865baa6e02d1b274d3b18de588fcd8cc6",
+      "generatedAt": "2026-10-07T15:37:16.096Z"
+    },
+    {
+      "id": "fruit",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a bright red apple with a green leaf. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/fruit-caae95c1f443.png",
+      "sha256": "caae95c1f443dd4a430a648c790372a3e20ab4298d9db354db84f6923a09429e",
+      "generatedAt": "2026-10-07T15:38:44.952Z"
+    },
+    {
+      "id": "candy",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a pink wrapped candy. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/candy-386021faa605.png",
+      "sha256": "386021faa605e91593071c8895d81737958c6352d37302250397359a20c41b8b",
+      "generatedAt": "2026-10-07T15:39:15.030Z"
+    },
+    {
+      "id": "flower",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a delicate pink flower with a golden center. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/flower-e8eeaa96ea5a.png",
+      "sha256": "e8eeaa96ea5a900e8003f897bc9976f75bd4c0dd8646952e6c2e3ec35bb2b4cd",
+      "generatedAt": "2026-10-07T15:43:48.769Z"
+    },
+    {
+      "id": "block",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a pastel wooden toy building block. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/block-b0a40dceb402.png",
+      "sha256": "b0a40dceb402efffc7f26d271820b0bb30aa61695c6fa5d04c2f0f8aa4135891",
+      "generatedAt": "2026-10-07T15:44:25.689Z"
+    },
+    {
+      "id": "ball",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a colorful soft toy ball. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/ball-d298d523206e.png",
+      "sha256": "d298d523206e106ebf7f49d82e0dd23270ef9c2f7c8ba73deaad2ab5ebcc08e5",
+      "generatedAt": "2026-10-07T15:45:08.998Z"
+    },
+    {
+      "id": "crayon",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a pink wax crayon with a paper wrapper. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/crayon-f3f8f245b569.png",
+      "sha256": "f3f8f245b56920582c6c718a89b8750f96050175cc64b35ebbce750cf750d4ff",
+      "generatedAt": "2026-10-07T15:45:43.125Z"
+    },
+    {
+      "id": "pencil",
+      "kind": "motif",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent decorative motif. Subject: a sharpened lavender colored pencil. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/pencil-e6bf42fa6f2b.png",
+      "sha256": "e6bf42fa6f2b8318f9b5f76a954aa324cab9dadfb513f78a469c35f0870bbb27",
+      "generatedAt": "2026-10-07T15:46:22.523Z"
+    },
+    {
+      "id": "floating-ground",
+      "kind": "landscape",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent landscape component. Subject: a small lush floating island ground, with cream sandy edges, low grass, seen from a gentle elevated front view, no buildings. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/floating-ground-616ed807c102.png",
+      "sha256": "616ed807c102138a3f03175fdb1011237d6b4ae57defa679819760221b27bb75",
+      "generatedAt": "2026-10-07T15:47:01.036Z"
+    },
+    {
+      "id": "grass-cluster",
+      "kind": "landscape",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent landscape component. Subject: a small patch of lush meadow grass and tiny daisies. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/grass-cluster-6b877105fd6a.png",
+      "sha256": "6b877105fd6a5656bd61bdfdaac7a5dd3bc662a51c27fbc7102ff0adb777484c",
+      "generatedAt": "2026-10-07T15:47:34.861Z"
+    },
+    {
+      "id": "distant-tree",
+      "kind": "landscape",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent landscape component. Subject: a graceful leafy tree with a full soft green canopy and slim trunk. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/distant-tree-607e50644098.png",
+      "sha256": "607e50644098212f5e734ecad5d08954bd310e1d3eeeaaf722e0e865f3f4640e",
+      "generatedAt": "2026-10-07T15:48:21.483Z"
+    },
+    {
+      "id": "flower-cluster",
+      "kind": "landscape",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent landscape component. Subject: a low patch of small pastel meadow flowers and leaves. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/flower-cluster-ed57afc2ae1f.png",
+      "sha256": "ed57afc2ae1facd5dd7a3c3c5ce9f12232ca43f7c32803b1671321fbd077ace4",
+      "generatedAt": "2026-10-07T15:48:58.507Z"
+    },
+    {
+      "id": "sea-surface",
+      "kind": "landscape",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent landscape component. Subject: a broad low graceful patch of turquoise sea water with soft curling ripples, no animals. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/sea-surface-b47d315befa7.png",
+      "sha256": "b47d315befa7b7cb9eeb0b2f7bab40bb6dce46caa618ab759a78753170c17ab1",
+      "generatedAt": "2026-10-07T15:49:27.798Z"
+    },
+    {
+      "id": "seaweed",
+      "kind": "landscape",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent landscape component. Subject: a small graceful cluster of green and turquoise seaweed. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/seaweed-dc97ed0a2d8b.png",
+      "sha256": "dc97ed0a2d8bc1916f56f8a9f080990ca90eb96e8a74e3b6a700d756cd6e9cb0",
+      "generatedAt": "2026-10-07T15:49:51.525Z"
+    },
+    {
+      "id": "coral",
+      "kind": "landscape",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent landscape component. Subject: a small pink coral branch with rounded tips. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/coral-13c259e1f284.png",
+      "sha256": "13c259e1f284c20d1eb1a0ccbe907b8e162511b12b00d2db968947af7ebecf7e",
+      "generatedAt": "2026-10-07T15:50:30.522Z"
+    },
+    {
+      "id": "castle-tower",
+      "kind": "landscape",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent landscape component. Subject: one elegant small cream and pink fairy-tale castle tower with a golden roof. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/castle-tower-c426dbe1bee6.png",
+      "sha256": "c426dbe1bee6378096f0a6cf333015e117ccbefe9f91e78fd341a51bf902156d",
+      "generatedAt": "2026-10-07T15:51:09.699Z"
+    },
+    {
+      "id": "rock-cluster",
+      "kind": "landscape",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent landscape component. Subject: a small group of rounded lavender and cream stones with a little fern. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/rock-cluster-b6cead6b6bf8.png",
+      "sha256": "b6cead6b6bf8973d5ec5cbdd976a00469ca9a15dcf8d68632deefb1c469ee428",
+      "generatedAt": "2026-10-07T15:51:44.016Z"
+    },
+    {
+      "id": "future-city",
+      "kind": "landscape",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: individual transparent landscape component. Subject: a low distant cluster of elegant pastel futuristic buildings, soft blue windows. Premium storybook illustration for a stylish children’s coloring app. Soft hand-painted gouache with refined dimensional shading, delicate watercolor edges, charming rounded forms, clean readable silhouette, warm cream/pink/mint/lavender palette, light from upper left. ONE isolated object, centered with generous transparent padding, entire silhouette visible, no text, no border, no cast shadow outside object, no characters, no sprite sheet. Genuinely transparent background. High resolution.",
+      "originalFile": "content/storybook-generated/originals/future-city-d93194a39060.png",
+      "sha256": "d93194a39060e5b6ad54123f0504d5789a94fb46278dca62154cfb168a248e26",
+      "generatedAt": "2026-10-07T15:52:14.551Z"
+    },
+    {
+      "id": "iris",
+      "kind": "medium",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: high-resolution individual IRIS MATERIAL MAP for a polished children's storybook princess eye renderer. One perfectly centered circular iris only, directly frontal, on genuinely transparent background. Monochrome neutral grayscale, no colored tints. Soft painterly 3D quality like an exquisitely rendered animated storybook princess: hundreds of delicate irregular radial iris fibers, layered branching fine threads, warm-looking translucent luminous lower iris crescent translated into gray, very dark soft limbal rim, rich dark iris at the upper half smoothly flowing to silvery pale detailed iris at the lower half. Deep almost-black ROUND central pupil, diameter 44% of the outer iris diameter, slightly feathered physical edge, delicate dark radial wisps near it. Circle fills 94% of the square, no sclera, no face, no eyelashes, no eyelids, no surrounding eye opening. NO WHITE CATCHLIGHTS, no reflection dots, no sparkle, no white specular streaks: catchlights will be added by the rendering engine. Authentic beautiful soft translucent iris fiber structure, no flat vector concentric rings, no lineart, no hard cartoony black oval, no creepy photoreal veins. Exactly one isolated circular iris, perfectly centered, clean alpha silhouette, high definition soft premium digital painting suitable for a beautiful friendly princess eye.",
+      "sha256": "8d4006ebdd29bb49bb08295965010e427e45f102f0bcf5d9824f5ef1bf9c8e42",
+      "originalFile": "content/storybook-generated/originals/iris-8d4006ebdd29.png",
+      "generatedAt": "2026-10-07T16:52:49.843Z"
+    }
+  ],
+  "history": [
+    {
+      "id": "pencil-strokes",
+      "kind": "medium",
+      "transparent": false,
+      "prompt": "Use case: productivity-visual. Asset type: seamless grayscale pigment coverage mask. Extreme close-up macro of REAL graphite/colored-pencil shading on fine drawing paper, filled square. Dense overlapping fine SHORT diagonal strokes, subtly varied pressure, delicate fibers of white paper showing between pigment, soft layered gray pigment, recognizably pencil hand shading rather than a flat computer fill. Flat even illumination, no objects, no text, no border, no vignette, no broad wax marks, no evenly spaced ruled lines. High-resolution flat scan.",
+      "originalFile": "content/storybook-generated/originals/pencil-strokes-8eced39b4990.png",
+      "sha256": "8eced39b4990f4c0da6619944878a6a52263eaf53f5c86e000b2b7906c32e998",
+      "generatedAt": "2026-10-07T15:25:02.982Z",
+      "supersededAt": "2026-10-07T16:44:52.235Z",
+      "reason": "User supplied real colored-pencil and wax-crayon references"
+    },
+    {
+      "id": "wax",
+      "kind": "medium",
+      "transparent": false,
+      "prompt": "Use case: productivity-visual. Asset type: seamless grayscale pigment coverage mask. Extreme close-up macro of REAL dark wax crayon rubbed generously over textured white drawing paper. Dense irregular wax islands, very small exposed paper tooth, short broad wax marks, visibly tactile and granular, overall dark gray with fine ivory irregular speckles. Flat even illumination, completely covered square, no drawn objects, no text, no border, no vignette. NOT digital white noise, NOT long parallel lines. High-resolution flat scan, detail should visibly read as wax crayon.",
+      "originalFile": "content/storybook-generated/originals/wax-63d9b09fc1d5.png",
+      "sha256": "63d9b09fc1d5ffd3569ceff6756f54838a7b77bddf993ab4b08b5019b8e8e43e",
+      "generatedAt": "2026-10-07T15:24:39.620Z",
+      "supersededAt": "2026-10-07T16:44:52.249Z",
+      "reason": "User supplied real colored-pencil and wax-crayon references"
+    }
+  ]
+}

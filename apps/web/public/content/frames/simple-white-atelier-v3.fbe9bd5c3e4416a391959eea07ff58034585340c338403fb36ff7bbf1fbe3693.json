@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/simple-white-atelier-v3-top.e3f598082e732a59a56e159168db307542310be21a5d5219e9226fc135643b84.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 96,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/simple-white-atelier-v3-bottom.90cfbbc6fb0b493bd7729f7b268c3e8e6c4a62dcb9d97caaad2f70b64c1464af.png",
+      "x": 0,
+      "y": 1904,
+      "width": 1600,
+      "height": 96,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/simple-white-atelier-v3-left.b810e5c646c90b75cdab8d79be917ba36b3985fbcb91608e9108456923ff69df.png",
+      "x": 0,
+      "y": 96,
+      "width": 96,
+      "height": 1808,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/simple-white-atelier-v3-right.0fabcf9df77048b186721c269c206af619c000b2d8625092043dfc04c8334e47.png",
+      "x": 1504,
+      "y": 96,
+      "width": 96,
+      "height": 1808,
+      "opacity": 1
+    }
+  ]
+}

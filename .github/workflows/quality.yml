@@ -1,0 +1,72 @@
+name: Coloring quality
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  functional:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v7.0.0
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: npm run lint
+      - run: npm test
+      - run: npm run build:demo
+      - run: npx playwright install --with-deps chromium firefox webkit
+      - name: Functional browser and offline checks
+        run: npx playwright test --grep-invert '@visual'
+        env:
+          CI: 'true'
+          ISLAND_PWA: '1'
+          PLAYWRIGHT_BASE_URL: http://127.0.0.1:4174
+      - name: Preserve local report in workflow log
+        if: always()
+        run: node -e "const fs=require('fs');const p='test-results/browser-results.json';if(fs.existsSync(p)){const r=JSON.parse(fs.readFileSync(p));console.log(JSON.stringify(r.stats,null,2))}"
+
+  cloud-integration:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v7.0.0
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: node scripts/build-cloud-e2e.mjs
+      - run: npx playwright install --with-deps chromium firefox webkit
+      - name: Non-demo Auth, HTTP, SQL and independent-device sync
+        run: npx playwright test --config tests/cloud-e2e/playwright.config.mjs
+        env:
+          CI: 'true'
+      - name: Preserve cloud E2E results and build identity in workflow log
+        if: always()
+        run: node -e "const fs=require('fs');for(const p of ['test-results/cloud-e2e/results.json','test-results/cloud-e2e/run-identity.json'])if(fs.existsSync(p)){const r=JSON.parse(fs.readFileSync(p));console.log(p,JSON.stringify(r.stats??r,null,2))}"
+
+  production-approval:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v7.0.0
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - name: Human asset approval and production build
+        run: npm run build

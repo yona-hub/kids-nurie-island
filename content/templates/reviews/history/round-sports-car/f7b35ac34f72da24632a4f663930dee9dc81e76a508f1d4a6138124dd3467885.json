@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "round-sports-car",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "f7b35ac34f72da24632a4f663930dee9dc81e76a508f1d4a6138124dd3467885",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

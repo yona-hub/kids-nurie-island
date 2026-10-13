@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/royal-jewels-atelier-v3-top.56a3c177759e07bb37f4a4637834787e5a8114f459edf76025cf53193a88fba8.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/royal-jewels-atelier-v3-bottom.2cde086bf0dcf4bcc9bccbc3bd793d0cec4cdd0de7be0e8f6dfad1e672b39909.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/royal-jewels-atelier-v3-left.8b7b0bc8f757cb28d0d1853ebe58534dfb79f8e10476ef0cbe81ac5bc5bba15c.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/royal-jewels-atelier-v3-right.9b4c22fd9ef7479ca9333bbfd27ff0d9509da1e09e820678b5e53b66156a6006.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

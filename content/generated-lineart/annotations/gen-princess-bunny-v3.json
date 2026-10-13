@@ -1,0 +1,1166 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-princess-bunny-v3",
+  "originalSha256": "e9e1819e97a3b47d56563593a302b429e4e7604aceb8c09ad9ef5f524ff0739c",
+  "coordinateSpace": "normalized-1600x2000",
+  "reviewer": "Codex technical source review",
+  "reviewKind": "author-technical-annotation",
+  "humanApproved": false,
+  "checks": [
+    "all-subject-parts-closed",
+    "negative-space-excluded",
+    "pupils-and-highlights-white"
+  ],
+  "unresolvedLeaks": [],
+  "regions": [
+    {
+      "sourceRegionId": "r01",
+      "point": [
+        710,
+        303
+      ],
+      "role": "paint",
+      "name": "王冠",
+      "reason": "番号付き原画で王冠として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 41.181
+    },
+    {
+      "sourceRegionId": "r02",
+      "point": [
+        755,
+        277
+      ],
+      "role": "paint",
+      "name": "王冠中央の宝石",
+      "reason": "番号付き原画で王冠中央の宝石として識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 41.544
+    },
+    {
+      "sourceRegionId": "r03",
+      "point": [
+        608,
+        326
+      ],
+      "role": "paint",
+      "name": "王冠の左側の髪",
+      "reason": "番号付き原画で王冠の左側の髪として識別。原画の閉領域をそのまま使用。",
+      "material": "hair",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 39.544
+    },
+    {
+      "sourceRegionId": "r04",
+      "point": [
+        673,
+        294
+      ],
+      "role": "paint",
+      "name": "王冠左の宝石",
+      "reason": "番号付き原画で王冠左の宝石として識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "王冠左の宝石は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v3.json"
+      },
+      "measuredDiameter": 23.181
+    },
+    {
+      "sourceRegionId": "r05",
+      "point": [
+        830,
+        313
+      ],
+      "role": "paint",
+      "name": "王冠右の宝石",
+      "reason": "番号付き原画で王冠右の宝石として識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "王冠右の宝石は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v3.json"
+      },
+      "measuredDiameter": 21.969
+    },
+    {
+      "sourceRegionId": "r06",
+      "point": [
+        613,
+        401
+      ],
+      "role": "paint",
+      "name": "前髪",
+      "reason": "番号付き原画で前髪として識別。原画の閉領域をそのまま使用。",
+      "material": "hair",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 83.482
+    },
+    {
+      "sourceRegionId": "r07",
+      "point": [
+        901,
+        465
+      ],
+      "role": "paint",
+      "name": "右の前髪",
+      "reason": "番号付き原画で右の前髪として識別。原画の閉領域をそのまま使用。",
+      "material": "hair",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 65.907
+    },
+    {
+      "sourceRegionId": "r08",
+      "point": [
+        870,
+        361
+      ],
+      "role": "paint",
+      "name": "王冠右の髪",
+      "reason": "番号付き原画で王冠右の髪として識別。原画の閉領域をそのまま使用。",
+      "material": "hair",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 15.181
+    },
+    {
+      "sourceRegionId": "r09",
+      "point": [
+        758,
+        514
+      ],
+      "role": "paint",
+      "name": "顔",
+      "reason": "番号付き原画で顔として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 105.107
+    },
+    {
+      "sourceRegionId": "r10",
+      "point": [
+        329,
+        824
+      ],
+      "role": "paint",
+      "name": "左外側の長い髪",
+      "reason": "番号付き原画で左外側の長い髪として識別。原画の閉領域をそのまま使用。",
+      "material": "hair",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 95.888
+    },
+    {
+      "sourceRegionId": "r11",
+      "point": [
+        574,
+        531
+      ],
+      "role": "paint",
+      "name": "左こめかみの髪",
+      "reason": "番号付き原画で左こめかみの髪として識別。原画の閉領域をそのまま使用。",
+      "material": "hair",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "左こめかみの髪は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v3.json"
+      },
+      "measuredDiameter": 17.575
+    },
+    {
+      "sourceRegionId": "r12",
+      "point": [
+        428,
+        880
+      ],
+      "role": "paint",
+      "name": "左内側の長い髪",
+      "reason": "番号付き原画で左内側の長い髪として識別。原画の閉領域をそのまま使用。",
+      "material": "hair",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 115.445
+    },
+    {
+      "sourceRegionId": "r13",
+      "point": [
+        659,
+        583
+      ],
+      "role": "paint",
+      "name": "左の瞳",
+      "reason": "番号付き原画で左の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "widthException": {
+        "reason": "左の瞳は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v3.json"
+      },
+      "measuredDiameter": 22.788,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r14",
+      "point": [
+        664,
+        552
+      ],
+      "role": "paint",
+      "name": "左の瞳のハイライト",
+      "reason": "番号付き原画で左の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 24.769,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r15",
+      "point": [
+        779,
+        612
+      ],
+      "role": "paint",
+      "name": "右の瞳",
+      "reason": "番号付き原画で右の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "widthException": {
+        "reason": "右の瞳は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v3.json"
+      },
+      "measuredDiameter": 21.575,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r16",
+      "point": [
+        786,
+        585
+      ],
+      "role": "paint",
+      "name": "右の瞳のハイライト",
+      "reason": "番号付き原画で右の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "widthException": {
+        "reason": "右の瞳のハイライトは意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v3.json"
+      },
+      "measuredDiameter": 21.581,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r17",
+      "point": [
+        887,
+        703
+      ],
+      "role": "paint",
+      "name": "右内側の長い髪",
+      "reason": "番号付き原画で右内側の長い髪として識別。原画の閉領域をそのまま使用。",
+      "material": "hair",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 88.394
+    },
+    {
+      "sourceRegionId": "r18",
+      "point": [
+        836,
+        621
+      ],
+      "role": "paint",
+      "name": "右耳",
+      "reason": "番号付き原画で右耳として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 11.588
+    },
+    {
+      "sourceRegionId": "r19",
+      "point": [
+        605,
+        707
+      ],
+      "role": "paint",
+      "name": "首の左側の髪",
+      "reason": "番号付き原画で首の左側の髪として識別。原画の閉領域をそのまま使用。",
+      "material": "hair",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 46
+    },
+    {
+      "sourceRegionId": "r20",
+      "point": [
+        701,
+        672
+      ],
+      "role": "paint",
+      "name": "舌",
+      "reason": "番号付き原画で舌として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 15.181
+    },
+    {
+      "sourceRegionId": "r21",
+      "point": [
+        700,
+        652
+      ],
+      "role": "paint",
+      "name": "歯",
+      "reason": "番号付き原画で歯として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 8.788
+    },
+    {
+      "sourceRegionId": "r22",
+      "point": [
+        948,
+        897
+      ],
+      "role": "paint",
+      "name": "右外側の長い髪",
+      "reason": "番号付き原画で右外側の長い髪として識別。原画の閉領域をそのまま使用。",
+      "material": "hair",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 169.55
+    },
+    {
+      "sourceRegionId": "r23",
+      "point": [
+        523,
+        800
+      ],
+      "role": "paint",
+      "name": "左の袖",
+      "reason": "番号付き原画で左の袖として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 73.101
+    },
+    {
+      "sourceRegionId": "r24",
+      "point": [
+        670,
+        749
+      ],
+      "role": "paint",
+      "name": "首と胸元",
+      "reason": "番号付き原画で首と胸元として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 73.969
+    },
+    {
+      "sourceRegionId": "r25",
+      "point": [
+        775,
+        785
+      ],
+      "role": "paint",
+      "name": "右の袖",
+      "reason": "番号付き原画で右の袖として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 116.651
+    },
+    {
+      "sourceRegionId": "r26",
+      "point": [
+        653,
+        863
+      ],
+      "role": "paint",
+      "name": "ドレスの身頃",
+      "reason": "番号付き原画でドレスの身頃として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 111.051
+    },
+    {
+      "sourceRegionId": "r27",
+      "point": [
+        495,
+        950
+      ],
+      "role": "paint",
+      "name": "左腕と手",
+      "reason": "番号付き原画で左腕と手として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 59.919
+    },
+    {
+      "sourceRegionId": "r28",
+      "point": [
+        852,
+        976
+      ],
+      "role": "paint",
+      "name": "右腕と手",
+      "reason": "番号付き原画で右腕と手として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 63.194
+    },
+    {
+      "sourceRegionId": "r29",
+      "point": [
+        561,
+        939
+      ],
+      "role": "background",
+      "name": "左腕と身頃の間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 19.988
+    },
+    {
+      "sourceRegionId": "r30",
+      "point": [
+        632,
+        958
+      ],
+      "role": "paint",
+      "name": "リボン左",
+      "reason": "番号付き原画でリボン左として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 65.575
+    },
+    {
+      "sourceRegionId": "r31",
+      "point": [
+        750,
+        949
+      ],
+      "role": "paint",
+      "name": "リボン右",
+      "reason": "番号付き原画でリボン右として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 62.788
+    },
+    {
+      "sourceRegionId": "r32",
+      "point": [
+        747,
+        896
+      ],
+      "role": "background",
+      "name": "右袖と身頃の間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 20
+    },
+    {
+      "sourceRegionId": "r33",
+      "point": [
+        476,
+        1126
+      ],
+      "role": "paint",
+      "name": "スカート左の重なり",
+      "reason": "番号付き原画でスカート左の重なりとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 179.2
+    },
+    {
+      "sourceRegionId": "r34",
+      "point": [
+        827,
+        1164
+      ],
+      "role": "paint",
+      "name": "スカート右の重なり",
+      "reason": "番号付き原画でスカート右の重なりとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 198.394
+    },
+    {
+      "sourceRegionId": "r35",
+      "point": [
+        691,
+        1066
+      ],
+      "role": "paint",
+      "name": "リボンの垂れ",
+      "reason": "番号付き原画でリボンの垂れとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 66
+    },
+    {
+      "sourceRegionId": "r36",
+      "point": [
+        693,
+        963
+      ],
+      "role": "paint",
+      "name": "リボンの結び目",
+      "reason": "番号付き原画でリボンの結び目として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 34
+    },
+    {
+      "sourceRegionId": "r37",
+      "point": [
+        794,
+        969
+      ],
+      "role": "background",
+      "name": "右腕とリボンの間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 11.588
+    },
+    {
+      "sourceRegionId": "r38",
+      "point": [
+        393,
+        1056
+      ],
+      "role": "background",
+      "name": "左手とスカートの間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 15.181
+    },
+    {
+      "sourceRegionId": "r39",
+      "point": [
+        1220,
+        1050
+      ],
+      "role": "paint",
+      "name": "うさぎ左耳",
+      "reason": "番号付き原画でうさぎ左耳として識別。原画の閉領域をそのまま使用。",
+      "material": "fur",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 40.794
+    },
+    {
+      "sourceRegionId": "r40",
+      "point": [
+        300,
+        1258
+      ],
+      "role": "paint",
+      "name": "スカート左端",
+      "reason": "番号付き原画でスカート左端として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 118.239
+    },
+    {
+      "sourceRegionId": "r41",
+      "point": [
+        621,
+        1628
+      ],
+      "role": "paint",
+      "name": "スカート中央",
+      "reason": "番号付き原画でスカート中央として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 342
+    },
+    {
+      "sourceRegionId": "r42",
+      "point": [
+        1172,
+        1158
+      ],
+      "role": "paint",
+      "name": "うさぎ左耳の内側",
+      "reason": "番号付き原画でうさぎ左耳の内側として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 58.726
+    },
+    {
+      "sourceRegionId": "r43",
+      "point": [
+        1135,
+        1305
+      ],
+      "role": "paint",
+      "name": "うさぎの顔と右耳",
+      "reason": "番号付き原画でうさぎの顔と右耳として識別。原画の閉領域をそのまま使用。",
+      "material": "fur",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 91.194
+    },
+    {
+      "sourceRegionId": "r44",
+      "point": [
+        1317,
+        1227
+      ],
+      "role": "paint",
+      "name": "うさぎ右耳の内側",
+      "reason": "番号付き原画でうさぎ右耳の内側として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 63.926
+    },
+    {
+      "sourceRegionId": "r45",
+      "point": [
+        337,
+        1656
+      ],
+      "role": "paint",
+      "name": "スカート左中央",
+      "reason": "番号付き原画でスカート左中央として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 206.509
+    },
+    {
+      "sourceRegionId": "r46",
+      "point": [
+        886,
+        1507
+      ],
+      "role": "paint",
+      "name": "スカート右端",
+      "reason": "番号付き原画でスカート右端として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 214.995
+    },
+    {
+      "sourceRegionId": "r47",
+      "point": [
+        1043,
+        1366
+      ],
+      "role": "paint",
+      "name": "うさぎ左の瞳",
+      "reason": "番号付き原画でうさぎ左の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 30.394,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r48",
+      "point": [
+        1052,
+        1331
+      ],
+      "role": "paint",
+      "name": "うさぎ左の瞳のハイライト",
+      "reason": "番号付き原画でうさぎ左の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "widthException": {
+        "reason": "うさぎ左の瞳のハイライトは意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-princess-bunny-v3.json"
+      },
+      "measuredDiameter": 23.969,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r49",
+      "point": [
+        1067,
+        1312
+      ],
+      "role": "paint",
+      "name": "うさぎ左の白目",
+      "reason": "番号付き原画でうさぎ左の白目として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 8.788
+    },
+    {
+      "sourceRegionId": "r50",
+      "point": [
+        1199,
+        1373
+      ],
+      "role": "paint",
+      "name": "うさぎ右の白目",
+      "reason": "番号付き原画でうさぎ右の白目として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 16
+    },
+    {
+      "sourceRegionId": "r51",
+      "point": [
+        1081,
+        1399
+      ],
+      "role": "paint",
+      "name": "うさぎの鼻",
+      "reason": "番号付き原画でうさぎの鼻として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 15.181
+    },
+    {
+      "sourceRegionId": "r52",
+      "point": [
+        1158,
+        1401
+      ],
+      "role": "paint",
+      "name": "うさぎ右の瞳",
+      "reason": "番号付き原画でうさぎ右の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 31.575,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r53",
+      "point": [
+        1165,
+        1367
+      ],
+      "role": "paint",
+      "name": "うさぎ右の瞳のハイライト",
+      "reason": "番号付き原画でうさぎ右の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 24.769,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r54",
+      "point": [
+        1076,
+        1451
+      ],
+      "role": "paint",
+      "name": "うさぎの口",
+      "reason": "番号付き原画でうさぎの口として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 28
+    },
+    {
+      "sourceRegionId": "r55",
+      "point": [
+        1082,
+        1617
+      ],
+      "role": "paint",
+      "name": "うさぎの胸と左前脚",
+      "reason": "番号付き原画でうさぎの胸と左前脚として識別。原画の閉領域をそのまま使用。",
+      "material": "fur",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 81.088
+    },
+    {
+      "sourceRegionId": "r56",
+      "point": [
+        1056,
+        1522
+      ],
+      "role": "paint",
+      "name": "うさぎの首飾り",
+      "reason": "番号付き原画でうさぎの首飾りとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 25.969
+    },
+    {
+      "sourceRegionId": "r57",
+      "point": [
+        1115,
+        1533
+      ],
+      "role": "paint",
+      "name": "うさぎリボン左",
+      "reason": "番号付き原画でうさぎリボン左として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 45.969
+    },
+    {
+      "sourceRegionId": "r58",
+      "point": [
+        1158,
+        1539
+      ],
+      "role": "paint",
+      "name": "うさぎリボン結び目",
+      "reason": "番号付き原画でうさぎリボン結び目として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 28
+    },
+    {
+      "sourceRegionId": "r59",
+      "point": [
+        1203,
+        1530
+      ],
+      "role": "paint",
+      "name": "うさぎリボン右",
+      "reason": "番号付き原画でうさぎリボン右として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 45.575
+    },
+    {
+      "sourceRegionId": "r60",
+      "point": [
+        1270,
+        1684
+      ],
+      "role": "paint",
+      "name": "うさぎの体と右前脚",
+      "reason": "番号付き原画でうさぎの体と右前脚として識別。原画の閉領域をそのまま使用。",
+      "material": "fur",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 137.2
+    },
+    {
+      "sourceRegionId": "r61",
+      "point": [
+        989,
+        1694
+      ],
+      "role": "paint",
+      "name": "うさぎの左後脚",
+      "reason": "番号付き原画でうさぎの左後脚として識別。原画の閉領域をそのまま使用。",
+      "material": "fur",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 41.544
+    },
+    {
+      "sourceRegionId": "r62",
+      "point": [
+        1376,
+        1658
+      ],
+      "role": "paint",
+      "name": "うさぎのしっぽ",
+      "reason": "番号付き原画でうさぎのしっぽとして識別。原画の閉領域をそのまま使用。",
+      "material": "fur",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 63.575
+    },
+    {
+      "sourceRegionId": "r63",
+      "point": [
+        1180,
+        1733
+      ],
+      "role": "background",
+      "name": "うさぎの脚の間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 17.575
+    }
+  ],
+  "gapReviews": [
+    {
+      "point": [
+        873,
+        543
+      ],
+      "classification": "intentional-open-detail",
+      "reason": "髪の中にある開いたカールの線。外背景への漏れではない"
+    },
+    {
+      "point": [
+        639,
+        548
+      ],
+      "classification": "intentional-open-detail",
+      "reason": "まぶたの開いた装飾線。瞳とハイライトの閉領域は独立している"
+    },
+    {
+      "point": [
+        732,
+        720
+      ],
+      "classification": "intentional-open-detail",
+      "reason": "顎下の首に続く肌の細い接続部。同じ肌領域内であり背景漏れではない"
+    },
+    {
+      "point": [
+        1038,
+        1307
+      ],
+      "classification": "intentional-open-detail",
+      "reason": "うさぎのまぶたの開いた装飾線。瞳とハイライトは独立している"
+    },
+    {
+      "point": [
+        1216,
+        1253
+      ],
+      "classification": "background",
+      "reason": "うさぎの耳の付け根の外背景の小さな空き。主役内部ではない"
+    }
+  ],
+  "eyes": [
+    {
+      "name": "おひめさま左",
+      "pupilIds": [
+        "r13"
+      ],
+      "highlightId": "r14"
+    },
+    {
+      "name": "おひめさま右",
+      "pupilIds": [
+        "r15"
+      ],
+      "highlightId": "r16"
+    },
+    {
+      "name": "うさぎ左",
+      "pupilIds": [
+        "r47"
+      ],
+      "highlightId": "r48"
+    },
+    {
+      "name": "うさぎ右",
+      "pupilIds": [
+        "r52"
+      ],
+      "highlightId": "r53"
+    }
+  ]
+}

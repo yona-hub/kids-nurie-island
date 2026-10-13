@@ -1,0 +1,896 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-wizard-lantern-v6",
+  "originalSha256": "08eb9d02b3017b130bce97820a3c76ff7247487db559273fdb18dc0d4f0015b0",
+  "coordinateSpace": "normalized-1600x2000",
+  "reviewer": "Codex technical source review",
+  "reviewKind": "author-technical-annotation",
+  "humanApproved": false,
+  "checks": [
+    "all-subject-parts-closed",
+    "negative-space-excluded",
+    "pupils-and-highlights-white"
+  ],
+  "unresolvedLeaks": [],
+  "regions": [
+    {
+      "sourceRegionId": "r01",
+      "point": [
+        959,
+        252
+      ],
+      "role": "paint",
+      "name": "帽子",
+      "reason": "番号付き原画で帽子として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 107.088
+    },
+    {
+      "sourceRegionId": "r02",
+      "point": [
+        877,
+        337
+      ],
+      "role": "paint",
+      "name": "帽子の星",
+      "reason": "番号付き原画で帽子の星として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 74.35
+    },
+    {
+      "sourceRegionId": "r03",
+      "point": [
+        560,
+        429
+      ],
+      "role": "paint",
+      "name": "帽子のつば左",
+      "reason": "番号付き原画で帽子のつば左として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 89.082
+    },
+    {
+      "sourceRegionId": "r04",
+      "point": [
+        334,
+        513
+      ],
+      "role": "paint",
+      "name": "杖の星",
+      "reason": "番号付き原画で杖の星として識別。原画の閉領域をそのまま使用。",
+      "material": "wood",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 113.513
+    },
+    {
+      "sourceRegionId": "r05",
+      "point": [
+        676,
+        460
+      ],
+      "role": "paint",
+      "name": "左の前髪",
+      "reason": "番号付き原画で左の前髪として識別。原画の閉領域をそのまま使用。",
+      "material": "hair",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 87.876
+    },
+    {
+      "sourceRegionId": "r06",
+      "point": [
+        793,
+        612
+      ],
+      "role": "paint",
+      "name": "顔と右耳",
+      "reason": "番号付き原画で顔と右耳として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 91.876
+    },
+    {
+      "sourceRegionId": "r07",
+      "point": [
+        811,
+        513
+      ],
+      "role": "paint",
+      "name": "右の髪",
+      "reason": "番号付き原画で右の髪として識別。原画の閉領域をそのまま使用。",
+      "material": "hair",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 63.513
+    },
+    {
+      "sourceRegionId": "r08",
+      "point": [
+        355,
+        601
+      ],
+      "role": "paint",
+      "name": "杖の上側",
+      "reason": "番号付き原画で杖の上側として識別。原画の閉領域をそのまま使用。",
+      "material": "wood",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 42.757
+    },
+    {
+      "sourceRegionId": "r09",
+      "point": [
+        605,
+        633
+      ],
+      "role": "paint",
+      "name": "左耳",
+      "reason": "番号付き原画で左耳として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 27.575
+    },
+    {
+      "sourceRegionId": "r10",
+      "point": [
+        717,
+        637
+      ],
+      "role": "paint",
+      "name": "左の瞳",
+      "reason": "番号付き原画で左の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 30.757,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r11",
+      "point": [
+        715,
+        603
+      ],
+      "role": "paint",
+      "name": "左の瞳のハイライト",
+      "reason": "番号付き原画で左の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "widthException": {
+        "reason": "左の瞳のハイライトは意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-wizard-lantern-v6.json"
+      },
+      "measuredDiameter": 21.575,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r12",
+      "point": [
+        860,
+        639
+      ],
+      "role": "paint",
+      "name": "右の瞳のハイライト",
+      "reason": "番号付き原画で右の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "widthException": {
+        "reason": "右の瞳のハイライトは意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-wizard-lantern-v6.json"
+      },
+      "measuredDiameter": 21.194,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r13",
+      "point": [
+        1105,
+        683
+      ],
+      "role": "paint",
+      "name": "帽子のつば右",
+      "reason": "番号付き原画で帽子のつば右として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 90.676
+    },
+    {
+      "sourceRegionId": "r14",
+      "point": [
+        631,
+        710
+      ],
+      "role": "paint",
+      "name": "左耳の下の髪",
+      "reason": "番号付き原画で左耳の下の髪として識別。原画の閉領域をそのまま使用。",
+      "material": "hair",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "左耳の下の髪は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-wizard-lantern-v6.json"
+      },
+      "measuredDiameter": 18.788
+    },
+    {
+      "sourceRegionId": "r15",
+      "point": [
+        859,
+        673
+      ],
+      "role": "paint",
+      "name": "右の瞳",
+      "reason": "番号付き原画で右の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 30.363,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r16",
+      "point": [
+        767,
+        731
+      ],
+      "role": "paint",
+      "name": "口",
+      "reason": "番号付き原画で口として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 34.757
+    },
+    {
+      "sourceRegionId": "r17",
+      "point": [
+        377,
+        846
+      ],
+      "role": "paint",
+      "name": "杖を持つ手",
+      "reason": "番号付き原画で杖を持つ手として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 63.926
+    },
+    {
+      "sourceRegionId": "r18",
+      "point": [
+        661,
+        810
+      ],
+      "role": "paint",
+      "name": "左の襟",
+      "reason": "番号付き原画で左の襟として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 73.188
+    },
+    {
+      "sourceRegionId": "r19",
+      "point": [
+        725,
+        798
+      ],
+      "role": "background",
+      "name": "襟と首の間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 16.788
+    },
+    {
+      "sourceRegionId": "r20",
+      "point": [
+        771,
+        817
+      ],
+      "role": "paint",
+      "name": "首",
+      "reason": "番号付き原画で首として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 51.994
+    },
+    {
+      "sourceRegionId": "r21",
+      "point": [
+        875,
+        851
+      ],
+      "role": "paint",
+      "name": "右の襟",
+      "reason": "番号付き原画で右の襟として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 68.75
+    },
+    {
+      "sourceRegionId": "r22",
+      "point": [
+        915,
+        770
+      ],
+      "role": "paint",
+      "name": "右耳の下の髪",
+      "reason": "番号付き原画で右耳の下の髪として識別。原画の閉領域をそのまま使用。",
+      "material": "hair",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "右耳の下の髪は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-wizard-lantern-v6.json"
+      },
+      "measuredDiameter": 22.4
+    },
+    {
+      "sourceRegionId": "r23",
+      "point": [
+        623,
+        911
+      ],
+      "role": "paint",
+      "name": "左の袖とマント",
+      "reason": "番号付き原画で左の袖とマントとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 121.876
+    },
+    {
+      "sourceRegionId": "r24",
+      "point": [
+        799,
+        874
+      ],
+      "role": "paint",
+      "name": "胸の留め具",
+      "reason": "番号付き原画で胸の留め具として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 57.119
+    },
+    {
+      "sourceRegionId": "r25",
+      "point": [
+        440,
+        938
+      ],
+      "role": "paint",
+      "name": "杖の下側",
+      "reason": "番号付き原画で杖の下側として識別。原画の閉領域をそのまま使用。",
+      "material": "wood",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 34.757
+    },
+    {
+      "sourceRegionId": "r26",
+      "point": [
+        790,
+        1187
+      ],
+      "role": "paint",
+      "name": "服の身頃",
+      "reason": "番号付き原画で服の身頃として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 284
+    },
+    {
+      "sourceRegionId": "r27",
+      "point": [
+        992,
+        1019
+      ],
+      "role": "paint",
+      "name": "右の袖",
+      "reason": "番号付き原画で右の袖として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 114.239
+    },
+    {
+      "sourceRegionId": "r28",
+      "point": [
+        1165,
+        925
+      ],
+      "role": "paint",
+      "name": "ランタンを持つ手",
+      "reason": "番号付き原画でランタンを持つ手として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 44.8
+    },
+    {
+      "sourceRegionId": "r29",
+      "point": [
+        1103,
+        1039
+      ],
+      "role": "paint",
+      "name": "ランタン持ち手左",
+      "reason": "番号付き原画でランタン持ち手左として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 24
+    },
+    {
+      "sourceRegionId": "r30",
+      "point": [
+        1271,
+        1033
+      ],
+      "role": "paint",
+      "name": "ランタン持ち手右",
+      "reason": "番号付き原画でランタン持ち手右として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 24
+    },
+    {
+      "sourceRegionId": "r31",
+      "point": [
+        338,
+        1438
+      ],
+      "role": "paint",
+      "name": "マント左内側",
+      "reason": "番号付き原画でマント左内側として識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 220.509
+    },
+    {
+      "sourceRegionId": "r32",
+      "point": [
+        1205,
+        1050
+      ],
+      "role": "background",
+      "name": "ランタン持ち手の中の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 90
+    },
+    {
+      "sourceRegionId": "r33",
+      "point": [
+        1149,
+        1008
+      ],
+      "role": "paint",
+      "name": "ランタンを持つ親指",
+      "reason": "番号付き原画でランタンを持つ親指として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "widthException": {
+        "reason": "ランタンを持つ親指は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-wizard-lantern-v6.json"
+      },
+      "measuredDiameter": 19.575
+    },
+    {
+      "sourceRegionId": "r34",
+      "point": [
+        1191,
+        1139
+      ],
+      "role": "paint",
+      "name": "ランタン上部の留め具",
+      "reason": "番号付き原画でランタン上部の留め具として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 68
+    },
+    {
+      "sourceRegionId": "r35",
+      "point": [
+        1032,
+        1220
+      ],
+      "role": "background",
+      "name": "袖とランタンの間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 71.119
+    },
+    {
+      "sourceRegionId": "r36",
+      "point": [
+        1179,
+        1239
+      ],
+      "role": "paint",
+      "name": "ランタンの屋根",
+      "reason": "番号付き原画でランタンの屋根として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 118
+    },
+    {
+      "sourceRegionId": "r37",
+      "point": [
+        643,
+        1480
+      ],
+      "role": "paint",
+      "name": "左のズボン",
+      "reason": "番号付き原画で左のズボンとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 116.664
+    },
+    {
+      "sourceRegionId": "r38",
+      "point": [
+        753,
+        1608
+      ],
+      "role": "paint",
+      "name": "脚の後ろのマント",
+      "reason": "番号付き原画で脚の後ろのマントとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 98
+    },
+    {
+      "sourceRegionId": "r39",
+      "point": [
+        862,
+        1481
+      ],
+      "role": "paint",
+      "name": "右のズボン",
+      "reason": "番号付き原画で右のズボンとして識別。原画の閉領域をそのまま使用。",
+      "material": "fabric",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 110
+    },
+    {
+      "sourceRegionId": "r40",
+      "point": [
+        1320,
+        1677
+      ],
+      "role": "paint",
+      "name": "ランタンの枠",
+      "reason": "番号付き原画でランタンの枠として識別。原画の閉領域をそのまま使用。",
+      "material": "metal",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 60.738
+    },
+    {
+      "sourceRegionId": "r41",
+      "point": [
+        1131,
+        1377
+      ],
+      "role": "paint",
+      "name": "ランタンのガラス",
+      "reason": "番号付き原画でランタンのガラスとして識別。原画の閉領域をそのまま使用。",
+      "material": "glass",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 85.575
+    },
+    {
+      "sourceRegionId": "r42",
+      "point": [
+        1199,
+        1410
+      ],
+      "role": "paint",
+      "name": "炎の外側",
+      "reason": "番号付き原画で炎の外側として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 44.757
+    },
+    {
+      "sourceRegionId": "r43",
+      "point": [
+        1193,
+        1468
+      ],
+      "role": "paint",
+      "name": "炎の内側",
+      "reason": "番号付き原画で炎の内側として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "炎の内側は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-wizard-lantern-v6.json"
+      },
+      "measuredDiameter": 19.575
+    },
+    {
+      "sourceRegionId": "r44",
+      "point": [
+        612,
+        1679
+      ],
+      "role": "paint",
+      "name": "左の靴",
+      "reason": "番号付き原画で左の靴として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 137.119
+    },
+    {
+      "sourceRegionId": "r45",
+      "point": [
+        886,
+        1673
+      ],
+      "role": "paint",
+      "name": "右の靴",
+      "reason": "番号付き原画で右の靴として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 142.208
+    },
+    {
+      "sourceRegionId": "r46",
+      "point": [
+        1217,
+        1534
+      ],
+      "role": "paint",
+      "name": "ろうそくの溶けたろう",
+      "reason": "番号付き原画でろうそくの溶けたろうとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 54.394
+    },
+    {
+      "sourceRegionId": "r47",
+      "point": [
+        1186,
+        1618
+      ],
+      "role": "paint",
+      "name": "ろうそく本体",
+      "reason": "番号付き原画でろうそく本体として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 76.763
+    },
+    {
+      "sourceRegionId": "r48",
+      "point": [
+        1008,
+        1655
+      ],
+      "role": "background",
+      "name": "靴とランタンの間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 37.15
+    },
+    {
+      "sourceRegionId": "r49",
+      "point": [
+        679,
+        1746
+      ],
+      "role": "paint",
+      "name": "左の靴底",
+      "reason": "番号付き原画で左の靴底として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "左の靴底は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-wizard-lantern-v6.json"
+      },
+      "measuredDiameter": 23.969
+    },
+    {
+      "sourceRegionId": "r50",
+      "point": [
+        835,
+        1752
+      ],
+      "role": "paint",
+      "name": "右の靴底",
+      "reason": "番号付き原画で右の靴底として識別。原画の閉領域をそのまま使用。",
+      "material": "rubber",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "widthException": {
+        "reason": "右の靴底は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-wizard-lantern-v6.json"
+      },
+      "measuredDiameter": 23.181
+    }
+  ],
+  "gapReviews": [],
+  "eyes": [
+    {
+      "name": "左",
+      "pupilIds": [
+        "r10"
+      ],
+      "highlightId": "r11"
+    },
+    {
+      "name": "右",
+      "pupilIds": [
+        "r15"
+      ],
+      "highlightId": "r12"
+    }
+  ]
+}

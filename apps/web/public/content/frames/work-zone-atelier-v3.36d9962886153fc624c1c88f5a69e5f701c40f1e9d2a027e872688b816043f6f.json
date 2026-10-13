@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/work-zone-atelier-v3-top.25f478f3cb5899e526f8dae6e2caec5653a48ab7c58a738c8d85d5dd5cbc8fe6.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/work-zone-atelier-v3-bottom.7ab47ff8898755d46652f02fc0d4acd1bcb8e815b74cbf7abf82590150d90c12.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/work-zone-atelier-v3-left.5bd261209ef348938b46cea3d2033b427d53ccbee773f6de9b6dab1577d02176.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/work-zone-atelier-v3-right.123ac61c7916f2c8bf634d5491f3934b0b51cd53ca64326993886349acadcec1.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

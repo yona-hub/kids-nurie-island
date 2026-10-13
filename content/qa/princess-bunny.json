@@ -1,0 +1,240 @@
+{
+  "templateId": "princess-bunny",
+  "pass": true,
+  "regionCount": 35,
+  "expectedRegionRange": [
+    30,
+    35
+  ],
+  "errors": [],
+  "warnings": [],
+  "closedRegions": 35,
+  "backgroundLeak": false,
+  "closureMethod": "explicit SVG Z paths; background excluded by compiled visible region masks",
+  "minimumBoundsWidth": 48,
+  "minimumUsableDiameter": 27.313709259033203,
+  "minVisibleArea": 2192,
+  "blackRatio": 0.0649875,
+  "whiteRatio": 0.918905,
+  "antiAliasRatio": 0.0161075,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "うしろの髪",
+      "visibleArea": 79612,
+      "usableDiameter": 95.31
+    },
+    {
+      "id": "r02",
+      "name": "左のくつ",
+      "visibleArea": 10500,
+      "usableDiameter": 62.23
+    },
+    {
+      "id": "r03",
+      "name": "右のくつ",
+      "visibleArea": 10336,
+      "usableDiameter": 62.23
+    },
+    {
+      "id": "r04",
+      "name": "くび",
+      "visibleArea": 11896,
+      "usableDiameter": 80
+    },
+    {
+      "id": "r05",
+      "name": "左の耳",
+      "visibleArea": 3328,
+      "usableDiameter": 27.31
+    },
+    {
+      "id": "r06",
+      "name": "右の耳",
+      "visibleArea": 3792,
+      "usableDiameter": 32
+    },
+    {
+      "id": "r07",
+      "name": "左うで",
+      "visibleArea": 18388,
+      "usableDiameter": 94.51
+    },
+    {
+      "id": "r08",
+      "name": "右うで",
+      "visibleArea": 15912,
+      "usableDiameter": 73.54
+    },
+    {
+      "id": "r09",
+      "name": "ドレス",
+      "visibleArea": 186148,
+      "usableDiameter": 314.84
+    },
+    {
+      "id": "r10",
+      "name": "左のドレープ",
+      "visibleArea": 52004,
+      "usableDiameter": 113.14
+    },
+    {
+      "id": "r11",
+      "name": "右のドレープ",
+      "visibleArea": 45500,
+      "usableDiameter": 104.17
+    },
+    {
+      "id": "r12",
+      "name": "すそのレース",
+      "visibleArea": 21536,
+      "usableDiameter": 52
+    },
+    {
+      "id": "r13",
+      "name": "ドレスの上",
+      "visibleArea": 42528,
+      "usableDiameter": 123.31
+    },
+    {
+      "id": "r14",
+      "name": "えり",
+      "visibleArea": 15764,
+      "usableDiameter": 67.31
+    },
+    {
+      "id": "r15",
+      "name": "ウエストのリボン",
+      "visibleArea": 16036,
+      "usableDiameter": 60
+    },
+    {
+      "id": "r16",
+      "name": "胸のブローチ",
+      "visibleArea": 6244,
+      "usableDiameter": 76
+    },
+    {
+      "id": "r17",
+      "name": "顔",
+      "visibleArea": 74572,
+      "usableDiameter": 253.02
+    },
+    {
+      "id": "r18",
+      "name": "前がみ",
+      "visibleArea": 54740,
+      "usableDiameter": 161.66
+    },
+    {
+      "id": "r19",
+      "name": "左の巻きがみ",
+      "visibleArea": 13712,
+      "usableDiameter": 64
+    },
+    {
+      "id": "r20",
+      "name": "右の巻きがみ",
+      "visibleArea": 12544,
+      "usableDiameter": 56
+    },
+    {
+      "id": "r21",
+      "name": "王冠",
+      "visibleArea": 29800,
+      "usableDiameter": 77.54
+    },
+    {
+      "id": "r22",
+      "name": "王冠の宝石・左",
+      "visibleArea": 2696,
+      "usableDiameter": 48
+    },
+    {
+      "id": "r23",
+      "name": "王冠の宝石・まんなか",
+      "visibleArea": 2764,
+      "usableDiameter": 49.25
+    },
+    {
+      "id": "r24",
+      "name": "王冠の宝石・右",
+      "visibleArea": 2192,
+      "usableDiameter": 48
+    },
+    {
+      "id": "r25",
+      "name": "うさぎのしっぽ",
+      "visibleArea": 9320,
+      "usableDiameter": 89.66
+    },
+    {
+      "id": "r26",
+      "name": "うさぎのからだ",
+      "visibleArea": 24608,
+      "usableDiameter": 88
+    },
+    {
+      "id": "r27",
+      "name": "うさぎの左足",
+      "visibleArea": 12300,
+      "usableDiameter": 97.66
+    },
+    {
+      "id": "r28",
+      "name": "うさぎの右足",
+      "visibleArea": 11944,
+      "usableDiameter": 97.66
+    },
+    {
+      "id": "r29",
+      "name": "うさぎの左耳",
+      "visibleArea": 17512,
+      "usableDiameter": 62.63
+    },
+    {
+      "id": "r30",
+      "name": "うさぎの右耳",
+      "visibleArea": 14788,
+      "usableDiameter": 57.66
+    },
+    {
+      "id": "r31",
+      "name": "うさぎの左耳のなか",
+      "visibleArea": 3992,
+      "usableDiameter": 35.31
+    },
+    {
+      "id": "r32",
+      "name": "うさぎの右耳のなか",
+      "visibleArea": 4020,
+      "usableDiameter": 35.31
+    },
+    {
+      "id": "r33",
+      "name": "うさぎの顔",
+      "visibleArea": 49120,
+      "usableDiameter": 229.66
+    },
+    {
+      "id": "r34",
+      "name": "うさぎのおなか",
+      "visibleArea": 14564,
+      "usableDiameter": 132
+    },
+    {
+      "id": "r35",
+      "name": "うさぎのリボン",
+      "visibleArea": 6848,
+      "usableDiameter": 52
+    }
+  ],
+  "contentHash": "bba2761b283d08babd76f5ea46f5f7bb2eff8c1ab462ee6a5595c20196fdd63a",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "bba2761b283d08babd76f5ea46f5f7bb2eff8c1ab462ee6a5595c20196fdd63a",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "placement": "behind-artwork",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/forest-paws-atelier-v3-top.2e5752a68d69b645f5885ff81e786c039a5e95d1b664e36ca911bcab68990266.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/forest-paws-atelier-v3-bottom.d52ec79519e6463ff60a0396f70e6fe079f41a157aff336629a0a8cdde6d5b0e.png",
+      "x": 0,
+      "y": 1680,
+      "width": 1600,
+      "height": 320,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/forest-paws-atelier-v3-left.48e5a19a194e77d1993e2d70276dd0daeb819aded27233cb09d352d00c032879.png",
+      "x": 0,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    },
+    {
+      "assetUrl": "/content/decor/forest-paws-atelier-v3-right.5856ae7d3801a3220400a7f505d75fe554fe8ce6f2c1bb4ee352a52b18c670fe.png",
+      "x": 1280,
+      "y": 320,
+      "width": 320,
+      "height": 1360,
+      "opacity": 1
+    }
+  ]
+}

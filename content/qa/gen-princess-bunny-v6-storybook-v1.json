@@ -1,0 +1,19 @@
+{
+  "templateId": "gen-princess-bunny-v6-storybook-v1",
+  "pass": false,
+  "contentHash": "4c3ef840eb2917ceadcab05413b18c90b0661a7e17ec779486c198aaff446e66",
+  "regionCount": 51,
+  "groupCount": 15,
+  "eyes": 4,
+  "sourceTemplateId": "gen-princess-bunny-v6",
+  "sourceOriginalSha256": "f0fbc3b052f29645893b44c49bbbc2e179d4b071fb4a0fca48aaaa356df321f0",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-07T17:12:12.564Z",
+    "contentHash": "4c3ef840eb2917ceadcab05413b18c90b0661a7e17ec779486c198aaff446e66",
+    "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+  },
+  "errors": [],
+  "status": "pending technical and human visual verification"
+}

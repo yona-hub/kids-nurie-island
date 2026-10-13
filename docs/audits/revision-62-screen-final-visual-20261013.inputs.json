@@ -1,0 +1,1797 @@
+{
+  "revision": 62,
+  "auditor": "independent screen final visual reviewer",
+  "status": "FAIL",
+  "startedAt": "2026-10-13T14:07:44Z",
+  "beforeAt": "2026-10-13T23:09:12.6698522+09:00",
+  "buildSha256": "a95ad6a0c04f9327eba28ed61ddc222cfc8bb4246863155a45d421eea2d17d0e",
+  "runtimeSha256": "74c1b959e505c5911eb697bfe8dbc543669d3223e59ebb7bb002170aaaf4dc1c",
+  "browserIndexFileCount": 121,
+  "browserIndexPngCount": 103,
+  "inputCount": 157,
+  "scope": "Saved current Chrome screenshots and actual UI PNG outputs. No new execution or production changes.",
+  "inputs": [
+    {
+      "file": "AGENTS.md",
+      "bytesBefore": 3243,
+      "sha256Before": "48765c3480352eb9a0ad696874dd192465cac5cfd0ff2d5025e3840fb170c1e7",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 3243,
+      "sha256After": "48765c3480352eb9a0ad696874dd192465cac5cfd0ff2d5025e3840fb170c1e7",
+      "unchanged": true
+    },
+    {
+      "file": "C:/Users/yonaf/.codex/plugins/cache/openai-curated-remote/game-studio/0.1.2/skills/game-playtest/SKILL.md",
+      "bytesBefore": 2912,
+      "sha256Before": "413f2453c602678962fab62446144f2929fcd5b9239f209c7889cc592d2b5be8",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 2912,
+      "sha256After": "413f2453c602678962fab62446144f2929fcd5b9239f209c7889cc592d2b5be8",
+      "unchanged": true
+    },
+    {
+      "file": "docs/audits/revision-61-screen-visual-20261013.md",
+      "bytesBefore": 76654,
+      "sha256Before": "fa510bcc0aa21bc8a4229774cf6d5653534b3cf1dae7e226ae6e7317eca975ff",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 76654,
+      "sha256After": "fa510bcc0aa21bc8a4229774cf6d5653534b3cf1dae7e226ae6e7317eca975ff",
+      "unchanged": true
+    },
+    {
+      "file": "docs/audits/revision-62-engine-20261013.md",
+      "bytesBefore": 20736,
+      "sha256Before": "b066b710c32446ca7f2373455da40d1b059c9edc9b1a62c283bc59af79a59f04",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 20736,
+      "sha256After": "b066b710c32446ca7f2373455da40d1b059c9edc9b1a62c283bc59af79a59f04",
+      "unchanged": true
+    },
+    {
+      "file": "docs/audits/revision-62-source-visual-20261013.inputs.json",
+      "bytesBefore": 43636,
+      "sha256Before": "1cbce89ef07d92b6073547fc8566092be5039530569f6d49de9c2f5301605fca",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 43636,
+      "sha256After": "1cbce89ef07d92b6073547fc8566092be5039530569f6d49de9c2f5301605fca",
+      "unchanged": true
+    },
+    {
+      "file": "docs/audits/revision-62-source-visual-20261013.md",
+      "bytesBefore": 16485,
+      "sha256Before": "fc8cb2b277fc1ca26fd09e0a5139276d3aefb53d3e2a7bdd96355c0568b9a7cb",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 16485,
+      "sha256After": "fc8cb2b277fc1ca26fd09e0a5139276d3aefb53d3e2a7bdd96355c0568b9a7cb",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-contours/construction-window-left-z4-dpr2.png",
+      "bytesBefore": 219906,
+      "sha256Before": "9106b6f7145be4ecaa5b5dd959ccbbb2ab9f0d246e33636950d2d7353bd0d41b",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 219906,
+      "sha256After": "9106b6f7145be4ecaa5b5dd959ccbbb2ab9f0d246e33636950d2d7353bd0d41b",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-contours/construction-window-right-z4-dpr2.png",
+      "bytesBefore": 225548,
+      "sha256Before": "899183b081965cea4c9599a71679b84bbb1434c15332185d1fc31f796a2857f0",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 225548,
+      "sha256After": "899183b081965cea4c9599a71679b84bbb1434c15332185d1fc31f796a2857f0",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-contours/evidence.json",
+      "bytesBefore": 2927,
+      "sha256Before": "56b9a667bb50594772042fa6b99dc0ded139099860eaae55a6e4ca6290b6ff87",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 2927,
+      "sha256After": "56b9a667bb50594772042fa6b99dc0ded139099860eaae55a6e4ca6290b6ff87",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-contours/flowers-stems-left-z4-dpr2.png",
+      "bytesBefore": 385067,
+      "sha256Before": "95662400c11e342895737a55697e59ec3d9c0641d7976e438db6db85f093a6b9",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 385067,
+      "sha256After": "95662400c11e342895737a55697e59ec3d9c0641d7976e438db6db85f093a6b9",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-contours/flowers-stems-right-z4-dpr2.png",
+      "bytesBefore": 389630,
+      "sha256Before": "1c04990ec3a124c6fc8c8363751d20244d8d2b2a209d1f5fd069fc58181b2079",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 389630,
+      "sha256After": "1c04990ec3a124c6fc8c8363751d20244d8d2b2a209d1f5fd069fc58181b2079",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-contours/magic-chin-z4-dpr2.png",
+      "bytesBefore": 591189,
+      "sha256Before": "034eae908020539a5586c9da32cf3255328a4dcab116fa544fbb2f551a32099b",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, full image"
+      ],
+      "bytesAfter": 591189,
+      "sha256After": "034eae908020539a5586c9da32cf3255328a4dcab116fa544fbb2f551a32099b",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-contours/princess-ear-cheek-z4-dpr2.png",
+      "bytesBefore": 671117,
+      "sha256Before": "8ed6ecb5c35690f48cb82135bd37273a41131cc17603cfd35ca230d0b98dcce7",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, full image"
+      ],
+      "bytesAfter": 671117,
+      "sha256After": "8ed6ecb5c35690f48cb82135bd37273a41131cc17603cfd35ca230d0b98dcce7",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-contours/robots-neck-z4-dpr2.png",
+      "bytesBefore": 331659,
+      "sha256Before": "c253c6d6735a31cdaa1ad8970864b1a63e0e07ec57e15d96e7ab1fc2c6d3316c",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, full image"
+      ],
+      "bytesAfter": 331659,
+      "sha256After": "c253c6d6735a31cdaa1ad8970864b1a63e0e07ec57e15d96e7ab1fc2c6d3316c",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-contours/vehicles-hood-z4-dpr2.png",
+      "bytesBefore": 139680,
+      "sha256Before": "d588b5c7e654fe249c544985a899bb52149b68b84e54272fa77638cf7f2bb577",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 139680,
+      "sha256After": "d588b5c7e654fe249c544985a899bb52149b68b84e54272fa77638cf7f2bb577",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-contours/vehicles-tyre-z4-dpr2.png",
+      "bytesBefore": 295499,
+      "sha256Before": "f3dac48d897d4f86e8c5168cef9c2e73b3b7b1c3f055380469fc4a729621f4ea",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 295499,
+      "sha256After": "f3dac48d897d4f86e8c5168cef9c2e73b3b7b1c3f055380469fc4a729621f4ea",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-image-index.json",
+      "bytesBefore": 26129,
+      "sha256Before": "992d71082a4bb8326df282779b194b2e3212fee31c2e0735f796aa9e2aea3be8",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 26129,
+      "sha256After": "992d71082a4bb8326df282779b194b2e3212fee31c2e0735f796aa9e2aea3be8",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-zoom/erased.png",
+      "bytesBefore": 96189,
+      "sha256Before": "648601607a3bc58fc4a88c62fe0614daaad26d4409005c3bf5092b58fa5c4fcf",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 96189,
+      "sha256After": "648601607a3bc58fc4a88c62fe0614daaad26d4409005c3bf5092b58fa5c4fcf",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-zoom/evidence.json",
+      "bytesBefore": 2655,
+      "sha256Before": "1ff69588eb3260c81c480614578b8cb79668478e6e750a858e08f9b452d8638c",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 2655,
+      "sha256After": "1ff69588eb3260c81c480614578b8cb79668478e6e750a858e08f9b452d8638c",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-zoom/face-z1-dpr1.png",
+      "bytesBefore": 98193,
+      "sha256Before": "25e1094033708cdbb556580c641b9b3d48a00caece8638c6dbba1cfd67c91a29",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 98193,
+      "sha256After": "25e1094033708cdbb556580c641b9b3d48a00caece8638c6dbba1cfd67c91a29",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-zoom/face-z1-dpr2.png",
+      "bytesBefore": 294488,
+      "sha256Before": "14d0b615b1f0c5f0875f48a9b4750c3f08143fcd39b95a116b87802cce73f31a",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 294488,
+      "sha256After": "14d0b615b1f0c5f0875f48a9b4750c3f08143fcd39b95a116b87802cce73f31a",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-zoom/face-z1-dpr3.png",
+      "bytesBefore": 544207,
+      "sha256Before": "6dde05f76389dbbaf77ba30efda539007b8c198776abbd267ef072b27cd8f637",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 544207,
+      "sha256After": "6dde05f76389dbbaf77ba30efda539007b8c198776abbd267ef072b27cd8f637",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-zoom/face-z2-dpr1.png",
+      "bytesBefore": 151066,
+      "sha256Before": "051fe1d46f722eaf35d75b9f125e8003fac68c1f26c94956f71e5ddad28933dd",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 151066,
+      "sha256After": "051fe1d46f722eaf35d75b9f125e8003fac68c1f26c94956f71e5ddad28933dd",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-zoom/face-z2-dpr2.png",
+      "bytesBefore": 429929,
+      "sha256Before": "600b66bba0840b8d4139087df2fba2a3b18c7904dfc9db1dea32935265839486",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 429929,
+      "sha256After": "600b66bba0840b8d4139087df2fba2a3b18c7904dfc9db1dea32935265839486",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-zoom/face-z2-dpr3.png",
+      "bytesBefore": 759388,
+      "sha256Before": "3c5cd268edeb9d28432b60c4d5bc6a49a96f677019dc42c4eb22440495ff90b7",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 759388,
+      "sha256After": "3c5cd268edeb9d28432b60c4d5bc6a49a96f677019dc42c4eb22440495ff90b7",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-zoom/face-z2.65-dpr1.png",
+      "bytesBefore": 167181,
+      "sha256Before": "a3c12c12d908f92c2e6a75f497408e7575c48d1aabb398bde102361224e333ca",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 167181,
+      "sha256After": "a3c12c12d908f92c2e6a75f497408e7575c48d1aabb398bde102361224e333ca",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-zoom/face-z2.65-dpr2.png",
+      "bytesBefore": 469093,
+      "sha256Before": "84daf20770508185d0ed771e9b1d49c12a99a258fcc97070e9699089e0e517ad",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 469093,
+      "sha256After": "84daf20770508185d0ed771e9b1d49c12a99a258fcc97070e9699089e0e517ad",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-zoom/face-z2.65-dpr3.png",
+      "bytesBefore": 830717,
+      "sha256Before": "72ec3dae3fb76fb2012d388480cb70abac9d492323626cb27c7e1e3afc28da81",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 830717,
+      "sha256After": "72ec3dae3fb76fb2012d388480cb70abac9d492323626cb27c7e1e3afc28da81",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-zoom/face-z4-dpr1.png",
+      "bytesBefore": 157919,
+      "sha256Before": "0d9e722cd6d5c8eb4fde7a98fdae9cbc01ec8c2cc42d09d6172a4ae6511ca23a",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 157919,
+      "sha256After": "0d9e722cd6d5c8eb4fde7a98fdae9cbc01ec8c2cc42d09d6172a4ae6511ca23a",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-zoom/face-z4-dpr2.png",
+      "bytesBefore": 423720,
+      "sha256Before": "220d2cab5c2ee1e59f535e240af21647eae774ec0c850df1428ed7c8554c2aa7",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, full image"
+      ],
+      "bytesAfter": 423720,
+      "sha256After": "220d2cab5c2ee1e59f535e240af21647eae774ec0c850df1428ed7c8554c2aa7",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-zoom/face-z4-dpr3.png",
+      "bytesBefore": 747267,
+      "sha256Before": "112cdb79b0a0b119677ef63e9db1835d25c9346d0f8854c449cab6134a509a8b",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, full image"
+      ],
+      "bytesAfter": 747267,
+      "sha256After": "112cdb79b0a0b119677ef63e9db1835d25c9346d0f8854c449cab6134a509a8b",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/browser-zoom/partial.png",
+      "bytesBefore": 98278,
+      "sha256Before": "a9d5cfb8cf7696925c993797eee025b6495c378556abd7ee816bf6d1cc8e3a63",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 98278,
+      "sha256After": "a9d5cfb8cf7696925c993797eee025b6495c378556abd7ee816bf6d1cc8e3a63",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/cheek-partial-2.config.ts",
+      "bytesBefore": 613,
+      "sha256Before": "75c9ce12f2e2973ae5ac798c641225a3fa31527dc204bddb685313fc346fa7fd",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 613,
+      "sha256After": "75c9ce12f2e2973ae5ac798c641225a3fa31527dc204bddb685313fc346fa7fd",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/cheek-partial-2.spec.ts",
+      "bytesBefore": 4973,
+      "sha256Before": "e348112a8f46ab7a7432ba5fdbddd51bb2630acf5088cd4e56360123947ae1d4",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 4973,
+      "sha256After": "e348112a8f46ab7a7432ba5fdbddd51bb2630acf5088cd4e56360123947ae1d4",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/cheek-partial.config.ts",
+      "bytesBefore": 607,
+      "sha256Before": "6db7f9063633ea7264e85c44fc1748a2966596c4fe3bb916c242a79ab914a113",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 607,
+      "sha256After": "6db7f9063633ea7264e85c44fc1748a2966596c4fe3bb916c242a79ab914a113",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/cheek-partial.spec.ts",
+      "bytesBefore": 4797,
+      "sha256Before": "f1c8051fb1b573dac317fe5930fd6bcc5b38da47852d9c5e5bbba9d0274f299e",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 4797,
+      "sha256After": "f1c8051fb1b573dac317fe5930fd6bcc5b38da47852d9c5e5bbba9d0274f299e",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/identity-after-supplement-comparison.json",
+      "bytesBefore": 315,
+      "sha256Before": "f7e2daedba2667f3cbaabd0b4e9616c77dbd2fd93dddde2b2fda21c4836702b7",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 315,
+      "sha256After": "f7e2daedba2667f3cbaabd0b4e9616c77dbd2fd93dddde2b2fda21c4836702b7",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/identity-after-supplement.json",
+      "bytesBefore": 323767,
+      "sha256Before": "e3555d85dfadbf51c4257941b733546e159bcd73099df092bc093d73384a5ae5",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 323767,
+      "sha256After": "e3555d85dfadbf51c4257941b733546e159bcd73099df092bc093d73384a5ae5",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/identity-after.json",
+      "bytesBefore": 323788,
+      "sha256Before": "e277a656533f53b290a5941a6d0c7609fd0a8eadad223564bb6f775fb034064f",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 323788,
+      "sha256After": "e277a656533f53b290a5941a6d0c7609fd0a8eadad223564bb6f775fb034064f",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/identity-before.json",
+      "bytesBefore": 323767,
+      "sha256Before": "e3555d85dfadbf51c4257941b733546e159bcd73099df092bc093d73384a5ae5",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 323767,
+      "sha256After": "e3555d85dfadbf51c4257941b733546e159bcd73099df092bc093d73384a5ae5",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/partial-cheek-attempt1-note.json",
+      "bytesBefore": 635,
+      "sha256Before": "c0d1aaf9bab37083aac16e3a45f148c96ca5f18a2764bd207cd4bd5187d13d7e",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 635,
+      "sha256After": "c0d1aaf9bab37083aac16e3a45f148c96ca5f18a2764bd207cd4bd5187d13d7e",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/partial-cheek-browser-2.log",
+      "bytesBefore": 475,
+      "sha256Before": "fd812225dfec6af771f9ab0aee488e5d5d76161df85f0ceac0e8a7fd40300c6e",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 475,
+      "sha256After": "fd812225dfec6af771f9ab0aee488e5d5d76161df85f0ceac0e8a7fd40300c6e",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/partial-cheek-browser-2/all-three-erased.png",
+      "bytesBefore": 104400,
+      "sha256Before": "a7f23e78166a85acb84b5e040a840a41968ab1376518cb9221df031f60945596",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, full image"
+      ],
+      "bytesAfter": 104400,
+      "sha256After": "a7f23e78166a85acb84b5e040a840a41968ab1376518cb9221df031f60945596",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/partial-cheek-browser-2/black-face-white-hair.png",
+      "bytesBefore": 274808,
+      "sha256Before": "e01f19e223845d1b16214c68d6d538498ef3f82bb37cc5289e0aa6d6bf5c54f6",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, full image",
+        "Memory-only original pixels crop [520,335,90,145]",
+        "Memory-only original pixels crop [415,555,90,60]"
+      ],
+      "bytesAfter": 274808,
+      "sha256After": "e01f19e223845d1b16214c68d6d538498ef3f82bb37cc5289e0aa6d6bf5c54f6",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/partial-cheek-browser-2/blue-face-pink-hair.png",
+      "bytesBefore": 438433,
+      "sha256Before": "49522785d63ebcf0e68f31fc62874e95a5730a7ebebfee7bcde1077a6a9920be",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, full image",
+        "Memory-only original pixels crop [510,330,75,75]"
+      ],
+      "bytesAfter": 438433,
+      "sha256After": "49522785d63ebcf0e68f31fc62874e95a5730a7ebebfee7bcde1077a6a9920be",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/partial-cheek-browser-2/dark-face-pale-hair.png",
+      "bytesBefore": 390947,
+      "sha256Before": "64d06275236f9662c041e5c5e5134777c4e0a8cd280aff41fcad98d3d1feb4a8",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, full image",
+        "Memory-only original pixels crop [520,335,90,145]",
+        "Memory-only original pixels crop [415,555,90,60]"
+      ],
+      "bytesAfter": 390947,
+      "sha256After": "64d06275236f9662c041e5c5e5134777c4e0a8cd280aff41fcad98d3d1feb4a8",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/partial-cheek-browser-2/evidence.json",
+      "bytesBefore": 5935,
+      "sha256Before": "39388f0509a12135ff819869d85b7b8051dfba6308ee122b8907b2a3d347fbce",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 5935,
+      "sha256After": "39388f0509a12135ff819869d85b7b8051dfba6308ee122b8907b2a3d347fbce",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/partial-cheek-browser-2/face-erased.png",
+      "bytesBefore": 332433,
+      "sha256Before": "be2487ad3b317f9a17e9fea5569bd3f12b8a3db0ec6dbd68a470922a6d19107e",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, full image"
+      ],
+      "bytesAfter": 332433,
+      "sha256After": "be2487ad3b317f9a17e9fea5569bd3f12b8a3db0ec6dbd68a470922a6d19107e",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/partial-cheek-browser-2/r06-erased.png",
+      "bytesBefore": 230820,
+      "sha256Before": "55e46dd64ae1f63413eaced2ac19bdbbefc291568573a420f12a54fb94e58ffe",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, full image"
+      ],
+      "bytesAfter": 230820,
+      "sha256After": "55e46dd64ae1f63413eaced2ac19bdbbefc291568573a420f12a54fb94e58ffe",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/partial-cheek-browser-2/r06-only.png",
+      "bytesBefore": 213548,
+      "sha256Before": "0182dcc9d8063b5dd7566a823e4622ee96046a05bd7be3272342c581592e34b5",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, full image"
+      ],
+      "bytesAfter": 213548,
+      "sha256After": "0182dcc9d8063b5dd7566a823e4622ee96046a05bd7be3272342c581592e34b5",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/partial-cheek-browser-2/r06-r17-only.png",
+      "bytesBefore": 332433,
+      "sha256Before": "be2487ad3b317f9a17e9fea5569bd3f12b8a3db0ec6dbd68a470922a6d19107e",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, full image"
+      ],
+      "bytesAfter": 332433,
+      "sha256After": "be2487ad3b317f9a17e9fea5569bd3f12b8a3db0ec6dbd68a470922a6d19107e",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/partial-cheek-browser-2/results.json",
+      "bytesBefore": 3620,
+      "sha256Before": "efaec03a8712b68aae4064934978d6f8860ca63b3dc46dba8c19c4a6e8b85b5f",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 3620,
+      "sha256After": "efaec03a8712b68aae4064934978d6f8860ca63b3dc46dba8c19c4a6e8b85b5f",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/partial-cheek-browser-2/three-regions.png",
+      "bytesBefore": 410636,
+      "sha256Before": "179f5e426874433cba4d3640c72603e73236c7c8f1ea74b69b3e6357c0b08235",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, full image",
+        "Memory-only original pixels crop [510,330,75,75]"
+      ],
+      "bytesAfter": 410636,
+      "sha256After": "179f5e426874433cba4d3640c72603e73236c7c8f1ea74b69b3e6357c0b08235",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/partial-cheek-browser.log",
+      "bytesBefore": 4950,
+      "sha256Before": "090ebeb0ec29c692b9024cf45b5980e7bbcf83b1d04dc33fd22f47c7fda0c9d1",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 4950,
+      "sha256After": "090ebeb0ec29c692b9024cf45b5980e7bbcf83b1d04dc33fd22f47c7fda0c9d1",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/partial-cheek-browser/results.json",
+      "bytesBefore": 10953,
+      "sha256Before": "00362f1e885aea2833b3568128a9b1d8bbf3a1a6f8bedde3bf5322879c655d72",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 10953,
+      "sha256After": "00362f1e885aea2833b3568128a9b1d8bbf3a1a6f8bedde3bf5322879c655d72",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/animals/actual-ui-export.png",
+      "bytesBefore": 2666506,
+      "sha256Before": "590e51775ba7cedb65341193a7001ebedea78ba7c10a4bf0b5e98ff0d5c91b24",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 2666506,
+      "sha256After": "590e51775ba7cedb65341193a7001ebedea78ba7c10a4bf0b5e98ff0d5c91b24",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/animals/editor.png",
+      "bytesBefore": 531532,
+      "sha256Before": "facbcb6208e17da72436bf1f9b9241fa94fd4755d5bb0cf80ccc4915b58a67fa",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 531532,
+      "sha256After": "facbcb6208e17da72436bf1f9b9241fa94fd4755d5bb0cf80ccc4915b58a67fa",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/animals/evidence.json",
+      "bytesBefore": 2992,
+      "sha256Before": "c6a627d7f857bc8cddf63360ab69fd2ab785524499c373c129b52673cc042a69",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 2992,
+      "sha256After": "c6a627d7f857bc8cddf63360ab69fd2ab785524499c373c129b52673cc042a69",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/animals/finish.png",
+      "bytesBefore": 435031,
+      "sha256Before": "0a5f968867646ac5ee6edcaed58e57f950e7b56185c7b939904f6af2b873804d",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 435031,
+      "sha256After": "0a5f968867646ac5ee6edcaed58e57f950e7b56185c7b939904f6af2b873804d",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/animals/fit.png",
+      "bytesBefore": 221090,
+      "sha256Before": "7826303ce818b137398f99a65c0912eebf4f7894f1d1e7ee293d5d1b8aa62a70",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 221090,
+      "sha256After": "7826303ce818b137398f99a65c0912eebf4f7894f1d1e7ee293d5d1b8aa62a70",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/animals/gallery.png",
+      "bytesBefore": 409632,
+      "sha256Before": "743e62a71a76a896ccad4de4ef1e09bdbf66e691b6d63ead8d407cab32bd86a9",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 409632,
+      "sha256After": "743e62a71a76a896ccad4de4ef1e09bdbf66e691b6d63ead8d407cab32bd86a9",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/construction/actual-ui-export.png",
+      "bytesBefore": 1374007,
+      "sha256Before": "bfd7b0b094822e27d9c19149e28fce61c4e829616c997e7f54480b91f505091d",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 1374007,
+      "sha256After": "bfd7b0b094822e27d9c19149e28fce61c4e829616c997e7f54480b91f505091d",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/construction/editor.png",
+      "bytesBefore": 435854,
+      "sha256Before": "06644bbe86b076052d9367f1395c8d951e294add49399e4bc4d589f950f2755b",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 435854,
+      "sha256After": "06644bbe86b076052d9367f1395c8d951e294add49399e4bc4d589f950f2755b",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/construction/evidence.json",
+      "bytesBefore": 4966,
+      "sha256Before": "ee4e78fa8f7d20dacad76b166f6abcb56d927e63a2edab223eb9f84d7bd1ef25",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 4966,
+      "sha256After": "ee4e78fa8f7d20dacad76b166f6abcb56d927e63a2edab223eb9f84d7bd1ef25",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/construction/finish.png",
+      "bytesBefore": 321836,
+      "sha256Before": "544b53906f787fcff143ed03ff5c7e2ac46dd0d27bd6d41ed15f3a2f032f8830",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 321836,
+      "sha256After": "544b53906f787fcff143ed03ff5c7e2ac46dd0d27bd6d41ed15f3a2f032f8830",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/construction/fit.png",
+      "bytesBefore": 130625,
+      "sha256Before": "987316597bdf0f3261e6b654dba50240afdea5c282770916bb50f9de667dcba1",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 130625,
+      "sha256After": "987316597bdf0f3261e6b654dba50240afdea5c282770916bb50f9de667dcba1",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/construction/gallery.png",
+      "bytesBefore": 397852,
+      "sha256Before": "4b136690107d774f642cef674c19bd06a4bb0c8bbba1714696db4ef529a66669",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 397852,
+      "sha256After": "4b136690107d774f642cef674c19bd06a4bb0c8bbba1714696db4ef529a66669",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/dinosaurs/actual-ui-export.png",
+      "bytesBefore": 1796811,
+      "sha256Before": "e97c2e46aaf9337e4f4d0291b3513a6cff54d1f5fe026fb0ea2a36abe4117238",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 1796811,
+      "sha256After": "e97c2e46aaf9337e4f4d0291b3513a6cff54d1f5fe026fb0ea2a36abe4117238",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/dinosaurs/editor.png",
+      "bytesBefore": 452908,
+      "sha256Before": "a4f81ca3cdabd2e9ec6e160b79e1c8a9ba0f9aa08b6c655ae87c3b90c6c8ecee",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 452908,
+      "sha256After": "a4f81ca3cdabd2e9ec6e160b79e1c8a9ba0f9aa08b6c655ae87c3b90c6c8ecee",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/dinosaurs/evidence.json",
+      "bytesBefore": 2666,
+      "sha256Before": "48e8533bee0bf77131d53759f4caa114460ca03c445a04e859010cf6cb06db45",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 2666,
+      "sha256After": "48e8533bee0bf77131d53759f4caa114460ca03c445a04e859010cf6cb06db45",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/dinosaurs/finish.png",
+      "bytesBefore": 344773,
+      "sha256Before": "f44500a90d28d0667f4267a095c50496ba07cd46988b3af305cadf041c511e97",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 344773,
+      "sha256After": "f44500a90d28d0667f4267a095c50496ba07cd46988b3af305cadf041c511e97",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/dinosaurs/fit.png",
+      "bytesBefore": 149880,
+      "sha256Before": "5e71c389d155311f25cc25dbed9f4dd3a51b7fe84a586033b7820af72cd188d7",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 149880,
+      "sha256After": "5e71c389d155311f25cc25dbed9f4dd3a51b7fe84a586033b7820af72cd188d7",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/dinosaurs/gallery.png",
+      "bytesBefore": 392719,
+      "sha256Before": "3b2845278e962a422d0dd11e25b1340feed51d6bd689e4faf1cbe214a4b37f77",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 392719,
+      "sha256After": "3b2845278e962a422d0dd11e25b1340feed51d6bd689e4faf1cbe214a4b37f77",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/flowers/actual-ui-export.png",
+      "bytesBefore": 1702205,
+      "sha256Before": "92b974b55240ef8fc79a82423c0406b1162bcbe63c4712984781f208aca6153f",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 1702205,
+      "sha256After": "92b974b55240ef8fc79a82423c0406b1162bcbe63c4712984781f208aca6153f",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/flowers/editor.png",
+      "bytesBefore": 457332,
+      "sha256Before": "421e15e10b96e234533728004c6dfcab87b6e171ec6709390f80a7119bca344e",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 457332,
+      "sha256After": "421e15e10b96e234533728004c6dfcab87b6e171ec6709390f80a7119bca344e",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/flowers/evidence.json",
+      "bytesBefore": 4560,
+      "sha256Before": "2406360e6d2d0a5f0309c68cc687c2c505cad5b28c8a16b8671b6c50a43be9c0",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 4560,
+      "sha256After": "2406360e6d2d0a5f0309c68cc687c2c505cad5b28c8a16b8671b6c50a43be9c0",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/flowers/finish.png",
+      "bytesBefore": 350199,
+      "sha256Before": "103b324c4c6265e319e64c6bce8f19aee782b600048063db01be3d8db7e04f2b",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 350199,
+      "sha256After": "103b324c4c6265e319e64c6bce8f19aee782b600048063db01be3d8db7e04f2b",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/flowers/fit.png",
+      "bytesBefore": 152326,
+      "sha256Before": "02e25a0f2a00e6553281dede17a837b5ae2b2ef789949faf4c39a2ffefa257e3",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 152326,
+      "sha256After": "02e25a0f2a00e6553281dede17a837b5ae2b2ef789949faf4c39a2ffefa257e3",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/flowers/gallery.png",
+      "bytesBefore": 398090,
+      "sha256Before": "b8c90b046d6ecfcf57696363a67c934aee829b7366d463c12a036aed2bb60880",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 398090,
+      "sha256After": "b8c90b046d6ecfcf57696363a67c934aee829b7366d463c12a036aed2bb60880",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/magic/actual-ui-export.png",
+      "bytesBefore": 2070177,
+      "sha256Before": "869067ec1c83dcbc556d283e92d673d982361aeb7ce55248fa9daf9ab1ee1844",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 2070177,
+      "sha256After": "869067ec1c83dcbc556d283e92d673d982361aeb7ce55248fa9daf9ab1ee1844",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/magic/editor.png",
+      "bytesBefore": 479012,
+      "sha256Before": "e5caf15480bd78b7e28f7e54d4370c827aae745b7baa058bb6a02b657aef54de",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 479012,
+      "sha256After": "e5caf15480bd78b7e28f7e54d4370c827aae745b7baa058bb6a02b657aef54de",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/magic/evidence.json",
+      "bytesBefore": 4557,
+      "sha256Before": "8c181a8c7ffdc50dd867f592c476c04d664b70d30c3fdec2a41aaff247afecfa",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 4557,
+      "sha256After": "8c181a8c7ffdc50dd867f592c476c04d664b70d30c3fdec2a41aaff247afecfa",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/magic/finish.png",
+      "bytesBefore": 377988,
+      "sha256Before": "7b0eb1bd8772cc05c8d41f070eb164bb67fd0c62d60380b946e8fb3381b07e34",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 377988,
+      "sha256After": "7b0eb1bd8772cc05c8d41f070eb164bb67fd0c62d60380b946e8fb3381b07e34",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/magic/fit.png",
+      "bytesBefore": 174088,
+      "sha256Before": "9d33c65afc679eb22c723a1b81102eb2fa5aed811f9503aca803e79e718fd061",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 174088,
+      "sha256After": "9d33c65afc679eb22c723a1b81102eb2fa5aed811f9503aca803e79e718fd061",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/magic/gallery.png",
+      "bytesBefore": 402073,
+      "sha256Before": "d3f230d47f1099c9afdaf7e2a64c394a8864b69e6e51574eb6777a23e3fe5968",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 402073,
+      "sha256After": "d3f230d47f1099c9afdaf7e2a64c394a8864b69e6e51574eb6777a23e3fe5968",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/ocean/actual-ui-export.png",
+      "bytesBefore": 1989528,
+      "sha256Before": "b66b7310933bf462ee55ccfb95a372fcffb7aa6281bc3ffff989f4ca883fbdae",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 1989528,
+      "sha256After": "b66b7310933bf462ee55ccfb95a372fcffb7aa6281bc3ffff989f4ca883fbdae",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/ocean/editor.png",
+      "bytesBefore": 467522,
+      "sha256Before": "3d965be03356659dda6ba76a069943adbb68e53decb7f373e360c872967f2515",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 467522,
+      "sha256After": "3d965be03356659dda6ba76a069943adbb68e53decb7f373e360c872967f2515",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/ocean/evidence.json",
+      "bytesBefore": 3972,
+      "sha256Before": "c70aac6ef3c5864a0bb9e26df2ee1fc095fac3086d65c24c72d65d7ecec03f94",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 3972,
+      "sha256After": "c70aac6ef3c5864a0bb9e26df2ee1fc095fac3086d65c24c72d65d7ecec03f94",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/ocean/finish.png",
+      "bytesBefore": 365090,
+      "sha256Before": "d3a5445389b3611566bcf6e062895b3b3c3f4cf922d2ef68021064291fbacd01",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 365090,
+      "sha256After": "d3a5445389b3611566bcf6e062895b3b3c3f4cf922d2ef68021064291fbacd01",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/ocean/fit.png",
+      "bytesBefore": 165453,
+      "sha256Before": "747bd5fe7758c33286d3907fc23257f7d10b7e4382feb9970bde61b8321622f7",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 165453,
+      "sha256After": "747bd5fe7758c33286d3907fc23257f7d10b7e4382feb9970bde61b8321622f7",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/ocean/gallery.png",
+      "bytesBefore": 401444,
+      "sha256Before": "bd6ae7e4ebd934ced0b9d652c0fab70bec08ba8e2582f15f4532231be895ed71",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 401444,
+      "sha256After": "bd6ae7e4ebd934ced0b9d652c0fab70bec08ba8e2582f15f4532231be895ed71",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/princess/actual-ui-export.png",
+      "bytesBefore": 2021489,
+      "sha256Before": "bc7947a9595380deb4e9a495c71a1c63ecf0f5abc07b0a0d36db32adc257ab3f",
+      "displayed": true,
+      "views": [
+        "view_image detail=original, full image",
+        "Memory-only original pixels crop [970,800,110,115], no resizing"
+      ],
+      "bytesAfter": 2021489,
+      "sha256After": "bc7947a9595380deb4e9a495c71a1c63ecf0f5abc07b0a0d36db32adc257ab3f",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/princess/editor.png",
+      "bytesBefore": 480044,
+      "sha256Before": "8580197fb34dffca278c87bd6646f7dddc930ed160b6a64194a3b4cd4c0100a6",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 480044,
+      "sha256After": "8580197fb34dffca278c87bd6646f7dddc930ed160b6a64194a3b4cd4c0100a6",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/princess/evidence.json",
+      "bytesBefore": 4797,
+      "sha256Before": "888fe238bedbb713eefb1471e5fce56e3b622dc2c48ec0e7fe681a5213eef5d4",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 4797,
+      "sha256After": "888fe238bedbb713eefb1471e5fce56e3b622dc2c48ec0e7fe681a5213eef5d4",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/princess/finish.png",
+      "bytesBefore": 373917,
+      "sha256Before": "b9a76389fe49c760c0b54534fe23132c3bbf97cba83cb0d6528f2285a3faf412",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 373917,
+      "sha256After": "b9a76389fe49c760c0b54534fe23132c3bbf97cba83cb0d6528f2285a3faf412",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/princess/fit.png",
+      "bytesBefore": 172987,
+      "sha256Before": "6bde194812469f54fc6bfa73e781f190082da3e7d88cc71c0ffa08fd71571b3e",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 172987,
+      "sha256After": "6bde194812469f54fc6bfa73e781f190082da3e7d88cc71c0ffa08fd71571b3e",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/princess/gallery.png",
+      "bytesBefore": 397049,
+      "sha256Before": "c6927e16259ce43c8230f2eee282540bab9a3e37d88b93882b296e121baeccb4",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 397049,
+      "sha256After": "c6927e16259ce43c8230f2eee282540bab9a3e37d88b93882b296e121baeccb4",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/robots/actual-ui-export.png",
+      "bytesBefore": 1146464,
+      "sha256Before": "b40a19d24f139734a15ae3d6710968a8e9e932a5f4c57d2c45c67c77aa551792",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 1146464,
+      "sha256After": "b40a19d24f139734a15ae3d6710968a8e9e932a5f4c57d2c45c67c77aa551792",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/robots/editor.png",
+      "bytesBefore": 405043,
+      "sha256Before": "99c916fcbb7b2d8124a10bed7c613c82b3f6c7190baf91b511895c770a9e2bcf",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 405043,
+      "sha256After": "99c916fcbb7b2d8124a10bed7c613c82b3f6c7190baf91b511895c770a9e2bcf",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/robots/evidence.json",
+      "bytesBefore": 4548,
+      "sha256Before": "b69019dc16414f98c0f29936c04c0c0c82e9619a76681f47bce01d0bd359fa38",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 4548,
+      "sha256After": "b69019dc16414f98c0f29936c04c0c0c82e9619a76681f47bce01d0bd359fa38",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/robots/finish.png",
+      "bytesBefore": 287047,
+      "sha256Before": "9d7f6de7dd9ac6658e0de3689b0b5c1157473563b701c260f3ae20a1e78ea662",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 287047,
+      "sha256After": "9d7f6de7dd9ac6658e0de3689b0b5c1157473563b701c260f3ae20a1e78ea662",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/robots/fit.png",
+      "bytesBefore": 106854,
+      "sha256Before": "a4856a59c6391ed4c1e3fc23a2105e9ed287c340d3f7f1e38281578acbf26642",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 106854,
+      "sha256After": "a4856a59c6391ed4c1e3fc23a2105e9ed287c340d3f7f1e38281578acbf26642",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/robots/gallery.png",
+      "bytesBefore": 385537,
+      "sha256Before": "f88ec92f44ae1245b25c69d856d338e7464b24b25755bb3e9b337c89730bd863",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 385537,
+      "sha256After": "f88ec92f44ae1245b25c69d856d338e7464b24b25755bb3e9b337c89730bd863",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/space/actual-ui-export.png",
+      "bytesBefore": 1364754,
+      "sha256Before": "91cae0ac940d12924e38739c732c005fef181826320810a215bb127461601bc0",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 1364754,
+      "sha256After": "91cae0ac940d12924e38739c732c005fef181826320810a215bb127461601bc0",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/space/editor.png",
+      "bytesBefore": 431316,
+      "sha256Before": "cd7828541990355959f9f5c9363e9fc64d0ac609e93df76af79b3d82d5013666",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 431316,
+      "sha256After": "cd7828541990355959f9f5c9363e9fc64d0ac609e93df76af79b3d82d5013666",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/space/evidence.json",
+      "bytesBefore": 4567,
+      "sha256Before": "d692b10e003d0cef2f2e157169c360d8d3c5e766898f8b6e442e3f14cc0a61ba",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 4567,
+      "sha256After": "d692b10e003d0cef2f2e157169c360d8d3c5e766898f8b6e442e3f14cc0a61ba",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/space/finish.png",
+      "bytesBefore": 319039,
+      "sha256Before": "1a9af7aebd2dc55208922140f7602c03d2e939252d621e51f89ab7351a03b5b0",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 319039,
+      "sha256After": "1a9af7aebd2dc55208922140f7602c03d2e939252d621e51f89ab7351a03b5b0",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/space/fit.png",
+      "bytesBefore": 130293,
+      "sha256Before": "45d2fb725a350e7908cf043426c2dcc957563fce0e31002bffb99fd1eb3324ed",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 130293,
+      "sha256After": "45d2fb725a350e7908cf043426c2dcc957563fce0e31002bffb99fd1eb3324ed",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/space/gallery.png",
+      "bytesBefore": 396209,
+      "sha256Before": "1e7bfe440868a258d44656910a8652fb15f04d5e882e3993bc0354692496c974",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 396209,
+      "sha256After": "1e7bfe440868a258d44656910a8652fb15f04d5e882e3993bc0354692496c974",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/vehicles/actual-ui-export.png",
+      "bytesBefore": 973996,
+      "sha256Before": "6b33fc9b9228b49fa6276597e1b66808c4478c2f67306be3df152684d5579da8",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 973996,
+      "sha256After": "6b33fc9b9228b49fa6276597e1b66808c4478c2f67306be3df152684d5579da8",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/vehicles/editor.png",
+      "bytesBefore": 390247,
+      "sha256Before": "ff86849f90dcbf9ec21b3bfd2f1ed9b0e7664c7a21d367e67732dde49c1679d8",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 390247,
+      "sha256After": "ff86849f90dcbf9ec21b3bfd2f1ed9b0e7664c7a21d367e67732dde49c1679d8",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/vehicles/evidence.json",
+      "bytesBefore": 3243,
+      "sha256Before": "6338923e2963fc6a1f622c0f9f07a8b3e7b487d78ee1fd283c5752e3beb7d5d3",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 3243,
+      "sha256After": "6338923e2963fc6a1f622c0f9f07a8b3e7b487d78ee1fd283c5752e3beb7d5d3",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/vehicles/finish.png",
+      "bytesBefore": 268290,
+      "sha256Before": "e2bc8a91411afbf6e807f84d915251fa2e19195594732001945087f4ebb05cfc",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 268290,
+      "sha256After": "e2bc8a91411afbf6e807f84d915251fa2e19195594732001945087f4ebb05cfc",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/vehicles/fit.png",
+      "bytesBefore": 94695,
+      "sha256Before": "17c37c5266bc521ccf690d7c8234cb35da21eaecd3b17a5aa7fe96781944bf09",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 94695,
+      "sha256After": "17c37c5266bc521ccf690d7c8234cb35da21eaecd3b17a5aa7fe96781944bf09",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-desktop/vehicles/gallery.png",
+      "bytesBefore": 375000,
+      "sha256Before": "8984378fc890fd1ab80486b9140358d918baad114dd8c2fd861d54cc2b396fee",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 375000,
+      "sha256After": "8984378fc890fd1ab80486b9140358d918baad114dd8c2fd861d54cc2b396fee",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/dinosaurs/actual-ui-export.png",
+      "bytesBefore": 1796811,
+      "sha256Before": "e97c2e46aaf9337e4f4d0291b3513a6cff54d1f5fe026fb0ea2a36abe4117238",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 1796811,
+      "sha256After": "e97c2e46aaf9337e4f4d0291b3513a6cff54d1f5fe026fb0ea2a36abe4117238",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/dinosaurs/editor.png",
+      "bytesBefore": 567129,
+      "sha256Before": "1e5183192900fdbfb6a79cff90f663d3da515022c204eb8ec62e2c93f8f76ab1",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 567129,
+      "sha256After": "1e5183192900fdbfb6a79cff90f663d3da515022c204eb8ec62e2c93f8f76ab1",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/dinosaurs/evidence.json",
+      "bytesBefore": 2664,
+      "sha256Before": "88956c82418ca4b96f117940105eb25be075818da2aae7c7947a9880e160dceb",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 2664,
+      "sha256After": "88956c82418ca4b96f117940105eb25be075818da2aae7c7947a9880e160dceb",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/dinosaurs/finish.png",
+      "bytesBefore": 400457,
+      "sha256Before": "ae8063a3cf88c96179e1be5b51a2357abfdb6f83fa42916856529e98d30d7d6b",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 400457,
+      "sha256After": "ae8063a3cf88c96179e1be5b51a2357abfdb6f83fa42916856529e98d30d7d6b",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/dinosaurs/fit.png",
+      "bytesBefore": 256541,
+      "sha256Before": "fcca832df2070546c7ed0af2e6e252b769c9b3d6d830c1567b31c09537071200",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 256541,
+      "sha256After": "fcca832df2070546c7ed0af2e6e252b769c9b3d6d830c1567b31c09537071200",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/dinosaurs/gallery.png",
+      "bytesBefore": 514810,
+      "sha256Before": "9ecebeb1464cb7ac251ca40d81fa86b315e75e7dc2067c492a34712bf8915e4f",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 514810,
+      "sha256After": "9ecebeb1464cb7ac251ca40d81fa86b315e75e7dc2067c492a34712bf8915e4f",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/magic/actual-ui-export.png",
+      "bytesBefore": 2070177,
+      "sha256Before": "869067ec1c83dcbc556d283e92d673d982361aeb7ce55248fa9daf9ab1ee1844",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 2070177,
+      "sha256After": "869067ec1c83dcbc556d283e92d673d982361aeb7ce55248fa9daf9ab1ee1844",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/magic/editor.png",
+      "bytesBefore": 609172,
+      "sha256Before": "a8dc31756630cdac20aea060c2c109e902300dcbb9343a3ea1dbf2f4179641ec",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 609172,
+      "sha256After": "a8dc31756630cdac20aea060c2c109e902300dcbb9343a3ea1dbf2f4179641ec",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/magic/evidence.json",
+      "bytesBefore": 4555,
+      "sha256Before": "c2b01eb068005cdeb1455f07da0adff19c1767cb148da64d25b5dcdc26801c0b",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 4555,
+      "sha256After": "c2b01eb068005cdeb1455f07da0adff19c1767cb148da64d25b5dcdc26801c0b",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/magic/finish.png",
+      "bytesBefore": 444960,
+      "sha256Before": "feb8596b70a6d8b00df0f966092adb2783d65f727c4a1d68aa8b6b5450948536",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 444960,
+      "sha256After": "feb8596b70a6d8b00df0f966092adb2783d65f727c4a1d68aa8b6b5450948536",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/magic/fit.png",
+      "bytesBefore": 300394,
+      "sha256Before": "ba2c1c9c5a7f3c85bbffa5db41dbc1f3255049f439913e14444044289e30df67",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 300394,
+      "sha256After": "ba2c1c9c5a7f3c85bbffa5db41dbc1f3255049f439913e14444044289e30df67",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/magic/gallery.png",
+      "bytesBefore": 537132,
+      "sha256Before": "ceeeae6e2dd2d1235af54924d32ec1c000b75ce7ca31ed27d7e7bdd2ba5a1f30",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 537132,
+      "sha256After": "ceeeae6e2dd2d1235af54924d32ec1c000b75ce7ca31ed27d7e7bdd2ba5a1f30",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/princess/actual-ui-export.png",
+      "bytesBefore": 2021489,
+      "sha256Before": "bc7947a9595380deb4e9a495c71a1c63ecf0f5abc07b0a0d36db32adc257ab3f",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 2021489,
+      "sha256After": "bc7947a9595380deb4e9a495c71a1c63ecf0f5abc07b0a0d36db32adc257ab3f",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/princess/editor.png",
+      "bytesBefore": 600979,
+      "sha256Before": "c5508c950be3b2dadc38015c3d5c5ee5785922fe306461e8312bff66f5b078f1",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 600979,
+      "sha256After": "c5508c950be3b2dadc38015c3d5c5ee5785922fe306461e8312bff66f5b078f1",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/princess/evidence.json",
+      "bytesBefore": 4795,
+      "sha256Before": "305111362ed51778348af5b24a02e746b02aabfeb9930aca38e41e87ad6da0de",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 4795,
+      "sha256After": "305111362ed51778348af5b24a02e746b02aabfeb9930aca38e41e87ad6da0de",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/princess/finish.png",
+      "bytesBefore": 438151,
+      "sha256Before": "93b4f04210e9fb6b20da443661840d81d9f26005fc3337c7de3498360384442c",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 438151,
+      "sha256After": "93b4f04210e9fb6b20da443661840d81d9f26005fc3337c7de3498360384442c",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/princess/fit.png",
+      "bytesBefore": 294488,
+      "sha256Before": "14d0b615b1f0c5f0875f48a9b4750c3f08143fcd39b95a116b87802cce73f31a",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 294488,
+      "sha256After": "14d0b615b1f0c5f0875f48a9b4750c3f08143fcd39b95a116b87802cce73f31a",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/princess/gallery.png",
+      "bytesBefore": 522893,
+      "sha256Before": "63e4da332f09f541999c747502e5023354b3d731d8f7dee7af38d52555924f9e",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 522893,
+      "sha256After": "63e4da332f09f541999c747502e5023354b3d731d8f7dee7af38d52555924f9e",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/vehicles/actual-ui-export.png",
+      "bytesBefore": 973996,
+      "sha256Before": "6b33fc9b9228b49fa6276597e1b66808c4478c2f67306be3df152684d5579da8",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 973996,
+      "sha256After": "6b33fc9b9228b49fa6276597e1b66808c4478c2f67306be3df152684d5579da8",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/vehicles/editor.png",
+      "bytesBefore": 459728,
+      "sha256Before": "a8272317d2fc179d954b06bdce67e330859f1e9dca240a054f6797fe11795bb0",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 459728,
+      "sha256After": "a8272317d2fc179d954b06bdce67e330859f1e9dca240a054f6797fe11795bb0",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/vehicles/evidence.json",
+      "bytesBefore": 3241,
+      "sha256Before": "69a0ac0e5f37c6e9a1a388bf67eb8e25070d2c393147565aac7d3f607d588cad",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 3241,
+      "sha256After": "69a0ac0e5f37c6e9a1a388bf67eb8e25070d2c393147565aac7d3f607d588cad",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/vehicles/finish.png",
+      "bytesBefore": 294163,
+      "sha256Before": "75886e6212925066a137154fd213894d403041c7efa7012b2cd3d62adc1ec08d",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 294163,
+      "sha256After": "75886e6212925066a137154fd213894d403041c7efa7012b2cd3d62adc1ec08d",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/vehicles/fit.png",
+      "bytesBefore": 152520,
+      "sha256Before": "0f98e6ee3520217ec6e6aaf8432ae520581c7585aa1163073292381205eb4c4c",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 152520,
+      "sha256After": "0f98e6ee3520217ec6e6aaf8432ae520581c7585aa1163073292381205eb4c4c",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/smooth-mobile/vehicles/gallery.png",
+      "bytesBefore": 491880,
+      "sha256Before": "7c0814933ea36fd3b754e0cd0e1c03cba7b5fda3c32f71c6cffb902376479722",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 491880,
+      "sha256After": "7c0814933ea36fd3b754e0cd0e1c03cba7b5fda3c32f71c6cffb902376479722",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/supplemental-verification.json",
+      "bytesBefore": 4822,
+      "sha256Before": "9876e2eb774fbf0d3899fe12696f7708d6ab0fd9c9bd59ac533c8f3683f54b06",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 4822,
+      "sha256After": "9876e2eb774fbf0d3899fe12696f7708d6ab0fd9c9bd59ac533c8f3683f54b06",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/technical-verification.json",
+      "bytesBefore": 5787,
+      "sha256Before": "128421a57b9d0b38ad79831c50db86f0a238dc18182b303f82ae209761308c92",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 5787,
+      "sha256After": "128421a57b9d0b38ad79831c50db86f0a238dc18182b303f82ae209761308c92",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/unpainted-eyes/dinosaurs-fit.png",
+      "bytesBefore": 125256,
+      "sha256Before": "e14e563da8c0680e843cf4697f79ae149824a7fcfbd1d0e927d153e8de1b87f6",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 125256,
+      "sha256After": "e14e563da8c0680e843cf4697f79ae149824a7fcfbd1d0e927d153e8de1b87f6",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/unpainted-eyes/dinosaurs-z4.png",
+      "bytesBefore": 96889,
+      "sha256Before": "d3e94890febc12effef2c0b41c8edeba34ed2946f6cf1cb1582dcf8be1aff11d",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 96889,
+      "sha256After": "d3e94890febc12effef2c0b41c8edeba34ed2946f6cf1cb1582dcf8be1aff11d",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/unpainted-eyes/evidence.json",
+      "bytesBefore": 1682,
+      "sha256Before": "8b814966904ad6f93a465328324aec7510dd32bc0249c460efeed26114445356",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 1682,
+      "sha256After": "8b814966904ad6f93a465328324aec7510dd32bc0249c460efeed26114445356",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/unpainted-eyes/magic-fit.png",
+      "bytesBefore": 83146,
+      "sha256Before": "ccd83272f87d0dc97731a39ef05dd4b55b597fc005794330914cb69f37a32164",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 83146,
+      "sha256After": "ccd83272f87d0dc97731a39ef05dd4b55b597fc005794330914cb69f37a32164",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/unpainted-eyes/magic-z4.png",
+      "bytesBefore": 118583,
+      "sha256Before": "f6c8214944e534f146b6992da4fce75d01ec97cfc620f8f062d416311d21af9f",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 118583,
+      "sha256After": "f6c8214944e534f146b6992da4fce75d01ec97cfc620f8f062d416311d21af9f",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/unpainted-eyes/princess-fit.png",
+      "bytesBefore": 83055,
+      "sha256Before": "0283078ed66ac4dbae651715c54b3af6158f64c516c9a950ed66106c2ad9ed0a",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 83055,
+      "sha256After": "0283078ed66ac4dbae651715c54b3af6158f64c516c9a950ed66106c2ad9ed0a",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/unpainted-eyes/princess-z4.png",
+      "bytesBefore": 118828,
+      "sha256Before": "88c6c747d6824a7b4c1c83db303d2b4582314c78ac6639f492d6eb12f7e2ee23",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 118828,
+      "sha256After": "88c6c747d6824a7b4c1c83db303d2b4582314c78ac6639f492d6eb12f7e2ee23",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/wizard-reproduction/evidence.json",
+      "bytesBefore": 4107,
+      "sha256Before": "8aa05b814580f5d361e57a1e3c11955564726513d8b5b5e0de1f85ca40ca41c4",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 4107,
+      "sha256After": "8aa05b814580f5d361e57a1e3c11955564726513d8b5b5e0de1f85ca40ca41c4",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/wizard-reproduction/face-z1.png",
+      "bytesBefore": 165999,
+      "sha256Before": "97f071148ced7d55bcc717c76809e54796109e9237b6a51ed64238272a5cdfff",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 165999,
+      "sha256After": "97f071148ced7d55bcc717c76809e54796109e9237b6a51ed64238272a5cdfff",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/wizard-reproduction/face-z2.65.png",
+      "bytesBefore": 220314,
+      "sha256Before": "8822bbab9fe2b811a6809937257722722db5c201d8243238e4381695717aefd9",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 220314,
+      "sha256After": "8822bbab9fe2b811a6809937257722722db5c201d8243238e4381695717aefd9",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/wizard-reproduction/face-z2.png",
+      "bytesBefore": 236747,
+      "sha256Before": "71fed6bbc8dd2fb980b832f5bd02f1613214e752b33b626f65ed5826682d836d",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 236747,
+      "sha256After": "71fed6bbc8dd2fb980b832f5bd02f1613214e752b33b626f65ed5826682d836d",
+      "unchanged": true
+    },
+    {
+      "file": "test-results/smooth-home-i34/revision-62/wizard-reproduction/face-z4.png",
+      "bytesBefore": 182520,
+      "sha256Before": "e5aa7ddf6a133608e8782bfe5e887713f02cbdbb0314fc07c0f2c1f6f298821d",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 182520,
+      "sha256After": "e5aa7ddf6a133608e8782bfe5e887713f02cbdbb0314fc07c0f2c1f6f298821d",
+      "unchanged": true
+    },
+    {
+      "file": "tests/e2e/smooth-finish.spec.ts",
+      "bytesBefore": 13038,
+      "sha256Before": "b7a8a5db19de46c435fd4b3c6fde112da36ed6ccbf65bdba1aacebd2d9e35f2f",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 13038,
+      "sha256After": "b7a8a5db19de46c435fd4b3c6fde112da36ed6ccbf65bdba1aacebd2d9e35f2f",
+      "unchanged": true
+    },
+    {
+      "file": "apps/web/src/components/ArtworkCanvas.tsx",
+      "bytesBefore": 18013,
+      "sha256Before": "3646223dd3d89ef9eadae9338f188bbd2844533915c2a2301c4c3e03015cba41",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 18013,
+      "sha256After": "3646223dd3d89ef9eadae9338f188bbd2844533915c2a2301c4c3e03015cba41",
+      "unchanged": true,
+      "beforeAt": "2026-10-13T23:16:56.0761147+09:00",
+      "purpose": "Read-only world-to-screen coordinate mapping"
+    },
+    {
+      "file": "apps/web/public/content/templates/gen-princess-bunny-v6-master-v4.8a047ddd7ca0729e4e2a0a841d1490f9b1c3a8c93464e294ade81d96ae0db9fc.json",
+      "bytesBefore": 546409,
+      "sha256Before": "8a047ddd7ca0729e4e2a0a841d1490f9b1c3a8c93464e294ade81d96ae0db9fc",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 546409,
+      "sha256After": "8a047ddd7ca0729e4e2a0a841d1490f9b1c3a8c93464e294ade81d96ae0db9fc",
+      "unchanged": true,
+      "beforeAt": "2026-10-13T23:17:46.7624951+09:00",
+      "purpose": "Read-only world-to-screen coordinate mapping"
+    },
+    {
+      "file": "packages/coloring-engine/src/geometry.ts",
+      "bytesBefore": 5370,
+      "sha256Before": "557e7227aba5a0d6c21ad7dcb7cb28e59fd05f007eef974dfe9c69cf3115da9a",
+      "displayed": false,
+      "views": [],
+      "bytesAfter": 5370,
+      "sha256After": "557e7227aba5a0d6c21ad7dcb7cb28e59fd05f007eef974dfe9c69cf3115da9a",
+      "unchanged": true,
+      "beforeAt": "2026-10-13T23:18:29.9391473+09:00",
+      "purpose": "Read-only world-to-screen coordinate mapping"
+    }
+  ],
+  "afterAt": "2026-10-13T23:26:10.8683576+09:00",
+  "displayedFilePaths": [
+    "browser-contours/princess-ear-cheek-z4-dpr2.png",
+    "browser-zoom/face-z4-dpr2.png",
+    "browser-zoom/face-z4-dpr3.png",
+    "smooth-desktop/princess/actual-ui-export.png",
+    "partial-cheek-browser-2/r06-only.png",
+    "partial-cheek-browser-2/r06-r17-only.png",
+    "partial-cheek-browser-2/three-regions.png",
+    "partial-cheek-browser-2/face-erased.png",
+    "partial-cheek-browser-2/r06-erased.png",
+    "partial-cheek-browser-2/all-three-erased.png",
+    "partial-cheek-browser-2/dark-face-pale-hair.png",
+    "partial-cheek-browser-2/black-face-white-hair.png",
+    "partial-cheek-browser-2/blue-face-pink-hair.png",
+    "browser-contours/magic-chin-z4-dpr2.png",
+    "browser-contours/robots-neck-z4-dpr2.png"
+  ],
+  "displayedPathCount": 15,
+  "displayedUniqueSha256Count": 14,
+  "originalPixelCropOperations": 7,
+  "successfulImageDisplayOperations": 22,
+  "unchangedInputCount": 157,
+  "changedInputs": [],
+  "unviewedPngPaths": [
+    "test-results/smooth-home-i34/revision-62/browser-contours/construction-window-left-z4-dpr2.png",
+    "test-results/smooth-home-i34/revision-62/browser-contours/construction-window-right-z4-dpr2.png",
+    "test-results/smooth-home-i34/revision-62/browser-contours/flowers-stems-left-z4-dpr2.png",
+    "test-results/smooth-home-i34/revision-62/browser-contours/flowers-stems-right-z4-dpr2.png",
+    "test-results/smooth-home-i34/revision-62/browser-contours/vehicles-hood-z4-dpr2.png",
+    "test-results/smooth-home-i34/revision-62/browser-contours/vehicles-tyre-z4-dpr2.png",
+    "test-results/smooth-home-i34/revision-62/browser-zoom/erased.png",
+    "test-results/smooth-home-i34/revision-62/browser-zoom/face-z1-dpr1.png",
+    "test-results/smooth-home-i34/revision-62/browser-zoom/face-z1-dpr2.png",
+    "test-results/smooth-home-i34/revision-62/browser-zoom/face-z1-dpr3.png",
+    "test-results/smooth-home-i34/revision-62/browser-zoom/face-z2-dpr1.png",
+    "test-results/smooth-home-i34/revision-62/browser-zoom/face-z2-dpr2.png",
+    "test-results/smooth-home-i34/revision-62/browser-zoom/face-z2-dpr3.png",
+    "test-results/smooth-home-i34/revision-62/browser-zoom/face-z2.65-dpr1.png",
+    "test-results/smooth-home-i34/revision-62/browser-zoom/face-z2.65-dpr2.png",
+    "test-results/smooth-home-i34/revision-62/browser-zoom/face-z2.65-dpr3.png",
+    "test-results/smooth-home-i34/revision-62/browser-zoom/face-z4-dpr1.png",
+    "test-results/smooth-home-i34/revision-62/browser-zoom/partial.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/animals/actual-ui-export.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/animals/editor.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/animals/finish.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/animals/fit.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/animals/gallery.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/construction/actual-ui-export.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/construction/editor.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/construction/finish.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/construction/fit.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/construction/gallery.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/dinosaurs/actual-ui-export.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/dinosaurs/editor.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/dinosaurs/finish.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/dinosaurs/fit.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/dinosaurs/gallery.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/flowers/actual-ui-export.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/flowers/editor.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/flowers/finish.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/flowers/fit.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/flowers/gallery.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/magic/actual-ui-export.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/magic/editor.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/magic/finish.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/magic/fit.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/magic/gallery.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/ocean/actual-ui-export.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/ocean/editor.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/ocean/finish.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/ocean/fit.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/ocean/gallery.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/princess/editor.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/princess/finish.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/princess/fit.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/princess/gallery.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/robots/actual-ui-export.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/robots/editor.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/robots/finish.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/robots/fit.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/robots/gallery.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/space/actual-ui-export.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/space/editor.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/space/finish.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/space/fit.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/space/gallery.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/vehicles/actual-ui-export.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/vehicles/editor.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/vehicles/finish.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/vehicles/fit.png",
+    "test-results/smooth-home-i34/revision-62/smooth-desktop/vehicles/gallery.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/dinosaurs/actual-ui-export.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/dinosaurs/editor.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/dinosaurs/finish.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/dinosaurs/fit.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/dinosaurs/gallery.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/magic/actual-ui-export.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/magic/editor.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/magic/finish.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/magic/fit.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/magic/gallery.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/princess/actual-ui-export.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/princess/editor.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/princess/finish.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/princess/fit.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/princess/gallery.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/vehicles/actual-ui-export.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/vehicles/editor.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/vehicles/finish.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/vehicles/fit.png",
+    "test-results/smooth-home-i34/revision-62/smooth-mobile/vehicles/gallery.png",
+    "test-results/smooth-home-i34/revision-62/unpainted-eyes/dinosaurs-fit.png",
+    "test-results/smooth-home-i34/revision-62/unpainted-eyes/dinosaurs-z4.png",
+    "test-results/smooth-home-i34/revision-62/unpainted-eyes/magic-fit.png",
+    "test-results/smooth-home-i34/revision-62/unpainted-eyes/magic-z4.png",
+    "test-results/smooth-home-i34/revision-62/unpainted-eyes/princess-fit.png",
+    "test-results/smooth-home-i34/revision-62/unpainted-eyes/princess-z4.png",
+    "test-results/smooth-home-i34/revision-62/wizard-reproduction/face-z1.png",
+    "test-results/smooth-home-i34/revision-62/wizard-reproduction/face-z2.65.png",
+    "test-results/smooth-home-i34/revision-62/wizard-reproduction/face-z2.png",
+    "test-results/smooth-home-i34/revision-62/wizard-reproduction/face-z4.png"
+  ],
+  "coordinateMapping": {
+    "status": "Approximate world positions only; screenshot evidence lacks saved pan offsets",
+    "sourceNoseBounds": [
+      718.7906737489027,
+      612.978516061665,
+      744.1683755088468,
+      632.5024459590562
+    ],
+    "screenNoseDarkPixelBounds": [
+      280,
+      381,
+      344,
+      430
+    ],
+    "source": "current princess r07 original nose subpath",
+    "screen": "partial-cheek-browser-2/r06-only.png",
+    "inkThreshold": "R/G/B <20 in screenshot nose ROI",
+    "scale": [
+      2.575,
+      2.576
+    ],
+    "estimatedOffset": [
+      -1571.5597759193524,
+      -1198.6794790826889
+    ],
+    "uncertaintyWorld": "At least +/-2 world pixels; primary evidence uses exact screenshot pixel ROI",
+    "R62S1UpperWorldApprox": [
+      824,
+      601,
+      839,
+      646
+    ],
+    "R62S1LowerWorldApprox": [
+      780,
+      689,
+      795,
+      697
+    ],
+    "R62S2WorldApprox": [
+      816,
+      600,
+      829,
+      616
+    ],
+    "textureMatching": "Inconsistent approximate texture offsets, excluded from verdict"
+  }
+}

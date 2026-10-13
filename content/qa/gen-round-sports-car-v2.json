@@ -1,0 +1,852 @@
+{
+  "templateId": "gen-round-sports-car-v2",
+  "pass": true,
+  "regionCount": 28,
+  "expectedRegionRange": [
+    25,
+    30
+  ],
+  "errors": [],
+  "warnings": [],
+  "closedRegions": 28,
+  "backgroundLeak": null,
+  "closureMethod": "threshold + 3px analysis close; original ink contours preserved separately",
+  "minimumBoundsWidth": 35,
+  "minimumUsableDiameter": 24,
+  "minVisibleArea": 1186,
+  "blackRatio": 0.03547625,
+  "whiteRatio": 0.954275,
+  "antiAliasRatio": 0.01024875,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "車体左のストライプと左屋根",
+      "visibleArea": 52123,
+      "usableDiameter": 98.99
+    },
+    {
+      "id": "r02",
+      "name": "車体右のストライプと屋根",
+      "visibleArea": 61988,
+      "usableDiameter": 132.11
+    },
+    {
+      "id": "r03",
+      "name": "左窓の三角の部分",
+      "visibleArea": 3338,
+      "usableDiameter": 38.77
+    },
+    {
+      "id": "r04",
+      "name": "左の窓",
+      "visibleArea": 18435,
+      "usableDiameter": 120
+    },
+    {
+      "id": "r05",
+      "name": "中央のフロントガラス",
+      "visibleArea": 62196,
+      "usableDiameter": 224
+    },
+    {
+      "id": "r06",
+      "name": "右のフロントガラス",
+      "visibleArea": 46125,
+      "usableDiameter": 202
+    },
+    {
+      "id": "r07",
+      "name": "左後ろの車体",
+      "visibleArea": 27042,
+      "usableDiameter": 109.48
+    },
+    {
+      "id": "r08",
+      "name": "左のサイドミラー",
+      "visibleArea": 8450,
+      "usableDiameter": 78
+    },
+    {
+      "id": "r09",
+      "name": "右のサイドミラー",
+      "visibleArea": 5912,
+      "usableDiameter": 72
+    },
+    {
+      "id": "r10",
+      "name": "車体と前のフェンダー",
+      "visibleArea": 144985,
+      "usableDiameter": 155.62
+    },
+    {
+      "id": "r11",
+      "name": "ボンネット中央",
+      "visibleArea": 84854,
+      "usableDiameter": 250.9
+    },
+    {
+      "id": "r12",
+      "name": "ドアの取っ手",
+      "visibleArea": 1186,
+      "usableDiameter": 24.83
+    },
+    {
+      "id": "r13",
+      "name": "左奥のタイヤ",
+      "visibleArea": 22167,
+      "usableDiameter": 83.66
+    },
+    {
+      "id": "r14",
+      "name": "左奥のホイール",
+      "visibleArea": 5103,
+      "usableDiameter": 44
+    },
+    {
+      "id": "r15",
+      "name": "左のヘッドライト枠",
+      "visibleArea": 11533,
+      "usableDiameter": 42.43
+    },
+    {
+      "id": "r16",
+      "name": "左のヘッドライト",
+      "visibleArea": 10030,
+      "usableDiameter": 93.34
+    },
+    {
+      "id": "r17",
+      "name": "右のヘッドライト枠",
+      "visibleArea": 5965,
+      "usableDiameter": 26.63
+    },
+    {
+      "id": "r18",
+      "name": "右のヘッドライト",
+      "visibleArea": 6436,
+      "usableDiameter": 70
+    },
+    {
+      "id": "r19",
+      "name": "手前のタイヤ",
+      "visibleArea": 34476,
+      "usableDiameter": 84
+    },
+    {
+      "id": "r21",
+      "name": "フロントバンパー",
+      "visibleArea": 130717,
+      "usableDiameter": 236
+    },
+    {
+      "id": "r22",
+      "name": "手前のホイール",
+      "visibleArea": 16698,
+      "usableDiameter": 70.71
+    },
+    {
+      "id": "r23",
+      "name": "左奥タイヤの側面",
+      "visibleArea": 3936,
+      "usableDiameter": 56
+    },
+    {
+      "id": "r24",
+      "name": "手前のホイール中央",
+      "visibleArea": 3986,
+      "usableDiameter": 48
+    },
+    {
+      "id": "r25",
+      "name": "右のグリル",
+      "visibleArea": 11693,
+      "usableDiameter": 100.83
+    },
+    {
+      "id": "r26",
+      "name": "左のグリル",
+      "visibleArea": 15669,
+      "usableDiameter": 106
+    },
+    {
+      "id": "r27",
+      "name": "ナンバープレート",
+      "visibleArea": 17268,
+      "usableDiameter": 106
+    },
+    {
+      "id": "r28",
+      "name": "手前タイヤの側面",
+      "visibleArea": 7599,
+      "usableDiameter": 76.37
+    },
+    {
+      "id": "r29",
+      "name": "右奥のタイヤ",
+      "visibleArea": 2393,
+      "usableDiameter": 24
+    }
+  ],
+  "rasterEvidence": {
+    "pass": true,
+    "templateId": "gen-round-sports-car-v2",
+    "approved": false,
+    "approvalRequired": true,
+    "originalSha256": "535c8f0d875dc757fef66f512930896adbc18342c4e33782f93e18175bd4beaf",
+    "compilerVersion": 2,
+    "templateSha256": "09e2a48ce418c3cae24ba363b7f529389cc748e0c853ca66e66299d055dc7b40",
+    "normalizedSha256": "215c7c0888be5fef18dd57e789bf5d2c86a2aada69c0ab8602e84a837db7b1f2",
+    "originalSize": [
+      1122,
+      1402
+    ],
+    "analysisSize": [
+      1600,
+      2000
+    ],
+    "normalization": {
+      "method": "contain-whole-page-on-white",
+      "scale": 1.1978609625668448,
+      "offset": [
+        128,
+        160
+      ],
+      "imageSize": [
+        1344,
+        1679
+      ],
+      "canvasSize": [
+        1600,
+        2000
+      ],
+      "safeMargin": 128,
+      "cropped": false,
+      "contoursRedrawn": false
+    },
+    "regionCount": 28,
+    "detectedRegionCount": 29,
+    "countPolicy": "advisory",
+    "countWithinExpectedRange": true,
+    "expectedRange": [
+      25,
+      30
+    ],
+    "smallRepairCandidates": 0,
+    "largeGapCandidates": 3,
+    "dilationApplied": false,
+    "unreviewedLargeGapCandidates": 0,
+    "gapCandidateDetails": [
+      {
+        "id": "g01",
+        "candidateKey": "gap-454250b7288c02948d3ef6a0b52dd18ca57ae495d0d40e89c01344d4a4fc33f6",
+        "originalSha256": "535c8f0d875dc757fef66f512930896adbc18342c4e33782f93e18175bd4beaf",
+        "maskSha256": "ad9a486fa18cbd96f6274b576d7ab460934641fc3ecca1d029c71581d2d10f58",
+        "kind": "split-open-detail",
+        "parentRegionId": "r01",
+        "parentRegionName": "車体左のストライプと左屋根",
+        "parentExteriorConnected": false,
+        "labelPoint": [
+          494,
+          585
+        ],
+        "bounds": [
+          358,
+          554,
+          173,
+          279
+        ],
+        "area": 12941,
+        "usableDiameter": 44.8,
+        "review": {
+          "candidateKey": "gap-454250b7288c02948d3ef6a0b52dd18ca57ae495d0d40e89c01344d4a4fc33f6",
+          "kind": "split-open-detail",
+          "parentRegionId": "r01",
+          "parentRegionName": "車体左のストライプと左屋根",
+          "parentExteriorConnected": false,
+          "classification": "intentional-open-detail",
+          "part": "左屋根とストライプ上部",
+          "reason": "r01「車体左のストライプと左屋根」の左屋根側。3px closeではストライプへ続く同じパネルで、9px closeのみが細い接続を分割する。外背景にはつながらない。",
+          "originalSha256": "535c8f0d875dc757fef66f512930896adbc18342c4e33782f93e18175bd4beaf",
+          "point": [
+            494,
+            585
+          ]
+        }
+      },
+      {
+        "id": "g02",
+        "candidateKey": "gap-e31de00f60f12dd23dc8816ef6f3bb57111fd4aedd2445a9b970868586d23f75",
+        "originalSha256": "535c8f0d875dc757fef66f512930896adbc18342c4e33782f93e18175bd4beaf",
+        "maskSha256": "ffa8f3e6f9cc0ed9d907a8f83d7761ec58946ee58a98f4c86275b325e8eaaa3b",
+        "kind": "split-open-detail",
+        "parentRegionId": "r01",
+        "parentRegionName": "車体左のストライプと左屋根",
+        "parentExteriorConnected": false,
+        "labelPoint": [
+          271,
+          735
+        ],
+        "bounds": [
+          230,
+          682,
+          85,
+          118
+        ],
+        "area": 4569,
+        "usableDiameter": 51.132,
+        "review": {
+          "candidateKey": "gap-e31de00f60f12dd23dc8816ef6f3bb57111fd4aedd2445a9b970868586d23f75",
+          "kind": "split-open-detail",
+          "parentRegionId": "r01",
+          "parentRegionName": "車体左のストライプと左屋根",
+          "parentExteriorConnected": false,
+          "classification": "intentional-open-detail",
+          "part": "左ストライプにつながる左後部の車体パネル",
+          "reason": "左後部のパネルはr01「車体左のストライプと左屋根」の一部。3px closeでは左ストライプへつながり、9px closeのみが切り離す。隣接するr07の領域や外背景ではない。",
+          "originalSha256": "535c8f0d875dc757fef66f512930896adbc18342c4e33782f93e18175bd4beaf",
+          "point": [
+            271,
+            735
+          ]
+        }
+      },
+      {
+        "id": "g03",
+        "candidateKey": "gap-323388f1f7cb042f34b802dc17a02d2ce6eb3336724a6365af1f073d731ab538",
+        "originalSha256": "535c8f0d875dc757fef66f512930896adbc18342c4e33782f93e18175bd4beaf",
+        "maskSha256": "7d5f7165088cc349944e0e1e77cc08151b2e5ad5e2990a69e451cdd9412df41c",
+        "kind": "split-open-detail",
+        "parentRegionId": "r10",
+        "parentRegionName": "車体と前のフェンダー",
+        "parentExteriorConnected": false,
+        "labelPoint": [
+          1330,
+          907
+        ],
+        "bounds": [
+          1294,
+          859,
+          96,
+          97
+        ],
+        "area": 4087,
+        "usableDiameter": 50,
+        "review": {
+          "candidateKey": "gap-323388f1f7cb042f34b802dc17a02d2ce6eb3336724a6365af1f073d731ab538",
+          "kind": "split-open-detail",
+          "parentRegionId": "r10",
+          "parentRegionName": "車体と前のフェンダー",
+          "parentExteriorConnected": false,
+          "classification": "intentional-open-detail",
+          "part": "右前フェンダーの張り出し",
+          "reason": "r10「車体と前のフェンダー」の右側の張り出し。3px closeでは本体パネルに接続し、9px closeが細い接続を分割する。外背景への漏れではない。",
+          "originalSha256": "535c8f0d875dc757fef66f512930896adbc18342c4e33782f93e18175bd4beaf",
+          "point": [
+            1330,
+            907
+          ]
+        }
+      }
+    ],
+    "gapReviewSchemaVersion": 2,
+    "tinyRegions": 0,
+    "blackRatio": 0.0457190625,
+    "grayRatio": 0.0144059375,
+    "backgroundComponentsExcluded": 1,
+    "contourPoints": 3574,
+    "originalInkContourPoints": 13426,
+    "minimumUsableDiameter": 24.788,
+    "regions": [
+      {
+        "id": "r01",
+        "area": 54236,
+        "usableDiameter": 99.55,
+        "labelPoint": [
+          804,
+          951
+        ],
+        "bounds": [
+          225,
+          554,
+          722,
+          543
+        ]
+      },
+      {
+        "id": "r02",
+        "area": 64528,
+        "usableDiameter": 130.22,
+        "labelPoint": [
+          1225,
+          896
+        ],
+        "bounds": [
+          487,
+          519,
+          813,
+          561
+        ]
+      },
+      {
+        "id": "r03",
+        "area": 3629,
+        "usableDiameter": 38.757,
+        "labelPoint": [
+          321,
+          714
+        ],
+        "bounds": [
+          302,
+          623,
+          80,
+          130
+        ]
+      },
+      {
+        "id": "r04",
+        "area": 18910,
+        "usableDiameter": 117.039,
+        "labelPoint": [
+          424,
+          688
+        ],
+        "bounds": [
+          339,
+          597,
+          146,
+          221
+        ]
+      },
+      {
+        "id": "r05",
+        "area": 62959,
+        "usableDiameter": 225.181,
+        "labelPoint": [
+          692,
+          700
+        ],
+        "bounds": [
+          527,
+          584,
+          317,
+          242
+        ]
+      },
+      {
+        "id": "r06",
+        "area": 46940,
+        "usableDiameter": 200.933,
+        "labelPoint": [
+          951,
+          696
+        ],
+        "bounds": [
+          821,
+          583,
+          311,
+          214
+        ]
+      },
+      {
+        "id": "r07",
+        "area": 28320,
+        "usableDiameter": 106.27,
+        "labelPoint": [
+          225,
+          810
+        ],
+        "bounds": [
+          145,
+          737,
+          230,
+          512
+        ]
+      },
+      {
+        "id": "r08",
+        "area": 8804,
+        "usableDiameter": 82,
+        "labelPoint": [
+          377,
+          790
+        ],
+        "bounds": [
+          316,
+          750,
+          130,
+          108
+        ]
+      },
+      {
+        "id": "r09",
+        "area": 6146,
+        "usableDiameter": 73.544,
+        "labelPoint": [
+          1199,
+          758
+        ],
+        "bounds": [
+          1148,
+          722,
+          101,
+          80
+        ]
+      },
+      {
+        "id": "r10",
+        "area": 149713,
+        "usableDiameter": 149.175,
+        "labelPoint": [
+          534,
+          942
+        ],
+        "bounds": [
+          272,
+          806,
+          1179,
+          394
+        ]
+      },
+      {
+        "id": "r11",
+        "area": 85969,
+        "usableDiameter": 243.659,
+        "labelPoint": [
+          1040,
+          977
+        ],
+        "bounds": [
+          707,
+          804,
+          521,
+          295
+        ]
+      },
+      {
+        "id": "r12",
+        "area": 1257,
+        "usableDiameter": 25.575,
+        "labelPoint": [
+          328,
+          887
+        ],
+        "bounds": [
+          294,
+          867,
+          52,
+          36
+        ]
+      },
+      {
+        "id": "r13",
+        "area": 23150,
+        "usableDiameter": 81.15,
+        "labelPoint": [
+          207,
+          1186
+        ],
+        "bounds": [
+          148,
+          885,
+          109,
+          367
+        ]
+      },
+      {
+        "id": "r14",
+        "area": 5370,
+        "usableDiameter": 44,
+        "labelPoint": [
+          197,
+          1047
+        ],
+        "bounds": [
+          175,
+          981,
+          44,
+          157
+        ]
+      },
+      {
+        "id": "r15",
+        "area": 12412,
+        "usableDiameter": 43.163,
+        "labelPoint": [
+          762,
+          1113
+        ],
+        "bounds": [
+          602,
+          954,
+          186,
+          191
+        ]
+      },
+      {
+        "id": "r16",
+        "area": 10348,
+        "usableDiameter": 93.95,
+        "labelPoint": [
+          688,
+          1047
+        ],
+        "bounds": [
+          632,
+          987,
+          115,
+          123
+        ]
+      },
+      {
+        "id": "r17",
+        "area": 6703,
+        "usableDiameter": 27.569,
+        "labelPoint": [
+          1351,
+          949
+        ],
+        "bounds": [
+          1314,
+          935,
+          109,
+          183
+        ]
+      },
+      {
+        "id": "r18",
+        "area": 6701,
+        "usableDiameter": 72.788,
+        "labelPoint": [
+          1369,
+          1025
+        ],
+        "bounds": [
+          1333,
+          966,
+          73,
+          119
+        ]
+      },
+      {
+        "id": "r19",
+        "area": 36014,
+        "usableDiameter": 84.363,
+        "labelPoint": [
+          467,
+          1065
+        ],
+        "bounds": [
+          378,
+          1022,
+          188,
+          451
+        ]
+      },
+      {
+        "id": "r21",
+        "area": 133965,
+        "usableDiameter": 231.278,
+        "labelPoint": [
+          692,
+          1297
+        ],
+        "bounds": [
+          550,
+          1106,
+          906,
+          320
+        ]
+      },
+      {
+        "id": "r22",
+        "area": 17516,
+        "usableDiameter": 70.301,
+        "labelPoint": [
+          464,
+          1349
+        ],
+        "bounds": [
+          406,
+          1115,
+          112,
+          276
+        ]
+      },
+      {
+        "id": "r23",
+        "area": 4193,
+        "usableDiameter": 56.344,
+        "labelPoint": [
+          275,
+          1230
+        ],
+        "bounds": [
+          225,
+          1171,
+          100,
+          89
+        ]
+      },
+      {
+        "id": "r24",
+        "area": 4208,
+        "usableDiameter": 50,
+        "labelPoint": [
+          462,
+          1242
+        ],
+        "bounds": [
+          438,
+          1196,
+          50,
+          110
+        ]
+      },
+      {
+        "id": "r25",
+        "area": 12014,
+        "usableDiameter": 101.907,
+        "labelPoint": [
+          1258,
+          1273
+        ],
+        "bounds": [
+          1195,
+          1215,
+          140,
+          116
+        ]
+      },
+      {
+        "id": "r26",
+        "area": 16027,
+        "usableDiameter": 106,
+        "labelPoint": [
+          883,
+          1290
+        ],
+        "bounds": [
+          808,
+          1237,
+          175,
+          108
+        ]
+      },
+      {
+        "id": "r27",
+        "area": 17644,
+        "usableDiameter": 106,
+        "labelPoint": [
+          1114,
+          1286
+        ],
+        "bounds": [
+          1000,
+          1231,
+          182,
+          114
+        ]
+      },
+      {
+        "id": "r28",
+        "area": 8005,
+        "usableDiameter": 75.6,
+        "labelPoint": [
+          586,
+          1430
+        ],
+        "bounds": [
+          502,
+          1334,
+          138,
+          147
+        ]
+      },
+      {
+        "id": "r29",
+        "area": 2653,
+        "usableDiameter": 24.788,
+        "labelPoint": [
+          1351,
+          1405
+        ],
+        "bounds": [
+          1261,
+          1378,
+          147,
+          43
+        ]
+      }
+    ],
+    "tinyRegionBounds": [],
+    "tinyRegionDetails": [],
+    "materialReviewRequired": false,
+    "annotationSha256": "f1753dfbea9b32486439884e763d82ba663333ecd89f009764e51c9ec3e10b2b",
+    "technicalSemanticReview": {
+      "reviewer": "Codex technical source review",
+      "checks": [
+        "all-subject-parts-closed",
+        "negative-space-excluded",
+        "pupils-and-highlights-white"
+      ],
+      "unresolvedLeaks": []
+    },
+    "excludedBackgroundRegions": [
+      {
+        "name": "タイヤの上の背景",
+        "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+        "bounds": [
+          419,
+          1000,
+          59,
+          37
+        ]
+      }
+    ],
+    "widthExceptions": [],
+    "excludedLineDetails": [
+      {
+        "name": "奥タイヤの線の交差の白い点",
+        "reason": "原画拡大でタイヤ上端の重なった黒線に残る6px幅の白点と確認。独立した部品ではなく、白の原画detailとして保存する",
+        "area": 136
+      },
+      {
+        "name": "奥タイヤ右上の線の交差の白い点",
+        "reason": "重なった輪郭の中の4px幅の白点。塗り面ではなく元の白い線画detailを保つ",
+        "area": 21
+      },
+      {
+        "name": "右輪郭内の上の白い画素",
+        "reason": "車体外周の黒線に囲まれた3×5pxの白い画素。物体の面ではなく原画の白いdetailとして保つ",
+        "area": 15
+      },
+      {
+        "name": "右輪郭内の下の白い画素",
+        "reason": "車体外周の黒線に囲まれた3×5pxの白い画素。物体の面ではなく原画の白いdetailとして保つ",
+        "area": 15
+      },
+      {
+        "name": "手前タイヤ上端の線の交差の白い点",
+        "reason": "二本の輪郭が接する箇所の10×6pxの白点。主役の部品ではなく原画の白いdetailとして保つ",
+        "area": 41
+      }
+    ],
+    "visibleInkSource": "original-threshold-contours; no morphological repair or extra region stroke",
+    "errors": [],
+    "warnings": [
+      "9px close候補 3箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）",
+      "1pxの線拡張で閉じる候補があります。解析マスクを確認してください"
+    ],
+    "publicationNote": "原画と解析maskを別保存。素材・細部・輪郭の人間確認後に公開してください。",
+    "originalFile": "content/generated-lineart/compiled/gen-round-sports-car-v2/original.png"
+  },
+  "backgroundLeakStatus": "semantic visual review required; a large gap may remain connected to exterior even after 9px close",
+  "contentHash": "793cc07ec89468055d51720b778a53994e48a3bb0fdf76338abb0b9c1efc3b32",
+  "approval": {
+    "kind": "human",
+    "reviewer": "ユーザー（Codex会話）",
+    "recordedAt": "2026-10-06T16:39:21.516Z",
+    "contentHash": "793cc07ec89468055d51720b778a53994e48a3bb0fdf76338abb0b9c1efc3b32",
+    "basis": "新しい10枚の線画一覧を確認し「この10枚を正式採用する」と回答"
+  }
+}

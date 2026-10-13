@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "baseColor": "#faf4fb",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/planet.1911f2e680085f6bc1da12d15fc243681596cc13198f95be775f3d18e9f43d83.png",
+      "x": 1280,
+      "y": 150,
+      "width": 270,
+      "height": 165.5859375,
+      "rotation": 0,
+      "opacity": 0.33
+    },
+    {
+      "assetUrl": "/content/decor/rock-cluster.4569497805c5592bd2cac698db52732db3a1c44dfb504971a27a205a84e06553.png",
+      "x": -100,
+      "y": 1700,
+      "width": 570,
+      "height": 371.8359375,
+      "rotation": 0,
+      "opacity": 0.52
+    },
+    {
+      "assetUrl": "/content/decor/rock-cluster.4569497805c5592bd2cac698db52732db3a1c44dfb504971a27a205a84e06553.png",
+      "x": 1210,
+      "y": 1740,
+      "width": 470,
+      "height": 306.6015625,
+      "rotation": 0,
+      "opacity": 0.48
+    },
+    {
+      "assetUrl": "/content/decor/star.a185245c643bbacde68bb58ee79b60dff1fd6d5f574a10303d78dd82a8c31e81.png",
+      "x": 60,
+      "y": 490,
+      "width": 85,
+      "height": 80.185546875,
+      "rotation": 0,
+      "opacity": 0.27
+    }
+  ]
+}

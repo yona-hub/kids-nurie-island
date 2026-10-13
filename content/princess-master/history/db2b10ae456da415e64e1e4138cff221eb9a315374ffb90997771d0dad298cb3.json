@@ -1,0 +1,147 @@
+{
+  "templateId": "gen-princess-bunny-v6-master-v1",
+  "sourceTemplateId": "gen-princess-bunny-v6-storybook-v2",
+  "sourceTemplateSha256": "706dc1c61411cc36f0d1f7a63e8605837ffe5a69f47ee8f181020e04db804206",
+  "masterFile": "content/princess-master/originals/princess-finished-v1.png",
+  "masterSha256": "a1b87bc1f7f1491ed99d874f282a420381dce9c176ec0e16090f6a1a7bcff8c6",
+  "masterSize": [
+    1122,
+    1402
+  ],
+  "normalization": {
+    "method": "contain-whole-page-on-white",
+    "scale": 1.1978609625668448,
+    "offset": [
+      128,
+      160
+    ],
+    "imageSize": [
+      1344,
+      1679
+    ],
+    "canvasSize": [
+      1600,
+      2000
+    ],
+    "safeMargin": 128,
+    "cropped": false,
+    "contoursRedrawn": false
+  },
+  "formUrl": "/content/media/princess-form-v1.81b6a2485d0f91c38e84ccba7574e3aa5168623a6ec3bac2b12dbaefce24f601.png",
+  "formSha256": "81b6a2485d0f91c38e84ccba7574e3aa5168623a6ec3bac2b12dbaefce24f601",
+  "decodedBytes": 20971520,
+  "neutralEncoding": "achromatic hard-light; 128 neutral; darker shadow / lighter reflection",
+  "fieldRange": [
+    26,
+    227
+  ],
+  "groups": [
+    {
+      "groupId": "g1",
+      "name": "髪全体",
+      "material": "hair",
+      "referenceColor": "#994814",
+      "referenceLuminance": 0.335161568627451,
+      "sampleCount": 155205
+    },
+    {
+      "groupId": "g2",
+      "name": "おひめさまの肌",
+      "material": "skin",
+      "referenceColor": "#FECEA8",
+      "referenceLuminance": 0.8371027450980393,
+      "sampleCount": 73895
+    },
+    {
+      "groupId": "g3",
+      "name": "ドレスの上",
+      "material": "fabric",
+      "referenceColor": "#FE9EB7",
+      "referenceLuminance": 0.7067239215686275,
+      "sampleCount": 38845
+    },
+    {
+      "groupId": "g4",
+      "name": "スカート",
+      "material": "fabric",
+      "referenceColor": "#FCAAC2",
+      "referenceLuminance": 0.7418274509803922,
+      "sampleCount": 494608
+    },
+    {
+      "groupId": "g5",
+      "name": "リボン",
+      "material": "fabric",
+      "referenceColor": "#FFD976",
+      "referenceLuminance": 0.8546313725490196,
+      "sampleCount": 13249
+    },
+    {
+      "groupId": "g6",
+      "name": "王冠の宝石",
+      "material": "glass",
+      "referenceColor": "#F4566F",
+      "referenceLuminance": 0.4760619607843137,
+      "sampleCount": 1745
+    },
+    {
+      "groupId": "g7",
+      "name": "うさぎの毛",
+      "material": "fur",
+      "referenceColor": "#FEF0E1",
+      "referenceLuminance": 0.948601568627451,
+      "sampleCount": 116568
+    },
+    {
+      "groupId": "g8",
+      "name": "うさぎの耳の内側",
+      "material": "skin",
+      "referenceColor": "#FDA395",
+      "referenceLuminance": 0.7102870588235294,
+      "sampleCount": 13133
+    },
+    {
+      "groupId": "g9",
+      "name": "うさぎのリボン",
+      "material": "fabric",
+      "referenceColor": "#D2E7BF",
+      "referenceLuminance": 0.8770486274509803,
+      "sampleCount": 5098
+    },
+    {
+      "groupId": "g12",
+      "name": "王冠",
+      "material": "metal",
+      "referenceColor": "#FED85A",
+      "referenceLuminance": 0.8430650980392156,
+      "sampleCount": 9484
+    },
+    {
+      "groupId": "g13",
+      "name": "口",
+      "material": "skin",
+      "referenceColor": "#FC7D69",
+      "referenceLuminance": 0.5904164705882352,
+      "sampleCount": 561
+    },
+    {
+      "groupId": "g14",
+      "name": "うさぎの鼻",
+      "material": "skin",
+      "referenceColor": "#F77A6C",
+      "referenceLuminance": 0.5786831372549018,
+      "sampleCount": 262
+    },
+    {
+      "groupId": "g15",
+      "name": "うさぎの口",
+      "material": "skin",
+      "referenceColor": "#F98D83",
+      "referenceLuminance": 0.6401521568627451,
+      "sampleCount": 774
+    }
+  ],
+  "contentHash": "29bbce542fd0cc1cc12f35707a2c71b4513ce6a8c2938bfee5f7424a12733edb",
+  "humanApproved": false,
+  "status": "implementation candidate; current visual/browser/performance verification pending"
+}

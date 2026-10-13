@@ -1,0 +1,602 @@
+{
+  "assets": [
+    {
+      "id": "star",
+      "url": "/content/decor/star.a185245c643bbacde68bb58ee79b60dff1fd6d5f574a10303d78dd82a8c31e81.png",
+      "sha256": "a185245c643bbacde68bb58ee79b60dff1fd6d5f574a10303d78dd82a8c31e81",
+      "sourceSha256": "ec9d80b27585b9be1cbe1b50fcc383921eabc2c75d6de5b2d91c8797906622e7",
+      "width": 512,
+      "height": 483
+    },
+    {
+      "id": "dot",
+      "url": "/content/decor/dot.c8ad46a49c2cd379d64162b55b6788a83d65e8ba6394ca41de0eec1ab2579296.png",
+      "sha256": "c8ad46a49c2cd379d64162b55b6788a83d65e8ba6394ca41de0eec1ab2579296",
+      "sourceSha256": "28664399ca60531811bbab6a9935ff49d50428ab78f84f3cff439eadc137c248",
+      "width": 512,
+      "height": 509
+    },
+    {
+      "id": "drop",
+      "url": "/content/decor/drop.4715e4e7074ca081e3e52202659d090b66f380e74b6a1f598702ff4a5b7acdd7.png",
+      "sha256": "4715e4e7074ca081e3e52202659d090b66f380e74b6a1f598702ff4a5b7acdd7",
+      "sourceSha256": "84f386581ad665858e7498e596eb747855921ea6ec924e7ebaa7fc8e62ada50c",
+      "width": 317,
+      "height": 512
+    },
+    {
+      "id": "cloud",
+      "url": "/content/decor/cloud.00a3bb8dff232f94a89098a1af507bcda6e9296e4b6f0d28ce6f3f77cc49d668.png",
+      "sha256": "00a3bb8dff232f94a89098a1af507bcda6e9296e4b6f0d28ce6f3f77cc49d668",
+      "sourceSha256": "b2c8dd67c69e9093f9560bfe026e9a3a184c878cada94ff991f468765b239708",
+      "width": 512,
+      "height": 294
+    },
+    {
+      "id": "rainbow",
+      "url": "/content/decor/rainbow.168dbd828b9627a67ac8e7ee3b1dda86e88a05a7e50759652aea8370c020ee5f.png",
+      "sha256": "168dbd828b9627a67ac8e7ee3b1dda86e88a05a7e50759652aea8370c020ee5f",
+      "sourceSha256": "af04ad593fef55ff584ea032171aa1414b44f1cdceba05bbe8820aa4cb47d4d1",
+      "width": 512,
+      "height": 282
+    },
+    {
+      "id": "wave",
+      "url": "/content/decor/wave.dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44.png",
+      "sha256": "dce8684a93e89822db3ec770f3707a03a273a228630d22a63fe76cf71f7ffe44",
+      "sourceSha256": "2a5ed219c4cedbc5ace7f95085578c4c07f50136c89306c2dccc4e471eacb7cb",
+      "width": 512,
+      "height": 422
+    },
+    {
+      "id": "leaf",
+      "url": "/content/decor/leaf.7fa4e9175c8499d19099f7a0d5b5e7f537924ab9b890de5b7174736df59fc486.png",
+      "sha256": "7fa4e9175c8499d19099f7a0d5b5e7f537924ab9b890de5b7174736df59fc486",
+      "sourceSha256": "a6cadccc665d4d1cd6f8eebbaf4a35382bc35f6327f7dd871a3738c967a1d84c",
+      "width": 431,
+      "height": 512
+    },
+    {
+      "id": "crown",
+      "url": "/content/decor/crown.b6882c6461e2d1a32e6cf6a24dea3c96f3f41cb4d7ea64d5dd85ae9d9e9cf770.png",
+      "sha256": "b6882c6461e2d1a32e6cf6a24dea3c96f3f41cb4d7ea64d5dd85ae9d9e9cf770",
+      "sourceSha256": "525e2a9df06cd2c96c2e4618a90ce4186f5d6c27ec3409c8572fcfd50ae9a9c9",
+      "width": 512,
+      "height": 338
+    },
+    {
+      "id": "gem",
+      "url": "/content/decor/gem.2e2429d21d90fe9023fcc4d01c6edd667cd7ad5e60231bc37525ab4060e49ce4.png",
+      "sha256": "2e2429d21d90fe9023fcc4d01c6edd667cd7ad5e60231bc37525ab4060e49ce4",
+      "sourceSha256": "8ba78a7325a81cf6aef0e6ee5ea6722954d669ecb30406532fc7d95f0e856b39",
+      "width": 508,
+      "height": 512
+    },
+    {
+      "id": "moon",
+      "url": "/content/decor/moon.0f3da33022bfcd61fc1e5e357e1e6f1149e215c9cba0c99be88922cd6f5d4804.png",
+      "sha256": "0f3da33022bfcd61fc1e5e357e1e6f1149e215c9cba0c99be88922cd6f5d4804",
+      "sourceSha256": "5eb0beaf8c3130dc337cb2cf66f734e6508ac4f19f01b2fb657fe0d69f496eae",
+      "width": 492,
+      "height": 512
+    },
+    {
+      "id": "paw",
+      "url": "/content/decor/paw.f54e9b9e870fedc8d1fe1025a8402e9ccdd901a54aed1e377764daf84cf08f97.png",
+      "sha256": "f54e9b9e870fedc8d1fe1025a8402e9ccdd901a54aed1e377764daf84cf08f97",
+      "sourceSha256": "a3ade888d21774c0e488d385cc8b70e677308b81520e7b7f40586bb041660cdc",
+      "width": 512,
+      "height": 452
+    },
+    {
+      "id": "shell",
+      "url": "/content/decor/shell.cf2617d73faff688b6020bca8b7e5a62945512aa8d4126dfd7d3209bf9d712b2.png",
+      "sha256": "cf2617d73faff688b6020bca8b7e5a62945512aa8d4126dfd7d3209bf9d712b2",
+      "sourceSha256": "4d8009fbf667d92b3aa6c0c294b9e5725ceceb83bb78b541b06833a4c5a21706",
+      "width": 512,
+      "height": 426
+    },
+    {
+      "id": "bone",
+      "url": "/content/decor/bone.5d5fc45d1bd5212de66ed5f6c23356f7e0687547706475e93ceb5f985819f7da.png",
+      "sha256": "5d5fc45d1bd5212de66ed5f6c23356f7e0687547706475e93ceb5f985819f7da",
+      "sourceSha256": "6a47ba60fc09954747aa0bb961462a123484e5512a943b6b3023d4f413190403",
+      "width": 512,
+      "height": 366
+    },
+    {
+      "id": "tire",
+      "url": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "sha256": "85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed",
+      "sourceSha256": "eda8ffeb99cf63676f7d794e06ca313fc60ebf795a21b3e0b99b0b3b527e8dc8",
+      "width": 483,
+      "height": 512
+    },
+    {
+      "id": "road",
+      "url": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "sha256": "92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19",
+      "sourceSha256": "2c8c32f61edde474e82e69e6ab3ea5a8c25ee39f2350eb81cadbfdef6114a6ef",
+      "width": 512,
+      "height": 317
+    },
+    {
+      "id": "cone",
+      "url": "/content/decor/cone.0eb66995584ea145a045bbd9d647e8f31e8b58824937b10054e8abbec45477e6.png",
+      "sha256": "0eb66995584ea145a045bbd9d647e8f31e8b58824937b10054e8abbec45477e6",
+      "sourceSha256": "ca3f3747d1b73a29f98965b4592e51bc4e9fea3124620247a26b1a5e3cebf4db",
+      "width": 441,
+      "height": 512
+    },
+    {
+      "id": "gear",
+      "url": "/content/decor/gear.862f31824a39e9e8b39d8732ee96e05db2253adfc5c9c086950836d9f622270e.png",
+      "sha256": "862f31824a39e9e8b39d8732ee96e05db2253adfc5c9c086950836d9f622270e",
+      "sourceSha256": "c2dc638095540bb36ce251116d62bfffbebd48f205042eaba4eede2d5ea267f6",
+      "width": 512,
+      "height": 505
+    },
+    {
+      "id": "circuit",
+      "url": "/content/decor/circuit.862518d60bb1cbd1cba4a15a6c006252456e2ce0ad238cde53d349b0d4e02ce9.png",
+      "sha256": "862518d60bb1cbd1cba4a15a6c006252456e2ce0ad238cde53d349b0d4e02ce9",
+      "sourceSha256": "4e5f8cc96dec9645f9e5fe4dea6ecb5f47f8059aeaca20709f3d2c2bb78eeff1",
+      "width": 501,
+      "height": 512
+    },
+    {
+      "id": "planet",
+      "url": "/content/decor/planet.1911f2e680085f6bc1da12d15fc243681596cc13198f95be775f3d18e9f43d83.png",
+      "sha256": "1911f2e680085f6bc1da12d15fc243681596cc13198f95be775f3d18e9f43d83",
+      "sourceSha256": "3589847cbf86e79b71159030a869121865baa6e02d1b274d3b18de588fcd8cc6",
+      "width": 512,
+      "height": 314
+    },
+    {
+      "id": "fruit",
+      "url": "/content/decor/fruit.608968428943b851e1fd0b338d997f280bfeb8f5ffef47b835a0b806bf34b0b4.png",
+      "sha256": "608968428943b851e1fd0b338d997f280bfeb8f5ffef47b835a0b806bf34b0b4",
+      "sourceSha256": "caae95c1f443dd4a430a648c790372a3e20ab4298d9db354db84f6923a09429e",
+      "width": 489,
+      "height": 512
+    },
+    {
+      "id": "candy",
+      "url": "/content/decor/candy.0acf39cd0d44b2520cfe61d14e9004549f6448c872ed567401cdf1c9914a0d27.png",
+      "sha256": "0acf39cd0d44b2520cfe61d14e9004549f6448c872ed567401cdf1c9914a0d27",
+      "sourceSha256": "386021faa605e91593071c8895d81737958c6352d37302250397359a20c41b8b",
+      "width": 512,
+      "height": 218
+    },
+    {
+      "id": "flower",
+      "url": "/content/decor/flower.6e4766d3d20d0d53a4064ad82b6dab08dce897832e41a73065680eaf18e28732.png",
+      "sha256": "6e4766d3d20d0d53a4064ad82b6dab08dce897832e41a73065680eaf18e28732",
+      "sourceSha256": "e8eeaa96ea5a900e8003f897bc9976f75bd4c0dd8646952e6c2e3ec35bb2b4cd",
+      "width": 512,
+      "height": 497
+    },
+    {
+      "id": "block",
+      "url": "/content/decor/block.3cbcf99c9f05d82cb301ddcf698289c00f15081d274ea3db7940902af9661887.png",
+      "sha256": "3cbcf99c9f05d82cb301ddcf698289c00f15081d274ea3db7940902af9661887",
+      "sourceSha256": "b0a40dceb402efffc7f26d271820b0bb30aa61695c6fa5d04c2f0f8aa4135891",
+      "width": 479,
+      "height": 512
+    },
+    {
+      "id": "ball",
+      "url": "/content/decor/ball.1d82cc045a1e2cf175b85256da9ec1d3307e6d72ffbbcfd6fa04875ea180af78.png",
+      "sha256": "1d82cc045a1e2cf175b85256da9ec1d3307e6d72ffbbcfd6fa04875ea180af78",
+      "sourceSha256": "d298d523206e106ebf7f49d82e0dd23270ef9c2f7c8ba73deaad2ab5ebcc08e5",
+      "width": 512,
+      "height": 502
+    },
+    {
+      "id": "crayon",
+      "url": "/content/decor/crayon.bc817cc4b599aeb9604b28a2e5835a17ea11c381ac50dce928a26b97a71d8ace.png",
+      "sha256": "bc817cc4b599aeb9604b28a2e5835a17ea11c381ac50dce928a26b97a71d8ace",
+      "sourceSha256": "f3f8f245b56920582c6c718a89b8750f96050175cc64b35ebbce750cf750d4ff",
+      "width": 269,
+      "height": 512
+    },
+    {
+      "id": "pencil",
+      "url": "/content/decor/pencil.4e8329dc5a21b27a42b3aa11f7028272853492a5cde0cc809b7f96047686345b.png",
+      "sha256": "4e8329dc5a21b27a42b3aa11f7028272853492a5cde0cc809b7f96047686345b",
+      "sourceSha256": "e6bf42fa6f2b8318f9b5f76a954aa324cab9dadfb513f78a469c35f0870bbb27",
+      "width": 316,
+      "height": 512
+    },
+    {
+      "id": "floating-ground",
+      "url": "/content/decor/floating-ground.aead01b87c279366601c3123bfff5e45f9cb1dfc1672ff77580af97236ea8ca8.png",
+      "sha256": "aead01b87c279366601c3123bfff5e45f9cb1dfc1672ff77580af97236ea8ca8",
+      "sourceSha256": "616ed807c102138a3f03175fdb1011237d6b4ae57defa679819760221b27bb75",
+      "width": 1024,
+      "height": 678
+    },
+    {
+      "id": "grass-cluster",
+      "url": "/content/decor/grass-cluster.3aad6528ef4a8b2104c6271ad1346a2adc4b4e4ae8a9f324a62e9e70f5f28f97.png",
+      "sha256": "3aad6528ef4a8b2104c6271ad1346a2adc4b4e4ae8a9f324a62e9e70f5f28f97",
+      "sourceSha256": "6b877105fd6a5656bd61bdfdaac7a5dd3bc662a51c27fbc7102ff0adb777484c",
+      "width": 1024,
+      "height": 523
+    },
+    {
+      "id": "distant-tree",
+      "url": "/content/decor/distant-tree.417c22d5ccd298510c6343d9f31434ea3e22c68e7c10a918a0abb4583fef66a1.png",
+      "sha256": "417c22d5ccd298510c6343d9f31434ea3e22c68e7c10a918a0abb4583fef66a1",
+      "sourceSha256": "607e50644098212f5e734ecad5d08954bd310e1d3eeeaaf722e0e865f3f4640e",
+      "width": 1024,
+      "height": 990
+    },
+    {
+      "id": "flower-cluster",
+      "url": "/content/decor/flower-cluster.6ef58f17ab03b0466f6d56ae03de090d2cdfae65f35162c18e713e21e547d8c1.png",
+      "sha256": "6ef58f17ab03b0466f6d56ae03de090d2cdfae65f35162c18e713e21e547d8c1",
+      "sourceSha256": "ed57afc2ae1facd5dd7a3c3c5ce9f12232ca43f7c32803b1671321fbd077ace4",
+      "width": 1024,
+      "height": 542
+    },
+    {
+      "id": "sea-surface",
+      "url": "/content/decor/sea-surface.c007d492b9b4fc883f422bca5f53318c3411228fddc566e19b753f5b9d7869ee.png",
+      "sha256": "c007d492b9b4fc883f422bca5f53318c3411228fddc566e19b753f5b9d7869ee",
+      "sourceSha256": "b47d315befa7b7cb9eeb0b2f7bab40bb6dce46caa618ab759a78753170c17ab1",
+      "width": 1024,
+      "height": 360
+    },
+    {
+      "id": "seaweed",
+      "url": "/content/decor/seaweed.6f8ab4cc92ca61984abe34f8de261b8718dd79d17830e5b1206865142e009cb9.png",
+      "sha256": "6f8ab4cc92ca61984abe34f8de261b8718dd79d17830e5b1206865142e009cb9",
+      "sourceSha256": "dc97ed0a2d8bc1916f56f8a9f080990ca90eb96e8a74e3b6a700d756cd6e9cb0",
+      "width": 1024,
+      "height": 1013
+    },
+    {
+      "id": "coral",
+      "url": "/content/decor/coral.949e96a727baf1d97bb73ded38ad183ed65d1f4bf5fde7dee6f37d3912f68523.png",
+      "sha256": "949e96a727baf1d97bb73ded38ad183ed65d1f4bf5fde7dee6f37d3912f68523",
+      "sourceSha256": "13c259e1f284c20d1eb1a0ccbe907b8e162511b12b00d2db968947af7ebecf7e",
+      "width": 1024,
+      "height": 882
+    },
+    {
+      "id": "castle-tower",
+      "url": "/content/decor/castle-tower.99be8eebd64398c41f798a042c97f574dc680afe6affa78d9f68c0b4110a6725.png",
+      "sha256": "99be8eebd64398c41f798a042c97f574dc680afe6affa78d9f68c0b4110a6725",
+      "sourceSha256": "c426dbe1bee6378096f0a6cf333015e117ccbefe9f91e78fd341a51bf902156d",
+      "width": 425,
+      "height": 1024
+    },
+    {
+      "id": "rock-cluster",
+      "url": "/content/decor/rock-cluster.4569497805c5592bd2cac698db52732db3a1c44dfb504971a27a205a84e06553.png",
+      "sha256": "4569497805c5592bd2cac698db52732db3a1c44dfb504971a27a205a84e06553",
+      "sourceSha256": "b6cead6b6bf8973d5ec5cbdd976a00469ca9a15dcf8d68632deefb1c469ee428",
+      "width": 1024,
+      "height": 668
+    },
+    {
+      "id": "future-city",
+      "url": "/content/decor/future-city.2124edb112ea52b5eb01a861dede85d354855e1f0a572c858b4006811fab8832.png",
+      "sha256": "2124edb112ea52b5eb01a861dede85d354855e1f0a572c858b4006811fab8832",
+      "sourceSha256": "d93194a39060e5b6ad54123f0504d5789a94fb46278dca62154cfb168a248e26",
+      "width": 1024,
+      "height": 538
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": "white",
+      "name": "まっしろ",
+      "assetUrl": "/content/backgrounds/white.685b25723213d31f088c9dc076061aab2b2d03bf1d4dce8c5bb67d2dc65de763.svg",
+      "thumbnailUrl": "/content/backgrounds/white.685b25723213d31f088c9dc076061aab2b2d03bf1d4dce8c5bb67d2dc65de763.svg",
+      "catalogVisible": true
+    },
+    {
+      "id": "sky-island-storybook-v1",
+      "name": "あおぞらのしま",
+      "assetUrl": "/content/backgrounds/sky-island-storybook-v1.dae327ade2e35089edd469c4d0388815be7595a9fd791a0a4b57e17f319bf131.png",
+      "thumbnailUrl": "/content/backgrounds/sky-island-storybook-v1.dae327ade2e35089edd469c4d0388815be7595a9fd791a0a4b57e17f319bf131.png",
+      "compositionUrl": "/content/backgrounds/sky-island-storybook-v1.d71459bc12843fc044c83c85f078b2ace8f8a10e137323a433f0bd3da7c5def6.json",
+      "catalogVisible": true,
+      "legacyId": "sky-island"
+    },
+    {
+      "id": "flower-meadow-storybook-v1",
+      "name": "お花のひろば",
+      "themeId": "flowers",
+      "assetUrl": "/content/backgrounds/flower-meadow-storybook-v1.09db9dadc79090c754d5d0b2a391fe89fcb98e1dd6e44a33132c35099e55a28f.png",
+      "thumbnailUrl": "/content/backgrounds/flower-meadow-storybook-v1.09db9dadc79090c754d5d0b2a391fe89fcb98e1dd6e44a33132c35099e55a28f.png",
+      "compositionUrl": "/content/backgrounds/flower-meadow-storybook-v1.162820e874a4074d98496637541a755c9a5488780cacd483b6d2f0ed704c1723.json",
+      "catalogVisible": true,
+      "legacyId": "flower-meadow"
+    },
+    {
+      "id": "sunset-sea-storybook-v1",
+      "name": "夕焼けの海",
+      "themeId": "ocean",
+      "assetUrl": "/content/backgrounds/sunset-sea-storybook-v1.6232c8ed9683b6fe8320252dc7ed581a1e424dc7455cfa001104246429ba0c50.png",
+      "thumbnailUrl": "/content/backgrounds/sunset-sea-storybook-v1.6232c8ed9683b6fe8320252dc7ed581a1e424dc7455cfa001104246429ba0c50.png",
+      "compositionUrl": "/content/backgrounds/sunset-sea-storybook-v1.eac04a519463a2d0e325cf36bca813571b9e9a532e5d66e182ecc8e3eb209bd8.json",
+      "catalogVisible": true,
+      "legacyId": "sunset-sea"
+    },
+    {
+      "id": "starry-sky-storybook-v1",
+      "name": "ほしぞら",
+      "assetUrl": "/content/backgrounds/starry-sky-storybook-v1.385f4638939c17a8f60ff9f0f0a46a37ad8d977ff32a77d07b92b85eb06b9d3b.png",
+      "thumbnailUrl": "/content/backgrounds/starry-sky-storybook-v1.385f4638939c17a8f60ff9f0f0a46a37ad8d977ff32a77d07b92b85eb06b9d3b.png",
+      "compositionUrl": "/content/backgrounds/starry-sky-storybook-v1.cb30fc6ff39a53a03a1a1759771b4af6077458bdc791eb89653bd39ec282fd3c.json",
+      "catalogVisible": true,
+      "legacyId": "starry-sky"
+    },
+    {
+      "id": "forest-clearing-storybook-v1",
+      "name": "森のひろば",
+      "themeId": "animals",
+      "assetUrl": "/content/backgrounds/forest-clearing-storybook-v1.a608d75094c6832e7bf21036f90f4d5983d378e50bf12b37b2afda15b96d2873.png",
+      "thumbnailUrl": "/content/backgrounds/forest-clearing-storybook-v1.a608d75094c6832e7bf21036f90f4d5983d378e50bf12b37b2afda15b96d2873.png",
+      "compositionUrl": "/content/backgrounds/forest-clearing-storybook-v1.735133a69cffe08b44a33e6259d157afe64e038d986e60b3d0b25565cc36011a.json",
+      "catalogVisible": true,
+      "legacyId": "forest-clearing"
+    },
+    {
+      "id": "future-city-storybook-v1",
+      "name": "みらいのまち",
+      "themeId": "robots",
+      "assetUrl": "/content/backgrounds/future-city-storybook-v1.8c282baf0430eee11a1b518df06e61d549329dce2efcb5542a3882e2cfa4e7d8.png",
+      "thumbnailUrl": "/content/backgrounds/future-city-storybook-v1.8c282baf0430eee11a1b518df06e61d549329dce2efcb5542a3882e2cfa4e7d8.png",
+      "compositionUrl": "/content/backgrounds/future-city-storybook-v1.0c50c0c9de7d6ca01cb92b6e5e40d7669557204b33fdd33150b151fbe8be7143.json",
+      "catalogVisible": true,
+      "legacyId": "future-city"
+    },
+    {
+      "id": "underwater-storybook-v1",
+      "name": "うみのなか",
+      "themeId": "ocean",
+      "assetUrl": "/content/backgrounds/underwater-storybook-v1.3ecf880e27e10385e98cda92affbd397b5b02ed649fb1071cd3cec59da7ad2a3.png",
+      "thumbnailUrl": "/content/backgrounds/underwater-storybook-v1.3ecf880e27e10385e98cda92affbd397b5b02ed649fb1071cd3cec59da7ad2a3.png",
+      "compositionUrl": "/content/backgrounds/underwater-storybook-v1.1348250519fb52b8d98018c78622560235fee433d9646e99e8110ef033fee704.json",
+      "catalogVisible": true,
+      "legacyId": "underwater"
+    },
+    {
+      "id": "outer-space-storybook-v1",
+      "name": "宇宙空間",
+      "themeId": "space",
+      "assetUrl": "/content/backgrounds/outer-space-storybook-v1.ded9e881499280b29d6003f3a82454f6e952d07f31403af9dc330be488a80fca.png",
+      "thumbnailUrl": "/content/backgrounds/outer-space-storybook-v1.ded9e881499280b29d6003f3a82454f6e952d07f31403af9dc330be488a80fca.png",
+      "compositionUrl": "/content/backgrounds/outer-space-storybook-v1.bf3897cae12e38bf098ddef6208df9955f73ec0518e7aa6f5f565e9c971d068e.json",
+      "catalogVisible": true,
+      "legacyId": "outer-space"
+    },
+    {
+      "id": "castle-garden-storybook-v1",
+      "name": "お城の庭",
+      "themeId": "princess",
+      "assetUrl": "/content/backgrounds/castle-garden-storybook-v1.4875351b8ff0e2ac54a793fca3cfe46042b78d67bd24a666c898bef254838096.png",
+      "thumbnailUrl": "/content/backgrounds/castle-garden-storybook-v1.4875351b8ff0e2ac54a793fca3cfe46042b78d67bd24a666c898bef254838096.png",
+      "compositionUrl": "/content/backgrounds/castle-garden-storybook-v1.92a323ace7fa2a0639a075a67b1277ed9ca08bf0b087ff53a6b047e49cf81f58.json",
+      "catalogVisible": true,
+      "legacyId": "castle-garden"
+    },
+    {
+      "id": "planet-surface-storybook-v1",
+      "name": "わくせいのだいち",
+      "themeId": "space",
+      "assetUrl": "/content/backgrounds/planet-surface-storybook-v1.62cdd9adbfdb8185716be645c2af4c7db9855e260b313ed9ab210c6eb8197017.png",
+      "thumbnailUrl": "/content/backgrounds/planet-surface-storybook-v1.62cdd9adbfdb8185716be645c2af4c7db9855e260b313ed9ab210c6eb8197017.png",
+      "compositionUrl": "/content/backgrounds/planet-surface-storybook-v1.82a31b416f7d5e873a8964b9f30ad9f7052ff45dcf92e71a6ba6a9c35fa46ec1.json",
+      "catalogVisible": true,
+      "legacyId": "planet-surface"
+    }
+  ],
+  "frames": [
+    {
+      "id": "none",
+      "name": "なし",
+      "assetUrl": "/content/frames/none.d8e5b4aa50c3f605916ed92113ff4c622aa1f2597819cb3ca0db1812ae8c4a8b.svg",
+      "thumbnailUrl": "/content/frames/none.d8e5b4aa50c3f605916ed92113ff4c622aa1f2597819cb3ca0db1812ae8c4a8b.svg",
+      "catalogVisible": true
+    },
+    {
+      "id": "simple-white-storybook-v1",
+      "name": "シンプル白",
+      "assetUrl": "/content/frames/simple-white-storybook-v1.b40b890d4e98bee99f11a4e9b95b1dfa1cff874a2bb64c4c1acb71525cee73ee.png",
+      "thumbnailUrl": "/content/frames/simple-white-storybook-v1.b40b890d4e98bee99f11a4e9b95b1dfa1cff874a2bb64c4c1acb71525cee73ee.png",
+      "compositionUrl": "/content/frames/simple-white-storybook-v1.aad190cd7fe06e3aec7ef45017df5a23c992ae42f7717569c7f462c57ee8db68.json",
+      "catalogVisible": true,
+      "legacyId": "simple-white"
+    },
+    {
+      "id": "color-dots-storybook-v1",
+      "name": "カラードット",
+      "assetUrl": "/content/frames/color-dots-storybook-v1.a99feca283f75a1159b603225a6920f2bc4084d8b599d62ab64718ecccdbc51f.png",
+      "thumbnailUrl": "/content/frames/color-dots-storybook-v1.a99feca283f75a1159b603225a6920f2bc4084d8b599d62ab64718ecccdbc51f.png",
+      "compositionUrl": "/content/frames/color-dots-storybook-v1.0478df1b35d07f1bd7534312765be06569b9dd1471dd31743956cb3f0aa6ffba.json",
+      "catalogVisible": true,
+      "legacyId": "color-dots"
+    },
+    {
+      "id": "color-drops-storybook-v1",
+      "name": "色のしずく",
+      "assetUrl": "/content/frames/color-drops-storybook-v1.cb3fb6d1ca5d95452f811f7b942e047866ee82352a6c39927252ecbd0249367d.png",
+      "thumbnailUrl": "/content/frames/color-drops-storybook-v1.cb3fb6d1ca5d95452f811f7b942e047866ee82352a6c39927252ecbd0249367d.png",
+      "compositionUrl": "/content/frames/color-drops-storybook-v1.7ec440c5ebf4e7643f9f38bec6ab8c1c6e987d17814502c57cf3ced3ace39a87.json",
+      "catalogVisible": true,
+      "legacyId": "color-drops"
+    },
+    {
+      "id": "rainbow-clouds-storybook-v1",
+      "name": "虹と雲",
+      "assetUrl": "/content/frames/rainbow-clouds-storybook-v1.b36e85112c25dce8bb8f3e2550e5943c3c324d887619e8af2d0d7df965cb2677.png",
+      "thumbnailUrl": "/content/frames/rainbow-clouds-storybook-v1.b36e85112c25dce8bb8f3e2550e5943c3c324d887619e8af2d0d7df965cb2677.png",
+      "compositionUrl": "/content/frames/rainbow-clouds-storybook-v1.6f794970a7387f298daca175582ae29d802eb5ad2ab7d39e8ef050909e56643c.json",
+      "catalogVisible": true,
+      "legacyId": "rainbow-clouds"
+    },
+    {
+      "id": "little-stars-storybook-v1",
+      "name": "ちいさな星",
+      "assetUrl": "/content/frames/little-stars-storybook-v1.67162914e045cbdf998e06c82942f0ab46612555d23b802bfcc039f219ad608e.png",
+      "thumbnailUrl": "/content/frames/little-stars-storybook-v1.67162914e045cbdf998e06c82942f0ab46612555d23b802bfcc039f219ad608e.png",
+      "compositionUrl": "/content/frames/little-stars-storybook-v1.7891eb8004f581665d2f24dde27cb26dfc8ff9dd2a4ceaecb00d8c7611227104.json",
+      "catalogVisible": true,
+      "legacyId": "little-stars"
+    },
+    {
+      "id": "gentle-waves-storybook-v1",
+      "name": "なみのおと",
+      "assetUrl": "/content/frames/gentle-waves-storybook-v1.ac4458fa3a497ad40cf35087fa4b9c324fd868739e6da2c7600e530a2180351b.png",
+      "thumbnailUrl": "/content/frames/gentle-waves-storybook-v1.ac4458fa3a497ad40cf35087fa4b9c324fd868739e6da2c7600e530a2180351b.png",
+      "compositionUrl": "/content/frames/gentle-waves-storybook-v1.fb0fc625b75b68a5510c28fab3c987617277c65bb99e6f47b16c4d0fa6cd0fe1.json",
+      "catalogVisible": true,
+      "legacyId": "gentle-waves"
+    },
+    {
+      "id": "crayons-storybook-v1",
+      "name": "クレヨン",
+      "assetUrl": "/content/frames/crayons-storybook-v1.695a52e2453fd83d454e0c5aa68ff9da114bd77762afc19534537662e25b1fcb.png",
+      "thumbnailUrl": "/content/frames/crayons-storybook-v1.695a52e2453fd83d454e0c5aa68ff9da114bd77762afc19534537662e25b1fcb.png",
+      "compositionUrl": "/content/frames/crayons-storybook-v1.65079f91c1b0d85da4dd32d8aeb689466ed0be05a8bc33a7d4b3c284231928b6.json",
+      "catalogVisible": true,
+      "legacyId": "crayons"
+    },
+    {
+      "id": "pencils-storybook-v1",
+      "name": "いろえんぴつ",
+      "assetUrl": "/content/frames/pencils-storybook-v1.35bb55862ead6b60460f593c23268fe4600abbadd238cd928761022a5e9881ee.png",
+      "thumbnailUrl": "/content/frames/pencils-storybook-v1.35bb55862ead6b60460f593c23268fe4600abbadd238cd928761022a5e9881ee.png",
+      "compositionUrl": "/content/frames/pencils-storybook-v1.8ef5ce5ccaceaa3e6c65c61213dd8d80037e74d4100d6dc1c040871358b22430.json",
+      "catalogVisible": true,
+      "legacyId": "pencils"
+    },
+    {
+      "id": "royal-jewels-storybook-v1",
+      "name": "王冠と宝石",
+      "themeId": "princess",
+      "assetUrl": "/content/frames/royal-jewels-storybook-v1.e73afc991deae1d43714525384005f6897104d17ab87ecf9c89b0571f173e801.png",
+      "thumbnailUrl": "/content/frames/royal-jewels-storybook-v1.e73afc991deae1d43714525384005f6897104d17ab87ecf9c89b0571f173e801.png",
+      "compositionUrl": "/content/frames/royal-jewels-storybook-v1.44acdbf310bc12a58091bab9527e43f0f5e12c538cbbd17869fc72698c05f62d.json",
+      "catalogVisible": true,
+      "legacyId": "royal-jewels"
+    },
+    {
+      "id": "magic-night-storybook-v1",
+      "name": "星と月",
+      "themeId": "magic",
+      "assetUrl": "/content/frames/magic-night-storybook-v1.ff0dcb46723eb195a9e4847847a2ca441a35085e3abfec8933c687ae337f99a3.png",
+      "thumbnailUrl": "/content/frames/magic-night-storybook-v1.ff0dcb46723eb195a9e4847847a2ca441a35085e3abfec8933c687ae337f99a3.png",
+      "compositionUrl": "/content/frames/magic-night-storybook-v1.c567b2db167ee31a9426069b3f24a4b150c19c208889523479599a40fb5319f0.json",
+      "catalogVisible": true,
+      "legacyId": "magic-night"
+    },
+    {
+      "id": "forest-paws-storybook-v1",
+      "name": "足あとと葉っぱ",
+      "themeId": "animals",
+      "assetUrl": "/content/frames/forest-paws-storybook-v1.7f813694873a99006bde8829694ed3cb1dfbff6cada9400a3959c751bec54a14.png",
+      "thumbnailUrl": "/content/frames/forest-paws-storybook-v1.7f813694873a99006bde8829694ed3cb1dfbff6cada9400a3959c751bec54a14.png",
+      "compositionUrl": "/content/frames/forest-paws-storybook-v1.e49a8e81af5cb5353948c9ac74d30f2132b847198e474877d4224d3e26d65872.json",
+      "catalogVisible": true,
+      "legacyId": "forest-paws"
+    },
+    {
+      "id": "ocean-shells-storybook-v1",
+      "name": "貝がらとあわ",
+      "themeId": "ocean",
+      "assetUrl": "/content/frames/ocean-shells-storybook-v1.d4dcf8575060051fd4eb5f0236527dc0380c488192462728c424dffa2b0f42c6.png",
+      "thumbnailUrl": "/content/frames/ocean-shells-storybook-v1.d4dcf8575060051fd4eb5f0236527dc0380c488192462728c424dffa2b0f42c6.png",
+      "compositionUrl": "/content/frames/ocean-shells-storybook-v1.3a4c9501551f5bcc874505acd4bb46051eb4114f2510d440fbcd92725a6e0c0b.json",
+      "catalogVisible": true,
+      "legacyId": "ocean-shells"
+    },
+    {
+      "id": "dino-fossils-storybook-v1",
+      "name": "化石とシダ",
+      "themeId": "dinosaurs",
+      "assetUrl": "/content/frames/dino-fossils-storybook-v1.1cdb84487d674645f07177e9c08e509c183129a5cc3c8b442117df7938bc6046.png",
+      "thumbnailUrl": "/content/frames/dino-fossils-storybook-v1.1cdb84487d674645f07177e9c08e509c183129a5cc3c8b442117df7938bc6046.png",
+      "compositionUrl": "/content/frames/dino-fossils-storybook-v1.38a545ca2d185595e647191af1177985675e1004b1cb4415cefb184b89348c3a.json",
+      "catalogVisible": true,
+      "legacyId": "dino-fossils"
+    },
+    {
+      "id": "happy-road-storybook-v1",
+      "name": "タイヤとみち",
+      "themeId": "vehicles",
+      "assetUrl": "/content/frames/happy-road-storybook-v1.4542f10e734ab4b00b21e04c3fb781331df8a02607ce37bade8c4750a720a3db.png",
+      "thumbnailUrl": "/content/frames/happy-road-storybook-v1.4542f10e734ab4b00b21e04c3fb781331df8a02607ce37bade8c4750a720a3db.png",
+      "compositionUrl": "/content/frames/happy-road-storybook-v1.c48ae9822af9f0498e7c565354cc22720d38ffed266e2adf67fb32928a6f7613.json",
+      "catalogVisible": true,
+      "legacyId": "happy-road"
+    },
+    {
+      "id": "work-zone-storybook-v1",
+      "name": "コーンとしましま",
+      "themeId": "construction",
+      "assetUrl": "/content/frames/work-zone-storybook-v1.a4a0a209ad407606b0a39c579a0e07253358c85e2affabdc24b54f12f87c314d.png",
+      "thumbnailUrl": "/content/frames/work-zone-storybook-v1.a4a0a209ad407606b0a39c579a0e07253358c85e2affabdc24b54f12f87c314d.png",
+      "compositionUrl": "/content/frames/work-zone-storybook-v1.6fa3ed7bb6cf605420f7092323891ec8330468d161b63b2745b9529d7317820d.json",
+      "catalogVisible": true,
+      "legacyId": "work-zone"
+    },
+    {
+      "id": "robot-circuit-storybook-v1",
+      "name": "歯車と回路",
+      "themeId": "robots",
+      "assetUrl": "/content/frames/robot-circuit-storybook-v1.282b151a340168c69c72b141c92033fb588a028909d447b674227a9f182ef228.png",
+      "thumbnailUrl": "/content/frames/robot-circuit-storybook-v1.282b151a340168c69c72b141c92033fb588a028909d447b674227a9f182ef228.png",
+      "compositionUrl": "/content/frames/robot-circuit-storybook-v1.9f9c2b12305a9f6ae256fbee8e16e3835e2783fd7e34081ab0a9eaf6c11c6f95.json",
+      "catalogVisible": true,
+      "legacyId": "robot-circuit"
+    },
+    {
+      "id": "space-orbit-storybook-v1",
+      "name": "惑星と星",
+      "themeId": "space",
+      "assetUrl": "/content/frames/space-orbit-storybook-v1.8730ebdd785a44eb79e06c6977fb66bccc4a45874558c5ff33e24281320ae04f.png",
+      "thumbnailUrl": "/content/frames/space-orbit-storybook-v1.8730ebdd785a44eb79e06c6977fb66bccc4a45874558c5ff33e24281320ae04f.png",
+      "compositionUrl": "/content/frames/space-orbit-storybook-v1.f8e74dc310a503b77050a438ef49baa76ab8e2cacb9e89b415e02e26ce09f06e.json",
+      "catalogVisible": true,
+      "legacyId": "space-orbit"
+    },
+    {
+      "id": "sweet-fruit-storybook-v1",
+      "name": "おかしとくだもの",
+      "themeId": "food",
+      "assetUrl": "/content/frames/sweet-fruit-storybook-v1.74d0965278c1bfb9dca4199eb0341674c3ad1849e918cb5cbaf2e13adad212ff.png",
+      "thumbnailUrl": "/content/frames/sweet-fruit-storybook-v1.74d0965278c1bfb9dca4199eb0341674c3ad1849e918cb5cbaf2e13adad212ff.png",
+      "compositionUrl": "/content/frames/sweet-fruit-storybook-v1.ced1eab46d019d4d2fbfb4a25b4610939ae0df3b77b63856bf75d6080d64ac97.json",
+      "catalogVisible": true,
+      "legacyId": "sweet-fruit"
+    },
+    {
+      "id": "flower-leaves-storybook-v1",
+      "name": "お花と葉っぱ",
+      "themeId": "flowers",
+      "assetUrl": "/content/frames/flower-leaves-storybook-v1.6742a39f3bbbe5793a64ba14014977b3f706d7f780eae58c1061d42149d2b16e.png",
+      "thumbnailUrl": "/content/frames/flower-leaves-storybook-v1.6742a39f3bbbe5793a64ba14014977b3f706d7f780eae58c1061d42149d2b16e.png",
+      "compositionUrl": "/content/frames/flower-leaves-storybook-v1.102f8f2fa0facb225f75a8277067c72dc96389423b31998a42ca51855430908b.json",
+      "catalogVisible": true,
+      "legacyId": "flower-leaves"
+    },
+    {
+      "id": "toy-box-storybook-v1",
+      "name": "つみきとボール",
+      "themeId": "toys",
+      "assetUrl": "/content/frames/toy-box-storybook-v1.d9eddd2433e7d7c849b12d18ce15f435d19935c86401a64845cbb1cbd618e529.png",
+      "thumbnailUrl": "/content/frames/toy-box-storybook-v1.d9eddd2433e7d7c849b12d18ce15f435d19935c86401a64845cbb1cbd618e529.png",
+      "compositionUrl": "/content/frames/toy-box-storybook-v1.5db5a3c41e9058443fa9fe8567cc6393cbab5220b471fc9bf6f3f107ad4fda08.json",
+      "catalogVisible": true,
+      "legacyId": "toy-box"
+    }
+  ],
+  "tool": "built-in image_gen",
+  "humanVisualAcceptance": "pending"
+}

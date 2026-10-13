@@ -1,0 +1,155 @@
+{
+  "measuredAt": "2026-10-13T13:13:28.364Z",
+  "templateId": "gen-excavator-cones-faceless-v1",
+  "originalSha256": "6de9789ee4824f96952fa65b5b958c5096c102aed645786e4b257c3ff9f3330f",
+  "templateSha256": "3581f051e84b3d57c92c0c12b82820672b820f114a372909824151ab58d99b2d",
+  "method": "New raster-source geometry only; real legacy ColoringEngine with fit-sized backing Canvas/external CSS zoom. Constrained 4x pointer transform, integer CSS tap round-trip, direct/assisted hit, logical backing Canvas color and exact erase comparison. The NEW v3 viewport renderer is checked separately. Automated narrow-target reachability, not physical-device or child usability evidence.",
+  "regions": [
+    {
+      "id": "r15",
+      "pathSha256": "1e8c44a3898cec60a47a37477af01d4d658630229f5271935e530020bbe49f5b",
+      "usableDiameter": 23.994,
+      "screenDiameterAtZoom4": 20.63484,
+      "screen": {
+        "x": 172,
+        "y": 215
+      },
+      "actual": {
+        "x": 235,
+        "y": 719.0000000000001
+      },
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blank": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPixel": [
+        216,
+        35,
+        106,
+        255
+      ]
+    },
+    {
+      "id": "r26",
+      "pathSha256": "3004bf037172db1a24bd2ea3975d9bc1d7f856045a09eeb7952fadc4ab056a0e",
+      "usableDiameter": 23.575,
+      "screenDiameterAtZoom4": 20.2745,
+      "screen": {
+        "x": 172,
+        "y": 215
+      },
+      "actual": {
+        "x": 1150,
+        "y": 1033
+      },
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blank": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPixel": [
+        221,
+        59,
+        122,
+        255
+      ]
+    },
+    {
+      "id": "r27",
+      "pathSha256": "31b62997057f34ed86a56cdce9370a210f5c7fdc40a1b348f3862ded3ff27ae1",
+      "usableDiameter": 22.788,
+      "screenDiameterAtZoom4": 19.59768,
+      "screen": {
+        "x": 172,
+        "y": 215
+      },
+      "actual": {
+        "x": 1370,
+        "y": 1011.0000000000001
+      },
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blank": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPixel": [
+        220,
+        45,
+        114,
+        255
+      ]
+    },
+    {
+      "id": "r28",
+      "pathSha256": "874c0e49029e6b8356be36d56ebf6663b203bf20eeeaab9c4813637a3548f36c",
+      "usableDiameter": 23.181,
+      "screenDiameterAtZoom4": 19.93566,
+      "screen": {
+        "x": 172,
+        "y": 215
+      },
+      "actual": {
+        "x": 1343,
+        "y": 1069
+      },
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blank": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPixel": [
+        224,
+        57,
+        123,
+        255
+      ]
+    },
+    {
+      "id": "r29",
+      "pathSha256": "87462d8d0ec430a0e32f23d55bccbea9362aa586a4d10ab3be4e0b458d8a4cf0",
+      "usableDiameter": 23.575,
+      "screenDiameterAtZoom4": 20.2745,
+      "screen": {
+        "x": 172,
+        "y": 215
+      },
+      "actual": {
+        "x": 1380,
+        "y": 1117
+      },
+      "hitAtZoom4": true,
+      "painted": true,
+      "erased": true,
+      "blank": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "paintedPixel": [
+        220,
+        41,
+        111,
+        255
+      ]
+    }
+  ],
+  "pass": true
+}

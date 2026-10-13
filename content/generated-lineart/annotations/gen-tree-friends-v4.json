@@ -1,0 +1,641 @@
+{
+  "schemaVersion": 1,
+  "templateId": "gen-tree-friends-v4",
+  "originalSha256": "37736bbc37ce78f37849322dc5325e938e5f3403beca76e74e24765617a423a0",
+  "coordinateSpace": "normalized-1600x2000",
+  "reviewer": "Codex technical source review",
+  "reviewKind": "author-technical-annotation",
+  "humanApproved": false,
+  "checks": [
+    "all-subject-parts-closed",
+    "negative-space-excluded",
+    "pupils-and-highlights-white"
+  ],
+  "unresolvedLeaks": [],
+  "regions": [
+    {
+      "sourceRegionId": "r01",
+      "point": [
+        809,
+        428
+      ],
+      "role": "paint",
+      "name": "木の葉の中央",
+      "reason": "番号付き原画で木の葉の中央として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 413.265
+    },
+    {
+      "sourceRegionId": "r02",
+      "point": [
+        305,
+        691
+      ],
+      "role": "paint",
+      "name": "木の葉の左",
+      "reason": "番号付き原画で木の葉の左として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 192.146
+    },
+    {
+      "sourceRegionId": "r03",
+      "point": [
+        1041,
+        657
+      ],
+      "role": "paint",
+      "name": "木の葉の右",
+      "reason": "番号付き原画で木の葉の右として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 175.581
+    },
+    {
+      "sourceRegionId": "r04",
+      "point": [
+        431,
+        641
+      ],
+      "role": "paint",
+      "name": "左の一枚の葉",
+      "reason": "番号付き原画で左の一枚の葉として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 59.119
+    },
+    {
+      "sourceRegionId": "r05",
+      "point": [
+        879,
+        750
+      ],
+      "role": "background",
+      "name": "枝の中央の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 144.394
+    },
+    {
+      "sourceRegionId": "r06",
+      "point": [
+        1227,
+        654
+      ],
+      "role": "paint",
+      "name": "右の一枚の葉",
+      "reason": "番号付き原画で右の一枚の葉として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 63.15
+    },
+    {
+      "sourceRegionId": "r07",
+      "point": [
+        792,
+        880
+      ],
+      "role": "paint",
+      "name": "木の幹",
+      "reason": "番号付き原画で木の幹として識別。原画の閉領域をそのまま使用。",
+      "material": "wood",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 131.6
+    },
+    {
+      "sourceRegionId": "r08",
+      "point": [
+        651,
+        720
+      ],
+      "role": "background",
+      "name": "左の枝の間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 43.544
+    },
+    {
+      "sourceRegionId": "r09",
+      "point": [
+        1052,
+        823
+      ],
+      "role": "background",
+      "name": "右の枝の間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 30.757
+    },
+    {
+      "sourceRegionId": "r10",
+      "point": [
+        649,
+        1355
+      ],
+      "role": "paint",
+      "name": "犬の顔と体と左耳",
+      "reason": "番号付き原画で犬の顔と体と左耳として識別。原画の閉領域をそのまま使用。",
+      "material": "fur",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 184.146
+    },
+    {
+      "sourceRegionId": "r11",
+      "point": [
+        803,
+        1038
+      ],
+      "role": "paint",
+      "name": "犬の右耳",
+      "reason": "番号付き原画で犬の右耳として識別。原画の閉領域をそのまま使用。",
+      "material": "fur",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 81.088
+    },
+    {
+      "sourceRegionId": "r12",
+      "point": [
+        1000,
+        1040
+      ],
+      "role": "paint",
+      "name": "猫の左耳の外側",
+      "reason": "番号付き原画で猫の左耳の外側として識別。原画の閉領域をそのまま使用。",
+      "material": "fur",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 28.363
+    },
+    {
+      "sourceRegionId": "r13",
+      "point": [
+        704,
+        1055
+      ],
+      "role": "paint",
+      "name": "犬の右の瞳",
+      "reason": "番号付き原画で犬の右の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 32.757,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r14",
+      "point": [
+        690,
+        1017
+      ],
+      "role": "paint",
+      "name": "犬の右の瞳のハイライト",
+      "reason": "番号付き原画で犬の右の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 25.969,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r15",
+      "point": [
+        958,
+        1045
+      ],
+      "role": "paint",
+      "name": "猫の左耳の内側",
+      "reason": "番号付き原画で猫の左耳の内側として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 37.15
+    },
+    {
+      "sourceRegionId": "r16",
+      "point": [
+        549,
+        1119
+      ],
+      "role": "paint",
+      "name": "犬の左の瞳",
+      "reason": "番号付き原画で犬の左の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 41.544,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r17",
+      "point": [
+        536,
+        1072
+      ],
+      "role": "paint",
+      "name": "犬の左の瞳のハイライト",
+      "reason": "番号付き原画で犬の左の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 36,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r18",
+      "point": [
+        667,
+        1110
+      ],
+      "role": "paint",
+      "name": "犬の鼻",
+      "reason": "番号付き原画で犬の鼻として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 33.969
+    },
+    {
+      "sourceRegionId": "r19",
+      "point": [
+        971,
+        1438
+      ],
+      "role": "paint",
+      "name": "猫の顔と胸",
+      "reason": "番号付き原画で猫の顔と胸として識別。原画の閉領域をそのまま使用。",
+      "material": "fur",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 150.208
+    },
+    {
+      "sourceRegionId": "r20",
+      "point": [
+        1205,
+        1132
+      ],
+      "role": "paint",
+      "name": "猫の右耳の内側",
+      "reason": "番号付き原画で猫の右耳の内側として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 49.938
+    },
+    {
+      "sourceRegionId": "r21",
+      "point": [
+        674,
+        1202
+      ],
+      "role": "paint",
+      "name": "犬の口",
+      "reason": "番号付き原画で犬の口として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 47.557
+    },
+    {
+      "sourceRegionId": "r22",
+      "point": [
+        922,
+        1207
+      ],
+      "role": "paint",
+      "name": "猫の左の瞳",
+      "reason": "番号付き原画で猫の左の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 31.963,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r23",
+      "point": [
+        921,
+        1168
+      ],
+      "role": "paint",
+      "name": "猫の左の瞳のハイライト",
+      "reason": "番号付き原画で猫の左の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 27.569,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r24",
+      "point": [
+        737,
+        1674
+      ],
+      "role": "paint",
+      "name": "犬の右前脚",
+      "reason": "番号付き原画で犬の右前脚として識別。原画の閉領域をそのまま使用。",
+      "material": "fur",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 115.451
+    },
+    {
+      "sourceRegionId": "r25",
+      "point": [
+        1062,
+        1257
+      ],
+      "role": "paint",
+      "name": "猫の右の瞳",
+      "reason": "番号付き原画で猫の右の瞳として識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 34,
+      "eyeRole": "pupil"
+    },
+    {
+      "sourceRegionId": "r26",
+      "point": [
+        1059,
+        1216
+      ],
+      "role": "paint",
+      "name": "猫の右の瞳のハイライト",
+      "reason": "番号付き原画で猫の右の瞳のハイライトとして識別。原画の閉領域をそのまま使用。",
+      "material": "standard",
+      "confidence": 0.9,
+      "shade": false,
+      "highlight": false,
+      "texture": 0,
+      "direction": 90,
+      "measuredDiameter": 29.594,
+      "eyeRole": "eye-highlight"
+    },
+    {
+      "sourceRegionId": "r27",
+      "point": [
+        386,
+        1554
+      ],
+      "role": "paint",
+      "name": "犬の後脚",
+      "reason": "番号付き原画で犬の後脚として識別。原画の閉領域をそのまま使用。",
+      "material": "fur",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 176.27
+    },
+    {
+      "sourceRegionId": "r28",
+      "point": [
+        972,
+        1247
+      ],
+      "role": "paint",
+      "name": "猫の鼻",
+      "reason": "番号付き原画で猫の鼻として識別。原画の閉領域をそのまま使用。",
+      "material": "skin",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": true,
+      "texture": 0,
+      "direction": 90,
+      "widthException": {
+        "reason": "猫の鼻は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+        "evidenceFile": "content/generated-lineart/interaction/gen-tree-friends-v4.json"
+      },
+      "measuredDiameter": 18.394
+    },
+    {
+      "sourceRegionId": "r29",
+      "point": [
+        253,
+        1456
+      ],
+      "role": "paint",
+      "name": "犬のしっぽ",
+      "reason": "番号付き原画で犬のしっぽとして識別。原画の閉領域をそのまま使用。",
+      "material": "fur",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 97.482
+    },
+    {
+      "sourceRegionId": "r30",
+      "point": [
+        1327,
+        1391
+      ],
+      "role": "paint",
+      "name": "猫のしっぽ",
+      "reason": "番号付き原画で猫のしっぽとして識別。原画の閉領域をそのまま使用。",
+      "material": "fur",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 139.008
+    },
+    {
+      "sourceRegionId": "r31",
+      "point": [
+        928,
+        1590
+      ],
+      "role": "paint",
+      "name": "猫の左前脚",
+      "reason": "番号付き原画で猫の左前脚として識別。原画の閉領域をそのまま使用。",
+      "material": "fur",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 94
+    },
+    {
+      "sourceRegionId": "r32",
+      "point": [
+        1191,
+        1599
+      ],
+      "role": "paint",
+      "name": "猫の体と右前脚",
+      "reason": "番号付き原画で猫の体と右前脚として識別。原画の閉領域をそのまま使用。",
+      "material": "fur",
+      "confidence": 0.9,
+      "shade": true,
+      "highlight": false,
+      "texture": 0.3,
+      "direction": 90,
+      "measuredDiameter": 152.189
+    },
+    {
+      "sourceRegionId": "r33",
+      "point": [
+        804,
+        1555
+      ],
+      "role": "background",
+      "name": "犬と猫の脚の間の左背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 32
+    },
+    {
+      "sourceRegionId": "r34",
+      "point": [
+        850,
+        1588
+      ],
+      "role": "background",
+      "name": "犬と猫の脚の間の右背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 42
+    },
+    {
+      "sourceRegionId": "r35",
+      "point": [
+        492,
+        1623
+      ],
+      "role": "background",
+      "name": "犬の左脚の間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 37.15
+    },
+    {
+      "sourceRegionId": "r36",
+      "point": [
+        649,
+        1559
+      ],
+      "role": "background",
+      "name": "犬の前脚の間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 26.788
+    },
+    {
+      "sourceRegionId": "r37",
+      "point": [
+        1095,
+        1652
+      ],
+      "role": "background",
+      "name": "猫の脚の間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "measuredDiameter": 21.181
+    }
+  ],
+  "gapReviews": [],
+  "eyes": [
+    {
+      "name": "犬右",
+      "pupilIds": [
+        "r13"
+      ],
+      "highlightId": "r14"
+    },
+    {
+      "name": "犬左",
+      "pupilIds": [
+        "r16"
+      ],
+      "highlightId": "r17"
+    },
+    {
+      "name": "猫左",
+      "pupilIds": [
+        "r22"
+      ],
+      "highlightId": "r23"
+    },
+    {
+      "name": "猫右",
+      "pupilIds": [
+        "r25"
+      ],
+      "highlightId": "r26"
+    }
+  ]
+}

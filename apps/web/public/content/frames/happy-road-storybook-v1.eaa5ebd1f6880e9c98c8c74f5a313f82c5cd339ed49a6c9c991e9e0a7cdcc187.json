@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "borderColor": "#cfe4e7",
+  "layers": [
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 28,
+      "y": 12,
+      "width": 135,
+      "height": 143.1055900621118,
+      "rotation": 11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 28,
+      "y": 1865,
+      "width": 135,
+      "height": 83.583984375,
+      "rotation": -14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 330,
+      "y": 24,
+      "width": 105,
+      "height": 65.009765625,
+      "rotation": -11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 330,
+      "y": 1883,
+      "width": 105,
+      "height": 111.30434782608695,
+      "rotation": 14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 612,
+      "y": 12,
+      "width": 120,
+      "height": 127.20496894409938,
+      "rotation": 11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 612,
+      "y": 1865,
+      "width": 120,
+      "height": 74.296875,
+      "rotation": -14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 914,
+      "y": 24,
+      "width": 135,
+      "height": 83.583984375,
+      "rotation": -11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 914,
+      "y": 1883,
+      "width": 135,
+      "height": 143.1055900621118,
+      "rotation": 14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 1196,
+      "y": 12,
+      "width": 105,
+      "height": 111.30434782608695,
+      "rotation": 11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 1196,
+      "y": 1865,
+      "width": 105,
+      "height": 65.009765625,
+      "rotation": -14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 1498,
+      "y": 24,
+      "width": 120,
+      "height": 74.296875,
+      "rotation": -11,
+      "opacity": 0.9
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 1498,
+      "y": 1883,
+      "width": 120,
+      "height": 127.20496894409938,
+      "rotation": 14,
+      "opacity": 0.91
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": -22,
+      "y": 365,
+      "width": 95,
+      "height": 100.70393374741201,
+      "rotation": -3,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 1530,
+      "y": 460,
+      "width": 95,
+      "height": 100.70393374741201,
+      "rotation": 6,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": -22,
+      "y": 725,
+      "width": 95,
+      "height": 58.818359375,
+      "rotation": -3,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 1530,
+      "y": 820,
+      "width": 95,
+      "height": 58.818359375,
+      "rotation": 6,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": -22,
+      "y": 1085,
+      "width": 95,
+      "height": 100.70393374741201,
+      "rotation": -3,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/tire.85c1f680c06c214e39e0b1b521be9ed9726eccf22c4067bd27acdceee625b3ed.png",
+      "x": 1530,
+      "y": 1180,
+      "width": 95,
+      "height": 100.70393374741201,
+      "rotation": 6,
+      "opacity": 0.78
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": -22,
+      "y": 1445,
+      "width": 95,
+      "height": 58.818359375,
+      "rotation": -3,
+      "opacity": 0.77
+    },
+    {
+      "assetUrl": "/content/decor/road.92fd722ad1ad9c22f397d0daccb5aaba6137c58382872e2b1207139b2815da19.png",
+      "x": 1530,
+      "y": 1540,
+      "width": 95,
+      "height": 58.818359375,
+      "rotation": 6,
+      "opacity": 0.78
+    }
+  ]
+}

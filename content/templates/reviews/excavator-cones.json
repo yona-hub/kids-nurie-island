@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "excavator-cones",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "14d2eac602fba0e3dbbebe2c68bc06303253bff70197f9aa4a9cd4432bd8fe09",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

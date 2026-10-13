@@ -1,0 +1,19 @@
+{
+  "templateId": "gen-round-sports-car-v2-storybook-v1",
+  "pass": false,
+  "contentHash": "b3bc3c685af42b61af8cead16ca18221518eea6105ae78c9f4f81e3312b03994",
+  "regionCount": 28,
+  "groupCount": 9,
+  "eyes": 0,
+  "sourceTemplateId": "gen-round-sports-car-v2",
+  "sourceOriginalSha256": "535c8f0d875dc757fef66f512930896adbc18342c4e33782f93e18175bd4beaf",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-07T17:12:15.235Z",
+    "contentHash": "b3bc3c685af42b61af8cead16ca18221518eea6105ae78c9f4f81e3312b03994",
+    "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+  },
+  "errors": [],
+  "status": "pending technical and human visual verification"
+}

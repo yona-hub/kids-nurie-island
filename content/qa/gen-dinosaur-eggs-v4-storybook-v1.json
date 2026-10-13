@@ -1,0 +1,19 @@
+{
+  "templateId": "gen-dinosaur-eggs-v4-storybook-v1",
+  "pass": false,
+  "contentHash": "a7e3d8acaab7f073301cb8afadc3b796b3c6ac40a1ef611c5b7dce03ec75d5d4",
+  "regionCount": 23,
+  "groupCount": 11,
+  "eyes": 2,
+  "sourceTemplateId": "gen-dinosaur-eggs-v4",
+  "sourceOriginalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-07T17:12:06.752Z",
+    "contentHash": "a7e3d8acaab7f073301cb8afadc3b796b3c6ac40a1ef611c5b7dce03ec75d5d4",
+    "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+  },
+  "errors": [],
+  "status": "pending technical and human visual verification"
+}

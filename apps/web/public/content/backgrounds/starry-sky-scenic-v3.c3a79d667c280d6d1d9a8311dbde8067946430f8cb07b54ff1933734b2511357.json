@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "width": 1600,
+  "height": 2000,
+  "layers": [
+    {
+      "assetUrl": "/content/decor/starry-sky-scenic-v3-landscape.a4344201b6d6d0e33720f702d1fbbfd16587e14f34c3228e8bd9d96d75a92b12.png",
+      "x": 0,
+      "y": 0,
+      "width": 1600,
+      "height": 2000,
+      "opacity": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "templateId": "princess-bunny",
+  "regions": {},
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-06",
+    "contentHash": "bba2761b283d08babd76f5ea46f5f7bb2eff8c1ab462ee6a5595c20196fdd63a",
+    "basis": "Original paths, region visibility QA, black-and-white QA and contact-sheet technical review. Human art/content review is required before release."
+  }
+}

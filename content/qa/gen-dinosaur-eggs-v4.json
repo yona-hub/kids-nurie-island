@@ -1,0 +1,672 @@
+{
+  "templateId": "gen-dinosaur-eggs-v4",
+  "pass": true,
+  "regionCount": 23,
+  "expectedRegionRange": [
+    20,
+    25
+  ],
+  "errors": [],
+  "warnings": [],
+  "closedRegions": 23,
+  "backgroundLeak": null,
+  "closureMethod": "threshold + 3px analysis close; original ink contours preserved separately",
+  "minimumBoundsWidth": 30,
+  "minimumUsableDiameter": 26,
+  "minVisibleArea": 953,
+  "blackRatio": 0.0373925,
+  "whiteRatio": 0.95321625,
+  "antiAliasRatio": 0.00939125,
+  "regions": [
+    {
+      "id": "r01",
+      "name": "恐竜の顔と体",
+      "visibleArea": 480685,
+      "usableDiameter": 258
+    },
+    {
+      "id": "r02",
+      "name": "左の瞳",
+      "visibleArea": 3485,
+      "usableDiameter": 37.94
+    },
+    {
+      "id": "r03",
+      "name": "左の瞳のハイライト",
+      "visibleArea": 1217,
+      "usableDiameter": 38.77
+    },
+    {
+      "id": "r04",
+      "name": "右の瞳",
+      "visibleArea": 9945,
+      "usableDiameter": 72.28
+    },
+    {
+      "id": "r05",
+      "name": "右の瞳のハイライト",
+      "visibleArea": 1973,
+      "usableDiameter": 50
+    },
+    {
+      "id": "r06",
+      "name": "左の鼻孔",
+      "visibleArea": 953,
+      "usableDiameter": 26
+    },
+    {
+      "id": "r07",
+      "name": "右の鼻孔",
+      "visibleArea": 1184,
+      "usableDiameter": 30.28
+    },
+    {
+      "id": "r08",
+      "name": "口の中",
+      "visibleArea": 13449,
+      "usableDiameter": 72.71
+    },
+    {
+      "id": "r09",
+      "name": "左の歯",
+      "visibleArea": 3092,
+      "usableDiameter": 55.74
+    },
+    {
+      "id": "r10",
+      "name": "右の歯",
+      "visibleArea": 3584,
+      "usableDiameter": 55.74
+    },
+    {
+      "id": "r11",
+      "name": "おなか",
+      "visibleArea": 106454,
+      "usableDiameter": 239.59
+    },
+    {
+      "id": "r12",
+      "name": "奥の手",
+      "visibleArea": 9735,
+      "usableDiameter": 47.8
+    },
+    {
+      "id": "r13",
+      "name": "奥の卵",
+      "visibleArea": 81194,
+      "usableDiameter": 202.82
+    },
+    {
+      "id": "r14",
+      "name": "手前の卵の上側",
+      "visibleArea": 29019,
+      "usableDiameter": 158
+    },
+    {
+      "id": "r15",
+      "name": "奥の脚",
+      "visibleArea": 28236,
+      "usableDiameter": 106.99
+    },
+    {
+      "id": "r16",
+      "name": "手前の卵の下側",
+      "visibleArea": 58991,
+      "usableDiameter": 206
+    },
+    {
+      "id": "r17",
+      "name": "大きい岩",
+      "visibleArea": 39230,
+      "usableDiameter": 116.83
+    },
+    {
+      "id": "r18",
+      "name": "奥の左の爪",
+      "visibleArea": 3871,
+      "usableDiameter": 48.83
+    },
+    {
+      "id": "r19",
+      "name": "奥の右の爪",
+      "visibleArea": 6470,
+      "usableDiameter": 81.2
+    },
+    {
+      "id": "r20",
+      "name": "手前の左の爪",
+      "visibleArea": 5184,
+      "usableDiameter": 63.31
+    },
+    {
+      "id": "r21",
+      "name": "手前の中央の爪",
+      "visibleArea": 6822,
+      "usableDiameter": 79.31
+    },
+    {
+      "id": "r22",
+      "name": "手前の右の爪",
+      "visibleArea": 6755,
+      "usableDiameter": 84
+    },
+    {
+      "id": "r23",
+      "name": "小さい岩",
+      "visibleArea": 24357,
+      "usableDiameter": 102.83
+    }
+  ],
+  "rasterEvidence": {
+    "pass": true,
+    "templateId": "gen-dinosaur-eggs-v4",
+    "approved": false,
+    "approvalRequired": true,
+    "originalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+    "compilerVersion": 2,
+    "templateSha256": "961828cbbb2e57153ef9086162fb9e74a93e6316e55892eaf708efdecb48ded7",
+    "normalizedSha256": "a42fb49932696529199063469b26268d62b758606a83a89cc607ec195a9eb237",
+    "originalSize": [
+      1122,
+      1402
+    ],
+    "analysisSize": [
+      1600,
+      2000
+    ],
+    "normalization": {
+      "method": "contain-whole-page-on-white",
+      "scale": 1.1978609625668448,
+      "offset": [
+        128,
+        160
+      ],
+      "imageSize": [
+        1344,
+        1679
+      ],
+      "canvasSize": [
+        1600,
+        2000
+      ],
+      "safeMargin": 128,
+      "cropped": false,
+      "contoursRedrawn": false
+    },
+    "regionCount": 23,
+    "detectedRegionCount": 23,
+    "countPolicy": "advisory",
+    "countWithinExpectedRange": true,
+    "expectedRange": [
+      20,
+      25
+    ],
+    "smallRepairCandidates": 0,
+    "largeGapCandidates": 2,
+    "dilationApplied": false,
+    "unreviewedLargeGapCandidates": 0,
+    "gapCandidateDetails": [
+      {
+        "id": "g01",
+        "candidateKey": "gap-fa522bd298f554eb27a69deae74ac74bfbb99981dc4fb851ddb74d24d91d7a04",
+        "originalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+        "maskSha256": "4bd4941ee65d09a88962883fbdf6917b1bf9e49c75044b9d9284258d22900699",
+        "kind": "split-open-detail",
+        "parentRegionId": "r02",
+        "parentRegionName": "左の瞳",
+        "parentExteriorConnected": false,
+        "labelPoint": [
+          535,
+          366
+        ],
+        "bounds": [
+          515,
+          358,
+          39,
+          22
+        ],
+        "area": 573,
+        "usableDiameter": 16.394,
+        "review": {
+          "candidateKey": "gap-fa522bd298f554eb27a69deae74ac74bfbb99981dc4fb851ddb74d24d91d7a04",
+          "kind": "split-open-detail",
+          "parentRegionId": "r02",
+          "parentRegionName": "左の瞳",
+          "parentExteriorConnected": false,
+          "classification": "intentional-open-detail",
+          "part": "左の瞳のハイライト上側を回り込む空間",
+          "reason": "r02「左の瞳」でハイライトの上側を回り込む同じ瞳内の空間。3px closeでは瞳内へ連続し、外背景に接続しない。9px closeがハイライト上の細い接続を塞ぐ。",
+          "originalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+          "point": [
+            535,
+            366
+          ]
+        }
+      },
+      {
+        "id": "g02",
+        "candidateKey": "gap-4698fee03b05957f029d8be5270c9e22400e966ca935ecec5b21eb4b8c1f3d7c",
+        "originalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+        "maskSha256": "532039627ebd27f25f526b2f3b5767f1fce3ea3f73adbd2712d4d8f4965a913b",
+        "kind": "split-open-detail",
+        "parentRegionId": "r15",
+        "parentRegionName": "奥の脚",
+        "parentExteriorConnected": false,
+        "labelPoint": [
+          644,
+          1518
+        ],
+        "bounds": [
+          637,
+          1510,
+          29,
+          17
+        ],
+        "area": 395,
+        "usableDiameter": 15.981,
+        "review": {
+          "candidateKey": "gap-4698fee03b05957f029d8be5270c9e22400e966ca935ecec5b21eb4b8c1f3d7c",
+          "kind": "split-open-detail",
+          "parentRegionId": "r15",
+          "parentRegionName": "奥の脚",
+          "parentExteriorConnected": false,
+          "classification": "intentional-open-detail",
+          "part": "奥の脚の爪の上のしわ",
+          "reason": "r15「奥の脚」の爪の上にある開いたしわの内側。3px closeでは同じ脚に接続し、9px closeだけで分割される。外背景への漏れではない。",
+          "originalSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+          "point": [
+            644,
+            1518
+          ]
+        }
+      }
+    ],
+    "gapReviewSchemaVersion": 2,
+    "tinyRegions": 0,
+    "blackRatio": 0.0467925,
+    "grayRatio": 0.0139475,
+    "backgroundComponentsExcluded": 1,
+    "contourPoints": 2913,
+    "originalInkContourPoints": 15723,
+    "minimumUsableDiameter": 26.363,
+    "regions": [
+      {
+        "id": "r01",
+        "area": 489912,
+        "usableDiameter": 252.447,
+        "labelPoint": [
+          1035,
+          1254
+        ],
+        "bounds": [
+          276,
+          272,
+          1149,
+          1355
+        ]
+      },
+      {
+        "id": "r02",
+        "area": 3824,
+        "usableDiameter": 37.95,
+        "labelPoint": [
+          532,
+          447
+        ],
+        "bounds": [
+          490,
+          357,
+          73,
+          115
+        ]
+      },
+      {
+        "id": "r03",
+        "area": 1316,
+        "usableDiameter": 39.544,
+        "labelPoint": [
+          539,
+          402
+        ],
+        "bounds": [
+          519,
+          382,
+          41,
+          40
+        ]
+      },
+      {
+        "id": "r04",
+        "area": 10454,
+        "usableDiameter": 71.119,
+        "labelPoint": [
+          705,
+          509
+        ],
+        "bounds": [
+          669,
+          397,
+          115,
+          158
+        ]
+      },
+      {
+        "id": "r05",
+        "area": 2103,
+        "usableDiameter": 50.332,
+        "labelPoint": [
+          725,
+          444
+        ],
+        "bounds": [
+          700,
+          419,
+          52,
+          51
+        ]
+      },
+      {
+        "id": "r06",
+        "area": 1061,
+        "usableDiameter": 26.363,
+        "labelPoint": [
+          353,
+          507
+        ],
+        "bounds": [
+          337,
+          486,
+          31,
+          48
+        ]
+      },
+      {
+        "id": "r07",
+        "area": 1308,
+        "usableDiameter": 30.363,
+        "labelPoint": [
+          467,
+          541
+        ],
+        "bounds": [
+          447,
+          517,
+          40,
+          49
+        ]
+      },
+      {
+        "id": "r08",
+        "area": 14151,
+        "usableDiameter": 72.326,
+        "labelPoint": [
+          512,
+          817
+        ],
+        "bounds": [
+          470,
+          650,
+          238,
+          206
+        ]
+      },
+      {
+        "id": "r09",
+        "area": 3267,
+        "usableDiameter": 54,
+        "labelPoint": [
+          379,
+          723
+        ],
+        "bounds": [
+          344,
+          697,
+          72,
+          68
+        ]
+      },
+      {
+        "id": "r10",
+        "area": 3798,
+        "usableDiameter": 56.394,
+        "labelPoint": [
+          558,
+          755
+        ],
+        "bounds": [
+          517,
+          718,
+          83,
+          77
+        ]
+      },
+      {
+        "id": "r11",
+        "area": 108017,
+        "usableDiameter": 235.181,
+        "labelPoint": [
+          779,
+          1245
+        ],
+        "bounds": [
+          578,
+          807,
+          348,
+          585
+        ]
+      },
+      {
+        "id": "r12",
+        "area": 10376,
+        "usableDiameter": 46.757,
+        "labelPoint": [
+          516,
+          1032
+        ],
+        "bounds": [
+          455,
+          938,
+          145,
+          182
+        ]
+      },
+      {
+        "id": "r13",
+        "area": 82266,
+        "usableDiameter": 195.74,
+        "labelPoint": [
+          305,
+          1273
+        ],
+        "bounds": [
+          154,
+          1148,
+          314,
+          462
+        ]
+      },
+      {
+        "id": "r14",
+        "area": 29786,
+        "usableDiameter": 152.189,
+        "labelPoint": [
+          476,
+          1365
+        ],
+        "bounds": [
+          338,
+          1286,
+          270,
+          191
+        ]
+      },
+      {
+        "id": "r15",
+        "area": 29340,
+        "usableDiameter": 104.375,
+        "labelPoint": [
+          788,
+          1485
+        ],
+        "bounds": [
+          614,
+          1268,
+          242,
+          342
+        ]
+      },
+      {
+        "id": "r16",
+        "area": 59933,
+        "usableDiameter": 198.239,
+        "labelPoint": [
+          464,
+          1583
+        ],
+        "bounds": [
+          329,
+          1397,
+          299,
+          286
+        ]
+      },
+      {
+        "id": "r17",
+        "area": 40563,
+        "usableDiameter": 115.057,
+        "labelPoint": [
+          1249,
+          1487
+        ],
+        "bounds": [
+          1162,
+          1378,
+          283,
+          249
+        ]
+      },
+      {
+        "id": "r18",
+        "area": 4119,
+        "usableDiameter": 49.538,
+        "labelPoint": [
+          658,
+          1558
+        ],
+        "bounds": [
+          614,
+          1531,
+          76,
+          87
+        ]
+      },
+      {
+        "id": "r19",
+        "area": 6709,
+        "usableDiameter": 80.295,
+        "labelPoint": [
+          729,
+          1584
+        ],
+        "bounds": [
+          675,
+          1539,
+          95,
+          95
+        ]
+      },
+      {
+        "id": "r20",
+        "area": 5433,
+        "usableDiameter": 62.719,
+        "labelPoint": [
+          904,
+          1621
+        ],
+        "bounds": [
+          866,
+          1560,
+          85,
+          95
+        ]
+      },
+      {
+        "id": "r21",
+        "area": 7092,
+        "usableDiameter": 78.363,
+        "labelPoint": [
+          987,
+          1620
+        ],
+        "bounds": [
+          941,
+          1562,
+          92,
+          103
+        ]
+      },
+      {
+        "id": "r22",
+        "area": 7025,
+        "usableDiameter": 83.088,
+        "labelPoint": [
+          1079,
+          1618
+        ],
+        "bounds": [
+          1032,
+          1568,
+          89,
+          104
+        ]
+      },
+      {
+        "id": "r23",
+        "area": 25349,
+        "usableDiameter": 98.664,
+        "labelPoint": [
+          1209,
+          1647
+        ],
+        "bounds": [
+          1146,
+          1551,
+          235,
+          155
+        ]
+      }
+    ],
+    "tinyRegionBounds": [],
+    "tinyRegionDetails": [],
+    "materialReviewRequired": false,
+    "annotationSha256": "fb2489f1b25eb184e8962bef283977d8ff634cf0c0cfe9a6f40075a013ed9642",
+    "technicalSemanticReview": {
+      "reviewer": "Codex technical source review",
+      "checks": [
+        "all-subject-parts-closed",
+        "negative-space-excluded",
+        "pupils-and-highlights-white"
+      ],
+      "unresolvedLeaks": []
+    },
+    "excludedBackgroundRegions": [],
+    "widthExceptions": [],
+    "excludedLineDetails": [],
+    "visibleInkSource": "original-threshold-contours; no morphological repair or extra region stroke",
+    "errors": [],
+    "warnings": [
+      "9px close候補 2箇所は元画像と照合し意図的な開線・背景と技術確認（原画・maskの追加修復なし）"
+    ],
+    "publicationNote": "原画と解析maskを別保存。素材・細部・輪郭の人間確認後に公開してください。",
+    "originalFile": "content/generated-lineart/compiled/gen-dinosaur-eggs-v4/original.png"
+  },
+  "backgroundLeakStatus": "semantic visual review required; a large gap may remain connected to exterior even after 9px close",
+  "contentHash": "e6d81d2542975e2ba55b3f18735e78fb31e1ffbece336bc6ba15c3dd2feed4c8",
+  "approval": {
+    "kind": "human",
+    "reviewer": "ユーザー（Codex会話）",
+    "recordedAt": "2026-10-06T16:39:21.516Z",
+    "contentHash": "e6d81d2542975e2ba55b3f18735e78fb31e1ffbece336bc6ba15c3dd2feed4c8",
+    "basis": "新しい10枚の線画一覧を確認し「この10枚を正式採用する」と回答"
+  }
+}

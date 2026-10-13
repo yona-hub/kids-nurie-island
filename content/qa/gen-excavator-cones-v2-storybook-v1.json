@@ -1,0 +1,19 @@
+{
+  "templateId": "gen-excavator-cones-v2-storybook-v1",
+  "pass": false,
+  "contentHash": "134c09f56d7015dcefd85e34321faf405f311a4bdc9b5af80023cdd7628e51d4",
+  "regionCount": 54,
+  "groupCount": 17,
+  "eyes": 2,
+  "sourceTemplateId": "gen-excavator-cones-v2",
+  "sourceOriginalSha256": "2109d4f4aec8169302ba45bac1592ddf7b9d9240e33fdc91f5ad9b74eb7962a6",
+  "approval": {
+    "kind": "author-technical",
+    "reviewer": "Codex asset author",
+    "recordedAt": "2026-10-07T17:12:08.398Z",
+    "contentHash": "134c09f56d7015dcefd85e34321faf405f311a4bdc9b5af80023cdd7628e51d4",
+    "basis": "User-directed storybook revision. Source-derived curved masks and authored grouping; human visual acceptance remains pending."
+  },
+  "errors": [],
+  "status": "pending technical and human visual verification"
+}

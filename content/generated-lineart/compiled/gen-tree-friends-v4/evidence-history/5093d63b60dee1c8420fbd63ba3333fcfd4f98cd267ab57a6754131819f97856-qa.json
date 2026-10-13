@@ -1,0 +1,609 @@
+{
+  "pass": true,
+  "templateId": "gen-tree-friends-v4",
+  "approved": false,
+  "approvalRequired": true,
+  "originalSha256": "37736bbc37ce78f37849322dc5325e938e5f3403beca76e74e24765617a423a0",
+  "compilerVersion": 2,
+  "templateSha256": "ccd9e6a6f2e101e2688173b8a685eac0496611c4869a9c602a1b9505b7457585",
+  "normalizedSha256": "936eb1e4d2232b09ba4628ad8dc5ac1a61f57714bcaf7a53ba237fa6e2536e58",
+  "originalSize": [
+    1122,
+    1402
+  ],
+  "analysisSize": [
+    1600,
+    2000
+  ],
+  "normalization": {
+    "method": "contain-whole-page-on-white",
+    "scale": 1.1978609625668448,
+    "offset": [
+      128,
+      160
+    ],
+    "imageSize": [
+      1344,
+      1679
+    ],
+    "canvasSize": [
+      1600,
+      2000
+    ],
+    "safeMargin": 128,
+    "cropped": false,
+    "contoursRedrawn": false
+  },
+  "regionCount": 29,
+  "detectedRegionCount": 37,
+  "countPolicy": "advisory",
+  "countWithinExpectedRange": false,
+  "expectedRange": [
+    20,
+    25
+  ],
+  "smallRepairCandidates": 1,
+  "largeGapCandidates": 0,
+  "dilationApplied": false,
+  "unreviewedLargeGapCandidates": 0,
+  "gapCandidateDetails": [],
+  "tinyRegions": 0,
+  "blackRatio": 0.0603228125,
+  "grayRatio": 0.01694625,
+  "backgroundComponentsExcluded": 1,
+  "contourPoints": 3545,
+  "originalInkContourPoints": 19031,
+  "minimumUsableDiameter": 18.394,
+  "regions": [
+    {
+      "id": "r01",
+      "area": 201377.0,
+      "usableDiameter": 413.265,
+      "labelPoint": [
+        809.0,
+        428.0
+      ],
+      "bounds": [
+        483.0,
+        189.0,
+        631.0,
+        493.0
+      ]
+    },
+    {
+      "id": "r02",
+      "area": 111433.0,
+      "usableDiameter": 192.146,
+      "labelPoint": [
+        305.0,
+        691.0
+      ],
+      "bounds": [
+        186.0,
+        463.0,
+        465.0,
+        398.0
+      ]
+    },
+    {
+      "id": "r03",
+      "area": 119983.0,
+      "usableDiameter": 175.581,
+      "labelPoint": [
+        1041.0,
+        657.0
+      ],
+      "bounds": [
+        934.0,
+        454.0,
+        479.0,
+        426.0
+      ]
+    },
+    {
+      "id": "r04",
+      "area": 10852.0,
+      "usableDiameter": 59.119,
+      "labelPoint": [
+        431.0,
+        641.0
+      ],
+      "bounds": [
+        392.0,
+        612.0,
+        143.0,
+        112.0
+      ]
+    },
+    {
+      "id": "r06",
+      "area": 12471.0,
+      "usableDiameter": 63.15,
+      "labelPoint": [
+        1227.0,
+        654.0
+      ],
+      "bounds": [
+        1130.0,
+        614.0,
+        131.0,
+        145.0
+      ]
+    },
+    {
+      "id": "r07",
+      "area": 85856.0,
+      "usableDiameter": 131.6,
+      "labelPoint": [
+        792.0,
+        880.0
+      ],
+      "bounds": [
+        594.0,
+        659.0,
+        457.0,
+        873.0
+      ]
+    },
+    {
+      "id": "r10",
+      "area": 144472.0,
+      "usableDiameter": 184.146,
+      "labelPoint": [
+        649.0,
+        1355.0
+      ],
+      "bounds": [
+        308.0,
+        902.0,
+        469.0,
+        641.0
+      ]
+    },
+    {
+      "id": "r11",
+      "area": 16241.0,
+      "usableDiameter": 81.088,
+      "labelPoint": [
+        803.0,
+        1038.0
+      ],
+      "bounds": [
+        661.0,
+        903.0,
+        195.0,
+        245.0
+      ]
+    },
+    {
+      "id": "r12",
+      "area": 4218.0,
+      "usableDiameter": 28.363,
+      "labelPoint": [
+        1000.0,
+        1040.0
+      ],
+      "bounds": [
+        904.0,
+        975.0,
+        119.0,
+        130.0
+      ]
+    },
+    {
+      "id": "r13",
+      "area": 1346.0,
+      "usableDiameter": 32.757,
+      "labelPoint": [
+        704.0,
+        1055.0
+      ],
+      "bounds": [
+        676.0,
+        1021.0,
+        46.0,
+        51.0
+      ]
+    },
+    {
+      "id": "r14",
+      "area": 638.0,
+      "usableDiameter": 25.969,
+      "labelPoint": [
+        690.0,
+        1017.0
+      ],
+      "bounds": [
+        678.0,
+        1003.0,
+        26.0,
+        31.0
+      ]
+    },
+    {
+      "id": "r15",
+      "area": 2057.0,
+      "usableDiameter": 37.15,
+      "labelPoint": [
+        958.0,
+        1045.0
+      ],
+      "bounds": [
+        930.0,
+        1011.0,
+        53.0,
+        74.0
+      ]
+    },
+    {
+      "id": "r16",
+      "area": 2934.0,
+      "usableDiameter": 41.544,
+      "labelPoint": [
+        549.0,
+        1119.0
+      ],
+      "bounds": [
+        508.0,
+        1065.0,
+        71.0,
+        76.0
+      ]
+    },
+    {
+      "id": "r17",
+      "area": 1125.0,
+      "usableDiameter": 36.0,
+      "labelPoint": [
+        536.0,
+        1072.0
+      ],
+      "bounds": [
+        519.0,
+        1052.0,
+        36.0,
+        40.0
+      ]
+    },
+    {
+      "id": "r18",
+      "area": 1310.0,
+      "usableDiameter": 33.969,
+      "labelPoint": [
+        667.0,
+        1110.0
+      ],
+      "bounds": [
+        642.0,
+        1091.0,
+        49.0,
+        36.0
+      ]
+    },
+    {
+      "id": "r19",
+      "area": 108375.0,
+      "usableDiameter": 150.208,
+      "labelPoint": [
+        971.0,
+        1438.0
+      ],
+      "bounds": [
+        817.0,
+        1066.0,
+        447.0,
+        495.0
+      ]
+    },
+    {
+      "id": "r20",
+      "area": 3940.0,
+      "usableDiameter": 49.938,
+      "labelPoint": [
+        1205.0,
+        1132.0
+      ],
+      "bounds": [
+        1164.0,
+        1099.0,
+        68.0,
+        103.0
+      ]
+    },
+    {
+      "id": "r21",
+      "area": 3198.0,
+      "usableDiameter": 47.557,
+      "labelPoint": [
+        674.0,
+        1202.0
+      ],
+      "bounds": [
+        620.0,
+        1162.0,
+        88.0,
+        65.0
+      ]
+    },
+    {
+      "id": "r22",
+      "area": 1952.0,
+      "usableDiameter": 31.963,
+      "labelPoint": [
+        922.0,
+        1207.0
+      ],
+      "bounds": [
+        898.0,
+        1154.0,
+        58.0,
+        69.0
+      ]
+    },
+    {
+      "id": "r23",
+      "area": 722.0,
+      "usableDiameter": 27.569,
+      "labelPoint": [
+        921.0,
+        1168.0
+      ],
+      "bounds": [
+        906.0,
+        1152.0,
+        30.0,
+        32.0
+      ]
+    },
+    {
+      "id": "r24",
+      "area": 37903.0,
+      "usableDiameter": 115.451,
+      "labelPoint": [
+        737.0,
+        1674.0
+      ],
+      "bounds": [
+        672.0,
+        1230.0,
+        151.0,
+        504.0
+      ]
+    },
+    {
+      "id": "r25",
+      "area": 2330.0,
+      "usableDiameter": 34.0,
+      "labelPoint": [
+        1062.0,
+        1257.0
+      ],
+      "bounds": [
+        1035.0,
+        1201.0,
+        63.0,
+        73.0
+      ]
+    },
+    {
+      "id": "r26",
+      "area": 792.0,
+      "usableDiameter": 29.594,
+      "labelPoint": [
+        1059.0,
+        1216.0
+      ],
+      "bounds": [
+        1044.0,
+        1200.0,
+        31.0,
+        32.0
+      ]
+    },
+    {
+      "id": "r27",
+      "area": 103390.0,
+      "usableDiameter": 176.27,
+      "labelPoint": [
+        386.0,
+        1554.0
+      ],
+      "bounds": [
+        288.0,
+        1258.0,
+        380.0,
+        484.0
+      ]
+    },
+    {
+      "id": "r28",
+      "area": 401.0,
+      "usableDiameter": 18.394,
+      "labelPoint": [
+        972.0,
+        1247.0
+      ],
+      "bounds": [
+        961.0,
+        1237.0,
+        28.0,
+        20.0
+      ]
+    },
+    {
+      "id": "r29",
+      "area": 20172.0,
+      "usableDiameter": 97.482,
+      "labelPoint": [
+        253.0,
+        1456.0
+      ],
+      "bounds": [
+        189.0,
+        1290.0,
+        133.0,
+        266.0
+      ]
+    },
+    {
+      "id": "r30",
+      "area": 38952.0,
+      "usableDiameter": 139.008,
+      "labelPoint": [
+        1327.0,
+        1391.0
+      ],
+      "bounds": [
+        1255.0,
+        1311.0,
+        160.0,
+        370.0
+      ]
+    },
+    {
+      "id": "r31",
+      "area": 24648.0,
+      "usableDiameter": 94.0,
+      "labelPoint": [
+        928.0,
+        1590.0
+      ],
+      "bounds": [
+        847.0,
+        1353.0,
+        129.0,
+        377.0
+      ]
+    },
+    {
+      "id": "r32",
+      "area": 70629.0,
+      "usableDiameter": 152.189,
+      "labelPoint": [
+        1191.0,
+        1599.0
+      ],
+      "bounds": [
+        946.0,
+        1400.0,
+        322.0,
+        341.0
+      ]
+    }
+  ],
+  "tinyRegionBounds": [],
+  "tinyRegionDetails": [],
+  "materialReviewRequired": false,
+  "annotationSha256": "3edcc0552681760235985be30103321eef1da0321e4093d955083e23fd49c3af",
+  "technicalSemanticReview": {
+    "reviewer": "Codex technical source review",
+    "checks": [
+      "all-subject-parts-closed",
+      "negative-space-excluded",
+      "pupils-and-highlights-white"
+    ],
+    "unresolvedLeaks": []
+  },
+  "excludedBackgroundRegions": [
+    {
+      "name": "枝の中央の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "bounds": [
+        747.0,
+        630.0,
+        232.0,
+        239.0
+      ]
+    },
+    {
+      "name": "左の枝の間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "bounds": [
+        611.0,
+        673.0,
+        78.0,
+        90.0
+      ]
+    },
+    {
+      "name": "右の枝の間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "bounds": [
+        1013.0,
+        791.0,
+        65.0,
+        69.0
+      ]
+    },
+    {
+      "name": "犬と猫の脚の間の左背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "bounds": [
+        789.0,
+        1493.0,
+        61.0,
+        204.0
+      ]
+    },
+    {
+      "name": "犬と猫の脚の間の右背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "bounds": [
+        830.0,
+        1517.0,
+        45.0,
+        145.0
+      ]
+    },
+    {
+      "name": "犬の左脚の間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "bounds": [
+        466.0,
+        1548.0,
+        59.0,
+        146.0
+      ]
+    },
+    {
+      "name": "犬の前脚の間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "bounds": [
+        636.0,
+        1534.0,
+        33.0,
+        133.0
+      ]
+    },
+    {
+      "name": "猫の脚の間の背景",
+      "reason": "番号付き原画と比較し、主役の物体ではなく囲まれた外背景と確認。黒い輪郭はそのまま保持。",
+      "bounds": [
+        1079.0,
+        1625.0,
+        31.0,
+        46.0
+      ]
+    }
+  ],
+  "widthExceptions": [
+    {
+      "id": "r28",
+      "name": "猫の鼻",
+      "usableDiameter": 18.394,
+      "reason": "猫の鼻は意図した小さい部位。4倍拡大で対象の選択・着色・消去が可能な実証に限り例外とする。幼児の実機での容易さは未確認。",
+      "evidenceFile": "content/generated-lineart/interaction/gen-tree-friends-v4.json",
+      "evidenceSha256": "f363c3c78028f0eb067e959e9702b790c9a9c520f4102dbde72a80c9d4e643b5",
+      "evidenceSnapshot": "interaction-f363c3c78028f0eb067e959e9702b790c9a9c520f4102dbde72a80c9d4e643b5.json"
+    }
+  ],
+  "excludedLineDetails": [],
+  "visibleInkSource": "original-threshold-contours; no morphological repair or extra region stroke",
+  "errors": [],
+  "warnings": [
+    "1pxの線拡張で閉じる候補があります。解析マスクを確認してください",
+    "領域数 29 が目安 20〜25 の範囲外です",
+    "r28: 幅 18.4px。個別注釈と4×操作・塗り消去の実測証拠付き例外"
+  ],
+  "publicationNote": "原画と解析maskを別保存。素材・細部・輪郭の人間確認後に公開してください。"
+}

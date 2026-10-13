@@ -1,0 +1,40 @@
+{
+  "templateId": "gen-dinosaur-eggs-v4-storybook-v2",
+  "contentHash": "ed61b7e41fba4a604220efb8e277f9ea609940e3885d253a1a8b74627783aed8",
+  "sourceTemplateId": "gen-dinosaur-eggs-v4",
+  "sourceSha256": "eb3bc05e328700817653fa21f89f3cdcd81e83b985f7d0d9249e93e18d49d5f3",
+  "sourcePoints": 18434,
+  "cubicSegments": 1676,
+  "curveError": 0.65,
+  "sharedBoundaries": {
+    "inkBoundaries": 28,
+    "matchedRegions": 19,
+    "matches": {
+      "r01": 19,
+      "r06": 23,
+      "r07": 21,
+      "r08": 18,
+      "r09": 17,
+      "r10": 16,
+      "r11": 15,
+      "r12": 14,
+      "r13": 13,
+      "r14": 11,
+      "r15": 12,
+      "r16": 7,
+      "r17": 8,
+      "r18": 6,
+      "r19": 5,
+      "r20": 3,
+      "r21": 2,
+      "r22": 1,
+      "r23": 4
+    }
+  },
+  "regionCount": 23,
+  "groupCount": 11,
+  "eyeCount": 2,
+  "retiredRegionIds": [],
+  "status": "candidate: native, browser, independent visual and performance verification pending",
+  "pass": false
+}

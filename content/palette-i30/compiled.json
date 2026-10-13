@@ -1,0 +1,18 @@
+{
+  "tool": "built-in image_gen",
+  "humanAdoption": false,
+  "original": {
+    "file": "content/palette-i30/originals/palette-wood.png",
+    "sha256": "d7522a1fb2529ff3d4d8872531cb0da9000f5890f984c7a9b1f37c5b469459c8",
+    "width": 2172,
+    "height": 724
+  },
+  "output": {
+    "src": "/images/ui-art-v1/palette-wood-b4fffc5e4b8f94a0.webp",
+    "sha256": "b4fffc5e4b8f94a0e83e1f19b8db78c36fc5d064cd9058788285b0f669ec70c6",
+    "width": 1200,
+    "height": 400,
+    "bytes": 503766
+  },
+  "derivation": "Resize only, lossless WebP. No crop, recolor, frame, or new illustration."
+}

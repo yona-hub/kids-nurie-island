@@ -1,0 +1,38 @@
+{
+  "instruction": "I25",
+  "recordedAt": "2026-10-10T08:31:37.366Z",
+  "files": [
+    {
+      "file": "packages/content-schema/src/index.ts",
+      "sha256": "d74de7adf491588aa6a4ad060804fc43bd44ea88a21b0f983601c0fb7e3f19fe"
+    },
+    {
+      "file": "packages/shared-types/src/index.ts",
+      "sha256": "2c8437c03937f8cb8650a3375980acc5137d74e6cb28ce68f7aeaae8f5344991"
+    },
+    {
+      "file": "apps/web/src/pages/Editor.tsx",
+      "sha256": "6a0312c08a58b129af59a3d8d4aa326b0924098d3d1fa2e9e9b4138932de3e05"
+    },
+    {
+      "file": "apps/web/src/pages/Home.tsx",
+      "sha256": "1bd6b127f1f284ab1ca99ddd727d50b64d1a5f91d0b128b8effde50adebe2923"
+    },
+    {
+      "file": "apps/web/src/pages/Gallery.tsx",
+      "sha256": "45bfcc8d6046b0027f29dcbffd9df8ea309f02980dcf37034faf2b8a30493db5"
+    },
+    {
+      "file": "apps/web/src/components/Brand.tsx",
+      "sha256": "46353325f66068851bc036c13ad89982bd67ef924d09f5871feea3931c5fa0a1"
+    },
+    {
+      "file": "apps/web/src/styles-editor.css",
+      "sha256": "0a0b39c69d2be71451a162d20dce7d81937135906ff411f72ccf66e01a7fa42c"
+    },
+    {
+      "file": "docs/storybook-improvement.md",
+      "sha256": "b56e283e5736f39196fa449c83ef403e18d8ba471a230c0f39e29f7b9f211508"
+    }
+  ]
+}

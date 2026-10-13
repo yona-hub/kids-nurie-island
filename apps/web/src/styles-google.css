@@ -1,0 +1,51 @@
+/* Google Identity light button. Sources and asset hashes: docs/google-signin-branding.md. */
+@font-face {
+  font-family: "Google Sans Signin";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/images/google-signin/google-sans-google-500.ttf") format("truetype");
+  unicode-range: U+0047, U+0065, U+0067, U+006C, U+006F;
+}
+.google-signin-button.login-button {
+  position: relative;
+  overflow: hidden;
+  max-width: 400px;
+  padding: 0 12px;
+  border: 1px solid #747775;
+  border-radius: 27px;
+  background: #fff;
+  color: #1f1f1f;
+  font-family: "Google Sans Signin", "Yu Gothic UI", "Meiryo", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  opacity: 1;
+}
+.google-signin-content {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.google-signin-content img {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+.google-signin-state {
+  position: absolute;
+  inset: 0;
+  background: #303030;
+  opacity: 0;
+  pointer-events: none;
+}
+.google-signin-button:not(:disabled):hover {
+  box-shadow: 0 1px 2px 0 #3c40434d, 0 1px 3px 1px #3c404326;
+}
+.google-signin-button:not(:disabled):hover .google-signin-state { opacity: 0.08; }
+.google-signin-button:not(:disabled):active .google-signin-state,
+.google-signin-button:not(:disabled):focus .google-signin-state { opacity: 0.12; }
+.google-signin-button:disabled .google-signin-content { opacity: 0.38; }
